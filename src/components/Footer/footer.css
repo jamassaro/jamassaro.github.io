@@ -1,0 +1,32 @@
+.footer-container {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    /* padding: 40px; */
+    border-top: 1px solid white;
+    font-family: JetBrains Mono;
+    font-weight: bold !important;
+}
+
+.social-wrapper {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+}
+.social-wrapper p {
+    text-decoration: none;
+    color: #ffff;
+}
+
+@media screen and (min-width: 768px) {
+    .footer-container {
+        height: 100px;
+        flex-direction: row;
+        padding: 40px;
+        justify-content: space-around;
+    }
+  }

@@ -1,0 +1,37 @@
+
+.main-section-container {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.main-section-container h1 {
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+}
+
+.main-section-container p {
+  
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: JetBrains Mono;
+    font-size: 20px;
+    line-height: 1.3em;
+    letter-spacing: 1.6px;
+    
+}
+
+@media screen and (min-width: 768px) {
+    .main-section-container  {
+        height: 1000px;
+    }
+    .main-section-container h1 {
+        font-size: 120px;
+    }
+  }
