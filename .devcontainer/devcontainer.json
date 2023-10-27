@@ -1,0 +1,7 @@
+{
+	"name": "Portfolio",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+  "remoteUser": "node"
+}
