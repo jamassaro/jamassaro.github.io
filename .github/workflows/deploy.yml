@@ -1,4 +1,4 @@
-name: github actions hello world
+name: Deploy to Github Pages
 
 on:
   push:
@@ -10,6 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/hello-world-javascript-action@main
+    - uses: actions/checkout@v3
+    - name: Use Node.js 18
+      uses: actions/setup-node@v3
       with:
-        who-to-greet: 'Mona the Octocat'
+        node-version: 18
+        cache: yarn
+    - run: yarn install --frozen-lockfile
+    - run: yarn build
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist
