@@ -12,6 +12,7 @@
     gap: 32px;
     margin-top: 64px;
     flex-wrap: wrap;
+    cursor: pointer;
 }
 
 .mywork-card {

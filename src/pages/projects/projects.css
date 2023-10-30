@@ -1,0 +1,25 @@
+.project-page-container {
+    height: 1000px;
+    width: fit-content;
+    display: flex;
+    gap: 32px;
+    flex-direction: column;
+}
+
+.project-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.project-information-container {
+   display: flex;
+   flex-direction: column;
+   gap: 16px;
+  
+}
+
+.description-container {
+    padding: 10px;
+    border: 1px solid white;
+}
