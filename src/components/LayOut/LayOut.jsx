@@ -6,7 +6,7 @@ const LayOut = ({ children }) => {
   return (
     <div>
       <Navbar/>
-      <div style={{ height: 'min-content', marginLeft: 20, marginRight: 20 }}>
+      <div>
         { children }
       </div>
       <Footer/>
