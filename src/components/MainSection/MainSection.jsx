@@ -5,7 +5,7 @@ const MainSection = () => {
   return (
     <div className='main-section-container'>
       <h1>JOSE MASSARO</h1>
-      <p>SOFTWARE ENGINEER,  FRONT END & APP DEVELOPER</p>
+      <p>SOFTWARE DEVELOPER</p>
       </div>
   )
 }
