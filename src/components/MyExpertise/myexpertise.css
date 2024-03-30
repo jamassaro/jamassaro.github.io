@@ -25,6 +25,24 @@
     padding: 40px 30px;
 }
 
+.expertise-card h3 {
+    text-align: center;
+}
+
+.expertise-card p {
+    line-height: 1.5rem;
+}
+
+.tech-stack-container {
+    display: flex;
+    gap: 8px;
+    justify-content: space-around;
+    width: 100%;
+}
+
+ p{
+    margin: 0;
+ }
 @media screen and (min-width: 768px) {
     .expertise-container {
         height: 800px;

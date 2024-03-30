@@ -4,19 +4,18 @@
     height: 700px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    margin-top: 100px;
+   
 }
 
 
 .main-section-container h1 {
     text-align: center;
-    font-size: 40px;
+    font-size: 20px;
     margin: 0;
 }
 
 .main-section-container p {
-  
     margin: 0;
     padding: 10px;
     text-align: center;
@@ -27,11 +26,13 @@
     
 }
 
+
+
 @media screen and (min-width: 768px) {
     .main-section-container  {
-        height: 1000px;
+        height: 500px;
     }
     .main-section-container h1 {
-        font-size: 120px;
+        font-size: 80px;
     }
   }
