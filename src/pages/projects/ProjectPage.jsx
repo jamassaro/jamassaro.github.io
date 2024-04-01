@@ -8,6 +8,8 @@ const ProjectPage = () => {
   const location = useLocation()
   const { data } = location.state
 
+  console.log('data', data)
+
   return (
         <div className='project-page-container'>
           <div className='project-title'>
@@ -24,18 +26,11 @@ const ProjectPage = () => {
           </div>
           </div>
           <div className='project-image-container'>
-            <div className='project-image'>
-              <h3>Photos</h3>
-            </div>
-            <div className='project-image'>
-              <h3>Photos</h3>
-            </div>
-            <div className='project-image'>
-              <h3>Photos</h3>
-            </div>
-            <div className='project-image'>
-              <h3>Photos</h3>
-            </div>
+            {data.images.map((image, idx) => (
+              <div key={idx}  className='project-image'>
+                <img src={image} alt='no image'/>
+              </div>
+            ))}
           </div>
         </div>
   )

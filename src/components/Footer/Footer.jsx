@@ -1,4 +1,5 @@
 import React from 'react'
+import Resume from '../../assets/PDF/resume.pdf'
 import './footer.css'
 
 const Footer = () => {
@@ -11,8 +12,8 @@ const Footer = () => {
         </div>
         <div className='social-wrapper'>
         <a href='https://www.linkedin.com/in/jose-antonio-massaro-mayorga-716a2736/' target='_blank'> <p>LinkedIn</p></a>
-        <a href='https://github.com/jamassaro' target='_blank'> <p>GitHub</p></a>
-        <a href='https://github.com/jamassaro' target='_blank'> <p>Resume</p></a>
+        <a href='https://github.com/jamassaro' target='_blank'><p>GitHub</p></a>
+        <a href={Resume} target='_blank'> <p>Resume</p></a>
         </div>
     </div>
   )

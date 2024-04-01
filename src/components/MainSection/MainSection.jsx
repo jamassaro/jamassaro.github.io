@@ -1,12 +1,13 @@
 import React from 'react'
 import './main-section.css'
+import Resume from '../../assets/PDF/resume.pdf'
 
 const MainSection = () => {
   return (
     <div className='main-section-container'>
       <h1>JOSE A MASSARO.</h1>
       <p>SOFTWARE DEVELOPER</p>
-      <p style={ {marginTop: 50 }}>
+      <p style={{ marginTop: 50, letterSpacing: 1, paddingLeft: 100, paddingRight: 100 }}>
         Proactive software developer and a business manager with a 
         proven record in technology strategy, frontend development, 
         and team management, with years of experience in 
@@ -16,7 +17,7 @@ const MainSection = () => {
       <div className='social-information'>
         <a href='https://www.linkedin.com/in/jose-antonio-massaro-mayorga-716a2736/' target='_blank'> <p>LinkedIn</p></a>
         <a href='https://github.com/jamassaro' target='_blank'> <p>GitHub</p></a>
-        <a href='https://github.com/jamassaro' target='_blank'> <p>Resume</p></a>
+        <a href={Resume} target='_blank'> <p>Resume</p></a>
         </div>
     </div>
   )

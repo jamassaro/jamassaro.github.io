@@ -1,6 +1,9 @@
 import BupImage from '../assets/Logoblanco.png'
 import Website from '../assets/website.png'
-
+import Home from '../assets/images/braveup-app/home.png'
+import Resources from '../assets/images/braveup-app/resources.png'
+import ModoBupInbox from '../assets/images/braveup-app/modo-bup-inbox.png'
+import ModoBupChatBox from  '../assets/images/braveup-app/modo-bup-chat-box.png'
 
 
 export const myWorkData = [
@@ -12,7 +15,7 @@ export const myWorkData = [
         navigation: 'braveup-app',
         name: 'BRAVE UP!',
         description: 'Web application designed to assist schools in predicting and preventing instances of bullying and cyberbullying.',
-        images: 'chao mundo',
+        images: [Home, Resources, ModoBupInbox, ModoBupChatBox],
         stack: 'hola mundo',
         url: 'app.braveup.co'
       }
@@ -25,7 +28,7 @@ export const myWorkData = [
         navigation: 'braveup-website',
         name: 'BRAVE UP! website',
         description: '',
-        images: 'chao mundo',
+        images: [''],
         stack: 'hola mundo',
         url: 'www.braveup.co'
       }
@@ -35,10 +38,10 @@ export const myWorkData = [
       cover: Website,
       color: '',
       project: {
-        navigation: 'braveup-website',
+        navigation: 'website',
         name: 'Website for an independant lawyer',
         description: '',
-        images: 'chao mundo',
+        images: [''],
         stack: 'hola mundo',
         url: 'https://jamassaro.github.io/monicawebsite/'
       }

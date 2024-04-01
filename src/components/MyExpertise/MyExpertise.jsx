@@ -7,9 +7,8 @@ const MyExpertise = () => {
         <h1>My Expertise</h1>
         <div className='expertise-wrapper'>
             <div className='expertise-card'>
-                <h3>This page use the following technology:</h3>
                 <p>
-                react
+                This website is developed using React.js, CSS, and Vite. React.js ensures smooth user interaction, while CSS enhances visual appeal. Vite enables rapid development and integration of features, resulting in a dynamic and responsive platform tailored to user needs.
                 </p>
             </div>
             <div className='expertise-card'>

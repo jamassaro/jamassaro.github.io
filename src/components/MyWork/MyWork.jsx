@@ -4,13 +4,24 @@ import './mywork.css'
 import { useNavigate } from 'react-router-dom'
 import { myWorkData } from '../../data'
 
+
+
 const MyWork = () => {
     const navigate = useNavigate()
+    
+    const scrollToTop = () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    };
+
     const handleNavigate = (info) => {
         navigate(
           `/projects/${info.navigation}`,
           { state: { data: info } }
           )
+        scrollToTop();
     }
   
 return (
