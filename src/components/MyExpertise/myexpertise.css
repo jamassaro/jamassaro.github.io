@@ -1,10 +1,11 @@
 .expertise-container {
     display: flex;
-    /* width: 100%; */
+    width: 100%;
     gap: 64px;
     flex-direction: column;
     align-items: center;
-    height: fit-content;
+    justify-content: center;
+
 }
 
 .expertise-container h1 {

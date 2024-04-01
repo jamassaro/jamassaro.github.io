@@ -17,8 +17,15 @@ function App() {
               } 
             exact
           />
-          <Route path='/projects/:name' element={<LayOut><ProjectPage/></LayOut>} exact/>
- 
+          <Route 
+            path='/projects/:name' 
+            element={
+              <LayOut>
+                <ProjectPage/>
+              </LayOut>
+            } 
+            exact
+          />
       </Routes>
     </Router> 
   )

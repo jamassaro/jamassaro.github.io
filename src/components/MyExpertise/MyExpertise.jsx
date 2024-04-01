@@ -3,17 +3,13 @@ import './myexpertise.css'
 
 const MyExpertise = () => {
   return (
-    <div className='expertise-container'>
+    <div id='my-expertise' className='expertise-container'>
         <h1>My Expertise</h1>
         <div className='expertise-wrapper'>
             <div className='expertise-card'>
-                <h3>About me</h3>
+                <h3>This page use the following technology:</h3>
                 <p>
-                  Proactive software developer and a business manager with a 
-                  proven record in technology strategy, frontend development, 
-                  and team management, with years of experience in 
-                  profit and non-profit organizations, and recently with a focus on 
-                  Edtech solutions and multi-discippnary teams.
+                react
                 </p>
             </div>
             <div className='expertise-card'>

@@ -1,37 +1,41 @@
 import React from 'react'
 import './projects.css'
+import { useLocation } from 'react-router-dom'
 
 
 const ProjectPage = () => {
-  const projectName = 'BRAVE UP!'
+
+  const location = useLocation()
+  const { data } = location.state
+
   return (
         <div className='project-page-container'>
           <div className='project-title'>
-            <h1>Project Name:</h1>
-            <h2>{projectName}</h2>
+            <h2>{data.name}</h2>
           </div>
           <div className='project-information-container'>
           <div className='description-container'>
             <h3>Description:</h3>
-            <p>The standard chunk of Lorem Ipsum used since 
-                the 1500s is reproduced below for those interested. 
-                Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum"
-                  by Cicero are also reproduced in their exact original form, accompanied by 
-                  English versions from the 1914 translation by H. Rackham.
-            </p>
+            <p>{data.description}</p>
           </div>
           <div className='description-container'>
             <h3>Stack Used</h3>
-            <p>The standard chunk of Lorem Ipsum used since 
-                the 1500s is reproduced below for those interested. 
-                Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum"
-                  by Cicero are also reproduced in their exact original form, accompanied by 
-                  English versions from the 1914 translation by H. Rackham.
-            </p>
+            <p>{data.stack}</p>
           </div>
           </div>
-          <div>
-            <h3>Photos</h3>
+          <div className='project-image-container'>
+            <div className='project-image'>
+              <h3>Photos</h3>
+            </div>
+            <div className='project-image'>
+              <h3>Photos</h3>
+            </div>
+            <div className='project-image'>
+              <h3>Photos</h3>
+            </div>
+            <div className='project-image'>
+              <h3>Photos</h3>
+            </div>
           </div>
         </div>
   )
