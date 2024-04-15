@@ -16,7 +16,7 @@ export const myWorkData = [
         name: 'BRAVE UP!',
         description: 'Web application designed to assist schools in predicting and preventing instances of bullying and cyberbullying.',
         images: [Home, Resources, ModoBupInbox, ModoBupChatBox],
-        stack: 'hola mundo',
+        stack: ['React', 'Vite', 'React-router-v5', 'AntDesign', 'Firebase', 'Intercom', 'MixPanel', 'Vitest', 'React-Testing-Library'],
         url: 'app.braveup.co'
       }
     },

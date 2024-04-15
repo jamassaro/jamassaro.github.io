@@ -8,7 +8,6 @@ import { myWorkData } from '../../data'
 
 const MyWork = () => {
     const navigate = useNavigate()
-    
     const scrollToTop = () => {
       window.scrollTo({
         top: 0,

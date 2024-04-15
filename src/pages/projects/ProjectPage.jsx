@@ -8,8 +8,6 @@ const ProjectPage = () => {
   const location = useLocation()
   const { data } = location.state
 
-  console.log('data', data)
-
   return (
         <div className='project-page-container'>
           <div className='project-title'>
@@ -19,10 +17,15 @@ const ProjectPage = () => {
           <div className='description-container'>
             <h3>Description:</h3>
             <p>{data.description}</p>
+            <p style={{textAlign: 'center', marginTop: 20}}>{data.url}</p>
           </div>
           <div className='description-container'>
             <h3>Stack Used</h3>
-            <p>{data.stack}</p>
+            <ul className='description-list'>
+            {data.stack.map((stack) => (
+              <li key={stack}>{stack}</li>
+            ))}
+            </ul>
           </div>
           </div>
           <div className='project-image-container'>
