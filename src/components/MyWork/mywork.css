@@ -6,13 +6,15 @@
 }
 
 .mywork-container h1 {
-    font-size: 40px;
+    font-size: 30px;
+    margin-top: 50px;
 }
 
 .mywork-wrapper-cards {
     display: flex;
+    justify-content: center;
     gap: 32px;
-    margin-top: 64px;
+    margin-top: 20px;
     flex-wrap: wrap;
     cursor: pointer;
 }
@@ -49,6 +51,11 @@
     .mywork-card {
         width: 250px;
         
+    }
+    .mywork-container h1 {
+        font-size: 40px;
+        margin-top: 0;
+        margin-bottom: 20px;
     }
 }
 

@@ -6,8 +6,8 @@ const MainSection = () => {
   return (
     <div className='main-section-container'>
       <h1>JOSE A MASSARO.</h1>
-      <p>SOFTWARE DEVELOPER</p>
-      <p style={{ marginTop: 50, letterSpacing: 1, paddingLeft: 100, paddingRight: 100 }}>
+      <p className='role-information'>SOFTWARE DEVELOPER</p>
+      <p className='main-section-description'>
         Proactive software developer and a business manager with a 
         proven record in technology strategy, frontend development, 
         and team management, with years of experience in 
