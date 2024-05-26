@@ -1,25 +1,19 @@
 .project-page-container {
-    height: fit-content;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 30px;
-    /* margin-left: 10px;
-    margin-right: 10px; */
-    gap: 32px;
-    flex-direction: column;
+    padding: 20px;
+    height:fit-content;
+   
 }
 
 .project-title {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    text-align: center;
+ 
 }
 
 .project-information-container {
    display: flex;
+   flex-direction: column;
    gap: 16px;
-   margin: 0 160px;
+
 
    
   
@@ -28,19 +22,18 @@
 .description-container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     padding: 10px;
     border: 1px solid white;
-    width: 50%;
-    padding: 40px;
-    height: 200px;
-
+    height: 250px;
+  
    
 }
 
 .description-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 16px
+    gap: 8px
 }
 
 .description-container h3 {
@@ -52,21 +45,37 @@
 }
 
 .project-image-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 16px;
-}
-
-.project-image {
-    width: 600px;
-    /* height: 400px; */
-    
-    
+    margin-top: 20px;
 }
 
 .project-image img {
     width: 100%;
-    /* height: 300px; */
-    border: 1px solid #16202A;
+    height: 250px;
+    border: 1px solid #16202A; 
+}
+
+@media screen and (min-width: 768px) {
+    
+   .project-information-container {
+       flex-direction: row;
+       margin-left: 300px;
+       margin-right: 300px;
+   }
+
+   .description-container {
+       width: 600px;
+   }
+   .project-image-container {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   }
+
+    .project-image img {
+        width: 600px;
+        height: 400px;
+    }
+
 }

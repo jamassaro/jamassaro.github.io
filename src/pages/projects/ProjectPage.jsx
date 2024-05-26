@@ -15,9 +15,9 @@ const ProjectPage = () => {
           </div>
           <div className='project-information-container'>
           <div className='description-container'>
-            <h3>Description:</h3>
+            <h3>Description</h3>
             <p>{data.description}</p>
-            <p style={{textAlign: 'center', marginTop: 20}}>{data.url}</p>
+            <p style={{textAlign: 'center', marginTop: '10px'}}>{data.url}</p>
           </div>
           <div className='description-container'>
             <h3>Stack Used</h3>
@@ -28,13 +28,13 @@ const ProjectPage = () => {
             </ul>
           </div>
           </div>
-          <div className='project-image-container'>
+          {<div className='project-image-container'>
             {data.images.map((image, idx) => (
               <div key={idx}  className='project-image'>
                 <img src={image} alt='no image'/>
               </div>
             ))}
-          </div>
+          </div>}
         </div>
   )
 }
