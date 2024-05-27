@@ -9,9 +9,16 @@
     background-color: #16202A;
     padding: 10px;
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     
   
+}
+
+.navbar-wrapper-mobile {
+    display: flex;
+    justify-content: space-between;
+   
 }
 
 .logo-wrapper {

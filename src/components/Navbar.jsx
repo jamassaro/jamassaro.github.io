@@ -1,11 +1,13 @@
 import React from 'react'
 import './navbar.css'
 import { Link, useNavigate } from 'react-router-dom'
+import { useState } from 'react'
+import ResponsiveNavBar from './responsiveNavBar/responsiveNavBar'
 
 const Navbar = () => {
   const navigate = useNavigate()
 
- 
+ const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const scrollToSection = (tag) => {
     const section = document.getElementById(tag);
@@ -16,17 +18,28 @@ const Navbar = () => {
   const handleNavigation = (tag) => {
     navigate('/')
     scrollToSection(tag)
+    setIsMenuOpen(false)
   }
 
   return (
     <>
     <div className='navbar-container-mobile'>
+    <div className='navbar-wrapper-mobile'>
     <Link to='/'><h1>My Portfolio</h1></Link>
-    <div className='hamburger-menu'>
+    <div onClick={() => setIsMenuOpen(true)} className='hamburger-menu'>
       <span></span>
       <span></span>
       <span></span>
     </div>
+    </div>
+    {isMenuOpen &&
+    
+        <ResponsiveNavBar 
+          setIsMenuOpen={setIsMenuOpen} 
+          handleNavigation={handleNavigation} 
+        />
+     
+    }
     </div>
     <div className='nav-container'>
       <div className='logo-wrapper'>

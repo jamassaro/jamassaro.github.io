@@ -1,0 +1,23 @@
+
+
+
+.responsive-info-navbar-container {
+    /* display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    width: 100%; */
+    border-radius: 10px;
+    background-color: black;
+    width: 95%;
+}
+
+.responsive-info-navbar-close {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 10px 0 0;
+    cursor: pointer
+}
+
+.responsive-info-links {
+   padding: 0 20px
+}
