@@ -8,11 +8,7 @@ const MainSection = () => {
       <h1>JOSE A MASSARO.</h1>
       <p className='role-information'>SOFTWARE DEVELOPER</p>
       <p className='main-section-description'>
-        Proactive software developer and a business manager with a 
-        proven record in technology strategy, frontend development, 
-        and team management, with years of experience in 
-        profit and non-profit organizations, and recently with a focus on 
-        Edtech solutions and multi-discippnary teams.
+      Proactive software developer and business manager with a proven record in technology strategy, frontend development, and team management. I have years of experience in both profit and non-profit organizations, recently focusing on Edtech solutions and multi-disciplinary teams.
       </p>
       <div className='social-information'>
         <a href='https://www.linkedin.com/in/jose-antonio-massaro-mayorga-716a2736/' target='_blank'> <p>LinkedIn</p></a>

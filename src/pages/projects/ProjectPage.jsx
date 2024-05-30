@@ -16,8 +16,8 @@ const ProjectPage = () => {
           <div className='project-information-container'>
           <div className='description-container'>
             <h3>Description</h3>
-            <p>{data.description}</p>
-            <p style={{textAlign: 'center', marginTop: '10px'}}>{data.url}</p>
+              <p className='description-text'>{data.description}</p>
+              <p style={{textAlign: 'center', marginTop: '10px'}}>{data.url}</p>
           </div>
           <div className='description-container'>
             <h3>Stack Used</h3>

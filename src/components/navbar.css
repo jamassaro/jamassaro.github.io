@@ -1,5 +1,9 @@
 .nav-container {
     display: none;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: #16202A;
 }
 
 .navbar-container-mobile {

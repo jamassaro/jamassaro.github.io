@@ -13,7 +13,7 @@ const Navbar = () => {
     const section = document.getElementById(tag);
     if (section) {
       section.scrollIntoView({ behavior: 'smooth' });
-    }  
+    } 
   }
   const handleNavigation = (tag) => {
     navigate('/')
@@ -43,13 +43,13 @@ const Navbar = () => {
     </div>
     <div className='nav-container'>
       <div className='logo-wrapper'>
-        <h3 className='name-logo'>JoseMassaro._</h3>
+      <Link to='/'><h3 className='name-logo'>My Portfolio</h3></Link>
       </div>
       <div className='navigation-wrapper'>
         <Link to='/'>home</Link>
         <h5 onClick={() => handleNavigation('my-expertise')}>expertise</h5>
         <h5 onClick={() => handleNavigation('my-work')}>work</h5>
-        <h5 onClick={() => handleNavigation('/contact')}>contact</h5>
+        <h5 onClick={() => handleNavigation('contact')}>contact</h5>
       </div>
     </div>
     </>
