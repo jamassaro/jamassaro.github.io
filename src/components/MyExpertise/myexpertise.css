@@ -44,9 +44,11 @@
     width: 100%;
 }
 
- p{
+ p {
     margin: 0;
  }
+
+ 
 @media screen and (min-width: 768px) {
     .expertise-container {
         height: 800px;

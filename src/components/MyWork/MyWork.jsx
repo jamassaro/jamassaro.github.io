@@ -3,10 +3,12 @@ import './mywork.css'
 
 import { useNavigate } from 'react-router-dom'
 import { myWorkData } from '../../data'
+import { useTranslation } from 'react-i18next'
 
 
 
 const MyWork = () => {
+    const [t] = useTranslation()
     const navigate = useNavigate()
     const scrollToTop = () => {
       window.scrollTo({
@@ -25,14 +27,20 @@ const MyWork = () => {
   
 return (
   <div id='my-work' className='mywork-container'>
-    <h1>My Work</h1>
+    <h1>{t('my-work.title')}</h1>
       <div className='mywork-wrapper-cards'>
       {myWorkData.map((data, idx) => (
         <div 
           key={idx} 
           className='mywork-card' 
-          onClick={() => handleNavigate(data.project)}>
-            <img className='mywork-image' style={{backgroundColor: `${data.color}`}} src={data.cover} alt='my work image'/>
+          onClick={() => handleNavigate(data.project)}
+        >
+            <img 
+              className='mywork-image' 
+              style={{backgroundColor: `${data.color}`}} 
+              src={data.cover} 
+              alt='my work image'
+            />
             <div className='mywork-card-info'>
               <h2>{data.title}</h2>
             </div>

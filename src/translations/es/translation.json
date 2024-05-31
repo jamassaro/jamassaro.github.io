@@ -1,16 +1,45 @@
 {
-    "navigation": {
-      "logo": "Portafolio",
-      "home": "home",
-      "expertise": "conocimientos",
-      "work": "trabajos",
-      "contact": "contacto",
-      "english": "ingles",
-      "spanish": "español"
+  "navigation": {
+    "logo": "Portafolio",
+    "home": "home",
+    "expertise": "conocimientos",
+    "work": "trabajos",
+    "contact": "contacto",
+    "english": "ingles",
+    "spanish": "español"
+  },
+  "footer": {
+    "contact": "Información de Contacto",
+    "resume": "Curriculum"
+  },
+  "main-section": {
+    "role": "DESARROLLADOR DE SOFTWARE",
+    "description": "Desarrollador de software proactivo y gerente de negocios con una sólida trayectoria en estrategia tecnológica, desarrollo frontend y gestión de equipos. Cuento con años de experiencia tanto en organizaciones con fines de lucro como en organizaciones sin fines de lucro. Recientemente, me he especializado en soluciones Edtech y en colaborar con equipos multidisciplinarios.",
+    "resume": "Curriculum"
+  },
+  "my-expertise": {
+    "title": "Mis Conocimientos",
+    "description": "Este sitio web está desarrollado con React.js, CSS y Vite. React.js garantiza una interacción fluida con el usuario, mientras que CSS mejora la estética visual. Vite facilita un desarrollo rápido e integración de funcionalidades, creando una plataforma dinámica y responsiva, adaptada a las necesidades de los usuarios.",
+    "tech-stack": "Tecnologia",
+    "tech-stack-subtitle": "Frontend",
+    "tech-stack-subtitle2": "Backend",
+    "tech-stack-subtitle3": "Testeo",
+    "tech-stack-subtitle4": "Otros",
+    "current-learning": "Aprendizaje",
+    "current-learning-description": "Comencé mi trayectoria en la industria tecnológica en el ámbito del desarrollo Frontend. Actualmente, estoy en proceso de transición hacia el desarrollo FullStack.",
+    "learning-process": "En proceso de aprendizaje"
+},
+"my-work": {
+  "title": "Mis trabajos",
+  "my-work-page": {
+    "description": "Descripción",
+    "stack": "Technologias utilizadas",
+    "project-1": {
+      "braveup-app-description": "Aplicación web diseñada para ayudar a las escuelas a predecir y prevenir casos de acoso escolar y ciberacoso."
     },
-    "main-section": {
-      "role": "DESARROLLADOR DE SOFTWARE",
-      "description": "Desarrollador de software proactivo y gerente de negocios con una sólida trayectoria en estrategia tecnológica, desarrollo frontend y gestión de equipos. Cuento con años de experiencia tanto en organizaciones con fines de lucro como en organizaciones sin fines de lucro. Recientemente, me he especializado en soluciones Edtech y en colaborar con equipos multidisciplinarios.",
-      "resume": "Curriculum"
+    "project-2": {
+      "braveup-website-description": "Sitio web para BRAVE UP!, una startup edTech que trabaja con escuelas K-12. El propósito de este sitio web es mostrar la funcionalidad de la plataforma y actuar como el principal punto de contacto para los clientes."
     }
+  }
+}
 }

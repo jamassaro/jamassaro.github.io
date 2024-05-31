@@ -1,16 +1,45 @@
 {
-    "navigation": {
-        "logo": "Portfolio",
-        "home": "home",
-        "expertise": "expertise",
-        "work": "work",
-        "contact": "contact",
-        "english": "english",
-        "spanish": "spanish"
-    },
-    "main-section": {
-        "role": "SOFTWARE DEVELOPER",
-        "description": "Proactive software developer and business manager with a proven record in technology strategy, frontend development, and team management. I have years of experience in both profit and non-profit organizations, recently focusing on Edtech solutions and multi-disciplinary teams.",
-        "resume": "Resume"
+  "navigation": {
+      "logo": "Portfolio",
+      "home": "home",
+      "expertise": "expertise",
+      "work": "work",
+      "contact": "contact",
+      "english": "english",
+      "spanish": "spanish"
+  },
+  "footer": {
+    "contact": "Contact Information",
+    "resume": "Resume"
+  },
+  "main-section": {
+      "role": "SOFTWARE DEVELOPER",
+      "description": "Proactive software developer and business manager with a proven record in technology strategy, frontend development, and team management. I have years of experience in both profit and non-profit organizations, recently focusing on Edtech solutions and multi-disciplinary teams.",
+      "resume": "Resume"
+  },
+  "my-expertise": {
+      "title": "My Expertise",
+      "description": " This website is developed using React.js, CSS, and Vite. React.js ensures smooth user interaction, while CSS enhances visual appeal. Vite enables rapid development and integration of features, resulting in a dynamic and responsive platform tailored to user needs.",
+      "tech-stack": "Tech Stack",
+      "tech-stack-subtitle": "Frontend",
+      "tech-stack-subtitle2": "Backend",
+      "tech-stack-subtitle3": "Testing",
+      "tech-stack-subtitle4": "Other",
+      "current-learning": "Current Learning",
+      "current-learning-description": "I began my journey in the tech industry within the realm of Frontend development. Currently, I am in the process of transitioning towards FullStack development.",
+      "learning-process": "Learning in Process"
+  },
+  "my-work": {
+    "title": "My work",
+    "my-work-page": {
+      "description": "Description",
+      "stack": "Tech Stack",
+      "project-1": {
+        "braveup-app-description": "Web application designed to assist schools in predicting and preventing instances of bullying and cyberbullying."
+      },
+      "project-2": {
+        "braveup-website-description": "Website for BRAVE UP! an edTech startup that works with k-12 schools. The purpose of this website is to showcase the functionality of the platform and act as the main point of contact for clients."
+      }
     }
+}
 }

@@ -19,7 +19,7 @@ export const myWorkData = [
       project: {
         navigation: 'braveup-app',
         name: 'BRAVE UP!',
-        description: 'Web application designed to assist schools in predicting and preventing instances of bullying and cyberbullying.',
+        description: 'my-work.my-work-page.project-1.braveup-app-description',
         images: [Home, Resources, ModoBupInbox, ModoBupChatBox],
         stack: ['React', 'Vite', 'React-router-v5', 'AntDesign', 'Firebase', 'Intercom', 'MixPanel', 'Vitest', 'React-Testing-Library', 'D3'],
         url: 'app.braveup.co'
@@ -32,7 +32,7 @@ export const myWorkData = [
       project: {
         navigation: 'braveup-website',
         name: 'BRAVE UP! website',
-        description: 'Website for BRAVE UP! an edTech startup that works with k-12 schools. The purpose of this website is to showcase the functionality of the platform and act as the main point of contact for clients.',
+        description: 'my-work.my-work-page.project-2.braveup-website-description',
         images: [WebHome,
           Function,
           Testimonials,

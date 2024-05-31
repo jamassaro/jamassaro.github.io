@@ -1,60 +1,55 @@
 import React from 'react'
 import './myexpertise.css'
+import { useTranslation } from 'react-i18next'
 
 const MyExpertise = () => {
+
+  const expertiseData = [
+    {
+      title: 'my-expertise.tech-stack-subtitle',
+      list: ['React', 'HTML', 'CSS', 'SASS', 'd3', 'i18n']
+    },
+    {
+      title: 'my-expertise.tech-stack-subtitle2',
+      list: ['Node', 'Express', 'AdminJs', 'Strapi V3']
+    },
+    {
+      title: 'my-expertise.tech-stack-subtitle3',
+      list: ['React TL', 'Jest', 'Vitest', 'Cypress', 'Mocha', 'Chai']
+    },
+    {
+      title: 'my-expertise.tech-stack-subtitle4',
+      list: ['Firebase', 'AWS', 'Jira', 'Sentry', 'Intercom']
+    }
+  ]
+
+  const [t] = useTranslation()
   return (
     <div id='my-expertise' className='expertise-container'>
-        <h1>My Expertise</h1>
+      <h1>{t('my-expertise.title')}</h1>
         <div className='expertise-wrapper'>
+          <div className='expertise-card'>
+            <p>{t('my-expertise.description')}</p>
+          </div>
             <div className='expertise-card'>
-                <p>
-                This website is developed using React.js, CSS, and Vite. React.js ensures smooth user interaction, while CSS enhances visual appeal. Vite enables rapid development and integration of features, resulting in a dynamic and responsive platform tailored to user needs.
-                </p>
-            </div>
-            <div className='expertise-card'>
-                <h3>Tech Stack</h3>
+                <h3>{t('my-expertise.tech-stack')}</h3>
                   <div className='tech-stack-container'>
-                    <div style={{with: 100}}>
-                      <h4>FrontEnd</h4>
-                        <p>React JS</p>
-                        <p>HTML</p>
-                        <p>CSS</p>
-                        <p>SASS</p>
-                        <p>d3</p>
-                        <p>i18n</p>
-                    </div>
-                    <div style={{with: 100}}>
-                      <h4>BackEnd</h4>
-                          <p>Node</p>
-                          <p>Express</p>
-                          <p>AdminJs</p>
-                          <p>Strapi V3</p>
-                    </div>
-                    <div style={{with: 100}}>
-                      <h4>Testing</h4>
-                        <p>React TL</p>
-                        <p>Jest</p>
-                        <p>Vitest</p>
-                        <p>Cypress</p>
-                        <p>Mocha</p>
-                        <p>Chai</p>
-                    </div>
-                    <div style={{with: 100}}>
-                      <h4>Other</h4>
-                        <p>Firebase</p>
-                        <p>Aws</p>
-                        <p>Sentry</p>
-                        <p>Intercom</p>
-                    </div>
-                  </div>
+                 {expertiseData.map((data) => (
+                     <div key={data.title} style={{with: 100}}>
+                       <h4>{t(data.title)}</h4>
+                        {data.list.map((list) => (
+                          <p key={list}>{list}</p>
+                        ))}
+                     </div>
+                   ))}
+                </div>
             </div>
             <div className='expertise-card'>
-                <h3>Current Learning</h3>
+                <h3>{t('my-expertise.current-learning')}</h3>
                 <p>
-                  I began my journey in the tech industry within the realm of Frontend development. 
-                  Currently, I am in the process of transitioning towards FullStack development.
+                  {t('my-expertise.current-learning-description')}
                 </p>
-                <h4>Learning in Progress:</h4>
+                <h4>{t('my-expertise.learning-process')}</h4>
                 <ul style={{display: 'flex', gap: 32}}>
                   <li>React Native</li>
                   <li>Node</li>
