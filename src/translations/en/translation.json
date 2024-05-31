@@ -1,0 +1,16 @@
+{
+    "navigation": {
+        "logo": "Portfolio",
+        "home": "home",
+        "expertise": "expertise",
+        "work": "work",
+        "contact": "contact",
+        "english": "english",
+        "spanish": "spanish"
+    },
+    "main-section": {
+        "role": "SOFTWARE DEVELOPER",
+        "description": "Proactive software developer and business manager with a proven record in technology strategy, frontend development, and team management. I have years of experience in both profit and non-profit organizations, recently focusing on Edtech solutions and multi-disciplinary teams.",
+        "resume": "Resume"
+    }
+}

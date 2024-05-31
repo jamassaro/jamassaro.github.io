@@ -1,0 +1,16 @@
+{
+    "navigation": {
+      "logo": "Portafolio",
+      "home": "home",
+      "expertise": "conocimientos",
+      "work": "trabajos",
+      "contact": "contacto",
+      "english": "ingles",
+      "spanish": "español"
+    },
+    "main-section": {
+      "role": "DESARROLLADOR DE SOFTWARE",
+      "description": "Desarrollador de software proactivo y gerente de negocios con una sólida trayectoria en estrategia tecnológica, desarrollo frontend y gestión de equipos. Cuento con años de experiencia tanto en organizaciones con fines de lucro como en organizaciones sin fines de lucro. Recientemente, me he especializado en soluciones Edtech y en colaborar con equipos multidisciplinarios.",
+      "resume": "Curriculum"
+    }
+}
