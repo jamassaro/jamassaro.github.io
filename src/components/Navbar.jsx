@@ -3,10 +3,12 @@ import './navbar.css'
 import { Link, useNavigate } from 'react-router-dom'
 import { useState } from 'react'
 import ResponsiveNavBar from './responsiveNavBar/responsiveNavBar'
+import { useTranslation } from 'react-i18next'
+import i18n from '../configs/i18n'
 
 const Navbar = () => {
   const navigate = useNavigate()
-
+const [t] = useTranslation()
  const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const scrollToSection = (tag) => {
@@ -19,6 +21,10 @@ const Navbar = () => {
     navigate('/')
     scrollToSection(tag)
     setIsMenuOpen(false)
+  }
+
+  const changeLenguage = (lang) => {
+    i18n.changeLanguage(lang)
   }
 
   return (
@@ -36,20 +42,29 @@ const Navbar = () => {
     
         <ResponsiveNavBar 
           setIsMenuOpen={setIsMenuOpen} 
-          handleNavigation={handleNavigation} 
+          handleNavigation={handleNavigation}
+          changeLenguage={changeLenguage}
         />
      
     }
     </div>
     <div className='nav-container'>
       <div className='logo-wrapper'>
-      <Link to='/'><h3 className='name-logo'>My Portfolio</h3></Link>
+      <Link to='/'><h3 className='name-logo'>{t('navigation.logo')}</h3></Link>
       </div>
       <div className='navigation-wrapper'>
-        <Link to='/'>home</Link>
-        <h5 onClick={() => handleNavigation('my-expertise')}>expertise</h5>
-        <h5 onClick={() => handleNavigation('my-work')}>work</h5>
-        <h5 onClick={() => handleNavigation('contact')}>contact</h5>
+        <Link to='/'>{t('navigation.home')}</Link>
+        <h5 onClick={() => handleNavigation('my-expertise')}>{t('navigation.expertise')}</h5>
+        <h5 onClick={() => handleNavigation('my-work')}>{t('navigation.work')}</h5>
+        <h5 onClick={() => handleNavigation('contact')}>{t('navigation.contact')}</h5>
+      </div>
+      <div className='change-language'>
+        <div onClick={() => changeLenguage('en')}>
+          <h5 className='lenguage'>{t('navigation.english')}</h5>
+        </div>
+        <div onClick={() => changeLenguage('es')}>
+          <h5 className='lenguage'>{t('navigation.spanish')}</h5>
+        </div>
       </div>
     </div>
     </>
