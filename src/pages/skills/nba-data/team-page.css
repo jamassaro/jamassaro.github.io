@@ -1,0 +1,72 @@
+
+.team-page-container {
+    width: 100%;
+    height: 800px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.team-page-container h1 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+}
+
+.team-information-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 128px;
+    justify-content: center;
+    height: 700px;
+}
+
+.rooster-container  {
+    width: 30%;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
+
+.stadistics-container {
+    width: 50%;
+    display: flex;
+    /* border: 1px solid white; */
+    border-radius: 20px;
+    flex-direction: column;
+    align-items: center;
+    ;
+}
+
+.stadistics-container img {
+    width: 200px;
+    height: 200px;
+}
+
+.stadistics-card-container {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+  
+}
+
+
+.stadistics-card {
+    width: 300px;
+    height: 100px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: white;
+}
