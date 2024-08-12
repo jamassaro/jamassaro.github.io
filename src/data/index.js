@@ -1,5 +1,4 @@
 import BupImage from '../assets/Logoblanco.png'
-import Website from '../assets/website.png'
 import Home from '../assets/images/braveup-app/home.png'
 import Resources from '../assets/images/braveup-app/resources.png'
 import ModoBupInbox from '../assets/images/braveup-app/modo-bup-inbox.png'
@@ -43,17 +42,30 @@ export const myWorkData = [
       }
      },
     // {
-    //   title: 'Website project',
+    //   title: 'BRAVE UP! Administrator',
     //   cover: Website,
     //   color: '',
     //   project: {
-    //     navigation: 'website',
-    //     name: 'Website for an independant lawyer',
+    //     navigation: 'braveup-admin',
+    //     name: 'BRAVE UP! Admin',
     //     description: '',
     //     images: [''],
-    //     stack: 'hola mundo',
-    //     url: 'https://jamassaro.github.io/monicawebsite/'
+    //     stack: ['hola mundo'],
+    //     url: 'admin.braveup.co'
     //   }
-    // }
+    // },
+    // {
+    //   title: 'BRAVE UP! Corporation',
+    //   cover: Website,
+    //   color: '',
+    //   project: {
+    //     navigation: 'braveup-corp',
+    //     name: 'BRAVE UP! Corp',
+    //     description: '',
+    //     images: [''],
+    //     stack: ['hola mundo'],
+    //     url: 'corp.braveup.com'
+    //   }
+    // },
     
   ]

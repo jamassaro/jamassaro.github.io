@@ -1,0 +1,12 @@
+.my-skills-container { 
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+
+}
+
+.my-skills-container h1 {
+    font-size: 30px;
+}
