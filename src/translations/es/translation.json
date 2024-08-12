@@ -30,7 +30,8 @@
     "learning-process": "En proceso de aprendizaje"
 },
 "my-work": {
-  "title": "Mis trabajos",
+  "title": "Emprendimiento",
+  "description": "Como Co-Fundador y CTO de BRAVE UP!, lidero una plataforma impulsada por IA enfocada en ayudar a las escuelas a detectar, predecir y prevenir el acoso escolar y el ciberacoso. A través de nuestro enfoque basado en datos, aprovechamos la tecnología avanzada y la analítica para proporcionar a las escuelas las herramientas que necesitan para crear entornos más seguros y de apoyo para los estudiantes, logrando resultados significativos.",
   "my-work-page": {
     "description": "Descripción",
     "stack": "Technologias utilizadas",

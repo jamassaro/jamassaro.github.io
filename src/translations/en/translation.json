@@ -30,7 +30,8 @@
       "learning-process": "Learning in Process"
   },
   "my-work": {
-    "title": "My work",
+    "title": "Entrepreneurship",
+    "description": "As the Co-Founder and CTO of BRAVE UP!, I lead an AI-powered platform focused on helping schools detect, predict, and prevent bullying and cyberbullying. Through our data-driven approach, we leverage advanced technology and analytics to provide schools with the tools they need to create safer and more supportive environments for students, achieving significant results.",
     "my-work-page": {
       "description": "Description",
       "stack": "Tech Stack",

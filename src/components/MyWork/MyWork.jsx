@@ -14,20 +14,21 @@ const MyWork = () => {
       window.scrollTo({
         top: 0,
         behavior: 'smooth'
-      });
-    };
+      })
+    }
 
     const handleNavigate = (info) => {
         navigate(
           `/projects/${info.navigation}`,
           { state: { data: info } }
           )
-        scrollToTop();
+        scrollToTop()
     }
   
 return (
   <div id='my-work' className='mywork-container'>
     <h1>{t('my-work.title')}</h1>
+    <p>{t('my-work.description')}</p>
       <div className='mywork-wrapper-cards'>
       {myWorkData.map((data, idx) => (
         <div 
