@@ -25,7 +25,7 @@ export const myWorkData = [
       }
     },
     {
-      title: 'BRAVE UP! Webiste',
+      title: 'BRAVE UP! Website',
       cover: BupImage,
       color: '#6441a5',
       project: {
