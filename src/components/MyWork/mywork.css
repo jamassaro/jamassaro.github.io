@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     padding: 20px;
 }
 
@@ -73,6 +73,10 @@
     }
     .mywork-wrapper-cards {
         flex-direction: row;
+    }
+    .mywork-container {
+        margin-top: 100px;
+        margin-bottom: 100px;
     }
 }
 

@@ -4,6 +4,7 @@ import './mywork.css'
 import { useNavigate } from 'react-router-dom'
 import { myWorkData } from '../../data'
 import { useTranslation } from 'react-i18next'
+import ProjectCard from '../projects/project-card'
 
 
 
@@ -29,7 +30,7 @@ return (
   <div id='my-work' className='mywork-container'>
     <h1>{t('my-work.title')}</h1>
     <p>{t('my-work.description')}</p>
-      <div className='mywork-wrapper-cards'>
+      {/* <div className='mywork-wrapper-cards'>
       {myWorkData.map((data, idx) => (
         <div 
           key={idx} 
@@ -47,6 +48,15 @@ return (
             </div>
         </div>
         ))}
+      </div> */}
+      <div className='mywork-wrapper-cards'>
+        {
+          myWorkData.map((data, idx) => (
+            <div key={idx} onClick={() => handleNavigate(data.project)}>
+              <ProjectCard projectName={data.title} technologies={data.project.stack.slice(0, 3)} key={idx} />
+            </div>
+          ))
+        }
       </div>
   </div>
   )

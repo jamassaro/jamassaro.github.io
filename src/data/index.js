@@ -41,19 +41,19 @@ export const myWorkData = [
         url: 'www.braveup.com'
       }
      },
-    // {
-    //   title: 'BRAVE UP! Administrator',
-    //   cover: Website,
-    //   color: '',
-    //   project: {
-    //     navigation: 'braveup-admin',
-    //     name: 'BRAVE UP! Admin',
-    //     description: '',
-    //     images: [''],
-    //     stack: ['hola mundo'],
-    //     url: 'admin.braveup.co'
-    //   }
-    // },
+     {
+     title: 'BRAVE UP! Administrator',
+       cover: WebHome,
+       color: '',
+       project: {
+         navigation: 'braveup-admin',
+         name: 'BRAVE UP! Admin',
+         description: '',
+         images: [''],
+         stack: ['React', 'Vite', 'Express'],
+         url: 'admin.braveup.co'
+       }
+     },
     // {
     //   title: 'BRAVE UP! Corporation',
     //   cover: Website,

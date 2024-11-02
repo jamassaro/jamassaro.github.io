@@ -1,0 +1,44 @@
+
+.project-card {
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #16202A;
+  border-radius: 8px;
+  box-shadow:  0 4px 10px #84D6EA;
+  transition: transform 0.3s;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Arial, sans-serif;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+}
+
+.project-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.tech-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tech-item {
+  background-color:hsl(210, 30%, 20%);
+  padding: 5px 15px;
+  border-radius: 20px;
+  color: #84D6EA;
+  font-size: 0.9rem;
+}
+
+.projects-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 32px;
+}
