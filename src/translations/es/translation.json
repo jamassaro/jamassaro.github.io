@@ -40,7 +40,24 @@
     },
     "project-2": {
       "braveup-website-description": "Sitio web para BRAVE UP!, una startup edTech que trabaja con escuelas K-12. El propósito de este sitio web es mostrar la funcionalidad de la plataforma y actuar como el principal punto de contacto para los clientes."
-    }
+    },
+      "project-3": {
+        "braveup-admin-description": "La Plataforma de Administración es una herramienta web para la gestión eficiente de CRUD de entidades como usuarios y recursos. Ofrece un tablero, fácil navegación con búsqueda y filtros, garantizando flexibilidad y cumplimiento."
+    } 
+  }
+},
+"projects": {
+  "project-1": {
+    "title": "AVTR SMART AI",
+    "description": "Plataforma enfocada en ingenieros QA para la generación de planes de pruebas, utilizando herramientas de inteligencia artificial."
+  },
+  "project-2": {
+    "title": "GASTOS PERSONALES",
+    "description": "Plataforma para trackear gastos personales y contralar tus finanzas. Esta plataforma esta en version web y mobile"
+  },
+  "project-3": {
+    "title": "ACCURATE",
+    "description": "Plataforma para prevenir el acoso en los espacios laborales con la ayuda de modelos de prediccion y inteligencia artificial."
   }
 }
 }

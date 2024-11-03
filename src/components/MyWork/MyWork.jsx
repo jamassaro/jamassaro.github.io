@@ -29,31 +29,12 @@ const MyWork = () => {
 return (
   <div id='my-work' className='mywork-container'>
     <h1>{t('my-work.title')}</h1>
-    <p>{t('my-work.description')}</p>
-      {/* <div className='mywork-wrapper-cards'>
-      {myWorkData.map((data, idx) => (
-        <div 
-          key={idx} 
-          className='mywork-card' 
-          onClick={() => handleNavigate(data.project)}
-        >
-            <img 
-              className='mywork-image' 
-              style={{backgroundColor: `${data.color}`}} 
-              src={data.cover} 
-              alt='my work image'
-            />
-            <div className='mywork-card-info'>
-              <h2>{data.title}</h2>
-            </div>
-        </div>
-        ))}
-      </div> */}
+    <p className='mywork-description'>{t('my-work.description')}</p>
       <div className='mywork-wrapper-cards'>
         {
           myWorkData.map((data, idx) => (
             <div key={idx} onClick={() => handleNavigate(data.project)}>
-              <ProjectCard projectName={data.title} technologies={data.project.stack.slice(0, 3)} key={idx} />
+              <ProjectCard projectName={data.title} technologies={data.project.stack} key={idx} description={t(data.project.description)} />
             </div>
           ))
         }

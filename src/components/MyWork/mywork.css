@@ -7,9 +7,9 @@
 }
 
 
-.mywork-container p {
+/* .mywork-container p {
     margin: 0;
-}
+} */
 
 .mywork-container h1 {
     font-size: 30px;
@@ -19,7 +19,7 @@
 
 
 
-.mywork-wrapper-cards {
+/* .mywork-wrapper-cards {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -27,25 +27,25 @@
     margin-top: 50px;
     flex-wrap: wrap;
     cursor: pointer;
-}
+} */
 
-
+/* 
 .mywork-card {
     width: 250px;
     height: 250px;
     background-color: #16202A;
     box-shadow: 2px 2px 2px white;
     border-radius: 10px;
-}
+} */
 
-.mywork-image {
+/* .mywork-image {
     width: 100%;
     height: 150px;
     border-radius: 10px 10px 0px 0px;
     background-image: cover;
-}
+} */
 
-.mywork-card-info {
+/* .mywork-card-info {
 
    margin-left: 10px;
    margin-right: 10px;
@@ -53,25 +53,26 @@
    margin-top: 0;
    text-align: center;
    height: 100px;
-}
+} */
 
 
 
 @media screen and (min-width: 768px) {
-    .mywork-card {
-        width: 250px;
-        
-    }
     .mywork-container h1 {
         font-size: 40px;
         margin-top: 0;
         margin-bottom: 20px;
     }
-    .mywork-container p {
+    .mywork-description{
         padding-left: 100px;
         padding-right: 100px;
     }
     .mywork-wrapper-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 32px;
+        margin-top: 50px;
         flex-direction: row;
     }
     .mywork-container {

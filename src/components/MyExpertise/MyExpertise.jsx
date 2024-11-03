@@ -145,8 +145,8 @@ const MyExpertise = () => {
             <div key={expertise.title} className='expertise-card'>
               <h3 style={{backgroundColor: expertise.color, padding: '5px', borderRadius: '50px', width: 150}}>{t(expertise.title)}</h3>
               <div className='expertise-list'>
-              {expertise.list.map((list) => (
-                <img key={list.name} style={list.name === 'express' || list.name === 'cypress' || list.name === 'aws' ? {width: 70, height: 50, backgroundColor: 'white', borderRadius: '10px', padding: 1} : {width: 50, height: 50}} src={list.src} alt={expertise.title} />
+              {expertise.list.map((list, index) => (
+                <img key={index} style={list.name === 'express' || list.name === 'cypress' || list.name === 'aws' ? {width: 70, height: 50, backgroundColor: 'white', borderRadius: '10px', padding: 1} : {width: 50, height: 50}} src={list.src} alt={expertise.title}  />
                 ))}
               </div>
             </div>
