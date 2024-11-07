@@ -68,6 +68,7 @@
 @media screen and (min-width: 768px) {
     .expertise-container {
         height: 700px;
+        margin-top: 100px;
     }
     .expertise-container h1 {
         margin-top: 200px;
@@ -79,6 +80,7 @@
         flex-wrap: wrap;
         padding-left: 100px;
         padding-right: 100px;
+        justify-content: center;
         gap: 16px;
         margin-bottom: 100px;
     }
@@ -88,3 +90,9 @@
        
     }
   }
+
+/* @media screen and (min-width: 1024px) {
+    .expertise-container {
+        margin-top: 100px;
+    }
+} */
