@@ -13,9 +13,9 @@ const MainSection = () => {
         {t('main-section.description')}
       </p>
       <div className='social-information'>
-        <a href='https://www.linkedin.com/in/jose-antonio-massaro-mayorga-716a2736/' target='_blank'> <p>LinkedIn</p></a>
-        <a href='https://github.com/jamassaro' target='_blank'> <p>GitHub</p></a>
-        <a href={Resume} target='_blank'> <p>{t('main-section.resume')}</p></a>
+        <a href='https://www.linkedin.com/in/jose-antonio-massaro-mayorga-716a2736/' target='_blank' rel="noreferrer"> <p>LinkedIn</p></a>
+        <a href='https://github.com/jamassaro' target='_blank' rel="noreferrer"> <p>GitHub</p></a>
+        <a href={Resume} target='_blank' rel="noreferrer"> <p>{t('main-section.resume')}</p></a>
         </div>
     </div>
   )
