@@ -1,0 +1,154 @@
+/* TechTag Component Styles - Following SRP */
+
+.techTag {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 6px 12px;
+  border-radius: var(--radius-default);
+  background-color: var(--color-surface-container-high);
+  border: 1px solid var(--color-outline-variant);
+  color: var(--color-on-surface-variant);
+  display: inline-block;
+  white-space: nowrap;
+  transition: var(--transition-default);
+}
+
+/* Hover Effect */
+.techTag:hover {
+  background-color: var(--color-surface-container-highest);
+  border-color: var(--color-outline);
+  transform: translateY(-1px);
+}
+
+/* Color Variants - Based on technology category */
+.blue {
+  border-color: rgba(0, 220, 229, 0.3);
+  color: var(--color-primary-fixed);
+}
+
+.blue:hover {
+  background-color: rgba(0, 220, 229, 0.1);
+  border-color: var(--color-primary-fixed-dim);
+  box-shadow: 0 0 10px rgba(0, 220, 229, 0.2);
+}
+
+.green {
+  border-color: rgba(78, 222, 163, 0.3);
+  color: var(--color-secondary);
+}
+
+.green:hover {
+  background-color: rgba(78, 222, 163, 0.1);
+  border-color: var(--color-secondary-fixed-dim);
+  box-shadow: 0 0 10px rgba(78, 222, 163, 0.2);
+}
+
+.red {
+  border-color: rgba(255, 180, 171, 0.3);
+  color: var(--color-error);
+}
+
+.red:hover {
+  background-color: rgba(255, 180, 171, 0.1);
+  border-color: var(--color-error);
+  box-shadow: 0 0 10px rgba(255, 180, 171, 0.2);
+}
+
+.purple {
+  border-color: rgba(192, 193, 255, 0.3);
+  color: var(--color-tertiary-fixed-dim);
+}
+
+.purple:hover {
+  background-color: rgba(192, 193, 255, 0.1);
+  border-color: var(--color-tertiary-fixed-dim);
+  box-shadow: 0 0 10px rgba(192, 193, 255, 0.2);
+}
+
+.yellow {
+  border-color: rgba(255, 189, 46, 0.3);
+  color: var(--color-accent-yellow);
+}
+
+.yellow:hover {
+  background-color: rgba(255, 189, 46, 0.1);
+  border-color: var(--color-accent-yellow);
+  box-shadow: 0 0 10px rgba(255, 189, 46, 0.2);
+}
+
+/* Size Variants */
+.small {
+  font-size: 10px;
+  padding: 4px 8px;
+}
+
+.large {
+  font-size: 14px;
+  padding: 8px 16px;
+}
+
+/* Clickable State */
+.clickable {
+  cursor: pointer;
+}
+
+.clickable:active {
+  transform: translateY(0);
+}
+
+/* Responsive */
+@media (max-width: 767px) {
+  .techTag {
+    font-size: 11px;
+    padding: 5px 10px;
+  }
+
+  .small {
+    font-size: 9px;
+    padding: 3px 6px;
+  }
+
+  .large {
+    font-size: 13px;
+    padding: 7px 14px;
+  }
+
+  .clickable {
+    min-height: 32px;
+    display: inline-flex;
+    align-items: center;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+/* Small mobile */
+@media (max-width: 480px) {
+  .techTag {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+}
+
+/* Icon Support */
+.withIcon {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .techTag {
+    font-size: 11px;
+    padding: 5px 10px;
+  }
+}

@@ -1,0 +1,35 @@
+/* Layout Component Styles - Following SRP */
+
+.layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-background);
+}
+
+.main {
+  flex: 1;
+  padding-top: 72px; /* Height of navbar */
+  position: relative;
+}
+
+/* Smooth transitions */
+.main > * {
+  animation: fadeIn 0.6s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Mobile adjustments */
+@media (max-width: 767px) {
+  .main {
+    padding-top: 64px;
+  }
+}

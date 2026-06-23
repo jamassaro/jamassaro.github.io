@@ -1,0 +1,150 @@
+/* TerminalHeader Component Styles - Following SRP */
+
+.terminalHeader {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.dots {
+  display: flex;
+  gap: 8px;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  transition: var(--transition-default);
+}
+
+.dotRed {
+  background-color: #ff5f56;
+}
+
+.dotYellow {
+  background-color: #ffbd2e;
+}
+
+.dotGreen {
+  background-color: #27c93f;
+}
+
+/* Hover Animation */
+.terminalHeader:hover .dot {
+  transform: scale(1.1);
+}
+
+.terminalHeader:hover .dotRed {
+  box-shadow: 0 0 8px #ff5f56;
+}
+
+.terminalHeader:hover .dotYellow {
+  box-shadow: 0 0 8px #ffbd2e;
+}
+
+.terminalHeader:hover .dotGreen {
+  box-shadow: 0 0 8px #27c93f;
+}
+
+/* Label Support */
+.withLabel {
+  justify-content: space-between;
+}
+
+.label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-on-surface-variant);
+  opacity: 0.6;
+}
+
+/* Size Variants */
+.small .dot {
+  width: 8px;
+  height: 8px;
+}
+
+.large .dot {
+  width: 14px;
+  height: 14px;
+}
+
+/* Animated Variant */
+.animated .dot {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.animated .dotRed {
+  animation-delay: 0s;
+}
+
+.animated .dotYellow {
+  animation-delay: 0.3s;
+}
+
+.animated .dotGreen {
+  animation-delay: 0.6s;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.6;
+    transform: scale(0.9);
+  }
+}
+
+/* Minimal Variant */
+.minimal .dots {
+  gap: 6px;
+}
+
+.minimal .dot {
+  width: 10px;
+  height: 10px;
+}
+
+/* Responsive */
+@media (max-width: 767px) {
+  .terminalHeader {
+    margin-bottom: 16px;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+  }
+
+  .label {
+    font-size: 10px;
+  }
+
+  .small .dot {
+    width: 7px;
+    height: 7px;
+  }
+
+  .large .dot {
+    width: 12px;
+    height: 12px;
+  }
+}
+
+/* Small mobile */
+@media (max-width: 480px) {
+  .dot {
+    width: 9px;
+    height: 9px;
+  }
+
+  .dots {
+    gap: 6px;
+  }
+}

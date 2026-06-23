@@ -1,5 +1,4 @@
 import React from 'react'
-import './projects.css'
 import { useLocation } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 

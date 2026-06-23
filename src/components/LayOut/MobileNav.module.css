@@ -1,0 +1,280 @@
+/* MobileNav Component Styles - Following SRP */
+
+.mobileNav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: var(--color-surface-container-lowest);
+  z-index: 55;
+  display: flex;
+  flex-direction: column;
+  padding: 80px var(--spacing-margin-mobile) var(--spacing-margin-mobile);
+  transform: translateY(-100%);
+  transition: transform 0.4s cubic-bezier(0.85, 0, 0.15, 1);
+  overflow-y: auto;
+}
+
+.mobileNav.open {
+  transform: translateY(0);
+}
+
+/* Logo in Mobile Nav */
+.logo {
+  font-family: var(--font-geist);
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--color-primary-fixed);
+  margin-bottom: 48px;
+  display: block;
+}
+
+/* Navigation List */
+.navList {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 48px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.navItem {
+  opacity: 0;
+  transform: translateX(-20px);
+  transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+}
+
+.mobileNav.open .navItem {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.mobileNav.open .navItem:nth-child(1) { transition-delay: 0.1s; }
+.mobileNav.open .navItem:nth-child(2) { transition-delay: 0.15s; }
+.mobileNav.open .navItem:nth-child(3) { transition-delay: 0.2s; }
+.mobileNav.open .navItem:nth-child(4) { transition-delay: 0.25s; }
+
+.navLink {
+  font-family: var(--font-mono);
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-on-surface-variant);
+  text-decoration: none;
+  display: block;
+  padding: 12px 0;
+  background: transparent;
+  border: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  transition: var(--transition-default);
+  position: relative;
+}
+
+.navLink::before {
+  content: '';
+  position: absolute;
+  left: -16px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 0;
+  height: 2px;
+  background: var(--color-primary-fixed-dim);
+  transition: width 0.3s ease-out;
+}
+
+.navLink:hover,
+.navLink.active {
+  color: var(--color-primary-fixed);
+  padding-left: 16px;
+}
+
+.navLink:hover::before,
+.navLink.active::before {
+  width: 12px;
+}
+
+/* Language Switcher in Mobile Nav */
+.languageSwitcher {
+  display: flex;
+  gap: 12px;
+  padding: 24px 0;
+  border-top: 1px solid var(--glass-border);
+  border-bottom: 1px solid var(--glass-border);
+  margin-bottom: 24px;
+}
+
+.langButton {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 8px 16px;
+  min-height: 44px;
+  background: transparent;
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-default);
+  color: var(--color-on-surface-variant);
+  cursor: pointer;
+  transition: var(--transition-default);
+  flex: 1;
+}
+
+.langButton:hover {
+  border-color: var(--color-primary-fixed-dim);
+  color: var(--color-primary-fixed-dim);
+  background-color: rgba(0, 220, 229, 0.05);
+}
+
+.langButton.active {
+  border-color: var(--color-primary-fixed-dim);
+  color: var(--color-primary-fixed);
+  background-color: rgba(0, 220, 229, 0.1);
+}
+
+/* Social Links Footer in Mobile Nav */
+.socialLinks {
+  margin-top: auto;
+  padding-top: 24px;
+  border-top: 1px solid var(--glass-border);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.socialLink {
+  font-family: var(--font-inter);
+  font-size: 15px;
+  color: var(--color-on-surface-variant);
+  text-decoration: none;
+  padding: 12px 0;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: var(--transition-default);
+}
+
+.socialLink:hover {
+  color: var(--color-primary-fixed);
+  transform: translateX(4px);
+}
+
+/* Footer Badge */
+.footerBadge {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--color-primary-fixed-dim);
+  padding: 8px 16px;
+  border: 1px solid rgba(0, 220, 229, 0.2);
+  border-radius: var(--radius-default);
+  background-color: rgba(0, 220, 229, 0.05);
+  text-align: center;
+  margin-top: 16px;
+}
+
+/* Language Switcher */
+.languageSwitcher {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 48px;
+  opacity: 0;
+  transform: translateX(-20px);
+  transition: opacity 0.3s ease-out 0.3s, transform 0.3s ease-out 0.3s;
+}
+
+.mobileNav.open .languageSwitcher {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.langButton {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  background: transparent;
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-default);
+  color: var(--color-on-surface-variant);
+  cursor: pointer;
+  transition: var(--transition-default);
+  flex: 1;
+}
+
+.langButton:hover {
+  border-color: var(--color-primary-fixed-dim);
+  color: var(--color-primary-fixed-dim);
+  background-color: rgba(0, 220, 229, 0.05);
+}
+
+.langButton.active {
+  border-color: var(--color-primary-fixed-dim);
+  color: var(--color-primary-fixed);
+  background-color: rgba(0, 220, 229, 0.1);
+}
+
+/* Social Links */
+.socialLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  opacity: 0;
+  transform: translateX(-20px);
+  transition: opacity 0.3s ease-out 0.35s, transform 0.3s ease-out 0.35s;
+}
+
+.mobileNav.open .socialLinks {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.socialLink {
+  font-family: var(--font-inter);
+  font-size: 14px;
+  color: var(--color-on-surface-variant);
+  text-decoration: none;
+  transition: var(--transition-default);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.socialLink:hover {
+  color: var(--color-primary-fixed-dim);
+  transform: translateX(4px);
+}
+
+/* Footer Text */
+.footer {
+  margin-top: auto;
+  padding-top: 24px;
+  border-top: 1px solid var(--glass-border);
+  opacity: 0;
+  transform: translateX(-20px);
+  transition: opacity 0.3s ease-out 0.4s, transform 0.3s ease-out 0.4s;
+}
+
+.mobileNav.open .footer {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.footerText {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--color-on-surface-variant);
+  opacity: 0.6;
+}
+
+/* Hide on Desktop */
+@media (min-width: 768px) {
+  .mobileNav {
+    display: none;
+  }
+}

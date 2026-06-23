@@ -1,20 +1,24 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Home from "./pages/Home/Home"
-import ProjectPage from './pages/projects/ProjectPage'
+import { lazy, Suspense } from 'react'
 import LayOut from './components/LayOut/LayOut'
-// import NbaDataPage from './pages/skills/nba-data/nbaDataPage'
-import TeamsByConferencePage from './pages/skills/nba-data/teamsByConferencePage'
-import TeamPage from './pages/skills/nba-data/teamPage'
+import { usePageTransition } from './hooks/useAnimations'
+import PageLoader from './components/ui/PageLoader'
+
+// Lazy load pages for code splitting
+const Home = lazy(() => import('./pages/Home/Home'))
+const ProjectPage = lazy(() => import('./pages/projects/ProjectPage'))
+
 function App() {
+  usePageTransition();
+
   return (
     <Router>
-      <Routes>
+      <Suspense fallback={<PageLoader />}>
+        <Routes>
           <Route path='/' element={<LayOut><Home /></LayOut>} exact />
-          <Route  path='/projects/:name' element={<LayOut><ProjectPage/></LayOut>} exact/>
-          {/* <Route path='/nba-data-page' element={<LayOut><NbaDataPage/></LayOut>} exact/> */}
-          <Route path='/nba-data-page/conference/:conferenceName' element={<LayOut><TeamsByConferencePage /></LayOut>} exact />
-          <Route path='/nba-data-page/conference/:conferenceName/team/:id' element={<LayOut><TeamPage /></LayOut>} exact/>
-      </Routes>
+          <Route path='/projects/:name' element={<LayOut><ProjectPage/></LayOut>} exact/>
+        </Routes>
+      </Suspense>
     </Router> 
   )
 }

@@ -1,0 +1,127 @@
+/* Page Loader Styles */
+
+.loaderContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--color-background);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  animation: fadeOut 0.4s ease-out 0.6s forwards;
+}
+
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.loaderContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-lg);
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.logo {
+  position: relative;
+}
+
+.logoText {
+  font-family: var(--font-mono);
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--color-cyan-primary);
+  text-shadow: 0 0 20px rgba(0, 220, 229, 0.5);
+  animation: glowPulse 2s ease-in-out infinite;
+}
+
+@keyframes glowPulse {
+  0%, 100% {
+    opacity: 1;
+    text-shadow: 0 0 20px rgba(0, 220, 229, 0.5);
+  }
+  50% {
+    opacity: 0.8;
+    text-shadow: 0 0 30px rgba(0, 220, 229, 0.8);
+  }
+}
+
+.loadingBar {
+  width: 200px;
+  height: 3px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: var(--border-radius-full);
+  overflow: hidden;
+  position: relative;
+}
+
+.loadingProgress {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-cyan-primary) 0%, var(--color-emerald-secondary) 100%);
+  border-radius: var(--border-radius-full);
+  animation: loadingProgress 0.8s ease-out forwards;
+  box-shadow: 0 0 10px rgba(0, 220, 229, 0.5);
+}
+
+@keyframes loadingProgress {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.statusText {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-emerald-secondary);
+  animation: blink 1.5s ease-in-out infinite;
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .loaderContainer {
+    animation: none;
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  .loaderContent,
+  .logoText,
+  .loadingProgress,
+  .statusText {
+    animation: none;
+  }
+}

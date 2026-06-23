@@ -1,0 +1,391 @@
+<!DOCTYPE html><html class="dark" lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Portfolio Redesign - Mobile | Jose A. Massaro</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/geist@1.3.0/dist/fonts/geist.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=JetBrains+Mono:wght@400;600&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .glass-card:active {
+            border-color: #00dce5;
+            box-shadow: 0 0 15px rgba(0, 220, 229, 0.2);
+            transform: scale(0.98);
+        }
+        .terminal-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            display: inline-block;
+        }
+        .text-glow {
+            text-shadow: 0 0 10px rgba(0, 220, 229, 0.4);
+        }
+        .nav-overlay {
+            transform: translateY(-100%);
+            transition: transform 0.4s cubic-bezier(0.85, 0, 0.15, 1);
+        }
+        .nav-overlay.open {
+            transform: translateY(0);
+        }
+        body {
+            background-color: #111318;
+            color: #e2e2e8;
+        }
+    </style>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "on-secondary-container": "#00311f",
+                        "secondary-container": "#00a572",
+                        "outline-variant": "#3a494a",
+                        "on-secondary-fixed": "#002113",
+                        "tertiary": "#fcf8ff",
+                        "on-background": "#e2e2e8",
+                        "on-surface": "#e2e2e8",
+                        "on-secondary": "#003824",
+                        "tertiary-fixed": "#e1e0ff",
+                        "on-error-container": "#ffdad6",
+                        "on-tertiary-container": "#4c4ed9",
+                        "background": "#111318",
+                        "inverse-surface": "#e2e2e8",
+                        "on-tertiary-fixed": "#07006c",
+                        "on-tertiary": "#1000a9",
+                        "tertiary-fixed-dim": "#c0c1ff",
+                        "inverse-primary": "#00696e",
+                        "inverse-on-surface": "#2f3035",
+                        "surface-tint": "#00dce5",
+                        "outline": "#849495",
+                        "on-primary-fixed": "#002021",
+                        "secondary": "#4edea3",
+                        "surface-dim": "#111318",
+                        "on-primary-fixed-variant": "#004f53",
+                        "secondary-fixed-dim": "#4edea3",
+                        "surface-container-highest": "#333539",
+                        "primary-fixed": "#63f7ff",
+                        "on-error": "#690005",
+                        "surface-variant": "#333539",
+                        "error": "#ffb4ab",
+                        "surface": "#111318",
+                        "surface-bright": "#37393e",
+                        "error-container": "#93000a",
+                        "on-primary-container": "#006c71",
+                        "primary-fixed-dim": "#00dce5",
+                        "on-secondary-fixed-variant": "#005236",
+                        "surface-container-lowest": "#0c0e12",
+                        "primary-container": "#00f5ff",
+                        "on-primary": "#003739",
+                        "tertiary-container": "#dbdaff",
+                        "secondary-fixed": "#6ffbbe",
+                        "surface-container": "#1e2024",
+                        "on-surface-variant": "#b9caca",
+                        "primary": "#e9feff",
+                        "on-tertiary-fixed-variant": "#2f2ebe",
+                        "surface-container-high": "#282a2e",
+                        "surface-container-low": "#1a1c20"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "container-max": "1200px",
+                        "unit": "4px",
+                        "card-padding": "32px",
+                        "gutter": "24px",
+                        "section-gap": "120px",
+                        "margin-mobile": "16px"
+                    },
+                    "fontFamily": {
+                        "body-lg": ["Inter"],
+                        "label-caps": ["JetBrains Mono"],
+                        "headline-lg": ["Geist"],
+                        "headline-md": ["Geist"],
+                        "headline-lg-mobile": ["Geist"],
+                        "display": ["Geist"],
+                        "body-md": ["Inter"],
+                        "code-sm": ["JetBrains Mono"]
+                    },
+                    "fontSize": {
+                        "body-lg": ["18px", {"lineHeight": "1.6", "fontWeight": "400"}],
+                        "label-caps": ["12px", {"lineHeight": "1.2", "letterSpacing": "0.1em", "fontWeight": "600"}],
+                        "headline-lg": ["40px", {"lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                        "headline-md": ["24px", {"lineHeight": "1.3", "fontWeight": "600"}],
+                        "headline-lg-mobile": ["32px", {"lineHeight": "1.2", "fontWeight": "700"}],
+                        "display": ["64px", {"lineHeight": "1.1", "letterSpacing": "-0.04em", "fontWeight": "800"}],
+                        "body-md": ["16px", {"lineHeight": "1.5", "fontWeight": "400"}],
+                        "code-sm": ["14px", {"lineHeight": "1.4", "fontWeight": "400"}]
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="font-body-md text-on-surface selection:bg-primary-container selection:text-on-primary-container">
+<!-- Mobile Navigation Overlay -->
+<div class="nav-overlay fixed inset-0 z-[60] bg-surface-container-lowest flex flex-col p-8 space-y-8" id="mobile-nav">
+<div class="flex justify-between items-center">
+<span class="font-headline-md text-headline-md font-bold text-primary tracking-tighter">JAM.DEV</span>
+<button class="p-2 text-primary" onclick="toggleNav()">
+<span class="material-symbols-outlined text-4xl">close</span>
+</button>
+</div>
+<nav class="flex flex-col space-y-6 mt-12">
+<a class="font-label-caps text-2xl text-on-surface-variant hover:text-primary transition-colors" href="#hero" onclick="toggleNav()">01_Expertise</a>
+<a class="font-label-caps text-2xl text-on-surface-variant hover:text-primary transition-colors" href="#projects" onclick="toggleNav()">02_Projects</a>
+<a class="font-label-caps text-2xl text-on-surface-variant hover:text-primary transition-colors" href="#venture" onclick="toggleNav()">03_Entrepreneurship</a>
+<a class="font-label-caps text-2xl text-on-surface-variant hover:text-primary transition-colors" href="#contact" onclick="toggleNav()">04_Contact</a>
+</nav>
+<div class="mt-auto pt-8 border-t border-white/10 flex gap-6">
+<a class="text-secondary" href="#"><span class="material-symbols-outlined">terminal</span></a>
+<a class="text-secondary" href="#"><span class="material-symbols-outlined">person</span></a>
+</div>
+</div>
+<!-- Header / TopAppBar -->
+<header class="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-white/10">
+<div class="flex justify-between items-center w-full px-margin-mobile py-4 max-w-container-max mx-auto">
+<span class="font-headline-md text-headline-md font-bold text-primary tracking-tighter">JAM.DEV</span><div class="flex items-center gap-2 ml-4 border-l border-white/10 pl-4"><button class="font-label-caps text-[10px] text-primary font-bold">EN</button><span class="text-white/20 text-[10px]">|</span><button class="font-label-caps text-[10px] text-on-surface-variant hover:text-primary transition-colors">ES</button></div>
+<button class="p-2" onclick="toggleNav()">
+<span class="material-symbols-outlined text-primary text-3xl">menu</span>
+</button>
+</div>
+</header>
+<main class="pt-24 space-y-section-gap pb-24">
+<!-- Hero Section -->
+<section class="px-margin-mobile" id="hero">
+<div class="relative overflow-hidden py-12">
+
+<div class="relative z-10">
+<p class="font-label-caps text-label-caps text-secondary mb-4">SOFTWARE ARCHITECT</p>
+<h1 class="font-headline-lg-mobile text-headline-lg-mobile text-primary mb-6">JOSE A. MASSARO.</h1>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed max-w-lg mb-8">
+                        Proactive software developer and business manager with a proven record in technology strategy, frontend development, and team management. Specializing in high-performance EdTech solutions and multi-disciplinary architectural design.
+                    </p>
+<div class="flex flex-col gap-4">
+<a class="inline-flex items-center gap-3 font-code-sm text-code-sm text-secondary group" href="#">
+<span class="material-symbols-outlined text-sm">terminal</span>
+                            LINKEDIN.SH
+                            <span class="material-symbols-outlined transition-transform group-hover:translate-x-1">arrow_forward</span>
+</a>
+<a class="inline-flex items-center gap-3 font-code-sm text-code-sm text-secondary group" href="#">
+<span class="material-symbols-outlined text-sm">code</span>
+                            GITHUB.SH
+                            <span class="material-symbols-outlined transition-transform group-hover:translate-x-1">arrow_forward</span>
+</a>
+<a class="inline-flex items-center gap-3 font-code-sm text-code-sm text-secondary group" href="#">
+<span class="material-symbols-outlined text-sm">description</span>
+                            RESUME.PDF
+                            <span class="material-symbols-outlined transition-transform group-hover:translate-x-1">arrow_forward</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+<!-- Expertise Section (Bento Lite) -->
+<section class="px-margin-mobile">
+<h2 class="font-headline-md text-headline-md text-primary mb-8 border-l-4 border-secondary pl-4">01_EXPERTISE</h2>
+<div class="grid grid-cols-1 gap-6">
+<!-- Frontend -->
+<div class="glass-card rounded-lg p-6 relative overflow-hidden transition-all duration-700 opacity-100">
+<div class="flex items-center gap-2 mb-4">
+<div class="terminal-dot bg-red-500"></div>
+<div class="terminal-dot bg-yellow-500"></div>
+<div class="terminal-dot bg-green-500"></div>
+<span class="ml-2 font-label-caps text-[10px] text-outline-variant">FRONTEND.CONFIG</span>
+</div>
+<div class="flex flex-wrap gap-6 justify-around py-4">
+<div class="flex flex-col items-center gap-2 opacity-80">
+<span class="material-symbols-outlined text-3xl text-primary">dynamic_form</span>
+<span class="font-code-sm text-[10px]">React</span>
+</div>
+<div class="flex flex-col items-center gap-2 opacity-80">
+<span class="material-symbols-outlined text-3xl text-primary">html</span>
+<span class="font-code-sm text-[10px]">HTML5</span>
+</div>
+<div class="flex flex-col items-center gap-2 opacity-80">
+<span class="material-symbols-outlined text-3xl text-primary">css</span>
+<span class="font-code-sm text-[10px]">CSS3</span>
+</div>
+<div class="flex flex-col items-center gap-2 opacity-80">
+<span class="material-symbols-outlined text-3xl text-secondary">water_drop</span>
+<span class="font-code-sm text-[10px]">Tailwind</span>
+</div>
+</div>
+</div>
+<!-- Backend -->
+<div class="glass-card rounded-lg p-6 transition-all duration-700 opacity-100">
+<div class="flex items-center gap-2 mb-4">
+<div class="terminal-dot bg-outline-variant"></div>
+<span class="ml-2 font-label-caps text-[10px] text-outline-variant">BACKEND.ENV</span>
+</div>
+<div class="flex flex-wrap gap-8 py-2">
+<span class="font-headline-md text-primary font-bold opacity-70">NodeJS</span>
+<span class="font-headline-md text-primary font-bold opacity-70">Express</span>
+<span class="font-headline-md text-primary font-bold opacity-70">PostgreSQL</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Projects Section -->
+<section class="px-margin-mobile" id="projects">
+<h2 class="font-headline-md text-headline-md text-primary mb-8 border-l-4 border-secondary pl-4">02_PROJECTS</h2>
+<div class="space-y-8">
+<!-- Project 1 -->
+<div class="glass-card rounded-lg overflow-hidden flex flex-col transition-all duration-700 opacity-100">
+<div class="h-48 relative">
+<img class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500" data-alt="A dark, sleek interface of an AI-driven QA testing platform with code snippets, data visualizations, and glowing nodes on a translucent background. The color palette is dark charcoal, neon cyan, and muted gray, embodying a professional software engineering aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuC2KyQkRMArxPIevxxaS2I178KeDupT18QniQC-PjTcCBNlsLot8q5ziBsiNpV4WHIBlGHtW8-OieQH4T0d2_0v-XP-ltIwEYyAPHxW8aSY-9VR7Qv6wXJihrehetszyxFkNb2SuVSUZ8F_Ka1_ZPXRzHevhqLLj0on0ll3PI6MWz7X_eif1GuX1nxGJ15ZVEu50pWc4ujkq7oBiheQigp57FUV_8ySpE0W_nHSFmMZ3M8Rsqcznr412maNG44BJ5W305oO0r1ReQ">
+<div class="absolute inset-0 bg-gradient-to-t from-background to-transparent"></div>
+</div>
+<div class="p-6">
+<h3 class="font-headline-md text-primary mb-2">AVTR SMART AI</h3>
+<p class="font-body-md text-on-surface-variant mb-6 text-sm">Platform focused on QA engineers for generating test plans, using generative AI tools.</p>
+<div class="flex flex-wrap gap-2">
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">REACT</span>
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">JAVA</span>
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">AZURE-SSO</span>
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">VITEST</span>
+</div>
+</div>
+</div>
+<!-- Project 2 -->
+<div class="glass-card rounded-lg overflow-hidden flex flex-col transition-all duration-700 opacity-100">
+<div class="p-6">
+<div class="flex items-center justify-between mb-4">
+<h3 class="font-headline-md text-primary">PERSONAL EXPENSES</h3>
+<span class="material-symbols-outlined text-secondary">monetization_on</span>
+</div>
+<p class="font-body-md text-on-surface-variant mb-6 text-sm">Platform to track personal expenses and manage finances. This platform is in web and mobile versions.</p>
+<div class="flex flex-wrap gap-2">
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">NEXT.JS</span>
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">RN</span>
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">CLERK</span>
+</div>
+</div>
+</div>
+<!-- Project 3 -->
+<div class="glass-card rounded-lg p-6 border-l-2 border-l-secondary transition-all duration-700 opacity-100">
+<h3 class="font-headline-md text-primary mb-2 uppercase tracking-widest">ACCURATE</h3>
+<p class="font-body-md text-on-surface-variant mb-6 text-sm">Predictive models and AI integration to prevent workplace harassment through proactive intelligence.</p>
+<div class="flex flex-wrap gap-2">
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">EXPRESS</span>
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">FIREBASE</span>
+<span class="px-2 py-1 bg-surface-container text-secondary font-code-sm text-[10px] border border-white/5 rounded">AI-MODELS</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Entrepreneurship Section -->
+<section class="px-margin-mobile" id="venture">
+<h2 class="font-headline-md text-headline-md text-primary mb-8 border-l-4 border-secondary pl-4 uppercase">03_VENTURE</h2>
+<div class="mb-12">
+<div class="flex items-center gap-3 mb-4">
+<span class="material-symbols-outlined text-secondary" style="font-variation-settings: 'FILL' 1;">rocket_launch</span>
+<span class="font-label-caps text-label-caps text-secondary-fixed">BRAVE UP! ECOSYSTEM</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+                    As Co-Founder and CTO, I lead an AI-powered platform helping schools detect, predict, and prevent cyberbullying through data-driven architectural thinking.
+                </p>
+</div>
+<div class="space-y-6">
+<!-- Brave Up Platform -->
+<div class="glass-card rounded-lg p-6 border-t border-t-white/10 relative overflow-hidden transition-all duration-700 opacity-100">
+<div class="absolute top-0 right-0 p-4 opacity-10">
+<span class="material-symbols-outlined text-6xl">shield</span>
+</div>
+<h4 class="font-headline-md text-primary mb-3">Platform V2</h4>
+<p class="font-body-md text-on-surface-variant text-sm mb-6">Real-time prevention of bullying instances in K-12 environments.</p>
+<div class="flex flex-wrap gap-2">
+<span class="px-2 py-1 border border-white/10 text-on-surface-variant font-code-sm text-[9px] rounded">ANTD</span>
+<span class="px-2 py-1 border border-white/10 text-on-surface-variant font-code-sm text-[9px] rounded">D3.JS</span>
+<span class="px-2 py-1 border border-white/10 text-on-surface-variant font-code-sm text-[9px] rounded">MIXPANEL</span>
+</div>
+</div>
+<!-- Brave Up Website -->
+<div class="glass-card rounded-lg p-6 transition-all duration-700 opacity-100">
+<h4 class="font-headline-md text-primary mb-3">Strategic Website</h4>
+<p class="font-body-md text-on-surface-variant text-sm mb-6">Main point of contact for school administrators and stakeholders.</p>
+<div class="flex flex-wrap gap-2">
+<span class="px-2 py-1 border border-white/10 text-on-surface-variant font-code-sm text-[9px] rounded">GOOGLE-ANALYTICS</span>
+<span class="px-2 py-1 border border-white/10 text-on-surface-variant font-code-sm text-[9px] rounded">CRA</span>
+</div>
+</div>
+<!-- Brave Up Admin -->
+<div class="glass-card rounded-lg p-6 transition-all duration-700 opacity-100">
+<h4 class="font-headline-md text-primary mb-3">Admin Engine</h4>
+<p class="font-body-md text-on-surface-variant text-sm mb-6">Complex CRUD management and high-level entity resolution.</p>
+<div class="flex flex-wrap gap-2">
+<span class="px-2 py-1 border border-white/10 text-on-surface-variant font-code-sm text-[9px] rounded">REACT-ROUTER-V5</span>
+<span class="px-2 py-1 border border-white/10 text-on-surface-variant font-code-sm text-[9px] rounded">FIREBASE</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Contact Section -->
+<section class="px-margin-mobile" id="contact">
+<h2 class="font-headline-md text-headline-md text-primary mb-8 border-l-4 border-secondary pl-4 uppercase">04_CONNECT</h2>
+<div class="glass-card rounded-lg p-8 flex flex-col items-center text-center transition-all duration-700 opacity-100">
+<div class="w-16 h-16 bg-secondary-container rounded-full flex items-center justify-center mb-6">
+<span class="material-symbols-outlined text-on-secondary-container text-3xl">alternate_email</span>
+</div>
+<h3 class="font-headline-md text-primary mb-2">jamassaro@gmail.com</h3>
+<p class="font-code-sm text-code-sm text-on-surface-variant mb-8">+1 (718) 300-3187</p>
+<div class="grid grid-cols-2 gap-4 w-full">
+<a class="px-4 py-3 bg-white/5 border border-white/10 rounded font-label-caps text-[10px] text-primary hover:bg-white/10 transition-colors" href="#">LINKEDIN</a>
+<a class="px-4 py-3 bg-white/5 border border-white/10 rounded font-label-caps text-[10px] text-primary hover:bg-white/10 transition-colors" href="#">GITHUB</a>
+<a class="px-4 py-3 bg-white/5 border border-white/10 rounded font-label-caps text-[10px] text-primary hover:bg-white/10 transition-colors" href="#">RESUME</a>
+<a class="px-4 py-3 bg-white/5 border border-white/10 rounded font-label-caps text-[10px] text-primary hover:bg-white/10 transition-colors" href="#">EMAIL</a>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-surface-container-low border-t border-white/10">
+<div class="flex flex-col items-center w-full px-margin-mobile py-12 max-w-container-max mx-auto space-y-6">
+<span class="font-label-caps text-label-caps text-on-surface-variant">JAM.DEV // BUILT_WITH_PRECISION</span>
+<p class="font-code-sm text-[10px] text-on-surface-variant opacity-50">© 2024 JOSE A. MASSARO. ALL RIGHTS RESERVED.</p>
+</div>
+</footer>
+<script>
+        function toggleNav() {
+            const nav = document.getElementById('mobile-nav');
+            nav.classList.toggle('open');
+            document.body.style.overflow = nav.classList.contains('open') ? 'hidden' : 'auto';
+        }
+
+        // Simple scroll reveal interaction
+        const observerOptions = {
+            threshold: 0.1
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('opacity-100');
+                    entry.target.classList.remove('opacity-0', 'translate-y-4');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.glass-card').forEach(card => {
+            card.classList.add('opacity-0', 'translate-y-4', 'transition-all', 'duration-700');
+            observer.observe(card);
+        });
+    </script>
+
+
+</body></html>

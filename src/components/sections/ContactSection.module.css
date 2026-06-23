@@ -1,0 +1,388 @@
+/* Contact Section Styles */
+/* Cyber-Minimalist Developer System Design */
+
+.section {
+  padding: var(--spacing-section) 0;
+  position: relative;
+  background: linear-gradient(180deg, transparent 0%, rgba(0, 220, 229, 0.03) 50%, transparent 100%);
+}
+
+.container {
+  max-width: var(--container-max-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing-container-padding);
+}
+
+/* Content Layout */
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-3xl);
+  align-items: center;
+}
+
+/* Text Section */
+.textSection {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xl);
+}
+
+.preHeading {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-emerald-secondary);
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.statusDot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--color-emerald-secondary);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    box-shadow: 0 0 0 0 rgba(78, 222, 163, 0.7);
+  }
+  50% {
+    opacity: 0.8;
+    box-shadow: 0 0 0 10px rgba(78, 222, 163, 0);
+  }
+}
+
+.heading {
+  font-family: var(--font-display);
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 1.1;
+  color: var(--color-text-primary);
+  margin: 0;
+}
+
+.headingGradient {
+  background: linear-gradient(135deg, var(--color-cyan-primary) 0%, var(--color-emerald-secondary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.description {
+  font-family: var(--font-body);
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+/* Card Section */
+.cardSection {
+  position: relative;
+}
+
+.contactCard {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+}
+
+/* Contact Methods */
+.contactMethods {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.methodLabel {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+  margin-bottom: var(--spacing-sm);
+}
+
+.contactMethod {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+  padding: var(--spacing-md);
+  border-radius: var(--border-radius-md);
+  background: rgba(0, 220, 229, 0.03);
+  border: 1px solid rgba(0, 220, 229, 0.1);
+  transition: all var(--transition-normal);
+  text-decoration: none;
+  color: var(--color-text-primary);
+}
+
+.contactMethod:hover {
+  background: rgba(0, 220, 229, 0.08);
+  border-color: var(--color-cyan-primary);
+  transform: translateX(8px);
+  box-shadow: 0 0 20px rgba(0, 220, 229, 0.2);
+}
+
+.methodIcon {
+  width: 48px;
+  height: 48px;
+  border-radius: var(--border-radius-md);
+  background: linear-gradient(135deg, rgba(0, 220, 229, 0.1) 0%, rgba(78, 222, 163, 0.1) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  flex-shrink: 0;
+}
+
+.methodInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex-grow: 1;
+}
+
+.methodTitle {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-tertiary);
+}
+
+.methodValue {
+  font-family: var(--font-body);
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--color-text-primary);
+}
+
+.methodArrow {
+  font-size: 20px;
+  color: var(--color-cyan-primary);
+  transition: transform var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.contactMethod:hover .methodArrow {
+  transform: translateX(4px);
+}
+
+/* Social Links */
+.socialLinks {
+  display: flex;
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-md);
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid var(--color-border);
+}
+
+.socialLabel {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+  margin-bottom: var(--spacing-sm);
+  width: 100%;
+}
+
+.socialLink {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-xs);
+  padding: var(--spacing-md);
+  border-radius: var(--border-radius-sm);
+  background: rgba(192, 193, 255, 0.05);
+  border: 1px solid rgba(192, 193, 255, 0.2);
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-purple-tertiary);
+  text-decoration: none;
+  transition: all var(--transition-fast);
+}
+
+.socialLink:hover {
+  background: rgba(192, 193, 255, 0.15);
+  border-color: var(--color-purple-tertiary);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(192, 193, 255, 0.2);
+}
+
+/* Availability Badge */
+.availability {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--border-radius-full);
+  background: rgba(78, 222, 163, 0.1);
+  border: 1px solid var(--color-emerald-secondary);
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-emerald-secondary);
+  margin-top: var(--spacing-md);
+}
+
+.availabilityDot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-emerald-secondary);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* Responsive Design */
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .content {
+    gap: var(--spacing-2xl);
+  }
+
+  .heading {
+    font-size: 40px;
+  }
+
+  .description {
+    font-size: 16px;
+  }
+
+  .methodIcon {
+    width: 44px;
+    height: 44px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+  .section {
+    padding: var(--spacing-section-mobile) 0;
+  }
+
+  .content {
+    grid-template-columns: 1fr;
+    gap: var(--spacing-xl);
+  }
+
+  .heading {
+    font-size: 32px;
+  }
+
+  .description {
+    font-size: 15px;
+  }
+
+  .contactMethod {
+    padding: var(--spacing-sm);
+    min-height: 72px;
+  }
+
+  .methodIcon {
+    width: 44px;
+    height: 44px;
+    font-size: 20px;
+  }
+
+  .methodValue {
+    font-size: 14px;
+    word-break: break-word;
+  }
+
+  .socialLinks {
+    flex-direction: column;
+  }
+
+  .socialLink {
+    min-height: 44px;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+  .heading {
+    font-size: 28px;
+  }
+
+  .methodValue {
+    font-size: 13px;
+  }
+
+  .socialLinks {
+    flex-direction: column;
+  }
+
+  .socialLink {
+    justify-content: flex-start;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+  .heading {
+    font-size: 28px;
+  }
+
+  .preHeading {
+    font-size: 11px;
+  }
+
+  .methodIcon {
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+  }
+
+  .methodInfo {
+    min-width: 0;
+  }
+
+  .methodValue {
+    font-size: 13px;
+    word-break: break-all;
+  }
+}
+
+/* Accessibility */
+.contactMethod:focus,
+.socialLink:focus {
+  outline: 2px solid var(--color-cyan-primary);
+  outline-offset: 2px;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .statusDot,
+  .availabilityDot {
+    animation: none;
+  }
+
+  .contactMethod,
+  .socialLink,
+  .methodArrow {
+    transition: none;
+  }
+
+  .contactMethod:hover,
+  .socialLink:hover {
+    transform: none;
+  }
+}

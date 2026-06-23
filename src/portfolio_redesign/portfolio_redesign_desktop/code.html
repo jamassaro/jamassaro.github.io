@@ -1,0 +1,471 @@
+<!DOCTYPE html><html class="dark" lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Jose A. Massaro | Software Architect Portfolio</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;family=JetBrains+Mono:wght@400;600&amp;family=Geist:wght@700;800&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "on-secondary-container": "#00311f",
+                        "secondary-container": "#00a572",
+                        "outline-variant": "#3a494a",
+                        "on-secondary-fixed": "#002113",
+                        "tertiary": "#fcf8ff",
+                        "on-background": "#e2e2e8",
+                        "on-surface": "#e2e2e8",
+                        "on-secondary": "#003824",
+                        "tertiary-fixed": "#e1e0ff",
+                        "on-error-container": "#ffdad6",
+                        "on-tertiary-container": "#4c4ed9",
+                        "background": "#111318",
+                        "inverse-surface": "#e2e2e8",
+                        "on-tertiary-fixed": "#07006c",
+                        "on-tertiary": "#1000a9",
+                        "tertiary-fixed-dim": "#c0c1ff",
+                        "inverse-primary": "#00696e",
+                        "inverse-on-surface": "#2f3035",
+                        "surface-tint": "#00dce5",
+                        "outline": "#849495",
+                        "on-primary-fixed": "#002021",
+                        "secondary": "#4edea3",
+                        "surface-dim": "#111318",
+                        "on-primary-fixed-variant": "#004f53",
+                        "secondary-fixed-dim": "#4edea3",
+                        "surface-container-highest": "#333539",
+                        "primary-fixed": "#63f7ff",
+                        "on-error": "#690005",
+                        "surface-variant": "#333539",
+                        "error": "#ffb4ab",
+                        "surface": "#111318",
+                        "surface-bright": "#37393e",
+                        "error-container": "#93000a",
+                        "on-primary-container": "#006c71",
+                        "primary-fixed-dim": "#00dce5",
+                        "on-secondary-fixed-variant": "#005236",
+                        "surface-container-lowest": "#0c0e12",
+                        "primary-container": "#00f5ff",
+                        "on-primary": "#003739",
+                        "tertiary-container": "#dbdaff",
+                        "secondary-fixed": "#6ffbbe",
+                        "surface-container": "#1e2024",
+                        "on-surface-variant": "#b9caca",
+                        "primary": "#e9feff",
+                        "on-tertiary-fixed-variant": "#2f2ebe",
+                        "surface-container-high": "#282a2e",
+                        "surface-container-low": "#1a1c20"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "container-max": "1200px",
+                        "unit": "4px",
+                        "card-padding": "32px",
+                        "gutter": "24px",
+                        "section-gap": "120px",
+                        "margin-mobile": "16px"
+                    },
+                    "fontFamily": {
+                        "body-lg": ["Inter"],
+                        "label-caps": ["JetBrains Mono"],
+                        "headline-lg": ["Geist"],
+                        "headline-md": ["Geist"],
+                        "headline-lg-mobile": ["Geist"],
+                        "display": ["Geist"],
+                        "body-md": ["Inter"],
+                        "code-sm": ["JetBrains Mono"]
+                    },
+                    "fontSize": {
+                        "body-lg": ["18px", {"lineHeight": "1.6", "fontWeight": "400"}],
+                        "label-caps": ["12px", {"lineHeight": "1.2", "letterSpacing": "0.1em", "fontWeight": "600"}],
+                        "headline-lg": ["40px", {"lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                        "headline-md": ["24px", {"lineHeight": "1.3", "fontWeight": "600"}],
+                        "headline-lg-mobile": ["32px", {"lineHeight": "1.2", "fontWeight": "700"}],
+                        "display": ["64px", {"lineHeight": "1.1", "letterSpacing": "-0.04em", "fontWeight": "800"}],
+                        "body-md": ["16px", {"lineHeight": "1.5", "fontWeight": "400"}],
+                        "code-sm": ["14px", {"lineHeight": "1.4", "fontWeight": "400"}]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .glass-card {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .glass-card:hover {
+            border-color: #00dce5;
+            box-shadow: 0 0 20px rgba(0, 220, 229, 0.15);
+            transform: translateY(-2px);
+        }
+        .terminal-header::before {
+            content: '';
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #ff5f56;
+            box-shadow: 12px 0 0 #ffbd2e, 24px 0 0 #27c93f;
+            margin-right: 32px;
+        }
+        .scroll-reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.6s ease-out;
+        }
+        .scroll-reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .accent-gradient {
+            background: linear-gradient(90deg, #63f7ff 0%, #4edea3 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        body {
+            background-color: #111318;
+            color: #e2e2e8;
+            cursor: crosshair;
+        }
+    </style>
+</head>
+<body class="font-body-md overflow-x-hidden">
+<!-- Navigation Shell -->
+<header class="bg-background/80 dark:bg-background/80 backdrop-blur-md border-b border-white/10 shadow-sm docked full-width top-0 sticky z-50">
+<nav class="flex justify-between items-center w-full px-8 py-4 max-w-container-max mx-auto">
+<div class="font-headline-md text-headline-md font-bold text-primary tracking-tighter">JAM.DEV</div>
+<div class="hidden md:flex gap-8 items-center">
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-colors" href="#expertise">01_Expertise</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-colors" href="#projects">02_Projects</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-colors" href="#entrepreneurship">03_Entrepreneurship</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-colors" href="#contact">04_Contact</a>
+</div>
+<div class="flex items-center gap-4 mr-4 font-label-caps text-[10px] text-on-surface-variant">
+    <button class="hover:text-primary transition-colors cursor-pointer">EN</button>
+    <span class="opacity-30">|</span>
+    <button class="hover:text-primary transition-colors cursor-pointer">ES</button>
+</div><button class="bg-secondary px-6 py-2 rounded-lg text-on-secondary-container font-label-caps hover:brightness-110 active:scale-95 transition-all">
+                Resume
+            </button>
+</nav>
+</header>
+<main class="max-w-container-max mx-auto px-margin-mobile md:px-gutter">
+<!-- Hero Section -->
+<section class="min-h-[80vh] flex flex-col justify-center py-section-gap">
+<div class="max-w-3xl">
+<div class="font-label-caps text-label-caps text-secondary mb-4 flex items-center gap-2">
+<span class="material-symbols-outlined text-[14px]" style="font-variation-settings: 'FILL' 1;">terminal</span>
+                    SYSTEM_INITIALIZED: HELLO_WORLD
+                </div>
+<h1 class="font-display text-display mb-2 uppercase accent-gradient">Jose A. Massaro.</h1>
+<h2 class="font-headline-lg text-headline-lg text-on-surface-variant mb-8">Software Architect</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mb-12 leading-relaxed border-l-2 border-secondary pl-6">
+                    Proactive software developer and business manager with a proven record in technology strategy, frontend development, and team management. I have years of experience in both profit and non-profit organizations, recently focusing on Edtech solutions and multi-disciplinary teams.
+                </p>
+<div class="flex flex-wrap gap-6 items-center">
+<a class="flex items-center gap-2 font-code-sm text-code-sm text-on-surface hover:text-secondary transition-colors group" href="#">
+<span class="material-symbols-outlined text-[18px]">person</span>
+                        LinkedIn
+                        <span class="material-symbols-outlined text-[14px] opacity-0 group-hover:opacity-100 transition-opacity">open_in_new</span>
+</a>
+<a class="flex items-center gap-2 font-code-sm text-code-sm text-on-surface hover:text-secondary transition-colors group" href="#">
+<span class="material-symbols-outlined text-[18px]">code</span>
+                        GitHub
+                        <span class="material-symbols-outlined text-[14px] opacity-0 group-hover:opacity-100 transition-opacity">open_in_new</span>
+</a>
+<a class="flex items-center gap-2 font-code-sm text-code-sm text-on-surface hover:text-secondary transition-colors group" href="#">
+<span class="material-symbols-outlined text-[18px]">description</span>
+                        Resume
+                    </a>
+</div>
+</div>
+</section>
+<!-- Expertise Section: Bento Grid -->
+<section class="py-section-gap scroll-reveal active" id="expertise">
+<div class="flex items-center justify-between mb-16">
+<div>
+<span class="font-label-caps text-label-caps text-outline mb-2 block">/01 SKILLSET</span>
+<h2 class="font-headline-lg text-headline-lg">My Expertise</h2>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-12 gap-gutter">
+<!-- Frontend -->
+<div class="glass-card p-card-padding md:col-span-8 rounded-xl relative overflow-hidden group">
+<div class="terminal-header mb-8 opacity-40"></div>
+<div class="inline-block px-3 py-1 rounded bg-secondary-container text-on-secondary-container font-label-caps text-[10px] mb-4">FRONTEND</div>
+<h3 class="font-headline-md text-headline-md mb-6">Interface Architecture</h3>
+<div class="grid grid-cols-3 md:grid-cols-6 gap-6">
+<div class="flex flex-col items-center gap-2 group/icon">
+<span class="material-symbols-outlined text-4xl text-on-surface-variant group-hover/icon:text-secondary transition-colors">deployed_code</span>
+<span class="font-code-sm text-code-sm">React</span>
+</div>
+<div class="flex flex-col items-center gap-2 group/icon">
+<span class="material-symbols-outlined text-4xl text-on-surface-variant group-hover/icon:text-secondary transition-colors">html</span>
+<span class="font-code-sm text-code-sm">HTML5</span>
+</div>
+<div class="flex flex-col items-center gap-2 group/icon">
+<span class="material-symbols-outlined text-4xl text-on-surface-variant group-hover/icon:text-secondary transition-colors">css</span>
+<span class="font-code-sm text-code-sm">CSS3</span>
+</div>
+<div class="flex flex-col items-center gap-2 group/icon">
+<span class="material-symbols-outlined text-4xl text-on-surface-variant group-hover/icon:text-secondary transition-colors">palette</span>
+<span class="font-code-sm text-code-sm">Tailwind</span>
+</div>
+<div class="flex flex-col items-center gap-2 group/icon">
+<span class="material-symbols-outlined text-4xl text-on-surface-variant group-hover/icon:text-secondary transition-colors">javascript</span>
+<span class="font-code-sm text-code-sm">JS/ES6</span>
+</div>
+<div class="flex flex-col items-center gap-2 group/icon">
+<span class="material-symbols-outlined text-4xl text-on-surface-variant group-hover/icon:text-secondary transition-colors">waves</span>
+<span class="font-code-sm text-code-sm">Sass</span>
+</div>
+</div>
+</div>
+<!-- Backend -->
+<div class="glass-card p-card-padding md:col-span-4 rounded-xl relative group">
+<div class="inline-block px-3 py-1 rounded bg-surface-container-highest text-secondary font-label-caps text-[10px] mb-4">BACKEND</div>
+<h3 class="font-headline-md text-headline-md mb-6">Server Logic</h3>
+<div class="flex flex-col gap-6">
+<div class="flex items-center gap-4 p-3 rounded bg-white/5 border border-white/5">
+<span class="material-symbols-outlined text-secondary">database</span>
+<div class="font-code-sm">Node.js / Express</div>
+</div>
+<div class="flex items-center gap-4 p-3 rounded bg-white/5 border border-white/5">
+<span class="material-symbols-outlined text-secondary">api</span>
+<div class="font-code-sm">RESTful APIs</div>
+</div>
+</div>
+</div>
+<!-- Testing -->
+<div class="glass-card p-card-padding md:col-span-4 rounded-xl relative group">
+<div class="inline-block px-3 py-1 rounded bg-error-container text-error font-label-caps text-[10px] mb-4">TESTING</div>
+<h3 class="font-headline-md text-headline-md mb-6">Quality Assurance</h3>
+<div class="flex flex-wrap gap-2">
+<span class="px-3 py-1 bg-surface-container-high border border-outline/20 rounded font-code-sm">Vitest</span>
+<span class="px-3 py-1 bg-surface-container-high border border-outline/20 rounded font-code-sm">Cypress</span>
+<span class="px-3 py-1 bg-surface-container-high border border-outline/20 rounded font-code-sm">Mocha</span>
+<span class="px-3 py-1 bg-surface-container-high border border-outline/20 rounded font-code-sm">Jest</span>
+</div>
+</div>
+<!-- Other -->
+<div class="glass-card p-card-padding md:col-span-8 rounded-xl relative group">
+<div class="inline-block px-3 py-1 rounded bg-surface-container-highest text-on-surface font-label-caps text-[10px] mb-4">INFRASTRUCTURE</div>
+<h3 class="font-headline-md text-headline-md mb-6">Cloud &amp; DevOps</h3>
+<div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary-fixed">cloud</span>
+<span class="font-code-sm">AWS</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary-fixed">local_fire_department</span>
+<span class="font-code-sm">Firebase</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary-fixed">contacts</span>
+<span class="font-code-sm">Docker</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary-fixed">hub</span>
+<span class="font-code-sm">GitHub Actions</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Projects Section -->
+<section class="py-section-gap scroll-reveal active" id="projects">
+<div class="flex items-center justify-between mb-16">
+<div>
+<span class="font-label-caps text-label-caps text-outline mb-2 block">/02 RECENT WORK</span>
+<h2 class="font-headline-lg text-headline-lg">Featured Projects</h2>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter">
+<!-- Project 1 -->
+<article class="glass-card rounded-xl overflow-hidden flex flex-col group">
+<div class="aspect-video bg-surface-container relative overflow-hidden">
+<div class="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10"></div>
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A clean, dark user interface of an AI testing dashboard with glowing neon cyan charts and technical data visualizations, echoing a high-tech minimalist aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB5WnToO3WiDGRCSQ4Ki_urYFGLsk0oLXtfyIvtXupy_W03KmBCP6JFFHr1kaqGcmkGY0lsYvNKw5T4EqagJLacCEyRBqX-9HxcST0FiDpXMdlnGfsXow4Le4S3o6PF2QAZC8bdF6QZXGhl36QDTCz4r7ZS3i_52Q79wvsze9AIBKZrl_XQLPcNHzvDS-igTrbg33rlSUMUZas1zyUPIGPdgyDgNGY-GQA5MgIOZ8DcesfpRvpBO94bK5BJjYCZd7YTHUdPASPpQg">
+</div>
+<div class="p-card-padding flex-grow flex flex-col">
+<h3 class="font-headline-md text-headline-md mb-4 text-primary">AVTR SMART AI</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-6 line-clamp-3">
+                            Platform focused on QA engineers for generating test plans using generative AI tools. Optimizing workflow efficiency through automation.
+                        </p>
+<div class="flex flex-wrap gap-2 mb-8 mt-auto">
+<span class="text-[10px] font-label-caps text-secondary px-2 py-0.5 border border-secondary/30 rounded uppercase">React</span>
+<span class="text-[10px] font-label-caps text-secondary px-2 py-0.5 border border-secondary/30 rounded uppercase">Java</span>
+<span class="text-[10px] font-label-caps text-secondary px-2 py-0.5 border border-secondary/30 rounded uppercase">Vitest</span>
+</div>
+<a class="flex items-center gap-2 font-code-sm text-code-sm text-secondary hover:underline" href="#">
+                            View Documentation <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+</a>
+</div>
+</article>
+<!-- Project 2 -->
+<article class="glass-card rounded-xl overflow-hidden flex flex-col group">
+<div class="aspect-video bg-surface-container relative overflow-hidden">
+<div class="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10"></div>
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A mobile application UI mock-up for tracking expenses, featuring minimalist typography and a dark glassmorphic design language with soft emerald green highlights." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCWVd3tWX0C--4AikvWUFyAWmIa24Oe2lISJmTksDvxh-tzeyGUCqz71wTIAoIEYZCdiaM3Ings-6WU4FxVIoIlyq2IEImVCH8jV6CI77O-tpk_XFBjGTUkJ32ywMPbVr253_GaD-AxFLAZXDEjY9LDkLOsi4BWj32R5PjIAUPNOIEphCda5T65xHx2_h7zPL_0NuDSxvyaeH1F6HzIEX7pH_GPvv8o6415MPEZwt-I8EcwROe_cj3VbOxxj9KCVnJuvk5jALKGKQ">
+</div>
+<div class="p-card-padding flex-grow flex flex-col">
+<h3 class="font-headline-md text-headline-md mb-4 text-primary">PERSONAL EXPENSES</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-6 line-clamp-3">
+                            Comprehensive platform to track personal finances across web and mobile. Featuring real-time sync and data encryption.
+                        </p>
+<div class="flex flex-wrap gap-2 mb-8 mt-auto">
+<span class="text-[10px] font-label-caps text-secondary px-2 py-0.5 border border-secondary/30 rounded uppercase">Next.js</span>
+<span class="text-[10px] font-label-caps text-secondary px-2 py-0.5 border border-secondary/30 rounded uppercase">React Native</span>
+<span class="text-[10px] font-label-caps text-secondary px-2 py-0.5 border border-secondary/30 rounded uppercase">Clerk</span>
+</div>
+<a class="flex items-center gap-2 font-code-sm text-code-sm text-secondary hover:underline" href="#">
+                            View Case Study <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+</a>
+</div>
+</article>
+<!-- Project 3 -->
+<article class="glass-card rounded-xl overflow-hidden flex flex-col group">
+<div class="aspect-video bg-surface-container relative overflow-hidden">
+<div class="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent z-10"></div>
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="A sophisticated data visualization dashboard showing interconnected nodes and network activity in a deep blue and cyan color palette, reflecting security and intelligence." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCeWopM8xWaSdKj1kB9hQLfgQMDz4D75llYVIAvxEwSnz_MBUVDDwpnLngJoOrAAKLrcny7fh1roKRetirCulOcXIPPF-fPY-O-qJ2HdTQf-ieigE24AQf5zDOKBSsw0axpKAtOEAgeHXDqBperhVFxGuVB68frgEE_B9zk54_56GWsKpH2JFJHWcWjZVjklvHWOyEluwIzYoNz871vdPFkTTPXUNdqfnSMkAyAd16NuLZwdlpDvTY7TofKRYV5FryRtwykxPeZeg">
+</div>
+<div class="p-card-padding flex-grow flex flex-col">
+<h3 class="font-headline-md text-headline-md mb-4 text-primary">ACCURATE</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-6 line-clamp-3">
+                            AI-driven platform designed to prevent workplace harassment using predictive models and behavioral intelligence.
+                        </p>
+<div class="flex flex-wrap gap-2 mb-8 mt-auto">
+<span class="text-[10px] font-label-caps text-secondary px-2 py-0.5 border border-secondary/30 rounded uppercase">Express</span>
+<span class="text-[10px] font-label-caps text-secondary px-2 py-0.5 border border-secondary/30 rounded uppercase">Tailwind</span>
+<span class="text-[10px] font-label-caps text-secondary px-2 py-0.5 border border-secondary/30 rounded uppercase">Firebase</span>
+</div>
+<a class="flex items-center gap-2 font-code-sm text-code-sm text-secondary hover:underline" href="#">
+                            Explore Platform <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+</a>
+</div>
+</article>
+</div>
+</section>
+<!-- Entrepreneurship Section -->
+<section class="py-section-gap scroll-reveal active" id="entrepreneurship">
+<div class="flex items-center justify-between mb-16">
+<div>
+<span class="font-label-caps text-label-caps text-outline mb-2 block">/03 VENTURE</span>
+<h2 class="font-headline-lg text-headline-lg">Brave Up!</h2>
+<p class="font-code-sm text-code-sm text-secondary mt-2">Co-Founder &amp; CTO</p>
+</div>
+</div>
+<div class="max-w-4xl mb-16">
+<p class="font-body-lg text-body-lg leading-relaxed text-on-surface-variant">
+                    Leading an AI-powered platform focused on helping schools detect, predict, and prevent bullying and cyberbullying. Through our data-driven approach, we leverage advanced technology and analytics to provide schools with the tools they need to create safer and more supportive environments for students.
+                </p>
+</div>
+<div class="flex flex-col gap-gutter">
+<!-- Brave Up Suite -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter">
+<div class="p-card-padding rounded-xl bg-surface-container-low border border-white/5 hover:border-secondary/30 transition-colors">
+<span class="material-symbols-outlined text-secondary mb-4">school</span>
+<h4 class="font-headline-md text-headline-md mb-2">Platform</h4>
+<p class="font-body-md text-body-md text-on-surface-variant mb-4">Main web application for schools to manage incidents and reporting.</p>
+<div class="flex flex-wrap gap-1.5">
+<span class="px-2 py-0.5 bg-surface-container rounded text-[10px] font-code-sm">React</span>
+<span class="px-2 py-0.5 bg-surface-container rounded text-[10px] font-code-sm">D3.js</span>
+<span class="px-2 py-0.5 bg-surface-container rounded text-[10px] font-code-sm">AntDesign</span>
+</div>
+</div>
+<div class="p-card-padding rounded-xl bg-surface-container-low border border-white/5 hover:border-secondary/30 transition-colors">
+<span class="material-symbols-outlined text-secondary mb-4">language</span>
+<h4 class="font-headline-md text-headline-md mb-2">Marketing</h4>
+<p class="font-body-md text-body-md text-on-surface-variant mb-4">Strategic contact point and showcase for K-12 stakeholders.</p>
+<div class="flex flex-wrap gap-1.5">
+<span class="px-2 py-0.5 bg-surface-container rounded text-[10px] font-code-sm">CRA</span>
+<span class="px-2 py-0.5 bg-surface-container rounded text-[10px] font-code-sm">Google Analytics</span>
+</div>
+</div>
+<div class="p-card-padding rounded-xl bg-surface-container-low border border-white/5 hover:border-secondary/30 transition-colors">
+<span class="material-symbols-outlined text-secondary mb-4">admin_panel_settings</span>
+<h4 class="font-headline-md text-headline-md mb-2">Admin Tool</h4>
+<p class="font-body-md text-body-md text-on-surface-variant mb-4">Advanced CRUD management and dashboard for system control.</p>
+<div class="flex flex-wrap gap-1.5">
+<span class="px-2 py-0.5 bg-surface-container rounded text-[10px] font-code-sm">React Router</span>
+<span class="px-2 py-0.5 bg-surface-container rounded text-[10px] font-code-sm">Firebase</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer / Contact Section -->
+<footer class="bg-surface-container-low border-t border-white/10 mt-section-gap" id="contact">
+<div class="flex flex-col md:flex-row justify-between items-start w-full px-margin-mobile md:px-gutter py-16 max-w-container-max mx-auto gap-12">
+<div class="max-w-md">
+<div class="font-label-caps text-label-caps text-on-surface-variant mb-6">/04 CONTACT_INFO</div>
+<h2 class="font-headline-lg text-headline-lg mb-8">Let's build something precise.</h2>
+<div class="space-y-4">
+<a class="flex items-center gap-4 group" href="mailto:jamassaro@gmail.com">
+<span class="material-symbols-outlined text-secondary group-hover:scale-110 transition-transform">mail</span>
+<span class="font-headline-md text-headline-md text-on-surface group-hover:text-primary transition-colors">jamassaro@gmail.com</span>
+</a>
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-secondary">call</span>
+<span class="font-body-lg text-body-lg text-on-surface-variant">+1 (718) 300-3187</span>
+</div>
+</div>
+</div>
+<div class="flex flex-col gap-4 min-w-[200px]">
+<div class="font-label-caps text-label-caps text-on-surface-variant uppercase mb-2">Connect</div>
+<a class="font-code-sm text-code-sm text-on-surface-variant hover:text-primary transition-colors underline" href="#">LinkedIn</a>
+<a class="font-code-sm text-code-sm text-on-surface-variant hover:text-primary transition-colors underline" href="#">GitHub</a>
+<a class="font-code-sm text-code-sm text-on-surface-variant hover:text-primary transition-colors underline" href="#">Email</a>
+<a class="font-code-sm text-code-sm text-on-surface-variant hover:text-primary transition-colors underline" href="#">Resume</a>
+</div>
+</div>
+<div class="w-full px-margin-mobile md:px-gutter py-8 max-w-container-max mx-auto border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
+<span class="font-code-sm text-code-sm text-on-surface-variant">© 2024 Jose A. Massaro. Built with precision.</span>
+<div class="flex items-center gap-2">
+<div class="w-2 h-2 rounded-full bg-secondary animate-pulse"></div>
+<span class="font-label-caps text-label-caps text-secondary text-[10px]">ALL SYSTEMS OPERATIONAL</span>
+</div>
+</div>
+</footer>
+<script>
+        // Simple intersection observer for scroll reveals
+        const observerOptions = {
+            threshold: 0.1
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('active');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.scroll-reveal').forEach(el => observer.observe(el));
+
+        // Smooth scrolling for navigation
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+
+
+</body></html>

@@ -1,0 +1,50 @@
+/* Scroll Progress Component Styles */
+
+.progressContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: rgba(255, 255, 255, 0.05);
+  z-index: 9999;
+  opacity: 0;
+  transition: opacity var(--transition-fast);
+  pointer-events: none;
+}
+
+.progressContainer.visible {
+  opacity: 1;
+}
+
+.progressBar {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-cyan-primary) 0%, var(--color-emerald-secondary) 100%);
+  box-shadow: 0 0 10px rgba(0, 220, 229, 0.5);
+  transition: width 0.1s ease-out;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Glow effect */
+.progressBar::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: -2px;
+  bottom: -2px;
+  width: 4px;
+  background: var(--color-cyan-primary);
+  box-shadow: 0 0 8px rgba(0, 220, 229, 0.8);
+  border-radius: 2px;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .progressBar {
+    transition: none;
+  }
+  
+  .progressBar::after {
+    display: none;
+  }
+}

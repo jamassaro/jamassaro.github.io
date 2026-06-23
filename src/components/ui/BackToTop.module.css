@@ -1,0 +1,130 @@
+/* Back To Top Button Styles */
+
+.backToTop {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(0, 220, 229, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--color-cyan-primary);
+  color: var(--color-cyan-primary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px) scale(0.8);
+  transition: all var(--transition-normal);
+  box-shadow: 0 4px 12px rgba(0, 220, 229, 0.2);
+}
+
+.backToTop.visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0) scale(1);
+}
+
+.backToTop:hover {
+  background: rgba(0, 220, 229, 0.2);
+  transform: translateY(-4px) scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 220, 229, 0.4);
+}
+
+.backToTop:active {
+  transform: translateY(-2px) scale(1);
+}
+
+.backToTop:focus {
+  outline: 2px solid var(--color-cyan-primary);
+  outline-offset: 2px;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  transition: transform var(--transition-fast);
+}
+
+.backToTop:hover .icon {
+  transform: translateY(-2px);
+}
+
+/* Pulse animation when first appearing */
+@keyframes buttonPulse {
+  0% {
+    box-shadow: 0 4px 12px rgba(0, 220, 229, 0.2);
+  }
+  50% {
+    box-shadow: 0 4px 20px rgba(0, 220, 229, 0.4);
+  }
+  100% {
+    box-shadow: 0 4px 12px rgba(0, 220, 229, 0.2);
+  }
+}
+
+.backToTop.visible {
+  animation: buttonPulse 2s ease-in-out infinite;
+}
+
+.backToTop:hover {
+  animation: none;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .backToTop {
+    bottom: 24px;
+    right: 24px;
+    width: 44px;
+    height: 44px;
+  }
+
+  .icon {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+/* Small mobile */
+@media (max-width: 480px) {
+  .backToTop {
+    bottom: 20px;
+    right: 20px;
+    width: 44px;
+    height: 44px;
+  }
+
+  .icon {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .backToTop {
+    transition: opacity 0.3s ease;
+  }
+
+  .backToTop.visible {
+    animation: none;
+  }
+
+  .backToTop:hover {
+    transform: none;
+  }
+
+  .icon {
+    transition: none;
+  }
+
+  .backToTop:hover .icon {
+    transform: none;
+  }
+}

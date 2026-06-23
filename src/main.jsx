@@ -3,15 +3,11 @@ import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import i18n from './configs/i18n'
 import { I18nextProvider } from 'react-i18next';
-import './index.css'
-
-// const queryClient = new QueryClient()
+import './styles/globals.css'
+import './styles/animations.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-<I18nextProvider i18n={i18n}>
-  {/* <QueryClientProvider client={queryClient}> */}
+  <I18nextProvider i18n={i18n}>
     <App />
-  {/* </QueryClientProvider> */}
-</I18nextProvider>
- 
+  </I18nextProvider>
 )

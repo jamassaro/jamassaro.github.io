@@ -1,0 +1,157 @@
+/* AnimatedSection Component Styles - Following SRP */
+
+.animatedSection {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: var(--transition-slow);
+}
+
+.animatedSection.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Animation Variants */
+.fadeIn {
+  opacity: 0;
+  transition: opacity 0.6s ease-out;
+}
+
+.fadeIn.active {
+  opacity: 1;
+}
+
+.fadeInUp {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.fadeInUp.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.fadeInDown {
+  opacity: 0;
+  transform: translateY(-20px);
+}
+
+.fadeInDown.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.slideInLeft {
+  opacity: 0;
+  transform: translateX(-30px);
+}
+
+.slideInLeft.active {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.slideInRight {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.slideInRight.active {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.scaleIn {
+  opacity: 0;
+  transform: scale(0.95);
+}
+
+.scaleIn.active {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Delay Options */
+.delay100 {
+  transition-delay: 0.1s;
+}
+
+.delay200 {
+  transition-delay: 0.2s;
+}
+
+.delay300 {
+  transition-delay: 0.3s;
+}
+
+.delay400 {
+  transition-delay: 0.4s;
+}
+
+.delay500 {
+  transition-delay: 0.5s;
+}
+
+/* Duration Options */
+.fast {
+  transition-duration: 0.3s;
+}
+
+.slow {
+  transition-duration: 1s;
+}
+
+/* Stagger Container */
+.staggerContainer > * {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: var(--transition-slow);
+}
+
+.staggerContainer.active > *:nth-child(1) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.1s;
+}
+
+.staggerContainer.active > *:nth-child(2) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.2s;
+}
+
+.staggerContainer.active > *:nth-child(3) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.3s;
+}
+
+.staggerContainer.active > *:nth-child(4) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.4s;
+}
+
+.staggerContainer.active > *:nth-child(5) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.5s;
+}
+
+.staggerContainer.active > *:nth-child(6) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.6s;
+}
+
+.staggerContainer.active > *:nth-child(7) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.7s;
+}
+
+.staggerContainer.active > *:nth-child(8) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.8s;
+}

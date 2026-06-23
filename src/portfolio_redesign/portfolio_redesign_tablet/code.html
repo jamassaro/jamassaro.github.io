@@ -1,0 +1,458 @@
+<!DOCTYPE html><html class="dark" lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Portfolio Redesign - Tablet | JAM.DEV</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;family=JetBrains+Mono:wght@400;600&amp;family=Geist:wght@400;600;700;800&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<style>
+    :root {
+      --cyan-glow: rgba(0, 220, 229, 0.2);
+    }
+    body {
+      background-color: #111318;
+      color: #e2e2e8;
+    }
+    .glass-card {
+      background: rgba(255, 255, 255, 0.03);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .glass-card:hover {
+      border-color: #4edea3;
+      box-shadow: 0 0 20px rgba(78, 222, 163, 0.15);
+    }
+    .terminal-dots::before {
+      content: "•••";
+      letter-spacing: 2px;
+      font-size: 14px;
+      color: rgba(255, 255, 255, 0.2);
+      position: absolute;
+      top: 12px;
+      left: 16px;
+    }
+    .scanline {
+      width: 100%;
+      height: 2px;
+      background: rgba(0, 220, 229, 0.1);
+      position: absolute;
+      top: 0;
+      left: 0;
+      animation: scan 8s linear infinite;
+      z-index: 10;
+      pointer-events: none;
+    }
+    @keyframes scan {
+      0% { top: 0; }
+      100% { top: 100%; }
+    }
+    .material-symbols-outlined {
+      font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    }
+  </style>
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          "colors": {
+            "on-secondary-container": "#00311f",
+            "secondary-container": "#00a572",
+            "outline-variant": "#3a494a",
+            "on-secondary-fixed": "#002113",
+            "tertiary": "#fcf8ff",
+            "on-background": "#e2e2e8",
+            "on-surface": "#e2e2e8",
+            "on-secondary": "#003824",
+            "tertiary-fixed": "#e1e0ff",
+            "on-error-container": "#ffdad6",
+            "on-tertiary-container": "#4c4ed9",
+            "background": "#111318",
+            "inverse-surface": "#e2e2e8",
+            "on-tertiary-fixed": "#07006c",
+            "on-tertiary": "#1000a9",
+            "tertiary-fixed-dim": "#c0c1ff",
+            "inverse-primary": "#00696e",
+            "inverse-on-surface": "#2f3035",
+            "surface-tint": "#00dce5",
+            "outline": "#849495",
+            "on-primary-fixed": "#002021",
+            "secondary": "#4edea3",
+            "surface-dim": "#111318",
+            "on-primary-fixed-variant": "#004f53",
+            "secondary-fixed-dim": "#4edea3",
+            "surface-container-highest": "#333539",
+            "primary-fixed": "#63f7ff",
+            "on-error": "#690005",
+            "surface-variant": "#333539",
+            "error": "#ffb4ab",
+            "surface": "#111318",
+            "surface-bright": "#37393e",
+            "error-container": "#93000a",
+            "on-primary-container": "#006c71",
+            "primary-fixed-dim": "#00dce5",
+            "on-secondary-fixed-variant": "#005236",
+            "surface-container-lowest": "#0c0e12",
+            "primary-container": "#00f5ff",
+            "on-primary": "#003739",
+            "tertiary-container": "#dbdaff",
+            "secondary-fixed": "#6ffbbe",
+            "surface-container": "#1e2024",
+            "on-surface-variant": "#b9caca",
+            "primary": "#e9feff",
+            "on-tertiary-fixed-variant": "#2f2ebe",
+            "surface-container-high": "#282a2e",
+            "surface-container-low": "#1a1c20"
+          },
+          "borderRadius": {
+            "DEFAULT": "0.125rem",
+            "lg": "0.25rem",
+            "xl": "0.5rem",
+            "full": "0.75rem"
+          },
+          "spacing": {
+            "container-max": "1200px",
+            "unit": "4px",
+            "card-padding": "32px",
+            "gutter": "24px",
+            "section-gap": "120px",
+            "margin-mobile": "16px"
+          },
+          "fontFamily": {
+            "body-lg": ["Inter"],
+            "label-caps": ["JetBrains Mono"],
+            "headline-lg": ["Geist"],
+            "headline-md": ["Geist"],
+            "display": ["Geist"],
+            "body-md": ["Inter"],
+            "code-sm": ["JetBrains Mono"]
+          },
+          "fontSize": {
+            "body-lg": ["18px", {"lineHeight": "1.6", "fontWeight": "400"}],
+            "label-caps": ["12px", {"lineHeight": "1.2", "letterSpacing": "0.1em", "fontWeight": "600"}],
+            "headline-lg": ["40px", {"lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+            "headline-md": ["24px", {"lineHeight": "1.3", "fontWeight": "600"}],
+            "display": ["64px", {"lineHeight": "1.1", "letterSpacing": "-0.04em", "fontWeight": "800"}],
+            "body-md": ["16px", {"lineHeight": "1.5", "fontWeight": "400"}],
+            "code-sm": ["14px", {"lineHeight": "1.4", "fontWeight": "400"}]
+          }
+        },
+      },
+    }
+  </script>
+</head>
+<body class="selection:bg-primary-container selection:text-on-primary-container font-body-md overflow-x-hidden">
+<div class="scanline"></div>
+<!-- Shared Component: SideNavBar (Tablet Logic: Hidden on small, visible on lg) -->
+<aside class="hidden lg:flex flex-col h-screen w-64 fixed left-0 top-0 bg-surface-container-lowest border-r border-white/10 z-[60]">
+<div class="p-8">
+<h2 class="font-headline-md text-headline-md text-primary font-bold tracking-tighter">JAM.DEV</h2>
+<p class="font-code-sm text-code-sm text-on-surface-variant mt-1">Software Architect</p>
+</div>
+<nav class="flex-1 mt-8">
+<a class="bg-secondary-container text-on-secondary-container rounded-lg mx-2 my-1 px-4 py-3 flex items-center gap-3 transition-transform Active:translate-x-1" href="#home">
+<span class="material-symbols-outlined" data-icon="terminal">terminal</span>
+<span class="font-code-sm text-code-sm">Home</span>
+</a>
+<a class="text-on-surface-variant hover:bg-white/5 rounded-lg mx-2 my-1 px-4 py-3 flex items-center gap-3 transition-colors" href="#expertise">
+<span class="material-symbols-outlined" data-icon="code">code</span>
+<span class="font-code-sm text-code-sm">Expertise</span>
+</a>
+<a class="text-on-surface-variant hover:bg-white/5 rounded-lg mx-2 my-1 px-4 py-3 flex items-center gap-3 transition-colors" href="#projects">
+<span class="material-symbols-outlined" data-icon="layers">layers</span>
+<span class="font-code-sm text-code-sm">Projects</span>
+</a>
+<a class="text-on-surface-variant hover:bg-white/5 rounded-lg mx-2 my-1 px-4 py-3 flex items-center gap-3 transition-colors" href="#venture">
+<span class="material-symbols-outlined" data-icon="rocket_launch">rocket_launch</span>
+<span class="font-code-sm text-code-sm">Venture</span>
+</a>
+<a class="text-on-surface-variant hover:bg-white/5 rounded-lg mx-2 my-1 px-4 py-3 flex items-center gap-3 transition-colors" href="#contact">
+<span class="material-symbols-outlined" data-icon="alternate_email">alternate_email</span>
+<span class="font-code-sm text-code-sm">Contact</span>
+</a>
+<div class="mt-8 px-4 py-2 border-t border-white/5">
+  <div class="flex items-center gap-2 font-code-sm text-code-sm">
+    <button class="text-secondary hover:text-primary transition-colors">EN</button>
+    <span class="text-white/20">|</span>
+    <button class="text-on-surface-variant hover:text-primary transition-colors">ES</button>
+  </div>
+</div></nav>
+<div class="p-4 border-t border-white/5">
+<div class="flex flex-col gap-2">
+<a class="text-on-surface-variant font-code-sm flex items-center gap-2 hover:text-primary transition-colors" href="#">
+<span class="material-symbols-outlined text-sm" data-icon="code">code</span> GitHub
+        </a>
+<a class="text-on-surface-variant font-code-sm flex items-center gap-2 hover:text-primary transition-colors" href="#">
+<span class="material-symbols-outlined text-sm" data-icon="person">person</span> LinkedIn
+        </a>
+</div>
+</div>
+</aside>
+<!-- Mobile/Tablet Navigation Bar -->
+<header class="lg:hidden sticky top-0 bg-background/80 backdrop-blur-md border-b border-white/10 z-[60] flex justify-between items-center w-full px-8 py-4">
+<div class="font-headline-md text-headline-md font-bold text-primary tracking-tighter">JAM.DEV</div>
+<button class="text-primary p-2" onclick="document.getElementById('mobile-drawer').classList.remove('translate-x-full')">
+<span class="material-symbols-outlined text-3xl" data-icon="menu">menu</span>
+</button>
+</header>
+<!-- Mobile Drawer Overlay -->
+<div class="fixed inset-0 bg-background z-[70] translate-x-full transition-transform duration-300 lg:hidden flex flex-col" id="mobile-drawer">
+<div class="flex justify-between items-center px-8 py-4 border-b border-white/10">
+<span class="font-headline-md text-headline-md font-bold text-primary tracking-tighter">JAM.DEV</span>
+<button class="text-primary p-2" onclick="document.getElementById('mobile-drawer').classList.add('translate-x-full')">
+<span class="material-symbols-outlined text-3xl" data-icon="close">close</span>
+</button>
+</div>
+<nav class="flex flex-col p-8 gap-6">
+<a class="font-display text-headline-lg text-primary" href="#home">01_Home</a>
+<a class="font-display text-headline-lg text-primary" href="#expertise">02_Expertise</a>
+<a class="font-display text-headline-lg text-primary" href="#projects">03_Projects</a>
+<a class="font-display text-headline-lg text-primary" href="#venture">04_Entrepreneurship</a>
+<a class="font-display text-headline-lg text-primary" href="#contact">05_Contact</a>
+</nav>
+</div>
+<!-- Main Canvas -->
+<main class="lg:ml-64 max-w-[1024px] mx-auto px-8 md:px-12">
+<!-- Hero Section -->
+<section class="min-h-[80vh] flex flex-col justify-center py-section-gap" id="home">
+<div class="relative">
+<div class="absolute -top-20 -left-20 w-64 h-64 bg-secondary/10 blur-[100px] rounded-full"></div>
+<p class="font-label-caps text-label-caps text-secondary mb-4">SYSTEM_INIT_SUCCESS</p>
+<h1 class="font-display text-display text-primary leading-[0.9] mb-6">JOSE A.<br>MASSARO.</h1>
+<p class="font-code-sm text-code-sm text-on-surface-variant uppercase tracking-widest mb-8">SOFTWARE DEVELOPER // ARCHITECT</p>
+</div>
+<div class="grid md:grid-cols-12 gap-8">
+<div class="md:col-span-8">
+<p class="font-body-lg text-body-lg text-on-surface leading-relaxed">
+            Proactive software developer and business manager with a proven record in technology strategy, frontend development, and team management. I have years of experience in both profit and non-profit organizations, recently focusing on Edtech solutions and multi-disciplinary teams.
+          </p>
+</div>
+<div class="md:col-span-4 flex flex-col gap-4">
+<div class="flex flex-wrap gap-4">
+<a class="font-code-sm text-code-sm text-secondary border border-secondary/30 px-4 py-2 hover:bg-secondary/5 transition-all" href="#">LinkedIn</a>
+<a class="font-code-sm text-code-sm text-secondary border border-secondary/30 px-4 py-2 hover:bg-secondary/5 transition-all" href="#">GitHub</a>
+<a class="font-code-sm text-code-sm text-secondary border border-secondary/30 px-4 py-2 hover:bg-secondary/5 transition-all" href="#">Resume</a>
+</div>
+</div>
+</div>
+</section>
+<!-- Expertise Section (2-column Grid) -->
+<section class="py-section-gap" id="expertise">
+<div class="flex flex-col mb-16">
+<span class="font-code-sm text-code-sm text-secondary-container">02_STACK</span>
+<h2 class="font-display text-headline-lg text-primary">My Expertise</h2>
+</div>
+<div class="grid md:grid-cols-2 gap-gutter">
+<!-- Frontend -->
+<div class="glass-card p-card-padding relative overflow-hidden group">
+<div class="terminal-dots"></div>
+<div class="mt-4">
+<span class="inline-block bg-blue-600 text-white font-label-caps text-[10px] px-3 py-1 rounded-full mb-8">FRONTEND</span>
+<div class="grid grid-cols-3 gap-6 items-center justify-items-center opacity-80 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-4xl text-[#61DAFB]" data-icon="blur_on">blur_on</span>
+<span class="material-symbols-outlined text-4xl text-[#E34F26]" data-icon="html">html</span>
+<span class="material-symbols-outlined text-4xl text-[#1572B6]" data-icon="css">css</span>
+<span class="material-symbols-outlined text-4xl text-[#CF649A]" data-icon="category">category</span>
+<span class="material-symbols-outlined text-4xl text-[#06B6D4]" data-icon="waves">waves</span>
+<span class="material-symbols-outlined text-4xl text-[#F7DF1E]" data-icon="javascript">javascript</span>
+</div>
+</div>
+</div>
+<!-- Backend -->
+<div class="glass-card p-card-padding relative overflow-hidden group">
+<div class="terminal-dots"></div>
+<div class="mt-4">
+<span class="inline-block bg-green-700 text-white font-label-caps text-[10px] px-3 py-1 rounded-full mb-8">BACKEND</span>
+<div class="grid grid-cols-3 gap-6 items-center justify-items-center opacity-80 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-4xl text-[#339933]" data-icon="node_managed">folder_managed</span>
+<span class="material-symbols-outlined text-4xl text-on-surface" data-icon="terminal">terminal</span>
+<span class="material-symbols-outlined text-4xl text-[#F7DF1E]" data-icon="javascript">javascript</span>
+</div>
+</div>
+</div>
+<!-- Testing -->
+<div class="glass-card p-card-padding relative overflow-hidden group">
+<div class="terminal-dots"></div>
+<div class="mt-4">
+<span class="inline-block bg-red-600 text-white font-label-caps text-[10px] px-3 py-1 rounded-full mb-8">TESTING</span>
+<div class="grid grid-cols-3 gap-6 items-center justify-items-center opacity-80 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-3xl" data-icon="bug_report">bug_report</span>
+<span class="material-symbols-outlined text-3xl" data-icon="verified_user">verified_user</span>
+<span class="material-symbols-outlined text-3xl" data-icon="bolt">bolt</span>
+<span class="material-symbols-outlined text-3xl" data-icon="shield">shield</span>
+<span class="material-symbols-outlined text-3xl" data-icon="coffee">coffee</span>
+<span class="material-symbols-outlined text-3xl" data-icon="psychology">psychology</span>
+</div>
+</div>
+</div>
+<!-- Other -->
+<div class="glass-card p-card-padding relative overflow-hidden group">
+<div class="terminal-dots"></div>
+<div class="mt-4">
+<span class="inline-block bg-purple-700 text-white font-label-caps text-[10px] px-3 py-1 rounded-full mb-8">OTHER</span>
+<div class="grid grid-cols-3 gap-6 items-center justify-items-center opacity-80 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-3xl" data-icon="cloud">cloud</span>
+<span class="material-symbols-outlined text-3xl" data-icon="local_fire_department">local_fire_department</span>
+<span class="material-symbols-outlined text-3xl" data-icon="trending_up">trending_up</span>
+<span class="material-symbols-outlined text-3xl" data-icon="rss_feed">rss_feed</span>
+<span class="material-symbols-outlined text-3xl" data-icon="code">code</span>
+<span class="material-symbols-outlined text-3xl" data-icon="dock">dock</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Projects Section (Bento Grid Style) -->
+<section class="py-section-gap" id="projects">
+<div class="flex flex-col mb-16">
+<span class="font-code-sm text-code-sm text-secondary-container">03_WORK</span>
+<h2 class="font-display text-headline-lg text-primary">Featured Projects</h2>
+</div>
+<div class="grid md:grid-cols-2 gap-8">
+<!-- Project 1 -->
+<div class="glass-card p-8 flex flex-col h-full border-b-4 border-b-secondary/20">
+<h3 class="font-headline-md text-headline-md text-primary mb-4 tracking-tighter uppercase">AVTR SMART AI</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-8 flex-1">
+            Platform focused on QA engineers for generating test plans, using generative AI tools. Architectural precision meets machine learning.
+          </p>
+<div class="flex flex-wrap gap-2">
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">React</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">Java</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">Azure-SSO</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">AWS</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">Vitest</span>
+</div>
+</div>
+<!-- Project 2 -->
+<div class="glass-card p-8 flex flex-col h-full border-b-4 border-b-secondary/20">
+<h3 class="font-headline-md text-headline-md text-primary mb-4 tracking-tighter uppercase">PERSONAL EXPENSES</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-8 flex-1">
+            Platform to track personal expenses and manage your finances. This platform is in web and mobile versions with deep security integration.
+          </p>
+<div class="flex flex-wrap gap-2">
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">Next.js</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">React Native</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">Tailwind</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">Clerk</span>
+</div>
+</div>
+<!-- Project 3 (Wide column spanning potential) -->
+<div class="md:col-span-2 glass-card p-8 flex flex-col md:flex-row gap-8 items-center">
+<div class="flex-1">
+<h3 class="font-headline-md text-headline-md text-primary mb-4 tracking-tighter uppercase">ACCURATE</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-8">
+              Platform to prevent workplace harassment with the help of predictive models and artificial intelligence. A social impact tool built with enterprise tech.
+            </p>
+<div class="flex flex-wrap gap-2">
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">React</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">Express</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">Firebase</span>
+<span class="font-code-sm text-[10px] bg-white/5 border border-white/10 px-3 py-1 rounded-full">Vitest</span>
+</div>
+</div>
+<div class="hidden md:block w-48 h-48 bg-secondary/5 rounded-full border-2 border-secondary/20 flex items-center justify-center">
+<span class="material-symbols-outlined text-6xl text-secondary/30" data-icon="policy">policy</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Entrepreneurship Section (Brave Up!) -->
+<section class="py-section-gap border-l border-white/10 pl-8 ml-[-2px]" id="venture">
+<div class="flex flex-col mb-12">
+<span class="font-code-sm text-code-sm text-secondary-container">04_ENTREPRENEURSHIP</span>
+<h2 class="font-display text-headline-lg text-primary">Brave Up!</h2>
+</div>
+<div class="mb-16">
+<p class="font-body-lg text-body-lg text-on-surface leading-relaxed max-w-2xl mb-12">
+          As the Co-Founder and CTO of BRAVE UP!, I lead an AI-powered platform focused on helping schools detect, predict, and prevent bullying and cyberbullying. Through our data-driven approach, we leverage advanced technology and analytics to provide schools with the tools they need to create safer environments.
+        </p>
+</div>
+<div class="grid md:grid-cols-1 gap-6">
+<div class="glass-card p-card-padding hover:bg-white/[0.05]">
+<div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+<div>
+<h4 class="font-headline-md text-headline-md text-primary tracking-tight">BRAVE UP! Platform</h4>
+<p class="font-body-md text-body-md text-on-surface-variant mt-2">Web application designed to assist schools in predicting instances of bullying.</p>
+</div>
+<div class="flex gap-2">
+<span class="material-symbols-outlined text-secondary" data-icon="monitoring">monitoring</span>
+<span class="material-symbols-outlined text-secondary" data-icon="school">school</span>
+</div>
+</div>
+<div class="flex flex-wrap gap-2 mt-6">
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">React</span>
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">AntDesign</span>
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">Firebase</span>
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">MixPanel</span>
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">D3.js</span>
+</div>
+</div>
+<div class="glass-card p-card-padding hover:bg-white/[0.05]">
+<h4 class="font-headline-md text-headline-md text-primary tracking-tight">BRAVE UP! Website</h4>
+<p class="font-body-md text-body-md text-on-surface-variant mt-2">The public showcase of the platform's functionality and main point of contact for global clients.</p>
+<div class="flex flex-wrap gap-2 mt-6">
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">CRA</span>
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">Google Analytics</span>
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">React-Router-v6</span>
+</div>
+</div>
+<div class="glass-card p-card-padding hover:bg-white/[0.05]">
+<h4 class="font-headline-md text-headline-md text-primary tracking-tight">BRAVE UP! Admin</h4>
+<p class="font-body-md text-body-md text-on-surface-variant mt-2">Efficient CRUD management of entities like users and resources with deep search filters.</p>
+<div class="flex flex-wrap gap-2 mt-6">
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">Vite</span>
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">Firebase</span>
+<span class="font-code-sm text-[10px] text-secondary-container border border-secondary/20 px-2 py-1">Vitest</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Contact Section -->
+<section class="py-section-gap bg-surface-container-low rounded-t-3xl mt-section-gap px-8 pb-12" id="contact">
+<div class="text-center max-w-xl mx-auto py-12">
+<span class="font-label-caps text-label-caps text-secondary-container">GET_IN_TOUCH</span>
+<h2 class="font-display text-headline-lg text-primary my-6">Let's build something architectural.</h2>
+<div class="flex flex-col gap-4 mt-12">
+<a class="font-display text-headline-md text-primary hover:text-secondary transition-colors underline decoration-secondary/30 underline-offset-8" href="mailto:jamassaro@gmail.com">jamassaro@gmail.com</a>
+<p class="font-code-sm text-code-sm text-on-surface-variant">+1 (718) 300-3187</p>
+</div>
+<div class="flex justify-center gap-8 mt-16">
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-all" href="#">LINKEDIN</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-all" href="#">GITHUB</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-all" href="#">RESUME</a>
+</div>
+</div>
+</section>
+<!-- Footer -->
+<footer class="flex flex-col md:flex-row justify-between items-center w-full py-8 border-t border-white/10 opacity-50">
+<p class="font-code-sm text-code-sm text-on-surface-variant">© 2024 Jose A. Massaro. Built with precision.</p>
+<div class="flex gap-4 mt-4 md:mt-0">
+<span class="material-symbols-outlined text-sm" data-icon="verified">verified</span>
+<span class="font-label-caps text-label-caps text-on-surface-variant">STABLE_RELEASE_V4.2</span>
+</div>
+</footer>
+</main>
+<script>
+    // Micro-interactions for glass cards
+    document.querySelectorAll('.glass-card').forEach(card => {
+      card.addEventListener('mousemove', e => {
+        const rect = card.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        card.style.setProperty('--mouse-x', `${x}px`);
+        card.style.setProperty('--mouse-y', `${y}px`);
+      });
+    });
+
+    // Close mobile drawer when link clicked
+    document.querySelectorAll('#mobile-drawer a').forEach(link => {
+      link.addEventListener('click', () => {
+        document.getElementById('mobile-drawer').classList.add('translate-x-full');
+      });
+    });
+  </script>
+
+
+</body></html>
