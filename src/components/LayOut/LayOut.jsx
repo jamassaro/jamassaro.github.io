@@ -1,7 +1,8 @@
 import React from 'react'
-import { Navbar, Footer } from '../layout'
+import Navbar from './Navbar'
+import Footer from './Footer'
 import { ScrollProgress, BackToTop, PageLoader } from '../ui'
-import styles from '../layout/Layout.module.css'
+import styles from './Layout.module.css'
 
 const LayOut = ({ children }) => {
   return (
