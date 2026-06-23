@@ -46,7 +46,7 @@ const ExpertiseSection = () => {
                     <img
                       src={tech.icon}
                       alt={tech.name}
-                      className={styles.techIcon}
+                      className={`${styles.techIcon} ${tech.invertOnDark ? styles.invertOnDark : ''}`}
                     />
                     <span className={styles.techName}>{tech.name}</span>
                   </div>

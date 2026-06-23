@@ -1,8 +1,8 @@
 // Expertise Data Structure - Following DRY principle
 // Centralized expertise and tech stack data
 
-import HTML from '../assets/logos/frontend/html.svg';
-import CSS from '../assets/logos/frontend/css.svg';
+import NEXTJS from '../assets/logos/frontend/nextjs.svg';
+import TYPESCRIPT from '../assets/logos/frontend/typescript.svg';
 import SASS from '../assets/logos/frontend/sass.svg';
 import JavaScript from '../assets/logos/frontend/javascript.svg';
 import ReactLogo from '../assets/logos/frontend/react.svg';
@@ -29,8 +29,8 @@ export const expertiseCategories = [
     description: 'expertise.frontend.description',
     technologies: [
       { name: 'React', icon: ReactLogo, color: 'blue' },
-      { name: 'HTML', icon: HTML, color: 'blue' },
-      { name: 'CSS', icon: CSS, color: 'blue' },
+      { name: 'NextJs', icon: NEXTJS, color: 'blue', invertOnDark: true },
+      { name: 'TypeScript', icon: TYPESCRIPT, color: 'blue' },
       { name: 'JavaScript', icon: JavaScript, color: 'yellow' },
       { name: 'Tailwind', icon: Tailwind, color: 'blue' },
       { name: 'SASS', icon: SASS, color: 'purple' },
