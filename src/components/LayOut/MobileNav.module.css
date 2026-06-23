@@ -20,6 +20,35 @@
   transform: translateY(0);
 }
 
+/* Close Button */
+.closeButton {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 1px solid var(--color-outline-variant);
+  border-radius: 8px;
+  color: var(--color-primary-fixed);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  z-index: 10;
+}
+
+.closeButton:hover {
+  background: var(--color-surface-container-high);
+  border-color: var(--color-primary-fixed);
+  transform: rotate(90deg);
+}
+
+.closeButton svg {
+  transition: transform 0.3s ease;
+}
+
 /* Logo in Mobile Nav */
 .logo {
   font-family: var(--font-geist);

@@ -11,7 +11,7 @@ import { scrollToElement } from '../../utils/constants';
  */
 const Navbar = () => {
   const navigate = useNavigate();
-  const { i18n } = useTranslation();
+  const { t, i18n } = useTranslation();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [activeSection, setActiveSection] = useState('');
@@ -29,7 +29,7 @@ const Navbar = () => {
   // Track active section
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ['expertise', 'projects', 'venture', 'contact'];
+      const sections = ['expertise', 'projects', 'entrepreneurship'];
       const scrollPosition = window.scrollY + 100;
 
       for (const section of sections) {
@@ -61,10 +61,9 @@ const Navbar = () => {
   };
 
   const navItems = [
-    { id: 'expertise', label: '01_Expertise' },
-    { id: 'projects', label: '02_Projects' },
-    { id: 'entrepreneurship', label: '03_Entrepreneurship' },
-    { id: 'contact', label: '04_Contact' },
+    { id: 'expertise', label: t('navigation.expertise'), index: '01' },
+    { id: 'projects', label: t('navigation.projects'), index: '02' },
+    { id: 'entrepreneurship', label: t('navigation.entrepreneurship'), index: '03' },
   ];
 
   return (
@@ -84,7 +83,7 @@ const Navbar = () => {
                 onClick={() => handleNavigation(item.id)}
                 className={`${styles.navLink} ${activeSection === item.id ? styles.active : ''}`}
               >
-                {item.label}
+                {item.index}_{item.label}
               </button>
             ))}
           </nav>
@@ -107,13 +106,15 @@ const Navbar = () => {
               </button>
             </div>
 
-            {/* Actions Button */}
-            <button
+            {/* Resume Button */}
+            <a
+              href="/PDF/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className={styles.actionsButton}
-              onClick={() => handleNavigation('contact')}
             >
-              Actions
-            </button>
+              {t('navigation.resume')}
+            </a>
           </div>
 
           {/* Mobile Menu Button */}

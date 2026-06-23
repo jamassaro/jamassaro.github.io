@@ -6,7 +6,7 @@ import styles from './Footer.module.css';
  * Footer Component - SRP: Handles footer rendering with contact info and links
  */
 const Footer = () => {
-  const [t] = useTranslation();
+  const { t } = useTranslation();
   const currentYear = new Date().getFullYear();
 
   return (
@@ -15,23 +15,23 @@ const Footer = () => {
         <div className={styles.content}>
           {/* Contact Section */}
           <div className={styles.contactSection}>
-            <span className={styles.heading}>04_CONTACT_INFO</span>
+            <span className={styles.heading}>04_{t('footer.tag')}</span>
             <h2 className={styles.title}>
-              Let's build something<br />precise.
+              {t('footer.title')}
             </h2>
             <div className={styles.contactInfo}>
-              <a href="mailto:jamassaro@gmail.com" className={styles.contactLink}>
-                📧 jamassaro@gmail.com
+              <a href={`mailto:${t('footer.email')}`} className={styles.contactLink}>
+                📧 {t('footer.email')}
               </a>
-              <a href="tel:+17183003187" className={styles.contactLink}>
-                📞 +1 (718) 300-3187
+              <a href={`tel:${t('footer.phone').replace(/\s/g, '')}`} className={styles.contactLink}>
+                📞 {t('footer.phone')}
               </a>
             </div>
           </div>
 
           {/* Social Links */}
           <div className={styles.socialSection}>
-            <span className={styles.socialHeading}>CONNECT</span>
+            <span className={styles.socialHeading}>{t('footer.connect')}</span>
             <div className={styles.socialLinks}>
               <a
                 href="https://www.linkedin.com/in/jose-antonio-massaro-mayorga-716a2736/"
@@ -39,7 +39,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className={styles.socialLink}
               >
-                LinkedIn
+                {t('footer.linkedin')}
               </a>
               <a
                 href="https://github.com/jamassaro"
@@ -47,15 +47,15 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className={styles.socialLink}
               >
-                GitHub
+                {t('footer.github')}
               </a>
               <a
-                href="/resume.pdf"
+                href="/PDF/resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles.socialLink}
               >
-                {t('footer.resume') || 'Resume'}
+                {t('footer.resume')}
               </a>
             </div>
           </div>
@@ -64,9 +64,9 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className={styles.bottom}>
           <p className={styles.copyright}>
-            © {currentYear} Jose A. Massaro • Built with precision
+            © {currentYear} {t('footer.copyright')}
           </p>
-          <span className={styles.badge}>ALL_SYSTEMS_OPERATIONAL</span>
+          <span className={styles.badge}>{t('footer.badge')}</span>
         </div>
       </div>
     </footer>

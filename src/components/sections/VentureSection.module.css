@@ -23,6 +23,65 @@
   margin: 32px 0 0 0;
 }
 
+/* Website Link */
+.websiteLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 24px;
+  padding: 10px 18px;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-cyan-primary);
+  text-decoration: none;
+  background: rgba(0, 220, 229, 0.08);
+  border: 1px solid rgba(0, 220, 229, 0.3);
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.websiteLink:hover {
+  background: rgba(0, 220, 229, 0.15);
+  border-color: var(--color-cyan-primary);
+  transform: translateX(4px);
+  box-shadow: 0 0 20px rgba(0, 220, 229, 0.3);
+}
+
+.websiteLink svg {
+  transition: transform 0.3s ease;
+}
+
+.websiteLink:hover svg {
+  transform: translate(2px, -2px);
+}
+
+/* Metrics Row */
+.metricsRow {
+  display: flex;
+  justify-content: center;
+  gap: 48px;
+  margin-top: 40px;
+  margin-bottom: 0;
+  padding: 24px 0;
+}
+
+.metricItem {
+  text-align: center;
+}
+
+.metricValue {
+  font-family: var(--font-mono);
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-cyan-primary);
+  display: block;
+}
+
 /* Features Grid */
 .featuresGrid {
   display: grid;
@@ -116,6 +175,16 @@
   .ventureIntro {
     font-size: 15px;
     margin: 24px 0 0 0;
+  }
+
+  .metricsRow {
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 24px;
+  }
+  
+  .metricValue {
+    font-size: 16px;
   }
 
   .featuresGrid {

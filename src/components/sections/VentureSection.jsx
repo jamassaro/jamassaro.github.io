@@ -31,40 +31,7 @@ const AdminIcon = () => (
 const VentureSection = () => {
   const { t } = useTranslation();
 
-  const features = [
-    {
-      id: 'platform',
-      icon: <PlatformIcon />,
-      title: 'Platform',
-      description: 'Main web app and mobile experience for schools and students.',
-      technologies: [
-        { name: 'Next.js', color: 'cyan' },
-        { name: 'R.N.', color: 'blue' },
-        { name: 'PostgreSQL', color: 'emerald' }
-      ]
-    },
-    {
-      id: 'marketing',
-      icon: <MarketingIcon />,
-      title: 'Marketing',
-      description: 'Marketing site and analytics for K-12 institutions.',
-      technologies: [
-        { name: 'GA4', color: 'cyan' },
-        { name: 'Google Remarketing', color: 'purple' }
-      ]
-    },
-    {
-      id: 'admin',
-      icon: <AdminIcon />,
-      title: 'Admin Tool',
-      description: 'Administrative platform and dashboard for system control.',
-      technologies: [
-        { name: 'Node.js', color: 'emerald' },
-        { name: 'Firebase', color: 'yellow' },
-        { name: 'GraphQL', color: 'pink' }
-      ]
-    }
-  ];
+  const icons = [<PlatformIcon />, <MarketingIcon />, <AdminIcon />];
 
   return (
     <section id="entrepreneurship" className={styles.section}>
@@ -72,24 +39,64 @@ const VentureSection = () => {
         {/* Section Header */}
         <AnimatedSection animation="fadeInUp">
           <SectionTitle 
-            title="Brave Up!"
+            title={t('venture.company')}
             index="03"
-            indexLabel="VENTURE"
-            subtitle="CO-FOUNDER & CTO"
+            indexLabel={t('venture.tag')}
+            subtitle={t('venture.role')}
           />
           
           <p className={styles.ventureIntro}>
-            Leading an AI-powered platform focused on helping schools detect, predict, and prevent bullying and 
-            cyberbullying. We leverage advanced technology and analytics to provide schools with the tools they 
-            need to create safer and more supportive environments for students.
+            {t('venture.description')}
           </p>
+          
+          <a 
+            href="https://www.braveup.com" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className={styles.websiteLink}
+          >
+            <span>Visit Website</span>
+            <svg 
+              width="16" 
+              height="16" 
+              viewBox="0 0 24 24" 
+              fill="none" 
+              stroke="currentColor" 
+              strokeWidth="2"
+              strokeLinecap="round" 
+              strokeLinejoin="round"
+            >
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+              <polyline points="15 3 21 3 21 9" />
+              <line x1="10" y1="14" x2="21" y2="3" />
+            </svg>
+          </a>
         </AnimatedSection>
+
+        {/* Metrics Row */}
+        <div className={styles.metricsRow}>
+          <div className={styles.metricItem}>
+            <span className={styles.metricValue}>
+              {t('venture.metrics.users')}
+            </span>
+          </div>
+          <div className={styles.metricItem}>
+            <span className={styles.metricValue}>
+              {t('venture.metrics.schools')}
+            </span>
+          </div>
+          <div className={styles.metricItem}>
+            <span className={styles.metricValue}>
+              {t('venture.metrics.countries')}
+            </span>
+          </div>
+        </div>
 
         {/* Features Grid */}
         <div className={styles.featuresGrid}>
-          {features.map((feature, index) => (
+          {[0, 1, 2].map((index) => (
             <AnimatedSection 
-              key={feature.id}
+              key={index}
               animation="fadeInUp"
               delay={index * 0.1}
             >
@@ -99,25 +106,25 @@ const VentureSection = () => {
                 className={styles.featureCard}
               >
                 <div className={styles.featureIcon}>
-                  {feature.icon}
+                  {icons[index]}
                 </div>
                 
                 <h3 className={styles.featureTitle}>
-                  {feature.title}
+                  {t(`venture.cards.${index}.title`)}
                 </h3>
                 
                 <p className={styles.featureDescription}>
-                  {feature.description}
+                  {t(`venture.cards.${index}.description`)}
                 </p>
                 
                 <div className={styles.techStack}>
-                  {feature.technologies.map((tech, techIndex) => (
+                  {t(`venture.cards.${index}.technologies`, { returnObjects: true }).map((tech, techIndex) => (
                     <TechTag 
                       key={techIndex}
-                      color={tech.color}
+                      color="cyan"
                       size="small"
                     >
-                      {tech.name}
+                      {tech}
                     </TechTag>
                   ))}
                 </div>

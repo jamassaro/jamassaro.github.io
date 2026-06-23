@@ -1,17 +1,26 @@
 {
   "navigation": {
     "logo": "Portfolio",
-    "home": "home",
-    "expertise": "expertise",
-    "projects": "projects",
-    "work": "work",
-    "contact": "contact",
-    "english": "english",
-    "spanish": "spanish"
+    "home": "Home",
+    "expertise": "Expertise",
+    "projects": "Projects",
+    "entrepreneurship": "Startup Journey",
+    "resume": "Resume",
+    "english": "English",
+    "spanish": "Spanish"
   },
   "footer": {
     "contact": "Contact Information",
-    "resume": "Resume"
+    "tag": "CONTACT_INFO",
+    "title": "Let's build something precise.",
+    "email": "jamassaro@gmail.com",
+    "phone": "+1 (718) 300-3187",
+    "connect": "CONNECT",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "resume": "Resume",
+    "copyright": "Jose A. Massaro • Built with precision",
+    "badge": "ALL_SYSTEMS_OPERATIONAL"
   },
   "main-section": {
     "tag": "SYSTEM_INITIALIZED / HELLO_WORLD",
@@ -37,6 +46,11 @@
       "title": "Testing & Reliability",
       "description": "Creating robust software with automated testing, monitoring, and engineering practices that ensure quality and long-term maintainability."
     },
+    "data-intelligence": {
+      "label": "data_intelligence",
+      "title": "Data Intelligence",
+      "description": "Leveraging data-driven insights and analytics to inform decision-making, optimize processes, and drive business growth."
+    },
     "cloud": {
       "label": "cloud_infrastructure",
       "title": "Cloud Infrastructure",
@@ -60,18 +74,50 @@
       }
     }
   },
+  "venture": {
+    "tag": "STARTUP_JOURNEY",
+    "company": "Brave Up!",
+    "role": "Co-Founder & Former CTO",
+    "description": "Co-founded and led the technology vision of Brave Up!, an EdTech startup focused on student wellbeing and bullying prevention. Built the platform from the ground up, scaling it to over 100,000 users across multiple countries while leading engineering, product strategy, and cross-functional teams.",
+    "metrics": {
+      "users": "100K+ Users",
+      "schools": "500+ Schools",
+      "countries": "5 Countries"
+    },
+    "cards": [
+      {
+        "tag": "PRODUCT_PLATFORM",
+        "title": "Product Platform",
+        "description": "Built the web and mobile experience used by students, teachers, and schools, focusing on engagement, accessibility, and real-time insights.",
+        "technologies": ["React", "React Native", "Node.js", "PostgreSQL", "GraphQL"]
+      },
+      {
+        "tag": "AI_ANALYTICS",
+        "title": "AI & Analytics",
+        "description": "Developed predictive models, dashboards, and analytics tools to help schools identify risks and support student wellbeing through data-driven decisions.",
+        "technologies": ["Analytics", "AI", "Machine Learning", "BigQuery", "Data Visualization"]
+      },
+      {
+        "tag": "LEADERSHIP",
+        "title": "Leadership",
+        "description": "Led engineering, product strategy, and technology decisions while scaling the platform internationally and building multidisciplinary teams.",
+        "technologies": ["Leadership", "Product", "Strategy", "Team Building", "Scaling"]
+      }
+    ]
+  },
   "projects": {
+    "tag": "PROJECTS",
+    "description": "Exploring ideas, building products, and transforming complex problems into simple, scalable solutions powered by AI and modern technologies.",
     "project-1": {
       "title": "DEAL ADVISOR",
       "description": "Deal Advisor is an AI-powered shopping assistant that analyzes reviews, videos, and community discussions to help people make smarter buying decisions with confidence."
     },
     "project-2": {
-      "title": "PERSONAL EXPENSES",
-      "description": "Platform to track personal expenses and manage your finances. This platform is in web and mobile versions"
-    },
-    "project-3": {
-      "title": "ACCURATE",
-      "description": "Platform to prevent workplace harassment with the help of predictive models and artificial intelligence."
-    }
-  }
+      "title": "DATA BREW",
+      "description": "AI-powered data extraction and transformation platform that converts unstructured information into structured datasets. Users can upload screenshots, documents, or raw text and instantly transform them into JSON, CSV, Excel, or SQL-ready formats. By automating data extraction and organization, DataBrew helps developers, businesses, and researchers save time and focus on what matters most: using their data"
+  },
+   "link": "Visit Website",
+    "no-link": "No link available"
+  
+}
 }

@@ -21,12 +21,14 @@ export const projectsData = [
     descriptionKey: 'projects.project-1.description',
     category: 'QA & AI',
     technologies: [
-      { name: 'React', icon: reactIcon, color: 'blue' },
-      { name: 'Java', icon: null, color: 'red' },
-      { name: 'Azure-SSO', icon: null, color: 'blue' },
-      { name: 'AWS', icon: awsIcon, color: 'purple' },
-      { name: 'Vitest', icon: vitestIcon, color: 'green' },
-      { name: 'React TL', icon: null, color: 'red' }
+      { name: 'NextJs', icon: null, color: 'blue' },
+      { name: 'Tailwind', icon: null, color: 'red' },
+      {name: 'TypeScript', icon: null, color: 'green' },
+      { name: 'Vercel', icon: null, color: 'teal' },
+      {name: 'Postgres', icon: null, color: 'yellow' },
+      { name: 'Railway', icon: null, color: 'purple' },
+      { name: 'OpenAI', icon: null, color: 'pink' },
+       { name: 'Docker', icon: null, color: 'blue' }
     ],
     image: null, // Add image path when available
     link: 'https://www.dealadvisorapp.com', 
@@ -36,40 +38,25 @@ export const projectsData = [
   },
   {
     id: 'personal-expenses',
-    titleKey: 'projects.project-2.title', // "PERSONAL EXPENSES"
+    titleKey: 'projects.project-2.title', // "DATA BREW"
     descriptionKey: 'projects.project-2.description',
     category: 'FinTech',
     technologies: [
-      { name: 'Next.js', icon: null, color: 'blue' },
-      { name: 'React Native', icon: reactIcon, color: 'blue' },
-      { name: 'Tailwind', icon: tailwindIcon, color: 'blue' },
-      { name: 'Clerk', icon: null, color: 'purple' }
+      { name: 'Next.js', icon: null, color: 'green' },
+      { name: 'BullMQ', icon: null , color: 'brown' },
+      { name: 'Tailwind', icon: null, color: 'blue' },
+      { name: 'Supabase', icon: null, color: 'purple' },
+      { name: 'Vercel', icon: null, color: 'teal'},
+      {name: 'OCR', icon: null, color: 'green' },
+      { name: 'NestJS', icon: null, color: 'red' },
+      { name: 'Docker', icon: null, color: 'blue' }
     ],
-    image: null,
-    link: null,
+    image: null, // Add image path when available
+    link: 'https://www.databrewapp.com',
     featured: true,
     status: 'completed',
     year: '2024'
   },
-  // {
-  //   id: 'accurate',
-  //   titleKey: 'projects.project-3.title', // "ACCURATE"
-  //   descriptionKey: 'projects.project-3.description',
-  //   category: 'AI & Safety',
-  //   technologies: [
-  //     { name: 'React', icon: reactIcon, color: 'blue' },
-  //     { name: 'Tailwind', icon: tailwindIcon, color: 'blue' },
-  //     { name: 'Express', icon: expressIcon, color: 'green' },
-  //     { name: 'Firebase', icon: firebaseIcon, color: 'purple' },
-  //     { name: 'Vitest', icon: vitestIcon, color: 'green' },
-  //     { name: 'React TL', icon: null, color: 'red' }
-  //   ],
-  //   image: null,
-  //   link: null,
-  //   featured: true,
-  //   status: 'completed',
-  //   year: '2023'
-  // }
 ];
 
 // Filter functions for project display

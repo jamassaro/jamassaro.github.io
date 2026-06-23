@@ -17,8 +17,8 @@ const ProjectsSection = () => {
           <SectionTitle 
             title={t('navigation.projects') || 'Projects'}
             index="02"
-            indexLabel="PROJECTS"
-            subtitle="Featured work and case studies"
+            indexLabel={t('projects.tag') || 'PROJECTS'}
+            subtitle={t('projects.description') || 'Exploring ideas, building products, and transforming complex problems into simple, scalable solutions powered by AI and modern technologies.'}
           />
         </AnimatedSection>
 
@@ -87,12 +87,12 @@ const ProjectsSection = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      View Case Study
+                      {t('projects.link') || 'Visit Website'}
                       <span className={styles.arrow}>→</span>
                     </a>
                   ) : (
                     <span className={`${styles.caseStudyLink} ${styles.disabled}`}>
-                      Case Study
+                      {t('projects.no-link') || 'No link available'}
                       <span className={styles.arrow}>→</span>
                     </span>
                   )}

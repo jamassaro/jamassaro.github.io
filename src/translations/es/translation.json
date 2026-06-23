@@ -1,17 +1,26 @@
 {
   "navigation": {
     "logo": "Portafolio",
-    "home": "home",
-    "expertise": "conocimientos",
-    "projects": "proyectos",
-    "work": "trabajos",
-    "contact": "contacto",
-    "english": "ingles",
-    "spanish": "español"
+    "home": "Inicio",
+    "expertise": "Expertise",
+    "projects": "Proyectos",
+    "entrepreneurship": "Trayectoria Startup",
+    "resume": "CV",
+    "english": "Inglés",
+    "spanish": "Español"
   },
   "footer": {
     "contact": "Información de Contacto",
-    "resume": "Curriculum"
+    "tag": "INFO_CONTACTO",
+    "title": "Construyamos algo preciso.",
+    "email": "jamassaro@gmail.com",
+    "phone": "+1 (718) 300-3187",
+    "connect": "CONECTAR",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "resume": "Curriculum",
+    "copyright": "Jose A. Massaro • Construido con precisión",
+    "badge": "TODOS_LOS_SISTEMAS_OPERATIVOS"
   },
   "main-section": {
     "tag": "SISTEMA_INICIALIZADO / HOLA_MUNDO",
@@ -37,6 +46,11 @@
       "title": "Pruebas y Confiabilidad",
       "description": "Desarrollando software robusto mediante pruebas automatizadas, monitoreo y prácticas de ingeniería que garantizan calidad y mantenibilidad a largo plazo."
     },
+    "data-intelligence": {
+      "label": "data_intelligence",
+      "title": "Inteligencia de Datos",
+      "description": "Aprovechando los conocimientos y análisis basados en datos para informar la toma de decisiones, optimizar procesos y impulsar el crecimiento empresarial."
+    },
     "cloud": {
       "label": "cloud_infrastructure",
       "title": "Infraestructura Cloud",
@@ -60,18 +74,49 @@
       }
     }
   },
+  "venture": {
+    "tag": "TRAYECTORIA_STARTUP",
+    "company": "Brave Up!",
+    "role": "Co-Fundador y Ex CTO",
+    "description": "Co-fundé y lideré la visión tecnológica de Brave Up!, una startup EdTech enfocada en bienestar estudiantil y prevención del bullying. Construí la plataforma desde cero, escalándola a más de 100.000 usuarios en múltiples países mientras lideraba ingeniería, estrategia de producto y equipos multidisciplinarios.",
+    "metrics": {
+      "users": "100K+ Usuarios",
+      "schools": "500+ Colegios",
+      "countries": "5 Países"
+    },
+    "cards": [
+      {
+        "tag": "PLATAFORMA",
+        "title": "Plataforma de Producto",
+        "description": "Construí la experiencia web y móvil utilizada por estudiantes, profesores y colegios, enfocada en engagement, accesibilidad e información en tiempo real.",
+        "technologies": ["React", "React Native", "Node.js", "PostgreSQL", "GraphQL"]
+      },
+      {
+        "tag": "IA_Y_ANALITICA",
+        "title": "IA y Analítica",
+        "description": "Desarrollé modelos predictivos, dashboards y herramientas analíticas para ayudar a las escuelas a identificar riesgos y apoyar el bienestar estudiantil mediante decisiones basadas en datos.",
+        "technologies": ["Analítica", "IA", "Machine Learning", "BigQuery", "Visualización"]
+      },
+      {
+        "tag": "LIDERAZGO",
+        "title": "Liderazgo",
+        "description": "Lideré ingeniería, estrategia de producto y decisiones tecnológicas mientras escalaba la plataforma internacionalmente y construía equipos multidisciplinarios.",
+        "technologies": ["Liderazgo", "Producto", "Estrategia", "Equipos", "Escalamiento"]
+      }
+    ]
+  },
   "projects": {
+    "tag": "PROYECTOS",
+    "description": "Explorando ideas, construyendo productos y transformando problemas complejos en soluciones simples y escalables impulsadas por IA y tecnologías modernas.",
     "project-1": {
       "title": "DEAL ADVISOR",
       "description": "Deal Advisor es un asistente de compras impulsado por IA que analiza reseñas, videos y discusiones de la comunidad para ayudar a las personas a tomar decisiones de compra más inteligentes con confianza."
     },
     "project-2": {
-      "title": "GASTOS PERSONALES",
-      "description": "Plataforma para trackear gastos personales y contralar tus finanzas. Esta plataforma esta en version web y mobile"
+      "title": "DATA BREW",
+      "description": "Plataforma de extracción y transformación de datos impulsada por inteligencia artificial que convierte información no estructurada en conjuntos de datos estructurados. Los usuarios pueden cargar capturas de pantalla, documentos o texto libre y transformarlos instantáneamente en formatos JSON, CSV, Excel o SQL. Al automatizar la extracción y organización de datos, DataBrew ayuda a desarrolladores, empresas e investigadores a ahorrar tiempo y enfocarse en lo más importante: aprovechar sus datos."
     },
-    "project-3": {
-      "title": "ACCURATE",
-      "description": "Plataforma para prevenir el acoso en los espacios laborales con la ayuda de modelos de prediccion y inteligencia artificial."
-    }
+    "link": "Visita el sitio web",
+    "no-link": "No hay enlace disponible"
   }
 }
