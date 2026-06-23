@@ -22,11 +22,11 @@ import GITHUB from '../assets/logos/others/github.svg';
 
 export const expertiseCategories = [
   {
-    id: 'interface-architecture',
-    label: 'INTERFACE_ARCHITECTURE',
-    title: 'Interface Architecture',
+    id: 'frontend',
+    label: 'expertise.frontend.label',
+    title: 'expertise.frontend.title',
     color: 'blue',
-    description: 'Building responsive, accessible, and performant user interfaces with modern frameworks and best practices.',
+    description: 'expertise.frontend.description',
     technologies: [
       { name: 'React', icon: ReactLogo, color: 'blue' },
       { name: 'HTML', icon: HTML, color: 'blue' },
@@ -37,11 +37,11 @@ export const expertiseCategories = [
     ],
   },
   {
-    id: 'server-logic',
-    label: 'SERVER_LOGIC',
-    title: 'Server Logic',
+    id: 'backend',
+    label: 'expertise.backend.label',
+    title: 'expertise.backend.title',
     color: 'green',
-    description: 'Developing robust backend systems and APIs with focus on scalability and performance.',
+    description: 'expertise.backend.description',
     technologies: [
       { name: 'Node.js', icon: NODE, color: 'green' },
       { name: 'Express', icon: Express, color: 'green' },
@@ -49,11 +49,11 @@ export const expertiseCategories = [
     ],
   },
   {
-    id: 'quality-assurance',
-    label: 'QUALITY_ASSURANCE',
-    title: 'Quality Assurance',
+    id: 'testing-reliability',
+    label: 'expertise.testing.label',
+    title: 'expertise.testing.title',
     color: 'red',
-    description: 'Ensuring code quality through comprehensive testing strategies and automation.',
+    description: 'expertise.testing.description',
     technologies: [
       { name: 'Vitest', icon: Vitest, color: 'yellow' },
       { name: 'Cypress', icon: Cypress, color: 'green' },
@@ -65,10 +65,10 @@ export const expertiseCategories = [
   },
   {
     id: 'cloud-devops',
-    label: 'CLOUD_&_DEVOPS',
-    title: 'Cloud & DevOps',
+    label: 'expertise.cloud.label',
+    title: 'expertise.cloud.title',
     color: 'purple',
-    description: 'Managing cloud infrastructure and implementing CI/CD pipelines for efficient deployments.',
+    description: 'expertise.cloud.description',
     technologies: [
       { name: 'AWS', icon: AWS, color: 'yellow' },
       { name: 'Firebase', icon: Firebase, color: 'yellow' },

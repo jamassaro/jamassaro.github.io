@@ -16,8 +16,8 @@ import cypressIcon from '../assets/logos/testing/cypress.svg';
 
 export const projectsData = [
   {
-    id: 'avtr-smart-ai',
-    titleKey: 'projects.project-1.title', // "AVTR SMART AI"
+    id: 'deal-advisor-app',
+    titleKey: 'projects.project-1.title', // "DEAL ADVISOR"
     descriptionKey: 'projects.project-1.description',
     category: 'QA & AI',
     technologies: [
@@ -29,10 +29,10 @@ export const projectsData = [
       { name: 'React TL', icon: null, color: 'red' }
     ],
     image: null, // Add image path when available
-    link: null, // Add case study link when available
+    link: 'https://www.dealadvisorapp.com', 
     featured: true,
     status: 'completed',
-    year: '2024'
+    year: '2026'
   },
   {
     id: 'personal-expenses',
@@ -51,25 +51,25 @@ export const projectsData = [
     status: 'completed',
     year: '2024'
   },
-  {
-    id: 'accurate',
-    titleKey: 'projects.project-3.title', // "ACCURATE"
-    descriptionKey: 'projects.project-3.description',
-    category: 'AI & Safety',
-    technologies: [
-      { name: 'React', icon: reactIcon, color: 'blue' },
-      { name: 'Tailwind', icon: tailwindIcon, color: 'blue' },
-      { name: 'Express', icon: expressIcon, color: 'green' },
-      { name: 'Firebase', icon: firebaseIcon, color: 'purple' },
-      { name: 'Vitest', icon: vitestIcon, color: 'green' },
-      { name: 'React TL', icon: null, color: 'red' }
-    ],
-    image: null,
-    link: null,
-    featured: true,
-    status: 'completed',
-    year: '2023'
-  }
+  // {
+  //   id: 'accurate',
+  //   titleKey: 'projects.project-3.title', // "ACCURATE"
+  //   descriptionKey: 'projects.project-3.description',
+  //   category: 'AI & Safety',
+  //   technologies: [
+  //     { name: 'React', icon: reactIcon, color: 'blue' },
+  //     { name: 'Tailwind', icon: tailwindIcon, color: 'blue' },
+  //     { name: 'Express', icon: expressIcon, color: 'green' },
+  //     { name: 'Firebase', icon: firebaseIcon, color: 'purple' },
+  //     { name: 'Vitest', icon: vitestIcon, color: 'green' },
+  //     { name: 'React TL', icon: null, color: 'red' }
+  //   ],
+  //   image: null,
+  //   link: null,
+  //   featured: true,
+  //   status: 'completed',
+  //   year: '2023'
+  // }
 ];
 
 // Filter functions for project display

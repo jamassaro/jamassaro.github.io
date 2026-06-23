@@ -14,51 +14,64 @@
     "resume": "Curriculum"
   },
   "main-section": {
-    "role": "DESARROLLADOR DE SOFTWARE",
-    "description": "Desarrollador de software proactivo y gerente de negocios con una sólida trayectoria en estrategia tecnológica, desarrollo frontend y gestión de equipos. Cuento con años de experiencia tanto en organizaciones con fines de lucro como en organizaciones sin fines de lucro. Recientemente, me he especializado en soluciones Edtech y en colaborar con equipos multidisciplinarios.",
+    "tag": "SISTEMA_INICIALIZADO / HOLA_MUNDO",
+    "description": "Construyendo productos impulsados por IA con React, TypeScript, Node.js, Python y tecnologías cloud modernas. Más de 10 años de experiencia llevando ideas desde 0 → producción → escalamiento.",
     "resume": "Curriculum"
   },
-  "my-expertise": {
-    "title": "Mis Conocimientos",
-    "description": "Este sitio web está desarrollado con React.js, CSS y Vite. React.js garantiza una interacción fluida con el usuario, mientras que CSS mejora la estética visual. Vite facilita un desarrollo rápido e integración de funcionalidades, creando una plataforma dinámica y responsiva, adaptada a las necesidades de los usuarios.",
-    "tech-stack": "Tecnologia",
-    "tech-stack-subtitle": "Frontend",
-    "tech-stack-subtitle2": "Backend",
-    "tech-stack-subtitle3": "Testeo",
-    "tech-stack-subtitle4": "Otros",
-    "current-learning": "Aprendizaje",
-    "current-learning-description": "Comencé mi trayectoria en la industria tecnológica en el ámbito del desarrollo Frontend. Actualmente, estoy en proceso de transición hacia el desarrollo FullStack.",
-    "learning-process": "En proceso de aprendizaje"
-},
-"my-work": {
-  "title": "Emprendimiento",
-  "description": "Como Co-Fundador y CTO de BRAVE UP!, lidero una plataforma impulsada por IA enfocada en ayudar a las escuelas a detectar, predecir y prevenir el acoso escolar y el ciberacoso. A través de nuestro enfoque basado en datos, aprovechamos la tecnología avanzada y la analítica para proporcionar a las escuelas las herramientas que necesitan para crear entornos más seguros y de apoyo para los estudiantes, logrando resultados significativos.",
-  "my-work-page": {
-    "description": "Descripción",
-    "stack": "Technologias utilizadas",
-    "project-1": {
-      "braveup-app-description": "Aplicación web diseñada para ayudar a las escuelas a predecir y prevenir casos de acoso escolar y ciberacoso."
+  "expertise": {
+    "tag": "EXPERIENCIA",
+    "title": "Mi Experiencia",
+    "description": "Experiencia Full-Stack que abarca desarrollo frontend, arquitectura backend, integración de IA e infraestructura cloud.",
+    "frontend": {
+      "label": "frontend_engineering",
+      "title": "Desarrollo Frontend",
+      "description": "Construyendo interfaces modernas y responsivas con React, TypeScript y tecnologías web de última generación. Enfocado en rendimiento, accesibilidad y experiencias de usuario excepcionales."
     },
-    "project-2": {
-      "braveup-website-description": "Sitio web para BRAVE UP!, una startup edTech que trabaja con escuelas K-12. El propósito de este sitio web es mostrar la funcionalidad de la plataforma y actuar como el principal punto de contacto para los clientes."
+    "backend": {
+      "label": "backend_ai_systems",
+      "title": "Backend y Sistemas de IA",
+      "description": "Diseñando APIs escalables, microservicios y aplicaciones impulsadas por IA utilizando Node.js, Python y arquitecturas de datos modernas."
     },
+    "testing": {
+      "label": "testing_and_reliability",
+      "title": "Pruebas y Confiabilidad",
+      "description": "Desarrollando software robusto mediante pruebas automatizadas, monitoreo y prácticas de ingeniería que garantizan calidad y mantenibilidad a largo plazo."
+    },
+    "cloud": {
+      "label": "cloud_infrastructure",
+      "title": "Infraestructura Cloud",
+      "description": "Desplegando y operando sistemas en producción con Docker, AWS, GCP, pipelines de CI/CD y arquitecturas cloud nativas escalables."
+    }
+  },
+  "my-work": {
+    "title": "Emprendimiento",
+    "description": "Como Co-Fundador y CTO de BRAVE UP!, lidero una plataforma impulsada por IA enfocada en ayudar a las escuelas a detectar, predecir y prevenir el acoso escolar y el ciberacoso. A través de nuestro enfoque basado en datos, aprovechamos la tecnología avanzada y la analítica para proporcionar a las escuelas las herramientas que necesitan para crear entornos más seguros y de apoyo para los estudiantes, logrando resultados significativos.",
+    "my-work-page": {
+      "description": "Descripción",
+      "stack": "Technologias utilizadas",
+      "project-1": {
+        "braveup-app-description": "Aplicación web diseñada para ayudar a las escuelas a predecir y prevenir casos de acoso escolar y ciberacoso."
+      },
+      "project-2": {
+        "braveup-website-description": "Sitio web para BRAVE UP!, una startup edTech que trabaja con escuelas K-12. El propósito de este sitio web es mostrar la funcionalidad de la plataforma y actuar como el principal punto de contacto para los clientes."
+      },
       "project-3": {
         "braveup-admin-description": "La Plataforma de Administración es una herramienta web para la gestión eficiente de CRUD de entidades como usuarios y recursos. Ofrece un tablero, fácil navegación con búsqueda y filtros, garantizando flexibilidad y cumplimiento."
-    } 
-  }
-},
-"projects": {
-  "project-1": {
-    "title": "AVTR SMART AI",
-    "description": "Plataforma enfocada en ingenieros QA para la generación de planes de pruebas, utilizando herramientas de inteligencia artificial."
+      }
+    }
   },
-  "project-2": {
-    "title": "GASTOS PERSONALES",
-    "description": "Plataforma para trackear gastos personales y contralar tus finanzas. Esta plataforma esta en version web y mobile"
-  },
-  "project-3": {
-    "title": "ACCURATE",
-    "description": "Plataforma para prevenir el acoso en los espacios laborales con la ayuda de modelos de prediccion y inteligencia artificial."
+  "projects": {
+    "project-1": {
+      "title": "DEAL ADVISOR",
+      "description": "Deal Advisor es un asistente de compras impulsado por IA que analiza reseñas, videos y discusiones de la comunidad para ayudar a las personas a tomar decisiones de compra más inteligentes con confianza."
+    },
+    "project-2": {
+      "title": "GASTOS PERSONALES",
+      "description": "Plataforma para trackear gastos personales y contralar tus finanzas. Esta plataforma esta en version web y mobile"
+    },
+    "project-3": {
+      "title": "ACCURATE",
+      "description": "Plataforma para prevenir el acoso en los espacios laborales con la ayuda de modelos de prediccion y inteligencia artificial."
+    }
   }
-}
 }

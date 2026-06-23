@@ -2,20 +2,22 @@ import React from 'react';
 import { GlassCard, TerminalHeader, SectionTitle } from '../ui';
 import { expertiseCategories } from '../../data/expertise';
 import styles from './ExpertiseSection.module.css';
+import { useTranslation } from 'react-i18next';
 
 /**
  * ExpertiseSection Component - SRP: Handles expertise showcase rendering
  * Features: Grid layout with glassmorphism cards, tech stack display
  */
 const ExpertiseSection = () => {
+  const [t] = useTranslation(); // Translation function
   return (
     <section id="expertise" className={styles.expertise}>
       <div className={styles.container}>
         <SectionTitle
           index="01"
-          indexLabel="Expertise"
-          title="My Expertise"
-          subtitle="Specialized in full-stack development with a focus on modern web technologies and scalable architectures."
+          indexLabel={t('expertise.tag')}
+          title={t('expertise.title')}
+          subtitle={t('expertise.description')}
         />
 
         <div className={styles.grid}>
@@ -27,16 +29,16 @@ const ExpertiseSection = () => {
               withTerminal
               className={styles.expertiseCard}
             >
-              <TerminalHeader label={category.label} />
+              <TerminalHeader label={t(category.label)} />
               
               <div className={styles.cardHeader}>
-                <h3 className={styles.cardTitle}>{category.title}</h3>
+                <h3 className={styles.cardTitle}>{t(category.title)}</h3>
                 <span className={`${styles.categoryLabel} ${styles[category.color]}`}>
                   {category.color}
                 </span>
               </div>
 
-              <p className={styles.description}>{category.description}</p>
+              <p className={styles.description}>{t(category.description)}</p>
 
               <div className={styles.techGrid}>
                 {category.technologies.map((tech) => (

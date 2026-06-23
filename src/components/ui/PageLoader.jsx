@@ -10,9 +10,10 @@ const PageLoader = () => {
 
   useEffect(() => {
     // Hide loader after a short delay to ensure content is ready
+    // Fast in dev (0ms), smoother in production (300ms)
     const timer = setTimeout(() => {
       setIsLoading(false);
-    }, 800);
+    }, import.meta.env.DEV ? 0 : 300);
 
     return () => clearTimeout(timer);
   }, []);

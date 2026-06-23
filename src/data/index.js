@@ -66,10 +66,10 @@ export const myWorkData = [
       projectName: 'projects.project-2.title',
       technologies: ['Next.js', 'React Native', 'Tailwind', 'Clerk'],
       description: 'projects.project-2.description'
-    },
-    {
-      projectName: 'projects.project-3.title',
-      technologies: ['React', 'Tailwind', 'Express', 'firabase', 'Vitest', 'React-Testing-Library'],
-      description: 'projects.project-3.description'
     }
+    // {
+    //   projectName: 'projects.project-3.title',
+    //   technologies: ['React', 'Tailwind', 'Express', 'firabase', 'Vitest', 'React-Testing-Library'],
+    //   description: 'projects.project-3.description'
+    // }
   ]

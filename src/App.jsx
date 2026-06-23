@@ -3,9 +3,9 @@ import { lazy, Suspense } from 'react'
 import LayOut from './components/LayOut/LayOut'
 import { usePageTransition } from './hooks/useAnimations'
 import PageLoader from './components/ui/PageLoader'
+import Home from './pages/Home/Home' // Direct import for faster initial load
 
-// Lazy load pages for code splitting
-const Home = lazy(() => import('./pages/Home/Home'))
+// Only lazy load secondary pages for code splitting
 const ProjectPage = lazy(() => import('./pages/projects/ProjectPage'))
 
 function App() {
@@ -13,12 +13,14 @@ function App() {
 
   return (
     <Router>
-      <Suspense fallback={<PageLoader />}>
-        <Routes>
-          <Route path='/' element={<LayOut><Home /></LayOut>} exact />
-          <Route path='/projects/:name' element={<LayOut><ProjectPage/></LayOut>} exact/>
-        </Routes>
-      </Suspense>
+      <Routes>
+        <Route path='/' element={<LayOut><Home /></LayOut>} exact />
+        <Route path='/projects/:name' element={
+          <Suspense fallback={<PageLoader />}>
+            <LayOut><ProjectPage/></LayOut>
+          </Suspense>
+        } exact/>
+      </Routes>
     </Router> 
   )
 }

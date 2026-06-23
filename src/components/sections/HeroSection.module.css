@@ -86,6 +86,19 @@
   animation: fadeInUp 0.8s ease-out 0.2s backwards;
 }
 
+/* Fast animations in dev mode */
+[data-dev-mode="true"] .name {
+  animation: fadeInUp 0.2s ease-out;
+}
+
+[data-dev-mode="true"] .role {
+  animation: fadeInUp 0.2s ease-out 0s backwards;
+}
+
+[data-dev-mode="true"] .description {
+  animation: fadeInUp 0.2s ease-out 0s backwards;
+}
+
 /* Social Links */
 .socialLinks {
   display: flex;

@@ -14,18 +14,17 @@ const HeroSection = () => {
       <div className={styles.container}>
         <div className={styles.content}>
           {/* System Label */}
-          <span className={styles.systemLabel}>SYSTEM_INITIALIZED / HELLO_WORLD</span>
+          <span className={styles.systemLabel}>{t('main-section.tag')}</span>
 
           {/* Name with Gradient */}
           <h1 className={styles.name}>JOSE A. MASSARO.</h1>
 
           {/* Role */}
-          <h2 className={styles.role}>FullStack Engineer</h2>
-
+          <h2 className={styles.role}> Senior FullStack Engineer</h2>
+        
           {/* Description */}
           <p className={styles.description}>
-            {t('main-section.description') || 
-              'Proactive software engineer and business manager with a proven record in technology strategy, frontend development, and team management. I have years of experience in both profit and non-profit organizations, recently focusing on EdTech solutions and multi-disciplinary teams.'}
+            {t('main-section.description')}
           </p>
 
           {/* Social Links */}

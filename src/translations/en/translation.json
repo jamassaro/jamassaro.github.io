@@ -1,34 +1,47 @@
 {
   "navigation": {
-      "logo": "Portfolio",
-      "home": "home",
-      "expertise": "expertise",
-      "projects": "projects",
-      "work": "work",
-      "contact": "contact",
-      "english": "english",
-      "spanish": "spanish"
+    "logo": "Portfolio",
+    "home": "home",
+    "expertise": "expertise",
+    "projects": "projects",
+    "work": "work",
+    "contact": "contact",
+    "english": "english",
+    "spanish": "spanish"
   },
   "footer": {
     "contact": "Contact Information",
     "resume": "Resume"
   },
   "main-section": {
-      "role": "SOFTWARE DEVELOPER",
-      "description": "Proactive software developer and business manager with a proven record in technology strategy, frontend development, and team management. I have years of experience in both profit and non-profit organizations, recently focusing on Edtech solutions and multi-disciplinary teams.",
-      "resume": "Resume"
+    "tag": "SYSTEM_INITIALIZED / HELLO_WORLD",
+    "description": "Building AI-powered products with React, TypeScript, Node.js, Python, and modern cloud technologies. 10+ years of experience taking ideas from 0 → production → scale.",
+    "resume": "Resume"
   },
-  "my-expertise": {
-      "title": "My Expertise",
-      "description": " This website is developed using React.js, CSS, and Vite. React.js ensures smooth user interaction, while CSS enhances visual appeal. Vite enables rapid development and integration of features, resulting in a dynamic and responsive platform tailored to user needs.",
-      "tech-stack": "Tech Stack",
-      "tech-stack-subtitle": "Frontend",
-      "tech-stack-subtitle2": "Backend",
-      "tech-stack-subtitle3": "Testing",
-      "tech-stack-subtitle4": "Other",
-      "current-learning": "Current Learning",
-      "current-learning-description": "I began my journey in the tech industry within the realm of Frontend development. Currently, I am in the process of transitioning towards FullStack development.",
-      "learning-process": "Learning in Process"
+  "expertise": {
+    "tag": "EXPERTISE",
+    "title": "My Expertise",
+    "description": "Full-stack expertise spanning frontend engineering, backend architecture, AI integration, and cloud infrastructure.",
+    "frontend": {
+      "label": "frontend_engineering",
+      "title": "Frontend Engineering",
+      "description": "Building modern and responsive user interfaces with React, TypeScript, and cutting-edge web technologies. Focused on performance, accessibility, and exceptional user experiences."
+    },
+    "backend": {
+      "label": "backend_ai_systems",
+      "title": "Backend & AI Systems",
+      "description": "Designing scalable APIs, microservices, and AI-powered applications using Node.js, Python, and modern data architectures."
+    },
+    "testing": {
+      "label": "testing_and_reliability",
+      "title": "Testing & Reliability",
+      "description": "Creating robust software with automated testing, monitoring, and engineering practices that ensure quality and long-term maintainability."
+    },
+    "cloud": {
+      "label": "cloud_infrastructure",
+      "title": "Cloud Infrastructure",
+      "description": "Deploying and operating production systems with Docker, AWS, GCP, CI/CD pipelines, and scalable cloud-native architectures."
+    }
   },
   "my-work": {
     "title": "Entrepreneurship",
@@ -44,21 +57,21 @@
       },
       "project-3": {
         "braveup-admin-description": "The Admin Platform is a web tool for efficient CRUD management of entities like users and resources. It offers a dashboard, easy navigation with search and filters, ensuring both flexibility and compliance."
-      } 
+      }
     }
-},
-"projects": {
-  "project-1": {
-    "title": "AVTR SMART AI",
-    "description": "Platform focused on QA engineers for generating test plans, using generative AI tools."
   },
-  "project-2": {
-    "title": "PERSONAL EXPENSES",
-    "description": "Platform to track personal expenses and manage your finances. This platform is in web and mobile versions"
-  },
-  "project-3": {
-    "title": "ACCURATE",
-    "description": "Platform to prevent workplace harassment with the help of predictive models and artificial intelligence."
+  "projects": {
+    "project-1": {
+      "title": "DEAL ADVISOR",
+      "description": "Deal Advisor is an AI-powered shopping assistant that analyzes reviews, videos, and community discussions to help people make smarter buying decisions with confidence."
+    },
+    "project-2": {
+      "title": "PERSONAL EXPENSES",
+      "description": "Platform to track personal expenses and manage your finances. This platform is in web and mobile versions"
+    },
+    "project-3": {
+      "title": "ACCURATE",
+      "description": "Platform to prevent workplace harassment with the help of predictive models and artificial intelligence."
+    }
   }
-}
 }
