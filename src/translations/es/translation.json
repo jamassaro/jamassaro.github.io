@@ -118,5 +118,20 @@
     },
     "link": "Visita el sitio web",
     "no-link": "No hay enlace disponible"
+  },
+  "ai-assistant": {
+    "tag": "EXPERIMENTAL",
+    "title": "PREGUNTA_A_MI_PORTAFOLIO / DEMO_IA_LOCAL",
+    "description": "Asistente de IA interactivo impulsado por LLMs locales. Haz preguntas sobre mi experiencia, proyectos y expertise técnico - todo ejecutándose privadamente en tu navegador.",
+    "runs-in-browser": "Funciona en navegador",
+    "user-label": "USUARIO",
+    "assistant-label": "ASISTENTE",
+    "input-placeholder": "Pregunta sobre mis proyectos de IA, experiencia en GCP, arquitectura o liderazgo...",
+    "enable-ai": "Activar IA Local",
+    "view-architecture": "Ver Arquitectura",
+    "pipeline-title": "PIPELINE_RAG_LOCAL",
+    "pipeline-subtitle": "Generación Aumentada por Recuperación",
+    "how-it-works": "CÓMO_FUNCIONA",
+    "tech-stack": "STACK_TÉCNICO"
   }
 }

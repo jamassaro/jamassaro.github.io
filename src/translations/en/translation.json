@@ -115,9 +115,23 @@
     "project-2": {
       "title": "DATA BREW",
       "description": "AI-powered data extraction and transformation platform that converts unstructured information into structured datasets. Users can upload screenshots, documents, or raw text and instantly transform them into JSON, CSV, Excel, or SQL-ready formats. By automating data extraction and organization, DataBrew helps developers, businesses, and researchers save time and focus on what matters most: using their data"
-  },
-   "link": "Visit Website",
+    },
+    "link": "Visit Website",
     "no-link": "No link available"
-  
-}
+  },
+  "ai-assistant": {
+    "tag": "EXPERIMENTAL",
+    "title": "ASK_MY_PORTFOLIO / LOCAL_AI_DEMO",
+    "description": "Interactive AI assistant powered by local LLMs. Ask questions about my experience, projects, and technical expertise - all running privately in your browser.",
+    "runs-in-browser": "Runs in browser",
+    "user-label": "USER",
+    "assistant-label": "ASSISTANT",
+    "input-placeholder": "Ask about my AI projects, GCP experience, architecture, or leadership...",
+    "enable-ai": "Enable Local AI",
+    "view-architecture": "View Architecture",
+    "pipeline-title": "LOCAL_RAG_PIPELINE",
+    "pipeline-subtitle": "Retrieval-Augmented Generation",
+    "how-it-works": "HOW_IT_WORKS",
+    "tech-stack": "TECH_STACK"
+  }
 }

@@ -1,5 +1,6 @@
 import React from 'react'
 import { HeroSection, ExpertiseSection, ProjectsSection, VentureSection } from '../../components/sections'
+import { AIAssistantSection } from '../../features/ai-assistant'
 
 const Home = () => {
   return (
@@ -8,6 +9,7 @@ const Home = () => {
       <ExpertiseSection />
       <ProjectsSection />
       <VentureSection />
+      <AIAssistantSection />
     </>
   )
 }
