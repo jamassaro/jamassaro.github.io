@@ -1,0 +1,267 @@
+/* AIChatInput Component Styles - Following SRP */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  width: 100%;
+  max-width: 100%;
+  border-top: 1px solid var(--color-outline-variant);
+  background-color: var(--color-surface-container-low);
+  box-sizing: border-box;
+}
+
+.form {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.inputWrapper {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  padding: 12px;
+  width: 100%;
+  max-width: 100%;
+  background-color: var(--color-surface-container);
+  border: 1px solid var(--color-outline-variant);
+  border-radius: var(--radius-md);
+  transition: var(--transition-default);
+  box-sizing: border-box;
+}
+
+.inputWrapper:focus-within {
+  border-color: var(--color-primary-fixed-dim);
+  box-shadow: 0 0 0 1px var(--color-primary-fixed-dim);
+}
+
+.textarea {
+  flex: 1;
+  min-height: 24px;
+  max-height: 120px;
+  min-width: 0;
+  width: 100%;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--color-on-surface);
+  font-family: var(--font-inter);
+  font-size: 14px;
+  line-height: 1.5;
+  resize: none;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+.textarea:focus {
+  outline: none;
+}
+
+.textarea::placeholder {
+  color: var(--color-on-surface-variant);
+  opacity: 0.6;
+}
+
+.textarea:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.sendButton {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: var(--radius-default);
+  background-color: var(--color-primary-fixed-dim);
+  color: var(--color-on-primary);
+  cursor: pointer;
+  transition: var(--transition-default);
+}
+
+.sendButton:hover:not(:disabled) {
+  background-color: var(--color-primary-fixed);
+  transform: scale(1.05);
+}
+
+.sendButton:active:not(:disabled) {
+  transform: scale(0.95);
+}
+
+.sendButton:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.sendButton:focus-visible {
+  outline: 2px solid var(--color-primary-fixed-dim);
+  outline-offset: 2px;
+}
+
+/* Action Buttons */
+.actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.actionButton {
+  flex: 1;
+  min-width: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border-radius: var(--radius-default);
+  font-family: var(--font-geist);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-default);
+  white-space: nowrap;
+}
+
+.actionButton:focus-visible {
+  outline: 2px solid var(--color-primary-fixed-dim);
+  outline-offset: 2px;
+}
+
+.buttonIcon {
+  font-size: 16px;
+}
+
+/* Primary Action - Enable AI */
+.primary {
+  background-color: var(--color-secondary);
+  color: var(--color-on-secondary);
+  border: none;
+}
+
+.primary:hover:not(:disabled) {
+  background-color: var(--color-secondary-fixed-dim);
+  box-shadow: var(--shadow-glow-secondary);
+  transform: translateY(-1px);
+}
+
+.primary:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Secondary Action - View Architecture */
+.secondary {
+  background-color: transparent;
+  border: 1px solid var(--color-outline-variant);
+  color: var(--color-on-surface-variant);
+}
+
+.secondary:hover:not(:disabled) {
+  border-color: var(--color-primary-fixed-dim);
+  background-color: rgba(0, 220, 229, 0.08);
+  color: var(--color-primary-fixed-dim);
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .container {
+    padding: 14px;
+  }
+
+  .actionButton {
+    font-size: 13px;
+    padding: 9px 14px;
+  }
+
+  .buttonIcon {
+    font-size: 15px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .container {
+    padding: 12px;
+    gap: 10px;
+  }
+
+  .inputWrapper {
+    padding: 10px;
+  }
+
+  .textarea {
+    font-size: 16px; /* Prevent zoom on iOS */
+    min-height: 20px;
+  }
+
+  .sendButton {
+    width: 40px;
+    height: 40px;
+  }
+
+  .actions {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .actionButton {
+    width: 100%;
+    min-width: unset;
+    min-height: 44px; /* Ensure WCAG AAA touch target */
+    padding: 12px 16px;
+    font-size: 14px;
+  }
+
+  .buttonIcon {
+    font-size: 18px;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+  .container {
+    padding: 10px;
+  }
+
+  .inputWrapper {
+    padding: 8px;
+  }
+
+  .sendButton {
+    width: 36px;
+    height: 36px;
+  }
+
+  .actionButton {
+    padding: 10px 14px;
+    font-size: 13px;
+  }
+}
+
+/* Landscape Mobile - Compact layout */
+@media (max-width: 900px) and (orientation: landscape) {
+  .container {
+    padding: 8px;
+  }
+
+  .actions {
+    flex-direction: row;
+    gap: 6px;
+  }
+
+  .actionButton {
+    width: auto;
+    flex: 1;
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+}

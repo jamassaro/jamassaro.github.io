@@ -1,0 +1,295 @@
+/* AIAssistantSection Component Styles - Following SRP */
+
+/* Ensure all elements use border-box sizing */
+.section *,
+.section *::before,
+.section *::after {
+  box-sizing: border-box;
+}
+
+.section {
+  width: 100%;
+  padding: var(--spacing-section-gap) 0;
+  background: var(--color-background);
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: var(--spacing-container-max);
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 var(--spacing-gutter);
+  box-sizing: border-box;
+}
+
+/* Section Header */
+.sectionHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 48px;
+  text-align: center;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.tag {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--color-secondary-fixed-dim);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.title {
+  font-family: var(--font-mono);
+  font-size: 36px;
+  font-weight: 700;
+  color: var(--color-on-surface);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0;
+  line-height: 1.2;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
+}
+
+.description {
+  font-family: var(--font-inter);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--color-on-surface-variant);
+  max-width: 800px;
+  margin: 0 auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  padding: 0 8px;
+}
+
+/* Two-Column Grid */
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 0.6fr;
+  gap: 24px;
+  align-items: start;
+  min-height: 700px;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.chatColumn {
+  display: flex;
+  flex-direction: column;
+  height: 700px;
+  min-width: 0;
+  width: 100%;
+}
+
+.architectureColumn {
+  display: flex;
+  flex-direction: column;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  min-width: 0;
+  width: 100%;
+}
+
+.architectureColumn.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.architectureColumn.hidden {
+  opacity: 0;
+  transform: translateX(20px);
+  pointer-events: none;
+}
+
+/* Large Tablet */
+@media (max-width: 1200px) {
+  .grid {
+    grid-template-columns: 1fr 0.65fr;
+    gap: 20px;
+  }
+
+  .title {
+    font-size: 32px;
+  }
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .grid {
+    grid-template-columns: 1fr 0.75fr;
+    gap: 18px;
+    min-height: 650px;
+  }
+
+  .chatColumn {
+    height: 650px;
+  }
+
+  .title {
+    font-size: 28px;
+  }
+
+  .description {
+    font-size: 15px;
+    max-width: 700px;
+  }
+
+  .sectionHeader {
+    margin-bottom: 40px;
+  }
+}
+
+/* Small Tablet / Large Mobile */
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    min-height: auto;
+  }
+
+  .chatColumn {
+    height: 600px;
+  }
+
+  .architectureColumn {
+    order: 2;
+    max-width: 100%;
+  }
+
+  .title {
+    font-size: 24px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .section {
+    padding: 60px 0;
+    overflow-x: hidden;
+  }
+
+  .container {
+    padding: 0 var(--spacing-margin-mobile);
+    max-width: 100vw;
+  }
+
+  .sectionHeader {
+    margin-bottom: 32px;
+    gap: 12px;
+  }
+
+  .tag {
+    font-size: 10px;
+    letter-spacing: 1.5px;
+  }
+
+  .title {
+    font-size: 22px;
+    line-height: 1.3;
+    word-break: break-word;
+  }
+
+  .description {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .grid {
+    gap: 20px;
+  }
+
+  .chatColumn {
+    height: 550px;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .architectureColumn.hidden {
+    display: none;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+  .section {
+    padding: 48px 0;
+  }
+
+  .container {
+    padding: 0 12px;
+    max-width: 100vw;
+  }
+
+  .sectionHeader {
+    margin-bottom: 24px;
+    gap: 10px;
+  }
+
+  .tag {
+    font-size: 9px;
+  }
+
+  .title {
+    font-size: 18px;
+    word-break: break-word;
+  }
+
+  .description {
+    font-size: 13px;
+  }
+
+  .chatColumn {
+    height: 500px;
+    width: 100%;
+  }
+
+  .grid {
+    gap: 16px;
+    width: 100%;
+  }
+}
+
+/* Landscape Mobile */
+@media (max-width: 900px) and (orientation: landscape) {
+  .section {
+    padding: 40px 0;
+  }
+
+  .chatColumn {
+    height: 450px;
+  }
+
+  .sectionHeader {
+    margin-bottom: 24px;
+  }
+
+  .title {
+    font-size: 20px;
+  }
+
+  .description {
+    font-size: 13px;
+  }
+}
+
+/* Responsive Small Mobile */
+@media (max-width: 480px) {
+  .section {
+    padding: 60px 0;
+  }
+
+  .title {
+    font-size: 18px;
+  }
+
+  .chatColumn {
+    height: 500px;
+  }
+}

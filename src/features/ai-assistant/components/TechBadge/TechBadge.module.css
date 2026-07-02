@@ -1,0 +1,64 @@
+/* TechBadge Component Styles - Following SRP */
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border-radius: var(--radius-default);
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+  transition: var(--transition-default);
+}
+
+/* Tech Variant - Cyan accent */
+.tech {
+  background-color: rgba(0, 220, 229, 0.1);
+  border: 1px solid rgba(0, 220, 229, 0.3);
+  color: var(--color-primary-fixed-dim);
+}
+
+.tech:hover {
+  background-color: rgba(0, 220, 229, 0.15);
+  border-color: var(--color-primary-fixed-dim);
+}
+
+/* Feature Variant - Emerald accent */
+.feature {
+  background-color: rgba(78, 222, 163, 0.1);
+  border: 1px solid rgba(78, 222, 163, 0.3);
+  color: var(--color-secondary-fixed-dim);
+}
+
+.feature:hover {
+  background-color: rgba(78, 222, 163, 0.15);
+  border-color: var(--color-secondary-fixed-dim);
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .badge {
+    font-size: 11px;
+    padding: 5px 11px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .badge {
+    font-size: 10px;
+    padding: 5px 10px;
+    letter-spacing: 0.3px;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+  .badge {
+    font-size: 9px;
+    padding: 4px 9px;
+  }
+}

@@ -1,0 +1,246 @@
+/* ArchitecturePanel Component Styles - Following SRP */
+
+.panel {
+  background: var(--color-surface-container-low);
+  border: 1px solid var(--color-outline-variant);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: fit-content;
+  width: 100%;
+  max-width: 100%;
+  position: sticky;
+  top: 24px;
+  box-sizing: border-box;
+}
+
+/* Header */
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.terminalDots {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: var(--color-outline-variant);
+}
+
+.dot:first-child {
+  background-color: rgba(255, 180, 171, 0.6);
+}
+
+.dot:nth-child(2) {
+  background-color: rgba(255, 189, 46, 0.6);
+}
+
+.dot:nth-child(3) {
+  background-color: rgba(78, 222, 163, 0.6);
+}
+
+.title {
+  font-family: var(--font-mono);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-secondary-fixed-dim);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.subtitle {
+  font-family: var(--font-inter);
+  font-size: 13px;
+  color: var(--color-on-surface-variant);
+  margin: 0;
+}
+
+/* Sections */
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--color-outline-variant);
+}
+
+.section:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.sectionTitle {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--color-secondary-fixed-dim);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.steps {
+  display: flex;
+  flex-direction: column;
+}
+
+.description {
+  font-family: var(--font-inter);
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--color-on-surface-variant);
+  margin: 0;
+}
+
+.badgeGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.disclaimer {
+  margin-top: 8px;
+  padding-top: 16px;
+  border-top: 1px solid var(--color-outline-variant);
+}
+
+.disclaimer p {
+  font-family: var(--font-inter);
+  font-size: 11px;
+  font-style: italic;
+  line-height: 1.5;
+  color: var(--color-on-surface-variant);
+  opacity: 0.7;
+  margin: 0;
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .panel {
+    position: relative;
+    top: 0;
+    padding: 22px;
+    gap: 22px;
+  }
+
+  .title {
+    font-size: 17px;
+  }
+
+  .subtitle {
+    font-size: 12px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .panel {
+    padding: 18px;
+    gap: 18px;
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .terminalDots {
+    gap: 5px;
+    margin-bottom: 10px;
+  }
+
+  .dot {
+    width: 8px;
+    height: 8px;
+  }
+
+  .title {
+    font-size: 15px;
+    letter-spacing: 0.5px;
+  }
+
+  .subtitle {
+    font-size: 11px;
+  }
+
+  .sectionTitle {
+    font-size: 10px;
+  }
+
+  .section {
+    gap: 10px;
+    padding-top: 10px;
+  }
+
+  .description {
+    font-size: 12px;
+  }
+
+  .badgeGrid {
+    gap: 6px;
+  }
+
+  .disclaimer p {
+    font-size: 10px;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+  .panel {
+    padding: 16px;
+    gap: 16px;
+  }
+
+  .title {
+    font-size: 14px;
+  }
+
+  .subtitle {
+    font-size: 10px;
+  }
+
+  .sectionTitle {
+    font-size: 9px;
+  }
+
+  .section {
+    gap: 8px;
+  }
+
+  .description {
+    font-size: 11px;
+  }
+
+  .disclaimer p {
+    font-size: 9px;
+  }
+}
+
+/* Landscape Mobile */
+@media (max-width: 900px) and (orientation: landscape) {
+  .panel {
+    padding: 14px;
+    gap: 14px;
+  }
+
+  .title {
+    font-size: 13px;
+  }
+
+  .section {
+    gap: 8px;
+    padding-top: 8px;
+  }
+}
