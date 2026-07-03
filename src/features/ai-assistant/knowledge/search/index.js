@@ -16,6 +16,7 @@ export * from './constants.js';
 import { buildKnowledge } from '../builders/knowledgeBuilder.js';
 import { KnowledgeSearchService } from './services/KnowledgeSearchService.js';
 import { KeywordSearchStrategy } from './strategies/KeywordSearchStrategy.js';
+import { SemanticSearchStrategy } from './strategies/SemanticSearchStrategy.js';
 import { SEARCH_STRATEGIES } from './constants.js';
 
 /**
@@ -25,20 +26,28 @@ import { SEARCH_STRATEGIES } from './constants.js';
  * @param {Object} [options] - Configuration options
  * @param {string} [options.strategy] - Strategy type from SEARCH_STRATEGIES
  * @param {Object} [options.strategyConfig] - Strategy-specific configuration
+ * @param {Function} [options.onProgress] - Progress callback for model loading
  * @returns {Promise<KnowledgeSearchService>} Configured search service
  */
 export async function createSearchService(language = 'en', options = {}) {
   // Build knowledge base (await the async function)
   const knowledgeBase = await buildKnowledge(language);
   
-  // Create strategy
+  // Create strategy based on type
   let strategy;
   switch (options.strategy) {
     case SEARCH_STRATEGIES.KEYWORD:
-    default:
       strategy = new KeywordSearchStrategy(options.strategyConfig);
       break;
-    // Future: Add EMBEDDING and HYBRID strategies
+    
+    case SEARCH_STRATEGIES.EMBEDDING:
+    default: // Default to semantic search
+      strategy = new SemanticSearchStrategy(options.strategyConfig);
+      // Initialize embedding model
+      await strategy.initialize(options.onProgress);
+      break;
+    
+    // Future: Add HYBRID strategy
   }
   
   // Create and return service

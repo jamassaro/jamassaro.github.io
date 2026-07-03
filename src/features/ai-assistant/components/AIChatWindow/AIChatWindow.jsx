@@ -17,7 +17,12 @@ const AIChatWindow = ({
   onPromptClick,
   onEnableAI,
   onViewArchitecture,
+  onSkipTyping,
   isLoading = false,
+  isTyping = false,
+  isReady = false,
+  isInitializing = false,
+  downloadProgress = null,
   quickPrompts,
 }) => {
   const { scrollRef } = useScroll([messages]);
@@ -43,12 +48,14 @@ const AIChatWindow = ({
       {/* Messages Container */}
       <div ref={scrollRef} className={styles.messagesContainer}>
         <div className={styles.messages}>
-          {messages.map((message) => (
+          {messages.map((message, index) => (
             <AIMessage
               key={message.id}
               role={message.role}
               content={message.content}
               timestamp={message.timestamp}
+              isTyping={isTyping && index === messages.length - 1 && message.role === 'assistant'}
+              onSkipTyping={onSkipTyping}
             />
           ))}
           {isLoading && (
@@ -66,17 +73,20 @@ const AIChatWindow = ({
         <QuickPromptList
           prompts={quickPrompts}
           onPromptClick={onPromptClick}
-          disabled={isLoading}
+          disabled={isLoading || isTyping}
         />
       </div>
 
       {/* Input Area */}
       <AIChatInput
         onSend={onSendMessage}
-        disabled={isLoading}
+        disabled={isLoading || !isReady}
         placeholder="Ask about my AI projects, GCP experience, architecture, or leadership..."
         onEnableAI={onEnableAI}
         onViewArchitecture={onViewArchitecture}
+        isReady={isReady}
+        isInitializing={isInitializing}
+        downloadProgress={downloadProgress}
       />
     </div>
   );
@@ -95,7 +105,12 @@ AIChatWindow.propTypes = {
   onPromptClick: PropTypes.func.isRequired,
   onEnableAI: PropTypes.func.isRequired,
   onViewArchitecture: PropTypes.func.isRequired,
+  onSkipTyping: PropTypes.func.isRequired,
   isLoading: PropTypes.bool,
+  isTyping: PropTypes.bool,
+  isReady: PropTypes.bool,
+  isInitializing: PropTypes.bool,
+  downloadProgress: PropTypes.object,
   quickPrompts: PropTypes.array.isRequired,
 };
 

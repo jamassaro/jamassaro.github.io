@@ -13,6 +13,9 @@ const AIChatInput = ({
   placeholder = 'Type your message...',
   onEnableAI,
   onViewArchitecture,
+  isReady = false,
+  isInitializing = false,
+  downloadProgress = null,
 }) => {
   const [inputValue, setInputValue] = useState('');
   const textareaRef = useRef(null);
@@ -86,10 +89,19 @@ const AIChatInput = ({
           type="button"
           className={`${styles.actionButton} ${styles.primary}`}
           onClick={onEnableAI}
-          disabled={disabled}
+          disabled={isReady || isInitializing}
         >
-          <span className={styles.buttonIcon}>⚡</span>
-          Enable Local AI
+          <span className={styles.buttonIcon}>
+            {isReady ? '✓' : isInitializing ? '⏳' : '⚡'}
+          </span>
+          {isReady 
+            ? 'AI Ready' 
+            : isInitializing && downloadProgress?.progress
+            ? `Downloading... ${Math.round(downloadProgress.progress * 100)}%`
+            : isInitializing
+            ? 'Initializing...'
+            : 'Enable Local AI'
+          }
         </button>
         <button
           type="button"
@@ -110,6 +122,9 @@ AIChatInput.propTypes = {
   placeholder: PropTypes.string,
   onEnableAI: PropTypes.func.isRequired,
   onViewArchitecture: PropTypes.func.isRequired,
+  isReady: PropTypes.bool,
+  isInitializing: PropTypes.bool,
+  downloadProgress: PropTypes.object,
 };
 
 export default AIChatInput;

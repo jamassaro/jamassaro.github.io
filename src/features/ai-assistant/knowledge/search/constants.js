@@ -34,8 +34,8 @@ export const SEARCH_CONFIG = {
  */
 export const SEARCH_STRATEGIES = {
   KEYWORD: 'keyword',
-  EMBEDDING: 'embedding', // Future
-  HYBRID: 'hybrid',       // Future
+  EMBEDDING: 'embedding',
+  HYBRID: 'hybrid', // Future
 };
 
 /**
