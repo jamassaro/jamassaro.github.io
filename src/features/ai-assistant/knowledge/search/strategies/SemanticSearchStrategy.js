@@ -243,7 +243,6 @@ export class SemanticSearchStrategy extends BaseSearchStrategy {
   clearCache() {
     this.chunkEmbeddings.clear();
     this.embeddingService.clearCache();
-    console.log('[SemanticSearchStrategy] Caches cleared');
   }
 
   /**
