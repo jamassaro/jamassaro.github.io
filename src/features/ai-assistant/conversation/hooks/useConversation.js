@@ -20,6 +20,7 @@ import { conversationActions } from '../core/conversationActions.js';
 import { validateMessageContent, createError } from '../core/conversationUtils.js';
 import { CONVERSATION_CONFIG, ERROR_CODES, ERROR_MESSAGES } from '../config/conversationConfig.js';
 import { AIProviderFactory, PROVIDER_TYPES } from '../providers/providerFactory.js';
+import { extractFollowUps } from '../utils/responseParser.js';
 
 /**
  * Main conversation hook - unified interface for components
@@ -56,6 +57,7 @@ export function useConversation(options = {}) {
   const [isInitializing, setIsInitializing] = useState(false);
   const [isReady, setIsReady] = useState(false);
   const [shouldInitialize, setShouldInitialize] = useState(autoInitialize);
+  const [followUps, setFollowUps] = useState([]);
 
   // Initialize manager (auto or manual)
   useEffect(() => {
@@ -135,6 +137,9 @@ export function useConversation(options = {}) {
       // Clear any previous errors
       dispatch(conversationActions.clearError());
 
+      // Clear follow-ups when user sends new message
+      setFollowUps([]);
+
       // Add user message
       dispatch(conversationActions.addUserMessage(text));
 
@@ -144,18 +149,24 @@ export function useConversation(options = {}) {
       // Process message
       const result = await manager.processMessage(text, state);
 
-      // Start typing animation
-      dispatch(conversationActions.startTyping(result.response.content));
-      typing.startTyping(result.response.content);
+      // Parse response to extract follow-ups
+      const { answer, followUps: extractedFollowUps } = extractFollowUps(result.response.content);
+
+      // Start typing animation with clean answer
+      dispatch(conversationActions.startTyping(answer));
+      typing.startTyping(answer);
 
       // Wait for typing animation to complete
       await waitForTyping(typing);
 
-      // Add assistant message
+      // Add assistant message with clean answer
       dispatch(conversationActions.addAssistantMessage(
-        result.response.content,
+        answer,
         result.response.metadata
       ));
+
+      // Update follow-ups
+      setFollowUps(extractedFollowUps);
 
       // Finish typing
       dispatch(conversationActions.finishTyping());
@@ -336,6 +347,16 @@ export function useConversation(options = {}) {
     dispatch(conversationActions.setIdle());
   }, [typing, dispatch]);
 
+  /**
+   * Send a follow-up question
+   * @param {string} followUpText - Follow-up question text
+   */
+  const sendFollowUp = useCallback((followUpText) => {
+    if (followUpText && typeof followUpText === 'string') {
+      sendMessage(followUpText);
+    }
+  }, [sendMessage]);
+
   return {
     // State
     state,
@@ -358,6 +379,10 @@ export function useConversation(options = {}) {
     suggestedPrompts: suggestions.prompts,
     selectPrompt,
     refreshSuggestions: suggestions.refreshPrompts,
+    
+    // Follow-ups (Progressive Disclosure)
+    followUps,
+    sendFollowUp,
     
     // Utilities
     exportConversation,

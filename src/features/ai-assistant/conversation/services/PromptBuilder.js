@@ -18,6 +18,7 @@ export class PromptBuilder {
    */
   buildSystemPrompt(language) {
     const actionInstructions = this.buildActionInstructions(language);
+    const responseFormat = this.buildResponseFormatInstructions(language);
     
     if (language === 'es') {
       return `Eres un asistente de IA para el portafolio de un desarrollador de software.
@@ -33,6 +34,8 @@ Características:
 - Si no tienes información, di que no la tienes
 - Sé amigable pero profesional
 - Responde en español
+
+${responseFormat}
 
 IMPORTANTE - CAPACIDADES DE CONTROL:
 Puedes controlar el portafolio mediante acciones estructuradas.
@@ -55,11 +58,60 @@ Guidelines:
 - Be friendly but professional
 - Respond in English
 
+${responseFormat}
+
 IMPORTANT - CONTROL CAPABILITIES:
 You can control the portfolio through structured actions.
 When appropriate, include actions to navigate, show projects, download resume, etc.
 
 ${actionInstructions}`;
+  }
+
+  /**
+   * Build response format instructions for progressive disclosure
+   * @param {string} language - Current language
+   * @returns {string} Response format instructions
+   */
+  buildResponseFormatInstructions(language) {
+    if (language === 'es') {
+      return `FORMATO DE RESPUESTA - MUY IMPORTANTE:
+Proporciona respuestas breves y concisas (2-3 oraciones máximo), seguidas de sugerencias de seguimiento.
+
+Formato requerido:
+1. Escribe tu respuesta directa y concisa (2-3 oraciones)
+2. Agrega una línea en blanco
+3. Agrega "FOLLOW_UPS:" en una nueva línea
+4. Lista 2-3 preguntas de seguimiento relevantes, cada una con "-" al inicio
+
+Ejemplo:
+"Trabajo principalmente con React, Node.js y TypeScript para crear aplicaciones web escalables. Me enfoco en rendimiento y experiencia de usuario.
+
+FOLLOW_UPS:
+- ¿Qué proyectos has construido con estas tecnologías?
+- ¿Cuál es tu stack tecnológico completo?
+- ¿Cómo abordas el rendimiento en aplicaciones web?"
+
+Recuerda: Sé breve primero, deja que el usuario profundice con las preguntas de seguimiento.`;
+    }
+    
+    return `RESPONSE FORMAT - VERY IMPORTANT:
+Provide brief, concise answers (2-3 sentences maximum), followed by follow-up suggestions.
+
+Required format:
+1. Write your direct, concise answer (2-3 sentences)
+2. Add a blank line
+3. Add "FOLLOW_UPS:" on a new line
+4. List 2-3 relevant follow-up questions, each starting with "-"
+
+Example:
+"I primarily work with React, Node.js, and TypeScript to build scalable web applications. I focus on performance and user experience.
+
+FOLLOW_UPS:
+- What projects have you built with these technologies?
+- What's your complete tech stack?
+- How do you approach performance in web applications?"
+
+Remember: Be brief first, let users dive deeper with follow-up questions.`;
   }
 
   /**

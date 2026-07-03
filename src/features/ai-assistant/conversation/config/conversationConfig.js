@@ -45,6 +45,14 @@ export const CONVERSATION_CONFIG = {
   // Performance
   DEBOUNCE_TYPING: 300, // Debounce delay for typing input (ms)
   THROTTLE_SEARCH: 500, // Throttle delay for search requests (ms)
+  
+  // Response Style (Progressive Disclosure)
+  RESPONSE_STYLE: {
+    maxSentences: 3, // Maximum sentences for initial answer
+    showFollowUps: true, // Enable follow-up suggestions
+    minFollowUps: 2, // Minimum follow-up questions
+    maxFollowUps: 3, // Maximum follow-up questions
+  },
 };
 
 /**

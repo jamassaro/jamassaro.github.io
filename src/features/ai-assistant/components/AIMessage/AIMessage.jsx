@@ -7,7 +7,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './AIMessage.module.css';
 
-const AIMessage = ({ role, content, timestamp, isTyping, onSkipTyping }) => {
+const AIMessage = ({ role, content, timestamp, isTyping, onSkipTyping, followUps = [], onFollowUpClick }) => {
   const formatTime = (date) => {
     return new Date(date).toLocaleTimeString('en-US', {
       hour: '2-digit',
@@ -18,6 +18,12 @@ const AIMessage = ({ role, content, timestamp, isTyping, onSkipTyping }) => {
   const handleClick = () => {
     if (isTyping && onSkipTyping) {
       onSkipTyping();
+    }
+  };
+
+  const handleFollowUpClick = (followUp) => {
+    if (onFollowUpClick && !isTyping) {
+      onFollowUpClick(followUp);
     }
   };
 
@@ -39,6 +45,23 @@ const AIMessage = ({ role, content, timestamp, isTyping, onSkipTyping }) => {
       {isTyping && (
         <div className={styles.skipHint}>Click to skip animation</div>
       )}
+      {!isTyping && followUps.length > 0 && (
+        <div className={styles.followUps}>
+          <div className={styles.followUpLabel}>💡 Learn more:</div>
+          <div className={styles.followUpButtons}>
+            {followUps.map((followUp, index) => (
+              <button
+                key={index}
+                className={styles.followUpButton}
+                onClick={() => handleFollowUpClick(followUp)}
+                type="button"
+              >
+                {followUp}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 };
@@ -49,11 +72,15 @@ AIMessage.propTypes = {
   timestamp: PropTypes.instanceOf(Date).isRequired,
   isTyping: PropTypes.bool,
   onSkipTyping: PropTypes.func,
+  followUps: PropTypes.arrayOf(PropTypes.string),
+  onFollowUpClick: PropTypes.func,
 };
 
 AIMessage.defaultProps = {
   isTyping: false,
   onSkipTyping: null,
+  followUps: [],
+  onFollowUpClick: null,
 };
 
 export default AIMessage;

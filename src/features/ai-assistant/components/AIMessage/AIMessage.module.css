@@ -136,6 +136,58 @@
   50% { opacity: 0.8; }
 }
 
+/* Follow-up suggestions */
+.followUps {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--color-outline-variant);
+  animation: slideIn 0.3s ease-out;
+}
+
+.followUpLabel {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--color-on-surface-variant);
+  letter-spacing: 0.5px;
+  opacity: 0.9;
+}
+
+.followUpButtons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.followUpButton {
+  padding: 10px 14px;
+  background: linear-gradient(135deg, rgba(0, 220, 229, 0.08) 0%, rgba(0, 220, 229, 0.05) 100%);
+  border: 1px solid rgba(0, 220, 229, 0.25);
+  border-radius: var(--radius-sm);
+  color: var(--color-on-surface);
+  font-family: var(--font-inter);
+  font-size: 13px;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.followUpButton:hover {
+  background: linear-gradient(135deg, rgba(0, 220, 229, 0.15) 0%, rgba(0, 220, 229, 0.10) 100%);
+  border-color: var(--color-primary);
+  transform: translateX(4px);
+  box-shadow: 0 2px 8px rgba(0, 220, 229, 0.2);
+}
+
+.followUpButton:active {
+  transform: translateX(2px);
+  box-shadow: 0 1px 4px rgba(0, 220, 229, 0.15);
+}
+
 /* Tablet */
 @media (max-width: 1024px) {
   .message {

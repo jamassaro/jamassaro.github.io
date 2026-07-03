@@ -39,6 +39,8 @@ const AIAssistantSection = () => {
     clearError,
     initialize,
     skipTyping,
+    followUps,
+    sendFollowUp,
   } = useConversation({
     providerType: 'webllm', // Using WebLLM with Llama-3.2-1B (0.9GB)
     language: normalizedLanguage,
@@ -160,6 +162,8 @@ const AIAssistantSection = () => {
               isInitializing={isInitializing}
               downloadProgress={downloadProgress}
               quickPrompts={quickPrompts}
+              followUps={followUps}
+              onFollowUpClick={sendFollowUp}
             />
           </div>
 

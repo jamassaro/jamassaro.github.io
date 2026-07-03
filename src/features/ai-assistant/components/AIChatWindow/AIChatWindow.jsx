@@ -24,6 +24,8 @@ const AIChatWindow = ({
   isInitializing = false,
   downloadProgress = null,
   quickPrompts,
+  followUps = [],
+  onFollowUpClick,
 }) => {
   const { scrollRef } = useScroll([messages]);
 
@@ -48,16 +50,23 @@ const AIChatWindow = ({
       {/* Messages Container */}
       <div ref={scrollRef} className={styles.messagesContainer}>
         <div className={styles.messages}>
-          {messages.map((message, index) => (
-            <AIMessage
-              key={message.id}
-              role={message.role}
-              content={message.content}
-              timestamp={message.timestamp}
-              isTyping={isTyping && index === messages.length - 1 && message.role === 'assistant'}
-              onSkipTyping={onSkipTyping}
-            />
-          ))}
+          {messages.map((message, index) => {
+            const isLastMessage = index === messages.length - 1;
+            const isLastAssistant = isLastMessage && message.role === 'assistant';
+            
+            return (
+              <AIMessage
+                key={message.id}
+                role={message.role}
+                content={message.content}
+                timestamp={message.timestamp}
+                isTyping={isTyping && isLastAssistant}
+                onSkipTyping={onSkipTyping}
+                followUps={isLastAssistant && !isTyping ? followUps : []}
+                onFollowUpClick={onFollowUpClick}
+              />
+            );
+          })}
           {isLoading && (
             <div className={styles.loadingIndicator}>
               <span className={styles.loadingDot}></span>
@@ -112,6 +121,8 @@ AIChatWindow.propTypes = {
   isInitializing: PropTypes.bool,
   downloadProgress: PropTypes.object,
   quickPrompts: PropTypes.array.isRequired,
+  followUps: PropTypes.arrayOf(PropTypes.string),
+  onFollowUpClick: PropTypes.func,
 };
 
 export default AIChatWindow;
