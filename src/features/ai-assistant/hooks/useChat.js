@@ -21,8 +21,6 @@ export const useChat = () => {
   const sendMessage = useCallback((content) => {
     if (!content.trim()) return;
 
-    console.log('📤 Sending message:', content);
-
     // Create new user message
     const userMessage = {
       id: `msg-${Date.now()}`,
@@ -36,12 +34,10 @@ export const useChat = () => {
 
     // Simulate AI processing
     setIsLoading(true);
-    console.log('🤖 AI would process this message...');
 
     // Simulate response delay
     setTimeout(() => {
       setIsLoading(false);
-      console.log('✅ Message sent (UI-only demo - no actual AI)');
     }, 1500);
   }, []);
 
@@ -50,7 +46,6 @@ export const useChat = () => {
    */
   const clearMessages = useCallback(() => {
     setMessages([]);
-    console.log('🗑️ Chat cleared');
   }, []);
 
   return {

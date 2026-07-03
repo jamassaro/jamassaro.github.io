@@ -49,8 +49,6 @@ const AIAssistantSection = () => {
       temperature: 0.7,
       maxTokens: 500,
       onProgress: (progress) => {
-        const progressText = progress.text || `${Math.round((progress.progress || 0) * 100)}%`;
-        console.log(`📥 Downloading ${DEFAULT_MODEL.name}: ${progressText}`);
         setDownloadProgress(progress);
       }
     }
@@ -108,105 +106,18 @@ const AIAssistantSection = () => {
       );
 
       if (confirmed) {
-        console.log('🚀 Starting Local AI Download');
-        console.log(`📦 Model: ${DEFAULT_MODEL.name}`);
-        console.log(`💾 Size: ${DEFAULT_MODEL.size}`);
-        console.log(`⏱️  Estimated time: ${DEFAULT_MODEL.downloadTime}`);
-        console.log('💡 Model will be cached for future visits');
         initialize();
       }
-    } else {
-      // Show status
-      console.log('⚡ Local AI Status');
-      console.log('='.repeat(60));
-      console.log(`🤖 Model: ${DEFAULT_MODEL.name}`);
-      console.log('🔍 Semantic Search: Enabled (Transformers.js)');
-      console.log('⚡ AI Actions: Enabled (5 action types)');
-      console.log('📚 Knowledge Base: Portfolio content indexed');
-      
-      if (isInitializing || !isReady) {
-        console.log('⏳ Status: Downloading...');
-        if (downloadProgress) {
-          const progressText = downloadProgress.text || `${Math.round((downloadProgress.progress || 0) * 100)}%`;
-          console.log(`📥 Progress: ${progressText}`);
-        }
-      } else {
-        console.log('✅ Status: Ready!');
-        console.log('💬 You can now chat with the AI assistant');
-      }
-      
-      console.log('='.repeat(60));
     }
   };
 
   const handleViewArchitecture = () => {
-    console.log('📐 View Architecture clicked');
     setShowArchitecture(!showArchitecture);
   };
-
-  // Log when conversation system is ready
-  useEffect(() => {
-    if (isReady) {
-      console.log('✅ Conversation system initialized');
-      console.log('📊 Features active:');
-      console.log('  - Knowledge Base (semantic search)');
-      console.log('  - AI Actions (portfolio control)');
-      console.log('  - Conversation History');
-      console.log('  - Multi-language Support');
-    }
-  }, [isReady]);
-
-  // Expose cache checker to window for debugging
-  useEffect(() => {
-    window.checkWebLLMCache = async () => {
-      try {
-        const cacheNames = await caches.keys();
-        const webllmCaches = cacheNames.filter(name => name.startsWith('webllm'));
-        
-        console.log('🔍 WebLLM Cache Status');
-        console.log('='.repeat(60));
-        
-        if (webllmCaches.length === 0) {
-          console.log('❌ No WebLLM cache found');
-          console.log('💡 Model needs to be downloaded');
-          return { cached: false, total: 0 };
-        }
-        
-        let totalEntries = 0;
-        for (const cacheName of webllmCaches) {
-          const cache = await caches.open(cacheName);
-          const keys = await cache.keys();
-          console.log(`📦 ${cacheName}: ${keys.length} files`);
-          totalEntries += keys.length;
-        }
-        
-        console.log('='.repeat(60));
-        console.log(`✅ Total cached files: ${totalEntries}`);
-        console.log('💾 Cache will persist between page reloads');
-        console.log('⚠️  Cache may be cleared by:');
-        console.log('   - Private/Incognito browsing');
-        console.log('   - "Clear browsing data" (Site data)');
-        console.log('   - Storage quota exceeded');
-        console.log('   - DevTools > Application > Clear site data');
-        
-        return { cached: true, total: totalEntries, caches: webllmCaches };
-      } catch (err) {
-        console.error('❌ Error checking cache:', err);
-        return { error: err.message };
-      }
-    };
-    
-    console.log('💡 Run window.checkWebLLMCache() to check model cache status');
-  }, []);
 
   // Handle errors
   useEffect(() => {
     if (error) {
-      console.error('❌ Conversation error:', error);
-      console.error('   Error code:', error.code);
-      console.error('   Error message:', error.message);
-      console.error('   Can retry:', error.canRetry);
-      
       // Show error to user
       alert(`AI Error: ${error.message}\n\nPlease try again.`);
       

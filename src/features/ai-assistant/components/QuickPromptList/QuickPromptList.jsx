@@ -9,7 +9,6 @@ import styles from './QuickPromptList.module.css';
 
 const QuickPromptList = ({ prompts, onPromptClick, disabled = false }) => {
   const handleClick = (prompt) => {
-    console.log('🎯 Quick prompt clicked:', prompt.label);
     onPromptClick(prompt.prompt);
   };
 

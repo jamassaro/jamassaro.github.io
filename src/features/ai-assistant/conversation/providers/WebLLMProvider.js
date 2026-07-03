@@ -42,22 +42,10 @@ export class WebLLMProvider extends IAIProvider {
       this._checkWebGPUSupport();
       
       // Check if model is already cached
-      const cacheInfo = await this._checkCache();
-      if (cacheInfo.cached) {
-        console.log('[WebLLM] ✅ Model found in cache - loading from disk');
-        console.log(`[WebLLM] Cache entries: ${cacheInfo.entries} files`);
-      } else {
-        console.log('[WebLLM] ⬇️ Model not cached - downloading (~2GB)');
-        console.log('[WebLLM] Note: Cache may be cleared by:');
-        console.log('  - Private/Incognito mode');
-        console.log('  - Browser "Clear site data" settings');
-        console.log('  - Storage quota limits');
-      }
+      await this._checkCache();
       
       // Dynamic import to avoid bundling issues
       const { CreateMLCEngine } = await import('@mlc-ai/web-llm');
-      
-      console.log(`[WebLLM] Initializing model: ${this.model}`);
       
       // Create engine with progress callback and cache configuration
       this.engine = await CreateMLCEngine(
@@ -72,14 +60,8 @@ export class WebLLMProvider extends IAIProvider {
       );
       
       this._isReady = true;
-      console.log('[WebLLM] Model initialized successfully');
-      
-      // Log cache status after initialization
-      const finalCache = await this._checkCache();
-      console.log(`[WebLLM] 💾 Cache status: ${finalCache.entries} files stored`);
       
     } catch (err) {
-      console.error('[WebLLM] Initialization failed:', err);
       throw this._createInitializationError(err);
     }
   }
@@ -171,7 +153,6 @@ export class WebLLMProvider extends IAIProvider {
    */
   async dispose() {
     if (this.engine) {
-      console.log('[WebLLM] Disposing engine');
       // WebLLM doesn't have explicit dispose, but we clear references
       this.engine = null;
     }
@@ -215,10 +196,6 @@ export class WebLLMProvider extends IAIProvider {
     if (this.onProgress) {
       this.onProgress(progress);
     }
-    
-    // Log progress for debugging
-    const percentage = Math.round(progress.progress * 100);
-    console.log(`[WebLLM] ${progress.text} (${percentage}%)`);
   }
 
   /**

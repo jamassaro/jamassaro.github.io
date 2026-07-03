@@ -402,3 +402,57 @@ body.page-loaded {
     display: none !important;
   }
 }
+
+/* AI Action Highlight Animation */
+.ai-highlight {
+  animation: aiHighlight 0.8s ease-out;
+  position: relative;
+  z-index: 10;
+}
+
+@keyframes aiHighlight {
+  0% {
+    box-shadow: 0 0 0 0 rgba(0, 220, 229, 0);
+    transform: scale(1);
+  }
+  10% {
+    box-shadow: 0 0 20px 5px rgba(0, 220, 229, 0.6);
+    transform: scale(1.02);
+  }
+  20% {
+    box-shadow: 0 0 30px 10px rgba(0, 220, 229, 0.8);
+  }
+  50% {
+    box-shadow: 0 0 40px 15px rgba(0, 220, 229, 0.6);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(0, 220, 229, 0);
+    transform: scale(1);
+  }
+}
+
+/* AI Highlight for dark sections */
+.ai-highlight.dark-section {
+  animation: aiHighlightSecondary 0.8s ease-out;
+}
+
+@keyframes aiHighlightSecondary {
+  0% {
+    box-shadow: 0 0 0 0 rgba(78, 222, 163, 0);
+    transform: scale(1);
+  }
+  10% {
+    box-shadow: 0 0 20px 5px rgba(78, 222, 163, 0.6);
+    transform: scale(1.02);
+  }
+  20% {
+    box-shadow: 0 0 30px 10px rgba(78, 222, 163, 0.8);
+  }
+  50% {
+    box-shadow: 0 0 40px 15px rgba(78, 222, 163, 0.6);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(78, 222, 163, 0);
+    transform: scale(1);
+  }
+}

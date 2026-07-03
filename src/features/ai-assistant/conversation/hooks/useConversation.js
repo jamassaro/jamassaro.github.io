@@ -109,16 +109,9 @@ export function useConversation(options = {}) {
    * @returns {Promise<void>}
    */
   const sendMessage = useCallback(async (text) => {
-    console.log('[useConversation] 📤 sendMessage called:', text);
-    console.log('[useConversation] Current status:', state.status);
-    console.log('[useConversation] isReady:', isReady);
-    console.log('[useConversation] isLoading:', state.status === 'loading');
-    console.log('[useConversation] isTyping:', state.status === 'typing' || typing.isTyping);
-    
     // Validate message
     const validation = validateMessageContent(text);
     if (!validation.valid) {
-      console.error('[useConversation] ❌ Validation failed:', validation.error);
       const error = createError(
         validation.error,
         ERROR_CODES.VALIDATION_FAILED,
@@ -129,7 +122,6 @@ export function useConversation(options = {}) {
     }
 
     if (!isReady) {
-      console.error('[useConversation] ❌ System not ready');
       const error = createError(
         'Conversation system not ready',
         ERROR_CODES.UNKNOWN_ERROR,
@@ -140,55 +132,41 @@ export function useConversation(options = {}) {
     }
 
     try {
-      console.log('[useConversation] ✅ Starting message processing...');
-      
       // Clear any previous errors
       dispatch(conversationActions.clearError());
 
       // Add user message
-      console.log('[useConversation] 📝 Adding user message');
       dispatch(conversationActions.addUserMessage(text));
 
       // Set loading state
-      console.log('[useConversation] ⏳ Setting loading state');
       dispatch(conversationActions.setLoading());
 
       // Process message
-      console.log('[useConversation] 🤖 Processing with AI...');
       const result = await manager.processMessage(text, state);
-      console.log('[useConversation] ✅ AI response received:', result.response.content.substring(0, 50) + '...');
 
       // Start typing animation
-      console.log('[useConversation] ⌨️  Starting typing animation');
       dispatch(conversationActions.startTyping(result.response.content));
       typing.startTyping(result.response.content);
 
       // Wait for typing animation to complete
-      console.log('[useConversation] ⏸️  Waiting for typing to complete...');
       await waitForTyping(typing);
-      console.log('[useConversation] ✅ Typing complete');
 
       // Add assistant message
-      console.log('[useConversation] 💬 Adding assistant message');
       dispatch(conversationActions.addAssistantMessage(
         result.response.content,
         result.response.metadata
       ));
 
       // Finish typing
-      console.log('[useConversation] 🏁 Finishing typing');
       dispatch(conversationActions.finishTyping());
 
       // Execute actions if any
       if (result.response.actions && result.response.actions.length > 0) {
-        console.log('[useConversation] 🎬 Executing', result.response.actions.length, 'actions');
-        
         // Execute actions after a small delay to let user see the message
         setTimeout(async () => {
           try {
             await actionHandler.executeActions(result.response.actions);
           } catch (actionErr) {
-            console.error('[useConversation] ❌ Action execution failed:', actionErr);
             // Don't fail the entire conversation on action errors
           }
         }, 500);
@@ -196,18 +174,12 @@ export function useConversation(options = {}) {
 
       // Update suggestions if available
       if (result.suggestions && result.suggestions.length > 0) {
-        console.log('[useConversation] 💡 Updating suggestions');
         dispatch(conversationActions.updateSuggestions(result.suggestions));
       }
 
       // Set back to idle
-      console.log('[useConversation] 😴 Setting idle state');
       dispatch(conversationActions.setIdle());
-      console.log('[useConversation] ✅ Message processing complete!');
-      console.log('[useConversation] Final status should be: idle');
     } catch (err) {
-      console.error('[useConversation] ❌ ERROR in sendMessage:', err);
-      console.error('[useConversation] Error stack:', err.stack);
       
       const error = err.code 
         ? err 
@@ -218,12 +190,10 @@ export function useConversation(options = {}) {
             err
           );
       
-      console.log('[useConversation] 🚨 Setting error state');
       dispatch(conversationActions.setError(error));
       dispatch(conversationActions.finishTyping());
       
       // IMPORTANT: Reset to idle after error to allow retry
-      console.log('[useConversation] 🔄 Resetting to idle after error');
       setTimeout(() => {
         dispatch(conversationActions.setIdle());
       }, 100);
@@ -236,7 +206,6 @@ export function useConversation(options = {}) {
    */
   const initialize = useCallback(() => {
     if (!isReady && !isInitializing) {
-      console.log('🚀 Starting manual initialization...');
       setShouldInitialize(true);
     }
   }, [isReady, isInitializing]);
@@ -411,21 +380,17 @@ export function useConversation(options = {}) {
  * @returns {Promise<void>}
  */
 function waitForTyping(typing) {
-  console.log('[waitForTyping] ⏸️  Starting wait, isTyping:', typing.isTyping);
   return new Promise((resolve) => {
     let checkCount = 0;
     const maxChecks = 200; // 10 seconds max (200 * 50ms)
     
     const checkInterval = setInterval(() => {
       checkCount++;
-      console.log(`[waitForTyping] Check #${checkCount}, isTyping:`, typing.isTyping);
       
       if (!typing.isTyping) {
-        console.log('[waitForTyping] ✅ Typing complete!');
         clearInterval(checkInterval);
         resolve();
       } else if (checkCount >= maxChecks) {
-        console.error('[waitForTyping] ⚠️  Timeout waiting for typing to complete');
         clearInterval(checkInterval);
         resolve(); // Resolve anyway to prevent hanging
       }

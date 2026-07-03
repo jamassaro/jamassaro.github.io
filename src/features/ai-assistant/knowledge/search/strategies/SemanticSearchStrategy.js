@@ -116,8 +116,6 @@ export class SemanticSearchStrategy extends BaseSearchStrategy {
       return; // All chunks already embedded
     }
     
-    console.log(`[SemanticSearchStrategy] Generating embeddings for ${chunksToEmbed.length} chunks`);
-    
     // Generate searchable text for each chunk
     const texts = chunksToEmbed.map(chunk => this._getChunkText(chunk));
     

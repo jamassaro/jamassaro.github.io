@@ -31,8 +31,6 @@ export function useActionHandler() {
    */
   const executeNavigate = useCallback(async (action) => {
     try {
-      console.log('[ActionHandler] Navigating to:', action.target);
-      
       // Map targets to routes
       const routeMap = {
         home: '/',
@@ -77,8 +75,6 @@ export function useActionHandler() {
    */
   const executeScrollToSection = useCallback(async (action) => {
     try {
-      console.log('[ActionHandler] Scrolling to section:', action.section);
-      
       const element = document.getElementById(action.section);
       
       if (!element) {
@@ -108,8 +104,6 @@ export function useActionHandler() {
    */
   const executeHighlight = useCallback(async (action) => {
     try {
-      console.log('[ActionHandler] Highlighting:', action.target);
-      
       // Find element by ID or selector
       let element = document.getElementById(action.target);
       
@@ -151,8 +145,6 @@ export function useActionHandler() {
    */
   const executeOpenModal = useCallback(async (action) => {
     try {
-      console.log('[ActionHandler] Opening modal:', action.modalType);
-      
       // Dispatch custom event for modal management
       const event = new CustomEvent('ai-open-modal', {
         detail: {
@@ -178,8 +170,6 @@ export function useActionHandler() {
    */
   const executeDownloadResume = useCallback(async (action) => {
     try {
-      console.log('[ActionHandler] Downloading resume:', action.language);
-      
       const language = action.language || 'en';
       const resumePath = language === 'es' 
         ? '/PDF/Resume_ES.pdf' 
@@ -210,8 +200,6 @@ export function useActionHandler() {
     if (!action || !action.type) {
       return { success: false, error: 'Invalid action' };
     }
-
-    console.log('[ActionHandler] Executing action:', action.type);
 
     try {
       switch (action.type) {
@@ -256,8 +244,6 @@ export function useActionHandler() {
     if (!Array.isArray(actions) || actions.length === 0) {
       return [];
     }
-
-    console.log('[ActionHandler] Executing', actions.length, 'actions');
 
     const results = [];
     
