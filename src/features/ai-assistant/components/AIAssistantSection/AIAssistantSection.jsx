@@ -42,14 +42,14 @@ const AIAssistantSection = () => {
     followUps,
     sendFollowUp,
   } = useConversation({
-    providerType: 'webllm', // Using WebLLM with Llama-3.2-1B (0.9GB)
+    providerType: 'webllm', // Using WebLLM - real LLM in browser
     language: normalizedLanguage,
     persistHistory: true,
     autoInitialize: false, // User must click "Enable AI" to start download
     providerConfig: {
-      model: DEFAULT_MODEL.id, // Llama-3.2-1B-Instruct-q4f16_1-MLC
+      model: DEFAULT_MODEL.id, // Phi-3.5-mini-instruct-q4f16_1-MLC (2.2GB)
       temperature: 0.7,
-      maxTokens: 500,
+      maxTokens: 300, // Reduced for concise answers + follow-ups
       onProgress: (progress) => {
         setDownloadProgress(progress);
       }
