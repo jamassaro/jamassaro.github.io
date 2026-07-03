@@ -54,51 +54,116 @@ export class ResponseGenerator {
     const sorted = [...results].sort((a, b) => b.score - a.score);
     const topResults = sorted.slice(0, CONVERSATION_CONFIG.MAX_SEARCH_RESULTS);
     
-    // Build response from chunks
-    const parts = [];
+    // Extract key information
+    const mainChunk = topResults[0].chunk;
+    const technologies = new Set();
+    const relatedTopics = [];
     
-    topResults.forEach((result, index) => {
-      const chunk = result.chunk;
-      
-      // Add chunk content
-      if (chunk.content) {
-        parts.push(chunk.content);
+    topResults.forEach(result => {
+      if (result.chunk.metadata?.technologies) {
+        result.chunk.metadata.technologies.forEach(tech => technologies.add(tech));
       }
-      
-      // Add relevant metadata context
-      if (chunk.metadata) {
-        const meta = chunk.metadata;
-        
-        // Add technologies if present
-        if (meta.technologies && meta.technologies.length > 0) {
-          const techList = meta.technologies.slice(0, 5).join(', ');
-          parts.push(`\n${language === 'es' ? 'Tecnologías' : 'Technologies'}: ${techList}`);
-        }
-        
-        // Add links if present
-        if (meta.link) {
-          parts.push(`\n${language === 'es' ? 'Más información' : 'More info'}: ${meta.link}`);
-        }
-      }
-      
-      // Add separator between chunks (except last)
-      if (index < topResults.length - 1) {
-        parts.push('\n\n');
+      if (result.chunk.metadata?.category) {
+        relatedTopics.push(result.chunk.metadata.category);
       }
     });
     
-    let response = parts.join('');
+    // Generate concise answer (2-3 sentences max)
+    const answer = this.generateConciseAnswer(mainChunk, technologies, language);
     
-    // Ensure response has reasonable length
-    if (response.length < CONVERSATION_CONFIG.MOCK_RESPONSE_MIN_LENGTH) {
-      response = this.expandResponse(response, userMessage, language);
+    // Generate follow-up questions
+    const followUps = this.generateFollowUps(topResults, relatedTopics, technologies, language);
+    
+    // Format with FOLLOW_UPS section
+    return `${answer}\n\nFOLLOW_UPS:\n${followUps.map(q => `- ${q}`).join('\n')}`;
+  }
+
+  /**
+   * Generate a concise answer (2-3 sentences)
+   * @param {Object} chunk - Main knowledge chunk
+   * @param {Set<string>} technologies - Technologies mentioned
+   * @param {string} language - Current language
+   * @returns {string} Concise answer
+   */
+  generateConciseAnswer(chunk, technologies, language) {
+    const content = chunk.content || '';
+    const techArray = Array.from(technologies).slice(0, 5);
+    
+    // Simple approach: take first ~150 characters and find sentence boundary
+    let answer = content.slice(0, 200);
+    
+    // Find the last complete sentence within our limit
+    const lastPeriod = answer.lastIndexOf('.');
+    const lastQuestion = answer.lastIndexOf('?');
+    const lastExclaim = answer.lastIndexOf('!');
+    const lastSentenceEnd = Math.max(lastPeriod, lastQuestion, lastExclaim);
+    
+    if (lastSentenceEnd > 50) {
+      answer = content.slice(0, lastSentenceEnd + 1).trim();
+    } else {
+      // No sentence boundary found, just take first sentence from content
+      const match = content.match(/^[^.!?]+[.!?]+/);
+      answer = match ? match[0].trim() : content.slice(0, 150) + '...';
     }
     
-    if (response.length > CONVERSATION_CONFIG.MOCK_RESPONSE_MAX_LENGTH) {
-      response = this.truncateResponse(response, CONVERSATION_CONFIG.MOCK_RESPONSE_MAX_LENGTH);
+    // Add tech summary if technologies mentioned and answer is short
+    if (techArray.length > 0 && answer.length < 150) {
+      const techList = techArray.join(', ');
+      if (language === 'es') {
+        answer += ` Tecnologías clave: ${techList}.`;
+      } else {
+        answer += ` Key technologies: ${techList}.`;
+      }
     }
     
-    return response;
+    return answer;
+  }
+
+  /**
+   * Generate follow-up questions
+   * @param {Array} results - Search results
+   * @param {Array} relatedTopics - Related topic categories
+   * @param {Set} technologies - Technologies mentioned
+   * @param {string} language - Current language
+   * @returns {string[]} Follow-up questions
+   */
+  generateFollowUps(results, relatedTopics, technologies, language) {
+    const followUps = [];
+    const techArray = Array.from(technologies);
+    
+    if (language === 'es') {
+      // Spanish follow-ups
+      if (techArray.length > 0) {
+        followUps.push('¿Qué proyectos has construido con estas tecnologías?');
+      }
+      
+      if (relatedTopics.includes('expertise') || relatedTopics.includes('skills')) {
+        followUps.push('¿Cuál es tu stack tecnológico completo?');
+      } else if (relatedTopics.includes('projects')) {
+        followUps.push('¿Puedes mostrarme ejemplos de estos proyectos?');
+      } else {
+        followUps.push('¿Cuáles son tus áreas de especialización?');
+      }
+      
+      followUps.push('¿Cómo abordas el desarrollo de soluciones escalables?');
+    } else {
+      // English follow-ups
+      if (techArray.length > 0) {
+        followUps.push('What projects have you built with these technologies?');
+      }
+      
+      if (relatedTopics.includes('expertise') || relatedTopics.includes('skills')) {
+        followUps.push('What\'s your complete tech stack?');
+      } else if (relatedTopics.includes('projects')) {
+        followUps.push('Can you show me examples of these projects?');
+      } else {
+        followUps.push('What are your areas of expertise?');
+      }
+      
+      followUps.push('How do you approach building scalable solutions?');
+    }
+    
+    return followUps.slice(0, 3);
   }
 
   /**
@@ -109,10 +174,20 @@ export class ResponseGenerator {
    */
   generateNoResultsResponse(userMessage, language) {
     if (language === 'es') {
-      return 'Lo siento, no encontré información específica sobre eso en mi base de conocimientos. ¿Puedes reformular tu pregunta o probar con otro tema?';
+      return `Lo siento, no encontré información específica sobre eso en mi base de conocimientos. Puedo ayudarte con otros temas relacionados a mi experiencia.
+
+FOLLOW_UPS:
+- ¿Qué proyectos he desarrollado?
+- ¿Cuáles son mis áreas de especialización?
+- ¿Qué tecnologías domino?`;
     }
     
-    return "I apologize, but I couldn't find specific information about that in my knowledge base. Could you rephrase your question or try asking about something else?";
+    return `I apologize, but I couldn't find specific information about that in my knowledge base. I can help you with other topics related to my experience.
+
+FOLLOW_UPS:
+- What projects have I developed?
+- What are my areas of expertise?
+- What technologies do I specialize in?`;
   }
 
   /**
