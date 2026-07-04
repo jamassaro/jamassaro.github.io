@@ -16,8 +16,8 @@ export function extractFollowUps(content) {
     return { answer: content || '', followUps: [] };
   }
 
-  // Look for FOLLOW_UPS section
-  const followUpMatch = content.match(/FOLLOW_UPS?:\s*\n((?:[-•*]\s*.+\n?)+)/i);
+  // Look for FOLLOW_UPS section (supports both numbered lists and bullet points)
+  const followUpMatch = content.match(/FOLLOW_UPS?:\s*\n((?:(?:[-•*]|\d+\.)\s*.+\n?)+)/i);
   
   if (!followUpMatch) {
     return { answer: content, followUps: [] };
@@ -26,13 +26,13 @@ export function extractFollowUps(content) {
   // Extract the answer (everything before FOLLOW_UPS)
   const answer = content.substring(0, followUpMatch.index).trim();
   
-  // Extract follow-up questions (lines starting with -, •, or *)
+  // Extract follow-up questions (lines starting with -, •, *, or 1., 2., etc.)
   const followUpSection = followUpMatch[1];
   const followUps = followUpSection
     .split('\n')
     .map(line => line.trim())
     .filter(line => line.length > 0)
-    .map(line => line.replace(/^[-•*]\s*/, '').trim())
+    .map(line => line.replace(/^(?:[-•*]|\d+\.)\s*/, '').trim())
     .filter(line => line.length > 0);
 
   return { answer, followUps };
@@ -66,6 +66,6 @@ export function hasFollowUps(content) {
  * @returns {string} Formatted follow-up
  */
 export function formatFollowUp(followUp) {
-  // Remove any remaining list markers
-  return followUp.replace(/^[-•*]\s*/, '').trim();
+  // Remove any remaining list markers (both bullets and numbers)
+  return followUp.replace(/^(?:[-•*]|\d+\.)\s*/, '').trim();
 }
