@@ -72,10 +72,10 @@
 /* Two-Column Grid */
 .grid {
   display: grid;
-  grid-template-columns: 1fr 0.6fr;
+  grid-template-columns: 1.5fr 0.5fr;
   gap: 24px;
   align-items: start;
-  min-height: 700px;
+  min-height: 800px;
   width: 100%;
   max-width: 100%;
   box-sizing: border-box;
@@ -84,7 +84,7 @@
 .chatColumn {
   display: flex;
   flex-direction: column;
-  height: 700px;
+  height: 800px;
   min-width: 0;
   width: 100%;
 }
@@ -111,8 +111,13 @@
 /* Large Tablet */
 @media (max-width: 1200px) {
   .grid {
-    grid-template-columns: 1fr 0.65fr;
+    grid-template-columns: 1.3fr 0.55fr;
     gap: 20px;
+    min-height: 750px;
+  }
+
+  .chatColumn {
+    height: 750px;
   }
 
   .title {
@@ -123,13 +128,13 @@
 /* Tablet */
 @media (max-width: 1024px) {
   .grid {
-    grid-template-columns: 1fr 0.75fr;
+    grid-template-columns: 1.2fr 0.65fr;
     gap: 18px;
-    min-height: 650px;
+    min-height: 700px;
   }
 
   .chatColumn {
-    height: 650px;
+    height: 700px;
   }
 
   .title {
