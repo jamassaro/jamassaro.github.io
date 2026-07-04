@@ -221,6 +221,10 @@ ACTION: {"type": "navigate", "target": "projects"}"
     // Add current message
     parts.push('Current question:');
     parts.push(userMessage);
+    parts.push('');
+    parts.push('---');
+    parts.push('');
+    parts.push('REMEMBER: Answer in 2-3 sentences, then add FOLLOW_UPS: with 2-3 questions.');
     
     return parts.join('\n');
   }

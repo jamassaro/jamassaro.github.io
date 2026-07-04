@@ -49,7 +49,7 @@ const AIAssistantSection = () => {
     providerConfig: {
       model: DEFAULT_MODEL.id, // Phi-3.5-mini-instruct-q4f16_1-MLC (2.2GB)
       temperature: 0.7,
-      maxTokens: 300, // Reduced for concise answers + follow-ups
+      maxTokens: 400, // Enough for answer + follow-ups
       onProgress: (progress) => {
         setDownloadProgress(progress);
       }

@@ -149,8 +149,15 @@ export function useConversation(options = {}) {
       // Process message
       const result = await manager.processMessage(text, state);
 
+      // DEBUG: Log raw LLM response
+      console.log('🔍 Raw LLM response:', result.response.content);
+
       // Parse response to extract follow-ups
       const { answer, followUps: extractedFollowUps } = extractFollowUps(result.response.content);
+      
+      // DEBUG: Log parsed results
+      console.log('📝 Parsed answer:', answer);
+      console.log('💡 Extracted follow-ups:', extractedFollowUps);
 
       // Start typing animation with clean answer
       dispatch(conversationActions.startTyping(answer));

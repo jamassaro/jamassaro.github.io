@@ -64,6 +64,7 @@ const Navbar = () => {
     { id: 'expertise', label: t('navigation.expertise'), index: '01' },
     { id: 'projects', label: t('navigation.projects'), index: '02' },
     { id: 'entrepreneurship', label: t('navigation.entrepreneurship'), index: '03' },
+    {id: 'ai-assistant', label: t('navigation.aiAssistant'), index: '04'},
   ];
 
   return (
