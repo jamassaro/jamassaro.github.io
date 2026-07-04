@@ -112,12 +112,12 @@
     "project-1": {
       "title": "DEAL ADVISOR",
       "description": "Deal Advisor es un asistente de compras impulsado por IA que analiza reseñas, videos y discusiones de la comunidad para ayudar a las personas a tomar decisiones de compra más inteligentes con confianza.",
-      "summary": "Aplicación full-stack construida con Next.js, TypeScript y OpenAI. Incluye análisis de reseñas en tiempo real, procesamiento de contenido de video, análisis de sentimientos y recomendaciones personalizadas. Desplegada en Vercel con base de datos PostgreSQL en Railway. Maneja miles de consultas de productos diariamente."
+      "summary": "Aplicación full-stack construida con Next.js, TypeScript y OpenAI. Incluye análisis de reseñas en tiempo real, procesamiento de contenido de video, análisis de sentimientos y recomendaciones personalizadas. Desplegada en Vercel con base de datos PostgreSQL en Railway. Maneja miles de consultas de productos diariamente. Visita: https://www.dealadvisorapp.com"
     },
     "project-2": {
       "title": "DATA BREW",
       "description": "Plataforma de extracción y transformación de datos impulsada por inteligencia artificial que convierte información no estructurada en conjuntos de datos estructurados. Los usuarios pueden cargar capturas de pantalla, documentos o texto libre y transformarlos instantáneamente en formatos JSON, CSV, Excel o SQL.",
-      "summary": "Construido con Next.js 14, backend NestJS y BullMQ para procesamiento de trabajos. Integra tecnología OCR y modelos de IA para extracción inteligente de datos. Procesa más de 1000 documentos por hora. Supabase para base de datos y almacenamiento, desplegado en Vercel con contenedores Docker para workers en segundo plano."
+      "summary": "Construido con Next.js 14, backend NestJS y BullMQ para procesamiento de trabajos. Integra tecnología OCR y modelos de IA para extracción inteligente de datos. Procesa más de 1000 documentos por hora. Supabase para base de datos y almacenamiento, desplegado en Vercel con contenedores Docker para workers en segundo plano. Visita: https://www.databrewapp.com"
     },
     "link": "Visita el sitio web",
     "no-link": "No hay enlace disponible"

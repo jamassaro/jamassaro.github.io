@@ -80,6 +80,10 @@ export function buildProjectKnowledge(translationData, language, index) {
   if (summary && summary !== description) {
     contentParts.push(summary);
   }
+  // Add URL to content so AI knows the actual link
+  if (metadata.link) {
+    contentParts.push(`Website: ${metadata.link}`);
+  }
   const content = contentParts.join(': ');
 
   // Extract secondary categories
