@@ -78,6 +78,4 @@ export const architectureContent = {
   howItWorksTitle: 'HOW_IT_WORKS',
   howItWorksContent:
     'This demo uses a local Large Language Model running entirely in your browser via WebGPU. Portfolio content is embedded and stored locally. When you ask a question, the system retrieves relevant context and generates accurate answers - all without sending data to external servers.',
-  disclaimer:
-    'Note: This is a UI demonstration. Actual AI implementation would require WebLLM, Transformers.js, and FAISS integration.',
 };

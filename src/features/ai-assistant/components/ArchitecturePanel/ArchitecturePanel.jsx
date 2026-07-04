@@ -15,7 +15,6 @@ const ArchitecturePanel = ({
   steps,
   techBadges,
   featureBadges,
-  disclaimer,
 }) => {
   return (
     <div className={styles.panel}>
@@ -69,13 +68,6 @@ const ArchitecturePanel = ({
           ))}
         </div>
       </div>
-
-      {/* Disclaimer */}
-      {disclaimer && (
-        <div className={styles.disclaimer}>
-          <p>{disclaimer}</p>
-        </div>
-      )}
     </div>
   );
 };
@@ -103,7 +95,6 @@ ArchitecturePanel.propTypes = {
       variant: PropTypes.string.isRequired,
     })
   ).isRequired,
-  disclaimer: PropTypes.string,
 };
 
 export default ArchitecturePanel;
