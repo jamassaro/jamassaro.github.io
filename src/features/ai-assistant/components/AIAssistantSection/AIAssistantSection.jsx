@@ -179,8 +179,6 @@ const AIAssistantSection = () => {
               steps={pipelineSteps}
               techBadges={techBadges}
               featureBadges={featureBadges}
-              howItWorksTitle={architectureContent.howItWorksTitle}
-              howItWorksContent={architectureContent.howItWorksContent}
               disclaimer={architectureContent.disclaimer}
             />
           </div>

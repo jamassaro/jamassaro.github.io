@@ -15,8 +15,6 @@ const ArchitecturePanel = ({
   steps,
   techBadges,
   featureBadges,
-  howItWorksTitle,
-  howItWorksContent,
   disclaimer,
 }) => {
   return (
@@ -72,12 +70,6 @@ const ArchitecturePanel = ({
         </div>
       </div>
 
-      {/* How It Works */}
-      <div className={styles.section}>
-        <h4 className={styles.sectionTitle}>{howItWorksTitle}</h4>
-        <p className={styles.description}>{howItWorksContent}</p>
-      </div>
-
       {/* Disclaimer */}
       {disclaimer && (
         <div className={styles.disclaimer}>
@@ -111,8 +103,6 @@ ArchitecturePanel.propTypes = {
       variant: PropTypes.string.isRequired,
     })
   ).isRequired,
-  howItWorksTitle: PropTypes.string.isRequired,
-  howItWorksContent: PropTypes.string.isRequired,
   disclaimer: PropTypes.string,
 };
 
