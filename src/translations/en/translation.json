@@ -6,6 +6,7 @@
     "projects": "Projects",
     "entrepreneurship": "Startup Journey",
     "resume": "Resume",
+    "aiAssistant": "AI Assistant",
     "english": "English",
     "spanish": "Spanish"
   },
@@ -110,11 +111,13 @@
     "description": "Exploring ideas, building products, and transforming complex problems into simple, scalable solutions powered by AI and modern technologies.",
     "project-1": {
       "title": "DEAL ADVISOR",
-      "description": "Deal Advisor is an AI-powered shopping assistant that analyzes reviews, videos, and community discussions to help people make smarter buying decisions with confidence."
+      "description": "Deal Advisor is an AI-powered shopping assistant that analyzes reviews, videos, and community discussions to help people make smarter buying decisions with confidence.",
+      "summary": "Full-stack application built with Next.js, TypeScript, and OpenAI. Features include real-time review analysis, video content processing, sentiment analysis, and personalized recommendations. Deployed on Vercel with PostgreSQL database on Railway. Handles thousands of product queries daily."
     },
     "project-2": {
       "title": "DATA BREW",
-      "description": "AI-powered data extraction and transformation platform that converts unstructured information into structured datasets. Users can upload screenshots, documents, or raw text and instantly transform them into JSON, CSV, Excel, or SQL-ready formats. By automating data extraction and organization, DataBrew helps developers, businesses, and researchers save time and focus on what matters most: using their data"
+      "description": "AI-powered data extraction and transformation platform that converts unstructured information into structured datasets. Users can upload screenshots, documents, or raw text and instantly transform them into JSON, CSV, Excel, or SQL-ready formats.",
+      "summary": "Built with Next.js 14, NestJS backend, and BullMQ for job processing. Integrates OCR technology and AI models for intelligent data extraction. Processes 1000+ documents per hour. Supabase for database and storage, deployed on Vercel with Docker containers for background workers."
     },
     "link": "Visit Website",
     "no-link": "No link available"
