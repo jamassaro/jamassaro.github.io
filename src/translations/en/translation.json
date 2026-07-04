@@ -135,6 +135,22 @@
     "pipeline-title": "LOCAL_RAG_PIPELINE",
     "pipeline-subtitle": "Retrieval-Augmented Generation",
     "how-it-works": "HOW_IT_WORKS",
-    "tech-stack": "TECH_STACK"
+    "tech-stack": "TECH_STACK",
+    "mobile-warning": {
+      "title": "Desktop Only Feature",
+      "subtitle": "This AI assistant requires a desktop or laptop computer for optimal performance.",
+      "requirements-title": "Technical Requirements:",
+      "requirement-1": "2.2GB model download",
+      "requirement-2": "WebGPU support (Chrome 113+, Safari 18+)",
+      "requirement-3": "Stable internet connection",
+      "requirement-4": "Sufficient memory (4GB+ RAM)",
+      "message": "Mobile browsers may crash or refresh during the model download. For the best experience, please visit this page on a desktop or laptop.",
+      "alternatives-title": "Meanwhile, you can:",
+      "alternative-1": "✓ Browse my projects",
+      "alternative-2": "✓ Check out my expertise",
+      "alternative-3": "✓ View my startup journey",
+      "alternative-4": "✓ Download my resume",
+      "view-architecture": "View Architecture Panel →"
+    }
   }
 }

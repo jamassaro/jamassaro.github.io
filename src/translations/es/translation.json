@@ -135,6 +135,22 @@
     "pipeline-title": "PIPELINE_RAG_LOCAL",
     "pipeline-subtitle": "Generación Aumentada por Recuperación",
     "how-it-works": "CÓMO_FUNCIONA",
-    "tech-stack": "STACK_TÉCNICO"
+    "tech-stack": "STACK_TÉCNICO",
+    "mobile-warning": {
+      "title": "Solo para Escritorio",
+      "subtitle": "Este asistente de IA requiere una computadora de escritorio o portátil para un rendimiento óptimo.",
+      "requirements-title": "Requisitos Técnicos:",
+      "requirement-1": "Descarga de modelo de 2.2GB",
+      "requirement-2": "Soporte WebGPU (Chrome 113+, Safari 18+)",
+      "requirement-3": "Conexión a internet estable",
+      "requirement-4": "Memoria suficiente (4GB+ RAM)",
+      "message": "Los navegadores móviles pueden bloquearse o refrescarse durante la descarga del modelo. Para una mejor experiencia, por favor visita esta página en una computadora de escritorio o portátil.",
+      "alternatives-title": "Mientras tanto, puedes:",
+      "alternative-1": "✓ Explorar mis proyectos",
+      "alternative-2": "✓ Ver mi expertise",
+      "alternative-3": "✓ Conocer mi trayectoria startup",
+      "alternative-4": "✓ Descargar mi CV",
+      "view-architecture": "Ver Panel de Arquitectura →"
+    }
   }
 }

@@ -7,8 +7,10 @@ import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import AIChatWindow from '../AIChatWindow';
 import ArchitecturePanel from '../ArchitecturePanel';
+import MobileWarning from '../MobileWarning';
 import { useConversation } from '../../conversation';
 import { DEFAULT_MODEL, isWebGPUSupported } from '../../conversation/config/modelConfig.js';
+import { isMobileDevice } from '../../../../utils/deviceDetection.js';
 import {
   quickPrompts,
   pipelineSteps,
@@ -23,6 +25,15 @@ const AIAssistantSection = () => {
   
   // Normalize language code (en-US -> en, es-ES -> es)
   const normalizedLanguage = language?.split('-')[0] || 'en';
+  
+  // Detect if user is on mobile/tablet device
+  // Mobile devices cannot handle 2.2GB model download (causes crashes/refresh)
+  const [isMobile, setIsMobile] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return isMobileDevice();
+    }
+    return false; // SSR fallback
+  });
   
   // State for tracking model download progress
   const [downloadProgress, setDownloadProgress] = useState(null);
@@ -74,6 +85,9 @@ const AIAssistantSection = () => {
       if (isDesktop && !showArchitecture) {
         setShowArchitecture(true);
       }
+      
+      // Update mobile detection on resize (e.g., orientation change)
+      setIsMobile(isMobileDevice());
     };
 
     window.addEventListener('resize', handleResize);
@@ -147,24 +161,28 @@ const AIAssistantSection = () => {
 
         {/* Two-Column Layout */}
         <div className={styles.grid}>
-          {/* Left: Chat Window */}
+          {/* Left: Chat Window or Mobile Warning */}
           <div className={styles.chatColumn}>
-            <AIChatWindow
-              messages={messages}
-              onSendMessage={sendMessage}
-              onPromptClick={sendMessage}
-              onEnableAI={handleEnableAI}
-              onViewArchitecture={handleViewArchitecture}
-              onSkipTyping={skipTyping}
-              isLoading={isLoading}
-              isTyping={isTyping}
-              isReady={isReady}
-              isInitializing={isInitializing}
-              downloadProgress={downloadProgress}
-              quickPrompts={quickPrompts}
-              followUps={followUps}
-              onFollowUpClick={sendFollowUp}
-            />
+            {isMobile ? (
+              <MobileWarning onViewArchitecture={handleViewArchitecture} />
+            ) : (
+              <AIChatWindow
+                messages={messages}
+                onSendMessage={sendMessage}
+                onPromptClick={sendMessage}
+                onEnableAI={handleEnableAI}
+                onViewArchitecture={handleViewArchitecture}
+                onSkipTyping={skipTyping}
+                isLoading={isLoading}
+                isTyping={isTyping}
+                isReady={isReady}
+                isInitializing={isInitializing}
+                downloadProgress={downloadProgress}
+                quickPrompts={quickPrompts}
+                followUps={followUps}
+                onFollowUpClick={sendFollowUp}
+              />
+            )}
           </div>
 
           {/* Right: Architecture Panel */}
