@@ -42,7 +42,6 @@ const VentureSection = () => {
             title={t('venture.company')}
             index="03"
             indexLabel={t('venture.tag')}
-            subtitle={t('venture.role')}
           />
           
           <p className={styles.ventureIntro}>

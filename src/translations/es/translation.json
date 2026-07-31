@@ -50,7 +50,7 @@
     "data-intelligence": {
       "label": "data_intelligence",
       "title": "Inteligencia de Datos",
-      "description": "Aprovechando los conocimientos y análisis basados en datos para informar la toma de decisiones, optimizar procesos y impulsar el crecimiento empresarial."
+      "description": "Diseño de sistemas de datos escalables que transforman información sin procesar en productos de datos estructurados, consultables y de alto rendimiento."
     },
     "cloud": {
       "label": "cloud_infrastructure",
@@ -77,13 +77,13 @@
   },
   "venture": {
     "tag": "TRAYECTORIA_STARTUP",
-    "company": "Brave Up!",
-    "role": "Co-Fundador y Ex CTO",
-    "description": "Co-fundé y lideré la visión tecnológica de Brave Up!, una startup EdTech enfocada en bienestar estudiantil y prevención del bullying. Construí la plataforma desde cero, escalándola a más de 100.000 usuarios en múltiples países mientras lideraba ingeniería, estrategia de producto y equipos multidisciplinarios.",
+    "company": "BRAVE UP!",
+    "role": "Co-Fundador y CTO",
+    "description": "Cofundé BRAVE UP! y construí la plataforma desde cero, transformando una idea inicial en un producto EdTech utilizado por más de 100.000 personas en varios países. Levanté US$600K a una valoración aproximada de US$12M, desarrollé y escalé la tecnología, y aprendí de primera mano cómo construir una startup y resolver problemas complejos del mundo real en comunidades escolares.",
     "metrics": {
       "users": "100K+ Usuarios",
       "schools": "500+ Colegios",
-      "countries": "5 Países"
+      "countries": "4 Países"
     },
     "cards": [
       {
@@ -96,13 +96,13 @@
         "tag": "IA_Y_ANALITICA",
         "title": "IA y Analítica",
         "description": "Desarrollé modelos predictivos, dashboards y herramientas analíticas para ayudar a las escuelas a identificar riesgos y apoyar el bienestar estudiantil mediante decisiones basadas en datos.",
-        "technologies": ["Analítica", "IA", "Machine Learning", "BigQuery", "Visualización"]
+        "technologies": ["Analítica", "IA", "LLM/RAG", "BigQuery", "Visualización"]
       },
       {
-        "tag": "LIDERAZGO",
-        "title": "Liderazgo",
-        "description": "Lideré ingeniería, estrategia de producto y decisiones tecnológicas mientras escalaba la plataforma internacionalmente y construía equipos multidisciplinarios.",
-        "technologies": ["Liderazgo", "Producto", "Estrategia", "Equipos", "Escalamiento"]
+        "tag": "ARQUITECTURA_Y_ESCALA",
+        "title": "Arquitectura y Escala",
+        "description": "Construí productos desde cero y los convertí en plataformas confiables utilizadas en varios países, con foco en arquitectura escalable, rendimiento y decisiones de ingeniería pragmáticas.",
+        "technologies": ["ARQUITECTURA", "0-A-1", "ESCALA INTERNACIONAL", "RENDIMIENTO"]
       }
     ]
   },
