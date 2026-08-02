@@ -5,7 +5,7 @@ import GlassCard from '../ui/GlassCard';
 import TechTag from '../ui/TechTag';
 import SectionTitle from '../ui/SectionTitle';
 import AnimatedSection from '../ui/AnimatedSection';
-import Innovare from '../../assets/logos/companies/innovare.png';
+import Innovare from '../../assets/logos/companies/Innovare.png';
 import Glampi from '../../assets/logos/companies/glampi.jpg';
 import Avattar from '../../assets/logos/companies/avattar.png';
  // Import the Innovare icon
