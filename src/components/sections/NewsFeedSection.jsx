@@ -1,29 +1,31 @@
 
-import useGetDataNews from '../../hooks/useGetDataNews';
-import { useEffect, useState } from 'react';
+import useNewsData from '../../hooks/useNewsData';
+import { useState, useMemo } from 'react';
 import styles from './NewFeed.module.css';
 import { AnimatedSection, SectionTitle } from '../ui';
 
 const NewsFeedSection = () => {
-  const { news, loading, error, fetchNews } = useGetDataNews();
-  const [activeSource, setActiveSource] = useState('TECHCRUNCH');
+  const { allNews, loading, error } = useNewsData();
+  const [activeSource, setActiveSource] = useState('ALL');
 
   const NEWS_SOURCES = [
-    { id: 'TECHCRUNCH', label: 'TechCrunch', url: 'https://techcrunch.com/feed/' },
-    { id: 'THE_VERGE', label: 'The Verge', url: 'https://www.theverge.com/rss/index.xml' },
-    { id: 'MACRUMORS', label: 'MacRumors', url: 'https://feeds.macrumors.com/MacRumors-All' },
-    { id: '9TO5MAC', label: '9to5Mac', url: 'https://9to5mac.com/feed/' },
+    { id: 'ALL', label: 'All Sources' },
+    { id: 'TechCrunch', label: 'TechCrunch' },
+    { id: 'The Verge', label: 'The Verge' },
+    { id: 'MacRumors', label: 'MacRumors' },
+    { id: '9to5Mac', label: '9to5Mac' },
   ];
 
-  // Load default source on mount
-  useEffect(() => {
-    fetchNews(NEWS_SOURCES[0].url);
-  }, []);
+  // Filter news by selected source (client-side, instant)
+  const filteredNews = useMemo(() => {
+    if (activeSource === 'ALL') {
+      return allNews;
+    }
+    return allNews.filter(article => article.source === activeSource);
+  }, [allNews, activeSource]);
 
   const handleSourceClick = (source) => {
-    if (source.id === activeSource) return; // Prevent unnecessary refetch
     setActiveSource(source.id);
-    fetchNews(source.url);
   };
 
   return (
@@ -46,14 +48,13 @@ const NewsFeedSection = () => {
                 key={source.id}
                 className={`${styles.newsSource} ${activeSource === source.id ? styles.active : ''}`}
                 onClick={() => handleSourceClick(source)}
-                disabled={loading}
               >
                 {source.label}
               </button>
             ))}
           </div>
 
-          {/* News List - Keep content visible during loading to prevent layout shift */}
+          {/* News List */}
           <div className={`${styles.newsListWrapper} ${loading ? styles.loading : ''}`}>
             {error && (
               <div className={styles.errorState}>
@@ -61,24 +62,29 @@ const NewsFeedSection = () => {
               </div>
             )}
 
-            {!error && news.length > 0 && (
+            {!error && filteredNews.length > 0 && (
               <ul className={styles.newsList}>
-                {news.map((item, index) => (
-                  <li key={item.link || index} className={styles.newsItem}>
+                {filteredNews.map((article) => (
+                  <li key={article.id} className={styles.newsItem}>
                     <a 
-                      href={item.link} 
+                      href={article.url} 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className={styles.newsLink}
                     >
-                      <h4 className={styles.newsTitle}>{item.title}</h4>
-                      {item.description && (
+                      <div className={styles.newsHeader}>
+                        <span className={styles.newsSource}>{article.source}</span>
+                        <span className={styles.newsCategory}>{article.category}</span>
+                      </div>
+                      <h4 className={styles.newsTitle}>{article.title}</h4>
+                      {article.description && (
                         <p className={styles.newsDescription}>
-                          {item.description.replace(/<[^>]*>/g, '').substring(0, 120)}...
+                          {article.description.substring(0, 150)}
+                          {article.description.length > 150 ? '...' : ''}
                         </p>
                       )}
                       <span className={styles.newsDate}>
-                        {new Date(item.pubDate).toLocaleDateString('en-US', {
+                        {new Date(article.publishedAt).toLocaleDateString('en-US', {
                           month: 'short',
                           day: 'numeric',
                           year: 'numeric'
@@ -90,13 +96,13 @@ const NewsFeedSection = () => {
               </ul>
             )}
 
-            {!error && news.length === 0 && !loading && (
+            {!error && filteredNews.length === 0 && !loading && (
               <div className={styles.emptyState}>
                 <p>No news available from this source.</p>
               </div>
             )}
 
-            {/* Loading overlay */}
+            {/* Loading overlay - only shown on initial load */}
             {loading && (
               <div className={styles.loadingOverlay}>
                 <div className={styles.spinner}></div>
