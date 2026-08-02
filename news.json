@@ -1,6 +1,171 @@
 {
   "articles": [
     {
+      "id": "2f8adc66f8dad8f1",
+      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+      "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T21:53:15.000Z"
+    },
+    {
+      "id": "5eda1591ef4e4043",
+      "title": "The global memory shortage hits the MacBook Air",
+      "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T21:33:59.000Z"
+    },
+    {
+      "id": "7d84ebc864f08d1b",
+      "title": "Sam Altman and AI’s decel debate",
+      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T20:54:22.000Z"
+    },
+    {
+      "id": "d9a817f555da9f3e",
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "description": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, po",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T19:36:08.000Z"
+    },
+    {
+      "id": "6a4bee22f8a41ef3",
+      "title": "HomeKit Weekly: How I use Apple Home to keep tabs on my home during summer travels",
+      "description": "As I write this article, I am about to head out for a quick trip up north, and when I hit the road, there are a few key types of gear of my smart home setup I fully rely on to keep things running smoothly. Just remember that you will need a dedicated Apple Home hub, like an Apple TV 4K or a HomePod,",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/08/Eve-Aqua-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/02/how-i-use-apple-home-to-keep-tabs-on-my-home-during-summer-travels/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-02T18:51:00.000Z"
+    },
+    {
+      "id": "9bf7b21e65df4130",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "description": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T17:05:07.000Z"
+    },
+    {
+      "id": "d5aefa11ceb86f8a",
+      "title": "Apple’s rumored AirPods with cameras could potentially debut as soon as next month",
+      "description": "Apple has been working on camera-equipped AirPods for quite some time, with Visual Intelligence at the forefront of the product. This product had initially been rumored for this year, then ended up getting pushed back to sometime next year. \nHowever, there’s now a new chance that we end up seeing ou",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-02T16:18:26.000Z"
+    },
+    {
+      "id": "8d50733d97cb6942",
+      "title": "Xbox prices are increasing by up to €200 or £170",
+      "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to €200 or £170. The 1TB Xbox Series X with a disc drive is going up by ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T16:14:20.000Z"
+    },
+    {
+      "id": "f360a2734760b04b",
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T16:05:00.000Z"
+    },
+    {
+      "id": "442a78094d8d8ace",
+      "title": "MacBook Air reportedly facing major supply shortages due to AI-driven memory crisis",
+      "description": "The AI datacenter buildout around the US has wreaked havoc across the entire consumer electronics industry. All of this newly found high volume purchasing of high end HBM2 DRAM has shifted entire supply chains, making it incredibly difficult to come across consumer grade memory and storage.\nSSDs and",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/Untitled-design21-1.png?w=1600",
+      "url": "https://9to5mac.com/2026/08/02/macbook-air-reportedly-facing-major-supply-shortages-due-to-ai-driven-memory-crisis/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-02T15:23:31.000Z"
+    },
+    {
+      "id": "0006b201e6910297",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T15:23:19.000Z"
+    },
+    {
+      "id": "70d1f5a54ab87758",
+      "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
+      "description": "The 15-inch Skylight Calendar 2 can stand on a table or mounted to the wall. | Image: Skylight\t\n\nThe start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It’s easy for things to slip t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Copy-of-Cal-2-Lifestyle-6.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T15:00:00.000Z"
+    },
+    {
+      "id": "edafad49827a0760",
+      "title": "Report: Apple’s smart glasses will become a major health companion, but not initially",
+      "description": "According to the latest Power On newsletter from Mark Gurman, Apple is working towards turning its upcoming non-AR smart glasses into another platform for health and fitness – though these features likely won’t debut with the first generation model in the coming year.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/02/apple-ai-smart-glasses-to-serve-as-health-companion/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-02T14:30:42.000Z"
+    },
+    {
+      "id": "5ccf489cce5f5d20",
+      "title": "AirPods Pro 3, AirPods 4, and AirPods Max 2 Discounted in Latest Amazon Deals",
+      "description": "Amazon today has the AirPods Pro 3 available for $199.99, down from $249.00. This is the best price we've seen on the AirPods Pro 3 since Prime Day in June, coming in around $20 higher when compared to that all-time low price, and it's accompanied by a solid deal on the AirPods 4 and AirPods Max 2.\r",
+      "image": "https://images.macrumors.com/article-new/2026/06/airpods-prime-day-deals.jpeg",
+      "url": "https://www.macrumors.com/2026/08/02/airpods-weekend-deals-6/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-02T14:20:48.000Z"
+    },
+    {
+      "id": "e30bb5afb23a4157",
+      "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
+      "description": "Tough sell. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nThe HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming.\nThe Omen 15 has nic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268675_HP_HyperX_Omen_15_gaming_laptop_ADiBenedetto_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T14:00:00.000Z"
+    },
+    {
+      "id": "6dd0631491dcbc11",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "description": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the tec",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T13:00:00.000Z"
+    },
+    {
+      "id": "dabaa3bf737b43a7",
+      "title": "Foldables are sort of boring now — and that’s great news for Apple",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nBelieve it or not, it didn'",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Samsung-Galaxy-Flip8-Fold8-and-Fold8-Ultra-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T12:00:00.000Z"
+    },
+    {
       "id": "ac4fb15c2f5817c2",
       "title": "6 Things We Already Know About the 2028 iPhone",
       "description": "Rumors about Apple's 2028 iPhone are already starting to circulate, offering an early look at how the company plans to evolve the iPhone's design, display, and cameras.\r\n\r\n\r\nThe 2028 device will follow the 20th anniversary iPhone, which is set to introduce a display that curves down around all four ",
@@ -124,174 +289,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-08-01T17:07:34.000Z"
-    },
-    {
-      "id": "b9716558ec310ac6",
-      "title": "Spider-Man: Brand New Day leak racks up millions of views",
-      "description": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-18-at-9.08.24%E2%80%AFAM.png?quality=90&#038;strip=all&#038;crop=0,0,79.216870117187,100",
-      "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T17:00:12.000Z"
-    },
-    {
-      "id": "f58e2246b362b422",
-      "title": "This $9 key physically locks your most addictive apps",
-      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T15:58:17.000Z"
-    },
-    {
-      "id": "71e3fe49229d5c4d",
-      "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-      "description": "Donald Trump speaks during the House Republican Party member retreat. | Image: Mandel NGAN / AFP via Getty Images\t\n\nThe FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2254307754.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T15:23:35.000Z"
-    },
-    {
-      "id": "a8ff9ba4201ff0d5",
-      "title": "Mac Studio: Here’s what Apple has in store for this fall and beyond",
-      "description": "Later this fall, Apple will be updating the Mac Studio for the first time since early 2025. That may be just over a year ago, but it’s significant for one main reason: the highest end Mac Studio is still M3 based, as Apple never made an Ultra version of the M4 chipset. Here’s what to expect with the",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/mac-studio-monitors-display.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/01/heres-what-to-come-with-the-next-apple-mac-studio-refresh/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T15:18:00.000Z"
-    },
-    {
-      "id": "042838568326daf9",
-      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-      "description": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
-      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T15:05:00.000Z"
-    },
-    {
-      "id": "31317092a2c9e27c",
-      "title": "Apple Watch Series 11 GPS Models Available From $299.99 on Amazon",
-      "description": "Amazon this weekend has low prices on the Apple Watch Series 11, with $99 discounts across numerous models of the smartwatch. This sale includes a handful of 42mm and 46mm GPS aluminum models, but cellular devices are a bit more rare this time around.\r\n\r\nNote: MacRumors is an affiliate partner with ",
-      "image": "https://images.macrumors.com/article-new/2026/06/apple-watch-series-11-dark.jpeg",
-      "url": "https://www.macrumors.com/2026/08/01/apple-watch-series-11-299-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T14:40:01.000Z"
-    },
-    {
-      "id": "0b93d7fb94189063",
-      "title": "Apps that help you break free from doomscrolling and get active",
-      "description": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
-      "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T14:00:00.000Z"
-    },
-    {
-      "id": "108b4c4d3d277c6d",
-      "title": "The Verge’s 2026 back-to-school shopping guide",
-      "description": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shoppi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268641_Back-to-school_gift_guide_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T14:00:00.000Z"
-    },
-    {
-      "id": "01b3da8654bb1395",
-      "title": "What’s the best handheld mini fan?",
-      "description": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
-      "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T13:36:54.000Z"
-    },
-    {
-      "id": "23351c8c9ccbe7cc",
-      "title": "You could be taking way better photos on your phone",
-      "description": "Your smartphone photos can look way better. If you're willing to put in a little extra work, use third party apps and spend a bit of time editing, it's possible to take photos that - under the right circumstances - can rival dedicated digital cameras.\nI post a lot of smartphone photos online, and \"H",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/iPhone-17-Pro-taking-a-photo-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T13:30:00.000Z"
-    },
-    {
-      "id": "899f2822de2be07b",
-      "title": "Top Stories: 'Apple Upgrade' Launches, iOS 26.6 Released, and More",
-      "description": "We're a little more than a month away from the September iPhone debut season, but there's still lots to talk about in the Apple universe, led this week by the launch of the new Apple Upgrade program in the United States.\r\n\r\n\r\nThis week also saw the release of iOS 26.6 and other updates, fresh rumors",
-      "image": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-01.jpg",
-      "url": "https://www.macrumors.com/2026/08/01/top-stories-apple-upgrade-launches/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T13:00:11.000Z"
-    },
-    {
-      "id": "cd4c11d2b6806251",
-      "title": "The Mermaid Mask is a perfect vacation murder mystery",
-      "description": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery.\nIt starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body next to a mysterious cauldron with blood trickling",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_7d979e3a1f620ba9ba549819da6c8bd15437e5d9.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T13:00:00.000Z"
-    },
-    {
-      "id": "aa56fb66b164287c",
-      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-      "description": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is currently in beta, and the beh",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T13:00:00.000Z"
-    },
-    {
-      "id": "c00505bf86da1e30",
-      "title": "Apple weekend deals: AirPods Pro 3, Apple Studio Display $540 off, M5 MacBook Air $240 off, AirTag 2, more",
-      "description": "Your weekend edition of 9to5Toys Lunch Break is here with ongoing deals on AirPods Pro 3, AirPods Max 2 at $100 off, AirTag 2, and a bunch more. \nThis weekend we are highlighting some banger deals on the official Apple refurb store, from up to $540 off Apple Studio displays, to the lowest prices aro",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-best-discounts-summer-August.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/01/apple-weekend-deals-airpods-air-m5/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T12:05:03.000Z"
-    },
-    {
-      "id": "cabf872cccec1e80",
-      "title": "The OG reading app just got a big update",
-      "description": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about microwave sounds and Meta glasses and Alex vs. A",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-138.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T12:00:00.000Z"
-    },
-    {
-      "id": "ec739c73fda01ef4",
-      "title": "iPad Air Could Finally Be Redesigned Next Year",
-      "description": "The iPad Air has looked the same since 2020, making it the longest-running design in Apple's tablet lineup. There is a reasonable case that 2027 could be when that comes to an end.\r\n\r\n\r\nApple last gave the ‌iPad Air‌ a new enclosure in 2020, when the fourth-generation model introduced flat sides, an",
-      "image": "https://images.macrumors.com/article-new/2025/03/M3-iPad-Air.jpg",
-      "url": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T01:00:11.000Z"
-    },
-    {
-      "id": "6f696a73276aafac",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-07-31T22:47:26.000Z"
     }
   ],
-  "lastUpdated": "2026-08-02T02:58:42.986Z",
+  "lastUpdated": "2026-08-02T22:17:20.118Z",
   "sources": [
     "TechCrunch",
     "The Verge",
