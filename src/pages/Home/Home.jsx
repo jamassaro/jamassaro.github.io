@@ -1,5 +1,5 @@
 import React from 'react'
-import { HeroSection, ExpertiseSection, ProjectsSection, VentureSection } from '../../components/sections'
+import { HeroSection, ExpertiseSection, ProjectsSection, VentureSection, NewsFeedSection } from '../../components/sections'
 import { AIAssistantSection } from '../../features/ai-assistant'
 
 const Home = () => {
@@ -10,6 +10,7 @@ const Home = () => {
       <ProjectsSection />
       <VentureSection />
       <AIAssistantSection />
+      <NewsFeedSection />
     </>
   )
 }
