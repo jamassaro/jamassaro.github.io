@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "deploy": "gh-pages -b build"
+    "deploy": "gh-pages -b build",
+    "fetch-news": "tsx scripts/fetch-news.ts"
   },
   "dependencies": {
     "@mlc-ai/web-llm": "^0.2.84",
@@ -22,6 +23,7 @@
     "react-router-dom": "^6.17.0"
   },
   "devDependencies": {
+    "@types/node": "^26.1.2",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.0.3",
@@ -29,7 +31,9 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+    "rss-parser": "^3.13.0",
     "terser": "^5.48.0",
+    "tsx": "^4.23.1",
     "vite": "^4.4.5"
   }
 }
