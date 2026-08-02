@@ -40,7 +40,7 @@ const VentureSection = () => {
         <AnimatedSection animation="fadeInUp">
           <SectionTitle 
             title={t('venture.company')}
-            index="03"
+            index="04"
             indexLabel={t('venture.tag')}
           />
           

@@ -7,6 +7,7 @@
     "entrepreneurship": "Startup Journey",
     "resume": "Resume",
     "aiAssistant": "AI Assistant",
+    "workExperience": "Work Experience",
     "english": "English",
     "spanish": "Spanish"
   },
@@ -75,7 +76,34 @@
       }
     }
   },
-  "venture": {
+  "work": {
+    "tag": "WORK_EXPERIENCE",
+    "company": "Full-stack Engineer",
+    "role": "Full-stack Engineer",
+    "description": "Founding engineer and full-stack builder. Co-founded an EdTech startup, raised $600K at roughly a $12M valuation, and took it 0 to 1 to 500+ schools and 100,000+ students across four countries as the hands-on technical lead, then shipped agent-powered products at Innovare, Glampi, and Avattar. Deep in TypeScript, React, Node, and Python, with production AI: MCP servers, agent orchestration, and RAG.",
+    "link": "Visit Website",
+    "cards": [
+      {
+        "tag": "Innovare",
+        "title": "Innovare",
+        "description": "Owned the AI and analytics platform end to end for K–12 schools across Illinois, building agentic workflows, MCP-powered document processing, scalable React dashboards, and modular backend services. Re-architected the LLM layer into a decoupled orchestration platform, improved reliability through validation and monitoring, and reduced dashboard load time from 40 seconds to 8 seconds.",
+        "technologies": ["React", "JavaScript", "Node.js", "PostgreSQL","BigQuery" ,"GCP", "AI", "RAG", "MCP", "Agentic Workflows"]
+      },
+      {
+        "tag": "Glampi",
+        "title": "Glampi",
+        "description": "Built and owned Glampi’s booking and operations SaaS end to end using TypeScript, NestJS, Next.js, PostgreSQL, and Prisma. Partnered directly with the founders to define technical strategy, shipped workflows that improved customer onboarding and booking by 40%, developed an OpenAI-powered natural-language search experience, and implemented secure, zero-downtime deployments using Docker, AWS CodePipeline, and Cognito.",
+        "technologies": ["TypeScript", "NestJS", "Next.js", "PostgreSQL", "Prisma", "AWS"]
+      },
+      {
+        "tag": "Avattar",
+        "title": "Avattar",
+        "description": "Led frontend development for ASIA, a generative AI platform using OpenAI and Gemini that reduced manual test-plan and user-story creation by 50%. Scoped and estimated 10+ client projects, improving delivery timelines by 30%, while implementing automated testing strategies that reduced post-release defects by 40% and accelerated deployments by 20% across web and mobile applications.",
+        "technologies": ["TypeScript/JavaScript", "React", "Java", "RAG/LLM", "OpenAI", "Gemini", "PostgreSQL", "AWS"]
+      }
+    ]
+  },
+    "venture": {
     "tag": "STARTUP_JOURNEY",
     "company": "BRAVE UP!",
     "role": "Co-Founder & CTO",

@@ -4,6 +4,7 @@
     "home": "Inicio",
     "expertise": "Expertise",
     "projects": "Proyectos",
+    "workExperience": "Experiencia Laboral",
     "entrepreneurship": "Trayectoria Startup",
     "aiAssistant": "Asistente de IA",
     "resume": "CV",
@@ -57,6 +58,60 @@
       "title": "Infraestructura Cloud",
       "description": "Desplegando y operando sistemas en producción con Docker, AWS, GCP, pipelines de CI/CD y arquitecturas cloud nativas escalables."
     }
+  },
+  "work": {
+    "tag": "EXPERIENCIA_LABORAL",
+    "company": "Ingeniero Full-Stack",
+    "role": "Ingeniero Full-Stack",
+    "description": "Ingeniero fundador y desarrollador full-stack. Cofundé una startup EdTech, levanté $600K con una valoración aproximada de $12M y la llevé desde cero hasta más de 500 escuelas y 100,000 estudiantes en cuatro países, desempeñándome como líder técnico hands-on. Posteriormente, desarrollé productos impulsados por agentes de IA en Innovare, Glampi y Avattar. Amplia experiencia en TypeScript, React, Node.js y Python, además de IA en producción: servidores MCP, orquestación de agentes y RAG.",
+    "link": "Visitar sitio web",
+    "cards": [
+      {
+        "tag": "Innovare",
+        "title": "Innovare",
+        "description": "Lideré de principio a fin la plataforma de IA y analítica para escuelas K–12 de Illinois, desarrollando flujos de trabajo con agentes, procesamiento de documentos mediante MCP, dashboards escalables en React y servicios backend modulares. Rediseñé la capa de LLM para convertirla en una plataforma de orquestación desacoplada, mejoré la confiabilidad mediante validación y monitoreo, y reduje el tiempo de carga de los dashboards de 40 a 8 segundos.",
+        "technologies": [
+          "React",
+          "JavaScript",
+          "Node.js",
+          "PostgreSQL",
+          "BigQuery",
+          "GCP",
+          "IA",
+          "RAG",
+          "MCP",
+          "Flujos de trabajo con agentes"
+        ]
+      },
+      {
+        "tag": "Glampi",
+        "title": "Glampi",
+        "description": "Desarrollé y lideré de principio a fin la plataforma SaaS de reservas y operaciones de Glampi utilizando TypeScript, NestJS, Next.js, PostgreSQL y Prisma. Colaboré directamente con los fundadores para definir la estrategia técnica, implementé flujos que mejoraron en un 40% la incorporación de clientes y las reservas, desarrollé una experiencia de búsqueda en lenguaje natural impulsada por OpenAI e implementé despliegues seguros y sin tiempo de inactividad utilizando Docker, AWS CodePipeline y Cognito.",
+        "technologies": [
+          "TypeScript",
+          "NestJS",
+          "Next.js",
+          "PostgreSQL",
+          "Prisma",
+          "AWS"
+        ]
+      },
+      {
+        "tag": "Avattar",
+        "title": "Avattar",
+        "description": "Lideré el desarrollo frontend de ASIA, una plataforma de IA generativa basada en OpenAI y Gemini que redujo en un 50% el trabajo manual necesario para crear planes de prueba e historias de usuario. Definí el alcance y las estimaciones de más de 10 proyectos para clientes, mejorando los tiempos de entrega en un 30%, e implementé estrategias de pruebas automatizadas que redujeron en un 40% los defectos posteriores al lanzamiento y aceleraron en un 20% los despliegues de aplicaciones web y móviles.",
+        "technologies": [
+          "TypeScript/JavaScript",
+          "React",
+          "Java",
+          "RAG/LLM",
+          "OpenAI",
+          "Gemini",
+          "PostgreSQL",
+          "AWS"
+        ]
+      }
+    ]
   },
   "my-work": {
     "title": "Emprendimiento",
