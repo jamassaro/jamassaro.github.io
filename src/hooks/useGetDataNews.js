@@ -22,7 +22,7 @@ function useGetDataNews() {
       const data = await response.json();
       
       if (data.status === 'ok') {
-        const filteredItems = data.items.slice(0, 4)
+        const filteredItems = data.items.slice(0, 6)
         setNews(filteredItems);
       } else {
         throw new Error(data.message || 'Failed to fetch news');
