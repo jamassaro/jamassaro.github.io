@@ -29,7 +29,7 @@ const NewsFeedSection = () => {
   };
 
   return (
-    <section className={styles.newsFeedSection}>
+    <section id="news-feed" className={styles.newsFeedSection}>
       <div className={styles.container}>
         <AnimatedSection animation="fadeInUp">
           <SectionTitle 

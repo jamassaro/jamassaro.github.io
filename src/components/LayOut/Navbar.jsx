@@ -29,7 +29,7 @@ const Navbar = () => {
   // Track active section
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ['expertise', 'work-experience', 'projects', 'entrepreneurship'];
+      const sections = ['expertise', 'work-experience', 'projects', 'entrepreneurship', 'ai-assistant', 'news-feed'];
       const scrollPosition = window.scrollY + 100;
 
       for (const section of sections) {
@@ -66,6 +66,7 @@ const Navbar = () => {
     { id: 'projects', label: t('navigation.projects'), index: '03' },
     { id: 'entrepreneurship', label: t('navigation.entrepreneurship'), index: '04' },
     {id: 'ai-assistant', label: t('navigation.aiAssistant'), index: '05'},
+    {id: 'news-feed', label: t('navigation.newsFeed'), index: '06'},
   ];
 
   return (
