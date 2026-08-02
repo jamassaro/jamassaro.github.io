@@ -7,6 +7,7 @@
     "entrepreneurship": "Startup Journey",
     "resume": "Resume",
     "aiAssistant": "AI Assistant",
+    "workExperience": "Work Experience",
     "english": "English",
     "spanish": "Spanish"
   },
@@ -50,7 +51,7 @@
     "data-intelligence": {
       "label": "data_intelligence",
       "title": "Data Intelligence",
-      "description": "Leveraging data-driven insights and analytics to inform decision-making, optimize processes, and drive business growth."
+      "description": "Designing scalable data systems that transform raw information into structured, searchable, and high-performance data products. Leveraging data-driven insights to inform decision-making, optimize processes, and drive business growth."
     },
     "cloud": {
       "label": "cloud_infrastructure",
@@ -75,15 +76,42 @@
       }
     }
   },
-  "venture": {
+  "work": {
+    "tag": "WORK_EXPERIENCE",
+    "company": "Full-stack Engineer",
+    "role": "Full-stack Engineer",
+    "description": "Founding engineer and full-stack builder. Co-founded an EdTech startup, raised $600K at roughly a $12M valuation, and took it 0 to 1 to 500+ schools and 100,000+ students across four countries as the hands-on technical lead, then shipped agent-powered products at Innovare, Glampi, and Avattar. Deep in TypeScript, React, Node, and Python, with production AI: MCP servers, agent orchestration, and RAG.",
+    "link": "Visit Website",
+    "cards": [
+      {
+        "tag": "Innovare",
+        "title": "Innovare",
+        "description": "Owned the AI and analytics platform end to end for K–12 schools across Illinois, building agentic workflows, MCP-powered document processing, scalable React dashboards, and modular backend services. Re-architected the LLM layer into a decoupled orchestration platform, improved reliability through validation and monitoring, and reduced dashboard load time from 40 seconds to 8 seconds.",
+        "technologies": ["React", "JavaScript", "Node.js", "PostgreSQL","BigQuery" ,"GCP", "AI", "RAG", "MCP", "Agentic Workflows"]
+      },
+      {
+        "tag": "Glampi",
+        "title": "Glampi",
+        "description": "Built and owned Glampi’s booking and operations SaaS end to end using TypeScript, NestJS, Next.js, PostgreSQL, and Prisma. Partnered directly with the founders to define technical strategy, shipped workflows that improved customer onboarding and booking by 40%, developed an OpenAI-powered natural-language search experience, and implemented secure, zero-downtime deployments using Docker, AWS CodePipeline, and Cognito.",
+        "technologies": ["TypeScript", "NestJS", "Next.js", "PostgreSQL", "Prisma", "AWS"]
+      },
+      {
+        "tag": "Avattar",
+        "title": "Avattar",
+        "description": "Led frontend development for ASIA, a generative AI platform using OpenAI and Gemini that reduced manual test-plan and user-story creation by 50%. Scoped and estimated 10+ client projects, improving delivery timelines by 30%, while implementing automated testing strategies that reduced post-release defects by 40% and accelerated deployments by 20% across web and mobile applications.",
+        "technologies": ["TypeScript/JavaScript", "React", "Java", "RAG/LLM", "OpenAI", "Gemini", "PostgreSQL", "AWS"]
+      }
+    ]
+  },
+    "venture": {
     "tag": "STARTUP_JOURNEY",
-    "company": "Brave Up!",
-    "role": "Co-Founder & Former CTO",
-    "description": "Co-founded and led the technology vision of Brave Up!, an EdTech startup focused on student wellbeing and bullying prevention. Built the platform from the ground up, scaling it to over 100,000 users across multiple countries while leading engineering, product strategy, and cross-functional teams.",
+    "company": "BRAVE UP!",
+    "role": "Co-Founder & CTO",
+    "description": "Co-founded BRAVE UP! and built the platform from scratch, transforming an initial idea into an EdTech product used by more than 100,000 people across multiple countries. Raised $600K at a roughly $12M valuation, developed and scaled the technology, and learned firsthand how to build a startup and solve complex, real-world problems in school communities.",
     "metrics": {
       "users": "100K+ Users",
       "schools": "500+ Schools",
-      "countries": "5 Countries"
+      "countries": "4 Countries"
     },
     "cards": [
       {
@@ -96,13 +124,13 @@
         "tag": "AI_ANALYTICS",
         "title": "AI & Analytics",
         "description": "Developed predictive models, dashboards, and analytics tools to help schools identify risks and support student wellbeing through data-driven decisions.",
-        "technologies": ["Analytics", "AI", "Machine Learning", "BigQuery", "Data Visualization"]
+        "technologies": ["Analytics", "AI", "LLM/RAG", "BigQuery", "Data Visualization"]
       },
       {
-        "tag": "LEADERSHIP",
-        "title": "Leadership",
-        "description": "Led engineering, product strategy, and technology decisions while scaling the platform internationally and building multidisciplinary teams.",
-        "technologies": ["Leadership", "Product", "Strategy", "Team Building", "Scaling"]
+        "tag": "ARCHITECTURE_AND_SCALE",
+        "title": "Architecture & Scale",
+        "description": "This supports the recruiter’s feedback well: it positions you as someone who builds and scales systems, while your BRAVE UP! section provides the proof.",
+        "technologies": ["ARCHITECTURE", "0-A-1", "INTERNATIONAL_SCALE", "PERFORMANCE"]
       }
     ]
   },

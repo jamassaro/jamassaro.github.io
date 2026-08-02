@@ -16,7 +16,7 @@ const ProjectsSection = () => {
         <AnimatedSection animation="fadeInUp">
           <SectionTitle 
             title={t('navigation.projects') || 'Projects'}
-            index="02"
+            index="03"
             indexLabel={t('projects.tag') || 'PROJECTS'}
             subtitle={t('projects.description') || 'Exploring ideas, building products, and transforming complex problems into simple, scalable solutions powered by AI and modern technologies.'}
           />

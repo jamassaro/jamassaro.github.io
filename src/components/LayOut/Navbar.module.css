@@ -19,7 +19,6 @@
 }
 
 .container {
-  max-width: var(--spacing-container-max);
   margin: 0 auto;
   padding: 0 var(--spacing-gutter);
   display: flex;

@@ -15,7 +15,7 @@ const Footer = () => {
         <div className={styles.content}>
           {/* Contact Section */}
           <div className={styles.contactSection}>
-            <span className={styles.heading}>04_{t('footer.tag')}</span>
+            <span className={styles.heading}>{t('footer.tag')}</span>
             <h2 className={styles.title}>
               {t('footer.title')}
             </h2>
