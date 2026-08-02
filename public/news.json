@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "id": "2f8adc66f8dad8f1",
+      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+      "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T21:53:15.000Z"
+    },
+    {
+      "id": "5eda1591ef4e4043",
+      "title": "The global memory shortage hits the MacBook Air",
+      "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T21:33:59.000Z"
+    },
+    {
+      "id": "7d84ebc864f08d1b",
+      "title": "Sam Altman and AI’s decel debate",
+      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T20:54:22.000Z"
+    },
+    {
+      "id": "d9a817f555da9f3e",
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "description": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, po",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-02T19:36:08.000Z"
+    },
+    {
+      "id": "6a4bee22f8a41ef3",
+      "title": "HomeKit Weekly: How I use Apple Home to keep tabs on my home during summer travels",
+      "description": "As I write this article, I am about to head out for a quick trip up north, and when I hit the road, there are a few key types of gear of my smart home setup I fully rely on to keep things running smoothly. Just remember that you will need a dedicated Apple Home hub, like an Apple TV 4K or a HomePod,",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/08/Eve-Aqua-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/02/how-i-use-apple-home-to-keep-tabs-on-my-home-during-summer-travels/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-02T18:51:00.000Z"
+    },
+    {
       "id": "9bf7b21e65df4130",
       "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
       "description": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
@@ -241,57 +289,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-08-01T17:07:34.000Z"
-    },
-    {
-      "id": "b9716558ec310ac6",
-      "title": "Spider-Man: Brand New Day leak racks up millions of views",
-      "description": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-18-at-9.08.24%E2%80%AFAM.png?quality=90&#038;strip=all&#038;crop=0,0,79.216870117187,100",
-      "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T17:00:12.000Z"
-    },
-    {
-      "id": "f58e2246b362b422",
-      "title": "This $9 key physically locks your most addictive apps",
-      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T15:58:17.000Z"
-    },
-    {
-      "id": "71e3fe49229d5c4d",
-      "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-      "description": "Donald Trump speaks during the House Republican Party member retreat. | Image: Mandel NGAN / AFP via Getty Images\t\n\nThe FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2254307754.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T15:23:35.000Z"
-    },
-    {
-      "id": "a8ff9ba4201ff0d5",
-      "title": "Mac Studio: Here’s what Apple has in store for this fall and beyond",
-      "description": "Later this fall, Apple will be updating the Mac Studio for the first time since early 2025. That may be just over a year ago, but it’s significant for one main reason: the highest end Mac Studio is still M3 based, as Apple never made an Ultra version of the M4 chipset. Here’s what to expect with the",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/mac-studio-monitors-display.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/01/heres-what-to-come-with-the-next-apple-mac-studio-refresh/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T15:18:00.000Z"
-    },
-    {
-      "id": "042838568326daf9",
-      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-      "description": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
-      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T15:05:00.000Z"
     }
   ],
-  "lastUpdated": "2026-08-02T18:47:44.964Z",
+  "lastUpdated": "2026-08-02T22:17:20.118Z",
   "sources": [
     "TechCrunch",
     "The Verge",
