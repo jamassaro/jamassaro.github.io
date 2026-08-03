@@ -39,12 +39,16 @@ jobs:
         run: yarn install --frozen-lockfile
       
       - name: Install Ollama
+        continue-on-error: true
+        id: install-ollama
         run: |
           echo "📦 Installing Ollama..."
           curl -fsSL https://ollama.com/install.sh | sh
           echo "✅ Ollama installed"
       
       - name: Start Ollama server
+        continue-on-error: true
+        id: start-ollama
         run: |
           echo "🚀 Starting Ollama server..."
           ollama serve > /tmp/ollama.log 2>&1 &
@@ -61,16 +65,20 @@ jobs:
           done
           
           echo "❌ Ollama server failed to start"
-          cat /tmp/ollama.log
+          echo "📋 Server logs:"
+          cat /tmp/ollama.log || echo "No logs available"
           exit 1
       
       - name: Pull AI model
+        continue-on-error: true
+        id: pull-model
+        if: steps.start-ollama.outcome == 'success'
         run: |
           echo "📥 Pulling llama3.2:1b model..."
           if ollama list | grep -q "llama3.2:1b"; then
             echo "✅ Model already cached"
           else
-            ollama pull llama3.2:1b
+            timeout 300 ollama pull llama3.2:1b || (echo "⚠️ Model download timed out or failed" && exit 1)
             echo "✅ Model downloaded"
           fi
       
@@ -81,7 +89,20 @@ jobs:
         continue-on-error: true
         run: |
           echo "🤖 Generating AI analysis..."
-          yarn analyze-news || echo "⚠️  AI analysis failed, using fallback"
+          
+          # Check if Ollama is ready
+          if [ "${{ steps.start-ollama.outcome }}" != "success" ]; then
+            echo "⚠️  Ollama not available - using fallback analysis"
+            yarn analyze-news || echo "Fallback analysis created"
+            exit 0
+          fi
+          
+          # Try to generate real analysis
+          if yarn analyze-news; then
+            echo "✅ AI analysis generated successfully"
+          else
+            echo "⚠️  AI analysis failed - fallback analysis created"
+          fi
       
       - name: Check for changes
         id: git-check
