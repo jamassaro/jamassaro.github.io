@@ -167,3 +167,4 @@ const NewsAnalysisSection = () => {
 };
 
 export default NewsAnalysisSection;
+
