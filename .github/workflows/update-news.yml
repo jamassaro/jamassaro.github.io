@@ -123,3 +123,13 @@ jobs:
       - name: No changes detected
         if: steps.git-check.outputs.changed != 'true'
         run: echo "📰 News feed is already up to date - no changes needed"
+      
+      - name: Build site
+        run: yarn build
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          commit_message: "deploy: update site with latest news and AI analysis"
