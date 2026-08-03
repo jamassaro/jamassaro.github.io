@@ -1,6 +1,106 @@
 {
   "articles": [
     {
+      "id": "1d61869affe685d5",
+      "title": "India Moves to Extend Tax Break Apple Lobbied For",
+      "description": "India has proposed extending tax breaks until 2041 for foreign companies that supply machinery to their contract manufacturers, handing a win to Apple as it expands iPhone production in the country, Reuters reports.\r\n\r\nlong since lobbied against being taxed on the high-end iPhone machinery it owns i",
+      "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/india-moves-to-extend-apple-tax-break/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T16:00:04.000Z"
+    },
+    {
+      "id": "643c535cc440e931",
+      "title": "Apple will launch five new products next month, here’s what’s coming",
+      "description": "We’re only one month away from Apple’s biggest product launch event of the year: the September iPhone event. Here’s what rumors say is coming.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/apple-will-launch-five-new-products-next-month-heres-whats-coming/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T15:46:12.000Z"
+    },
+    {
+      "id": "98e88a4c32618057",
+      "title": "Apple Launches New Legal Challenge Against UK Backdoor Demand",
+      "description": "Apple last month filed a new legal complaint with the UK's Investigatory Powers Tribunal (IPT) over the British government's demand for access to encrypted iCloud backups belonging to UK users, according to an order issued by the court and reported by the Financial Times.\r\n\r\n\r\nThe Home Office previo",
+      "image": "https://images.macrumors.com/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/apple-legal-challenge-against-uk-demand/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T15:34:16.000Z"
+    },
+    {
+      "id": "77ad605c34700cf7",
+      "title": "Deals: Apple Watch Ultra 3 $100 off, Series 11 from $299, AirPods, Anker chargers, Best Buy back to school sale, more",
+      "description": "Summer deals are somehow still live on AirPods Pro 3 at $50 off alongside all-time low pricing on AirTag 2, but today we have some fresh discounts on Apple Watch Ultra 3. Amazon is now offering several configurations at nearly $100 off the list prices to join refreshed Series 11 offers from $299. We",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-Apple-Watch-Ultra-3-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/deals-apple-watch-ultra-3-100-off-airpods-anker-chargers/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T15:31:22.000Z"
+    },
+    {
+      "id": "91cc139a9feffeaf",
+      "title": "Leagues Cup 2026 Kicking Off on Apple TV",
+      "description": "Apple today highlighted tomorrow's start for the Leagues Cup, an annual competition among teams from Major League Soccer and Liga MX, with all 62 matches available for Apple TV subscribers to watch at no additional charge in over 100 countries and regions.\r\n\r\n\r\nThe tournament features 18 of the 30 M",
+      "image": "https://images.macrumors.com/article-new/2026/08/apple-tv-leagues-cup-2026.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/leagues-cup-2026-apple-tv/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T15:27:58.000Z"
+    },
+    {
+      "id": "624dbe1c0b977922",
+      "title": "Google Health adds two-way Apple Health syncing on iPhone",
+      "description": "Back in May, the Google Health app launched alongside the new line of affordable Google Fitbit Air health trackers.\nGoogle Health initially included one-way Apple Health integration. The app could read and import health data recorded by an iPhone, Apple Watch, and other HealthKit-connected apps, but",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/google-health.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/google-health-adds-two-way-apple-health-syncing-on-iphone/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T15:00:44.000Z"
+    },
+    {
+      "id": "85b63106cec55f66",
+      "title": "Bluesky’s new CEO wants a big tent, not a bubble",
+      "description": "Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO. This is one of my favorite kinds of interviews to do on Decoder, because a couple years ago, we had Bluesky’s prior CEO, Jay Graber, on the show",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260803_Schneider.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T15:00:00.000Z"
+    },
+    {
+      "id": "f046b00fc9d1a9e2",
+      "title": "Apple's Smart Glasses Could Become Its Next Health Device",
+      "description": "Apple wants its future glasses and headsets to double as health and fitness devices, Bloomberg's Mark Gurman reports.\r\n\r\n\r\nIn the latest edition of his \"Power On\" newsletter, Gurman said the ambition traces back to Vision Pro's early development, when Apple weighed a number of ambitious health and f",
+      "image": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Pink-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/apple-smart-glasses-could-become-health-device/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T14:54:19.000Z"
+    },
+    {
+      "id": "42730eef6521e826",
+      "title": "Palworld’s expanding to mobile with a new MMORPG",
+      "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, freedom, and scale of the original PC surviv",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T14:50:29.000Z"
+    },
+    {
+      "id": "5ed1ae32937f00ce",
+      "title": "Apple’s latest acquisition makes a lot of sense for product roadmap",
+      "description": "Apple recently agreed to acquire a company called PlasmaSolve, according to EU-required filings. Here’s why the new acquisition could make a lot of sense for Apple’s future product roadmap.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-logo-wwdc-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/apples-latest-acquisition-makes-a-lot-of-sense-for-product-roadmap/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T14:44:58.000Z"
+    },
+    {
       "id": "6bc86182cfc4fb3d",
       "title": "Apple launches second legal challenge to UK iCloud backdoor order, per report",
       "description": "Apple’s effort to fight back against a UK-mandated “backdoor” to encryption continues, according to a new Financial Times report.\nTim Bradshaw reports that Apple filed a new legal challenge in July against an attempt by the UK government to force access to encrypted user data.",
@@ -113,7 +213,7 @@
     {
       "id": "abb79e04cba1a8a1",
       "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
       "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
       "source": "TechCrunch",
       "category": "Tech News",
@@ -195,105 +295,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-08-02T21:33:59.000Z"
-    },
-    {
-      "id": "7d84ebc864f08d1b",
-      "title": "Sam Altman and AI’s decel debate",
-      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T20:54:22.000Z"
-    },
-    {
-      "id": "d9a817f555da9f3e",
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "description": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, po",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T19:36:08.000Z"
-    },
-    {
-      "id": "203fdb34d6f6e847",
-      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
-      "description": "Next month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. It’s going to feature a 5.5-inch outer display and 7.6-inch inner display. Late last month, Samsung introduced the new Galaxy Z Fold 8 – and it comes with those same screen sizes.\nWhether or not you be",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-02T19:21:00.000Z"
-    },
-    {
-      "id": "6a4bee22f8a41ef3",
-      "title": "HomeKit Weekly: How I use Apple Home to keep tabs on my home during summer travels",
-      "description": "As I write this article, I am about to head out for a quick trip up north, and when I hit the road, there are a few key types of gear of my smart home setup I fully rely on to keep things running smoothly. Just remember that you will need a dedicated Apple Home hub, like an Apple TV 4K or a HomePod,",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/08/Eve-Aqua-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/02/how-i-use-apple-home-to-keep-tabs-on-my-home-during-summer-travels/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-02T18:51:00.000Z"
-    },
-    {
-      "id": "9bf7b21e65df4130",
-      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-      "description": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
-      "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T17:05:07.000Z"
-    },
-    {
-      "id": "d5aefa11ceb86f8a",
-      "title": "Apple’s rumored AirPods with cameras could potentially debut as soon as next month",
-      "description": "Apple has been working on camera-equipped AirPods for quite some time, with Visual Intelligence at the forefront of the product. This product had initially been rumored for this year, then ended up getting pushed back to sometime next year. \nHowever, there’s now a new chance that we end up seeing ou",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-02T16:18:26.000Z"
-    },
-    {
-      "id": "8d50733d97cb6942",
-      "title": "Xbox prices are increasing by up to €200 or £170",
-      "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to €200 or £170. The 1TB Xbox Series X with a disc drive is going up by ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T16:14:20.000Z"
-    },
-    {
-      "id": "f360a2734760b04b",
-      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T16:05:00.000Z"
-    },
-    {
-      "id": "442a78094d8d8ace",
-      "title": "MacBook Air reportedly facing major supply shortages due to AI-driven memory crisis",
-      "description": "The AI datacenter buildout around the US has wreaked havoc across the entire consumer electronics industry. All of this newly found high volume purchasing of high end HBM2 DRAM has shifted entire supply chains, making it incredibly difficult to come across consumer grade memory and storage.\nSSDs and",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/Untitled-design21-1.png?w=1600",
-      "url": "https://9to5mac.com/2026/08/02/macbook-air-reportedly-facing-major-supply-shortages-due-to-ai-driven-memory-crisis/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-02T15:23:31.000Z"
-    },
-    {
-      "id": "0006b201e6910297",
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
-      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T15:23:19.000Z"
     }
   ],
-  "lastUpdated": "2026-08-03T14:42:15.030Z",
+  "lastUpdated": "2026-08-03T16:01:30.925Z",
   "sources": [
     "TechCrunch",
     "The Verge",
