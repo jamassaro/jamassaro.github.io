@@ -1,0 +1,316 @@
+.analysisSection {
+  padding: var(--spacing-section-gap) 0;
+  position: relative;
+  background: linear-gradient(180deg, transparent 0%, rgba(78, 222, 163, 0.02) 100%);
+}
+
+.container {
+  max-width: var(--spacing-container-max);
+  margin: 0 auto;
+  padding: 0 var(--spacing-gutter);
+}
+
+.analysisContent {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+/* Loading State */
+.loadingState {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 20px;
+  gap: 16px;
+  color: var(--color-text-secondary);
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgba(78, 222, 163, 0.1);
+  border-top-color: var(--color-primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Executive Summary */
+.executiveSummary {
+  display: flex;
+  gap: 24px;
+  padding: 32px;
+  background: rgba(78, 222, 163, 0.05);
+  border: 1px solid rgba(78, 222, 163, 0.2);
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+}
+
+.executiveSummary::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--color-primary);
+}
+
+.summaryIcon {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary);
+  background: rgba(78, 222, 163, 0.1);
+  border-radius: 8px;
+}
+
+.summaryContent {
+  flex: 1;
+}
+
+.summaryTitle {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-primary);
+  margin: 0 0 12px 0;
+}
+
+.summaryText {
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--color-text-primary);
+  margin: 0;
+}
+
+/* Section Containers */
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.sectionTitle {
+  font-family: var(--font-mono);
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-primary);
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.sectionIcon {
+  font-size: 20px;
+}
+
+/* Takeaways Grid */
+.takeawaysGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.takeawayCard {
+  display: flex;
+  gap: 16px;
+  padding: 24px;
+  background: var(--color-background-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.takeawayCard:hover {
+  border-color: var(--color-primary);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(78, 222, 163, 0.1);
+}
+
+.takeawayNumber {
+  font-family: var(--font-mono);
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--color-primary);
+  opacity: 0.5;
+  flex-shrink: 0;
+}
+
+.takeawayContent {
+  flex: 1;
+}
+
+.takeawayTitle {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin: 0 0 8px 0;
+  line-height: 1.4;
+}
+
+.takeawayDescription {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+/* Trend Tags */
+.trendTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.trendTag {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-primary);
+  background: rgba(78, 222, 163, 0.1);
+  border: 1px solid rgba(78, 222, 163, 0.3);
+  padding: 8px 16px;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+  cursor: default;
+}
+
+.trendTag:hover {
+  background: rgba(78, 222, 163, 0.15);
+  transform: translateY(-1px);
+}
+
+/* Two Column Layout */
+.twoColumnLayout {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 32px;
+}
+
+/* Bullet Lists */
+.bulletList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.bulletItem {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--color-text-secondary);
+  padding-left: 28px;
+  position: relative;
+}
+
+.bulletItem::before {
+  content: '▸';
+  position: absolute;
+  left: 8px;
+  color: var(--color-primary);
+  font-weight: 700;
+}
+
+/* Statistics Footer */
+.statsFooter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 24px;
+  background: var(--color-background-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  margin-top: 16px;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  text-align: center;
+}
+
+.statValue {
+  font-family: var(--font-mono);
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--color-primary);
+  line-height: 1;
+}
+
+.statLabel {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-secondary);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .executiveSummary {
+    flex-direction: column;
+    gap: 16px;
+    padding: 24px;
+  }
+
+  .summaryText {
+    font-size: 16px;
+  }
+
+  .takeawaysGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .twoColumnLayout {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .statsFooter {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .analysisContent {
+    gap: 24px;
+  }
+
+  .executiveSummary {
+    padding: 20px;
+  }
+
+  .takeawayCard {
+    padding: 20px;
+  }
+
+  .sectionTitle {
+    font-size: 14px;
+  }
+
+  .statValue {
+    font-size: 24px;
+  }
+}

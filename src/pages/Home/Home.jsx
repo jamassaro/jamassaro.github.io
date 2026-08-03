@@ -5,6 +5,7 @@ import {
   ProjectsSection,
   VentureSection,
   WorkExperienceSection,
+  NewsAnalysisSection,
   NewsFeedSection,
 } from "../../components/sections";
 import { AIAssistantSection } from "../../features/ai-assistant";
@@ -18,6 +19,7 @@ const Home = () => {
       <ProjectsSection />
       <VentureSection />
       <AIAssistantSection />
+      <NewsAnalysisSection />
       <NewsFeedSection />
     </>
   );
