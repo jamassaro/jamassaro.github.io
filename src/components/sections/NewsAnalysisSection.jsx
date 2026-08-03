@@ -30,8 +30,8 @@ const NewsAnalysisSection = () => {
           <SectionTitle 
             title='AI Analysis'
             index="05"
-            indexLabel='Today's Briefing'
-            subtitle='AI-powered insights and trends from today's technology news.'
+            indexLabel={`Today's Briefing`}
+            subtitle={`AI-powered insights and trends from today's technology news.`}
           />
         </AnimatedSection>
 
