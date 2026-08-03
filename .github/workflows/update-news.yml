@@ -27,24 +27,74 @@ jobs:
           node-version: '18'
           cache: 'yarn'
       
+      - name: Cache Ollama models
+        uses: actions/cache@v4
+        with:
+          path: ~/.ollama/models
+          key: ollama-models-${{ runner.os }}-llama3.2-1b
+          restore-keys: |
+            ollama-models-${{ runner.os }}-
+      
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+      
+      - name: Install Ollama
+        run: |
+          echo "📦 Installing Ollama..."
+          curl -fsSL https://ollama.com/install.sh | sh
+          echo "✅ Ollama installed"
+      
+      - name: Start Ollama server
+        run: |
+          echo "🚀 Starting Ollama server..."
+          ollama serve > /tmp/ollama.log 2>&1 &
+          sleep 5
+          
+          # Wait for server to be ready
+          for i in {1..30}; do
+            if curl -s http://localhost:11434/api/tags > /dev/null; then
+              echo "✅ Ollama server is ready"
+              exit 0
+            fi
+            echo "⏳ Waiting for Ollama server... ($i/30)"
+            sleep 1
+          done
+          
+          echo "❌ Ollama server failed to start"
+          cat /tmp/ollama.log
+          exit 1
+      
+      - name: Pull AI model
+        run: |
+          echo "📥 Pulling llama3.2:1b model..."
+          if ollama list | grep -q "llama3.2:1b"; then
+            echo "✅ Model already cached"
+          else
+            ollama pull llama3.2:1b
+            echo "✅ Model downloaded"
+          fi
       
       - name: Fetch latest news
         run: yarn fetch-news
       
+      - name: Generate AI analysis
+        continue-on-error: true
+        run: |
+          echo "🤖 Generating AI analysis..."
+          yarn analyze-news || echo "⚠️  AI analysis failed, using fallback"
+      
       - name: Check for changes
         id: git-check
         run: |
-          git diff --exit-code public/news.json || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --exit-code public/news.json public/analysis.json || echo "changed=true" >> $GITHUB_OUTPUT
       
       - name: Commit and push if changed
         if: steps.git-check.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/news.json
-          git commit -m "chore: update news feed"
+          git add public/news.json public/analysis.json
+          git commit -m "chore: update news feed and AI analysis"
           git push
       
       - name: No changes detected
