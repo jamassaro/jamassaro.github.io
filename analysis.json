@@ -1,13 +1,35 @@
 {
-  "generatedAt": "2026-08-03T00:45:37.073Z",
-  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
-  "takeaways": [],
-  "trends": [],
-  "worthWatching": [],
-  "engineeringPerspective": [],
+  "executiveSummary": "Technology news articles from The Verge, TechCrunch, 9to5Mac, MacRumors, and The Verge show AI, memory shortage, smart home devices, and more.",
+  "takeaways": [
+    {
+      "title": "AI is transforming the tech industry",
+      "description": "The global memory chip shortage affects Apple's MacBook Air, while Sam Altman calls for faster AI development."
+    },
+    {
+      "title": "Smart home devices are gaining popularity",
+      "description": "Apple is rumored to be working on camera-equipped AirPods, and HP's HyperX Omen 15 is a budget-friendly gaming laptop with advanced AI capabilities."
+    }
+  ],
+  "trends": [
+    "AI",
+    "memory shortage",
+    "smart home devices"
+  ],
+  "worthWatching": [
+    "Rumors about Apple's upcoming smart glasses",
+    "The global memory chip shortage will continue to affect consumer electronics"
+  ],
+  "engineeringPerspective": [
+    "Apple is exploring AI-driven camera-equipped AirPods",
+    "HP's HyperX Omen 15 offers advanced AI capabilities for budget-friendly gaming laptops"
+  ],
   "statistics": {
-    "totalArticles": 0,
-    "totalSources": 0,
-    "mostMentionedTopics": []
-  }
+    "totalArticles": 30,
+    "totalSources": 4,
+    "mostMentionedTopics": [
+      "AI",
+      "smart home devices"
+    ]
+  },
+  "generatedAt": "2026-08-03T01:09:18.381Z"
 }
