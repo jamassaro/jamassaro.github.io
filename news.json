@@ -1,6 +1,167 @@
 {
   "articles": [
     {
+      "id": "3e8620f3ea52e793",
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T19:09:56.000Z"
+    },
+    {
+      "id": "be2c62d046ffe226",
+      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+      "description": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
+      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T18:54:09.000Z"
+    },
+    {
+      "id": "b840879dc61334db",
+      "title": "9to5Mac Daily: August 3, 2026 – Apple’s Q3 earnings",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/daily-august-3-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T18:47:40.000Z"
+    },
+    {
+      "id": "4516abac27594416",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it ",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T18:43:43.000Z"
+    },
+    {
+      "id": "a9e5276c974804f7",
+      "title": "Wikipedia for iOS just added a fun, new app widget for your Home Screen",
+      "description": "If you’re anything like me, you can relate to spending way too much time going down the rabbit hole of random articles on Wikipedia. Now there’s officially an app, err, widget for that.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/wikipedia-random-article-widget.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/03/wikipedia-for-ios-just-added-a-fun-new-app-widget-for-your-home-screen/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T18:38:47.000Z"
+    },
+    {
+      "id": "f5780c5ed12712f9",
+      "title": "Outernet turns your saved posts into real-world adventures",
+      "description": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
+      "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T18:00:24.000Z"
+    },
+    {
+      "id": "e6029ece19f18013",
+      "title": "Disney+ might soon launch free tier for users, per report",
+      "description": "Hollywood increasingly sees YouTube as its major competition, and per a new report, free tiers from streamers like Disney+ and Paramount+ might be the answer.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/disney-plus-app-icon-fi-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/disney-might-soon-launch-free-tier-for-users-per-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T17:56:07.000Z"
+    },
+    {
+      "id": "e175c8fc3d8e4306",
+      "title": "Apple's iCloud File Sharing Left Ex-Employees With Access to Secret Documents",
+      "description": "The way Apple combines work and personal iCloud accounts left some employees able to access confidential documents after departing the company, reports The Information. The site spoke to more than half a dozen former Apple employees who were unknowingly left with access to sensitive content.\r\n\r\n\r\nTh",
+      "image": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/apple-icloud-sharing-ex-employees/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T17:48:41.000Z"
+    },
+    {
+      "id": "52d0ebdf7ec89418",
+      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+      "description": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
+      "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T17:46:01.000Z"
+    },
+    {
+      "id": "6951053029cff60c",
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "description": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligation",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T17:38:45.000Z"
+    },
+    {
+      "id": "e10f73adf131593a",
+      "title": "Apple launches revamped ‘Apple Accessories’ shopping experience",
+      "description": "Apple has rolled out a new experience for browsing and buying accessories on the Apple Online Store and in the App Store app. The changes make it easier to browse accessories by categories, view editorial curations, and more.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/screenshot-2026-08-03-at-13.28.00.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/apple-launches-revamped-apple-accessories-shopping-experience/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T17:30:37.000Z"
+    },
+    {
+      "id": "2e42fe079eb22292",
+      "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+      "description": "The Scribe comes with a Premium Pen, which includes a built-in eraser. | Photo by Amelia Holowaty Krales / The Verge\t\n\nThe Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24224265/226417__Amazon_Kindle_Scribe_AKrales_0041.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T17:17:54.000Z"
+    },
+    {
+      "id": "f1f3d1628509184c",
+      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "description": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T17:16:43.000Z"
+    },
+    {
+      "id": "d0367646ea3d254e",
+      "title": "Base Power raises another $1B to save the grid using backyard batteries",
+      "description": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
+      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T16:46:57.000Z"
+    },
+    {
+      "id": "0df4062c1b647ef2",
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T16:40:55.000Z"
+    },
+    {
+      "id": "f7f750ece79dee5d",
+      "title": "Microsoft is bringing Xbox 360 games to PC",
+      "description": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be able to run on the next-",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T16:31:35.000Z"
+    },
+    {
+      "id": "7b34a9566cb2b8a2",
+      "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
+      "description": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+      "url": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T16:29:30.000Z"
+    },
+    {
       "id": "1d61869affe685d5",
       "title": "India Moves to Extend Tax Break Apple Lobbied For",
       "description": "India has proposed extending tax breaks until 2041 for foreign companies that supply machinery to their contract manufacturers, handing a win to Apple as it expands iPhone production in the country, Reuters reports.\r\n\r\nlong since lobbied against being taxed on the high-end iPhone machinery it owns i",
@@ -8,7 +169,7 @@
       "url": "https://www.macrumors.com/2026/08/03/india-moves-to-extend-apple-tax-break/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-03T16:00:04.000Z"
+      "publishedAt": "2026-08-03T15:59:57.000Z"
     },
     {
       "id": "643c535cc440e931",
@@ -63,7 +224,7 @@
     {
       "id": "85b63106cec55f66",
       "title": "Bluesky’s new CEO wants a big tent, not a bubble",
-      "description": "Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO. This is one of my favorite kinds of interviews to do on Decoder, because a couple years ago, we had Bluesky’s prior CEO, Jay Graber, on the show",
+      "description": "Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO.\nThis is one of my favorite kinds of interviews to do on Decoder, because a couple years ago, we had Bluesky’s prior CEO, Jay Graber, on the show",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260803_Schneider.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
       "source": "The Verge",
@@ -129,175 +290,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-08-03T14:16:13.000Z"
-    },
-    {
-      "id": "dfe74edf938c8ff6",
-      "title": "AirPods With Cameras Could Arrive Sooner Than Expected",
-      "description": "Apple's first camera-equipped AirPods could launch as soon as next month, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nApple has reportedly spent years working on camera-equipped AirPods under the code name \"B798,\" as part of a broader AI wearables push that also encompasses smart glasses and a wearab",
-      "image": "https://images.macrumors.com/article-new/2026/06/airpods-pro-3-orange.jpeg",
-      "url": "https://www.macrumors.com/2026/08/03/airpods-with-cameras-could-arrive-sooner/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T14:14:09.000Z"
-    },
-    {
-      "id": "46e572cae5c5b23a",
-      "title": "Amazon Doubles Down on 2026 MacBook Pro Discounts, Some Prices Now Lower Than July",
-      "description": "Towards the end of July, we began tracking major discounts on the 2026 MacBook Pro, with up to $500 off select models on Amazon. These sales are still available this week, and Amazon has even sweetened the pot for select devices with sales that are better than we saw during the July event.\r\n\r\nNote: ",
-      "image": "https://images.macrumors.com/article-new/2026/05/macbook-pro-m5-pro-purple.jpeg",
-      "url": "https://www.macrumors.com/2026/08/03/amazon-2026-macbook-pro/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T13:57:46.000Z"
-    },
-    {
-      "id": "ed96692a7687e517",
-      "title": "Apple Acquiring Materials Science Company PlasmaSolve",
-      "description": "Earlier this year, Apple informed the European Union that it had agreed to acquire certain assets and hire employees from PlasmaSolve, according to a notice published today on the European Commission's website.\r\n\r\nApple Inc. (\"Apple\"), through a subsidiary, will acquire the entire issued share capit",
-      "image": "https://images.macrumors.com/article-new/2026/08/plasmasolve.jpg",
-      "url": "https://www.macrumors.com/2026/08/03/apple-acquiring-plasmasolve/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T13:47:31.000Z"
-    },
-    {
-      "id": "f274b866feb1ccfe",
-      "title": "Here’s everything new Apple TV has coming in August",
-      "description": "Apple TV subscribers will get to enjoy the long-awaited return of Ted Lasso this week, alongside a new season of sci-fi series Dark Matter, more episodes of Silo, and several other returning August shows. Here’s everything new coming to Apple TV in August.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-sunset-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/heres-everything-new-apple-tv-has-coming-in-august-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T13:37:07.000Z"
-    },
-    {
-      "id": "501a51dec30d167c",
-      "title": "New leaks cover iPhone Ultra timing, iPhone Pro’s design next year",
-      "description": "Apple has two substantially unique iPhone designs launching in the coming year: iPhone Ultra this fall, and its 20th anniversary Pro models next year. Leaker Fixed Focus Digital has just shared updates on both products.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/new-leaks-cover-iphone-ultra-timing-iphone-pros-design-next-year/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T13:32:59.000Z"
-    },
-    {
-      "id": "a238e199763a8a17",
-      "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
-      "description": "Leaked images of the laptop show Googlebook branding below the keyboard. | Image: Digital Citizen\t\n\nLenovo is expected to release some of the first Googlebook models later this year, and leaked images have now given us a good idea of what they might look like. Leaked press images shared by Digital C",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lenovo-Googlebook-laptop-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T13:12:03.000Z"
-    },
-    {
-      "id": "ac0ced3d99a16816",
-      "title": "A $1,399 starting price for the iPhone 18 Pro doesn’t seem credible, even for Apple",
-      "description": "We know for sure that Apple will increase iPhone prices when the iPhone 18 Pro launches next month. The company exempted existing iPhones when it increased prices across the board to reflect higher memory prices, but that was only ever going to be a temporary reprieve.\nHowever, two sources are now s",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/a-1399-starting-price-for-the-iphone-18-pro-doesnt-seem-credible-even-for-apple/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T13:05:25.000Z"
-    },
-    {
-      "id": "d0f3ce1f608438ab",
-      "title": "Big Walk is like co-op Breath of the Wild",
-      "description": "Untitled Goose Game is a tough act to follow. It was a silly experience that captured what I imagine it would feel like to be a sentient goose: a lot of waddling, a lot of honking, and a lot of shenanigans. That's why Big Walk, the next game from Goose Game developer House House, feels like a radica",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/973166/big-walk-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T13:00:00.000Z"
-    },
-    {
-      "id": "abb79e04cba1a8a1",
-      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
-      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T12:50:46.000Z"
-    },
-    {
-      "id": "302e2ed5834097de",
-      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
-      "description": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
-      "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T12:10:41.000Z"
-    },
-    {
-      "id": "fd7cc9845c15d696",
-      "title": "DuckDuckGo anti-AI glasses offer zero cameras and notifications",
-      "description": "While it’s been reported that Apple is debating whether or not the camera in its upcoming glasses product should allow users to shoot photos and videos, DuckDuckGo is going one step further …",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/DuckDuckGo-glasses-offer-zero-cameras-and-notifications.webp?w=1300",
-      "url": "https://9to5mac.com/2026/08/03/duckduckgo-anti-ai-glasses-offer-zero-cameras-and-notifications/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T11:54:20.000Z"
-    },
-    {
-      "id": "0570275ba5dae0d3",
-      "title": "Heavy Siri AI usage could cost more than we expected, given Cook’s comment",
-      "description": "What seems like a deliberately vague comment by outgoing Apple CEO Tim Cook during the earnings call suggests that heavy Siri AI usage could be more expensive than we’ve so far expected.\nWhile it had always seemed clear that we wouldn’t be able to make unlimited use of Siri AI without paying for it ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-reaches-agreement-with-Chinese-government-on-Apple-Intelligence-rollout.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/heavy-siri-ai-usage-could-cost-more-than-we-expected-given-cooks-comment/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T11:03:51.000Z"
-    },
-    {
-      "id": "9c47417c9c3d0e2c",
-      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "description": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T11:01:11.000Z"
-    },
-    {
-      "id": "773ecd6f2cb312c7",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T10:00:00.000Z"
-    },
-    {
-      "id": "457ee21fa302e953",
-      "title": "MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase",
-      "description": "Despite receiving a price increase in June, the MacBook Air is currently experiencing a \"major\" shortage, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\"Retail store sources say Apple is struggling to keep the laptop in stock and that shipments of new units are more constrained than they can ever recal",
-      "image": "https://images.macrumors.com/article-new/2025/03/M4-MacBook-Air-13-and-15-inch-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/02/macbook-air-shortage-report/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T02:12:10.000Z"
-    },
-    {
-      "id": "2f8adc66f8dad8f1",
-      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-      "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Come Crashing is almost ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T21:53:15.000Z"
-    },
-    {
-      "id": "5eda1591ef4e4043",
-      "title": "The global memory shortage hits the MacBook Air",
-      "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
-      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T21:33:59.000Z"
     }
   ],
-  "lastUpdated": "2026-08-03T16:01:30.925Z",
+  "lastUpdated": "2026-08-03T19:14:57.126Z",
   "sources": [
     "TechCrunch",
     "The Verge",
