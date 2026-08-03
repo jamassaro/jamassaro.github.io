@@ -31,7 +31,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.ollama/models
-          key: ollama-models-${{ runner.os }}-llama3.2-1b
+          key: ollama-models-${{ runner.os }}-llama3.2-3b
           restore-keys: |
             ollama-models-${{ runner.os }}-
       
@@ -74,11 +74,11 @@ jobs:
         id: pull-model
         if: steps.start-ollama.outcome == 'success'
         run: |
-          echo "📥 Pulling llama3.2:1b model..."
-          if ollama list | grep -q "llama3.2:1b"; then
+          echo "📥 Pulling llama3.2:3b model..."
+          if ollama list | grep -q "llama3.2:3b"; then
             echo "✅ Model already cached"
           else
-            timeout 300 ollama pull llama3.2:1b || (echo "⚠️ Model download timed out or failed" && exit 1)
+            timeout 600 ollama pull llama3.2:3b || (echo "⚠️ Model download timed out or failed" && exit 1)
             echo "✅ Model downloaded"
           fi
       
