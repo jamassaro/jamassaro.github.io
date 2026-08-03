@@ -1,6 +1,163 @@
 {
   "articles": [
     {
+      "id": "32134b1b15bd5890",
+      "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
+      "description": "Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digital IMAX locations across North America starting Thursday, August 6th.\nThe news ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T14:26:47.000Z"
+    },
+    {
+      "id": "bebcafaaef78cf5f",
+      "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
+      "description": "Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is cheaper than it has sold for since February 2026. That’s something, right? Amazon has the heatsink-les",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/9100.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T14:16:13.000Z"
+    },
+    {
+      "id": "dfe74edf938c8ff6",
+      "title": "AirPods With Cameras Could Arrive Sooner Than Expected",
+      "description": "Apple's first camera-equipped AirPods could launch as soon as next month, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nApple has reportedly spent years working on camera-equipped AirPods under the code name \"B798,\" as part of a broader AI wearables push that also encompasses smart glasses and a wearab",
+      "image": "https://images.macrumors.com/article-new/2026/06/airpods-pro-3-orange.jpeg",
+      "url": "https://www.macrumors.com/2026/08/03/airpods-with-cameras-could-arrive-sooner/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T14:14:09.000Z"
+    },
+    {
+      "id": "46e572cae5c5b23a",
+      "title": "Amazon Doubles Down on 2026 MacBook Pro Discounts, Some Prices Now Lower Than July",
+      "description": "Towards the end of July, we began tracking major discounts on the 2026 MacBook Pro, with up to $500 off select models on Amazon. These sales are still available this week, and Amazon has even sweetened the pot for select devices with sales that are better than we saw during the July event.\r\n\r\nNote: ",
+      "image": "https://images.macrumors.com/article-new/2026/05/macbook-pro-m5-pro-purple.jpeg",
+      "url": "https://www.macrumors.com/2026/08/03/amazon-2026-macbook-pro/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T13:57:46.000Z"
+    },
+    {
+      "id": "ed96692a7687e517",
+      "title": "Apple Acquiring Materials Science Company PlasmaSolve",
+      "description": "Earlier this year, Apple informed the European Union that it had agreed to acquire certain assets and hire employees from PlasmaSolve, according to a notice published today on the European Commission's website.\r\n\r\nApple Inc. (\"Apple\"), through a subsidiary, will acquire the entire issued share capit",
+      "image": "https://images.macrumors.com/article-new/2026/08/plasmasolve.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/apple-acquiring-plasmasolve/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T13:47:31.000Z"
+    },
+    {
+      "id": "f274b866feb1ccfe",
+      "title": "Here’s everything new Apple TV has coming in August",
+      "description": "Apple TV subscribers will get to enjoy the long-awaited return of Ted Lasso this week, alongside a new season of sci-fi series Dark Matter, more episodes of Silo, and several other returning August shows. Here’s everything new coming to Apple TV in August.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-sunset-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/heres-everything-new-apple-tv-has-coming-in-august-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T13:37:07.000Z"
+    },
+    {
+      "id": "501a51dec30d167c",
+      "title": "New leaks cover iPhone Ultra timing, iPhone Pro’s design next year",
+      "description": "Apple has two substantially unique iPhone designs launching in the coming year: iPhone Ultra this fall, and its 20th anniversary Pro models next year. Leaker Fixed Focus Digital has just shared updates on both products.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/new-leaks-cover-iphone-ultra-timing-iphone-pros-design-next-year/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T13:32:59.000Z"
+    },
+    {
+      "id": "a238e199763a8a17",
+      "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
+      "description": "Leaked images of the laptop show Googlebook branding below the keyboard. | Image: Digital Citizen\t\n\nLenovo is expected to release some of the first Googlebook models later this year, and leaked images have now given us a good idea of what they might look like. Leaked press images shared by Digital C",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lenovo-Googlebook-laptop-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T13:12:03.000Z"
+    },
+    {
+      "id": "ac0ced3d99a16816",
+      "title": "A $1,399 starting price for the iPhone 18 Pro doesn’t seem credible, even for Apple",
+      "description": "We know for sure that Apple will increase iPhone prices when the iPhone 18 Pro launches next month. The company exempted existing iPhones when it increased prices across the board to reflect higher memory prices, but that was only ever going to be a temporary reprieve.\nHowever, two sources are now s",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/a-1399-starting-price-for-the-iphone-18-pro-doesnt-seem-credible-even-for-apple/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T13:05:25.000Z"
+    },
+    {
+      "id": "d0f3ce1f608438ab",
+      "title": "Big Walk is like co-op Breath of the Wild",
+      "description": "Untitled Goose Game is a tough act to follow. It was a silly experience that captured what I imagine it would feel like to be a sentient goose: a lot of waddling, a lot of honking, and a lot of shenanigans. That's why Big Walk, the next game from Goose Game developer House House, feels like a radica",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/973166/big-walk-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T13:00:00.000Z"
+    },
+    {
+      "id": "abb79e04cba1a8a1",
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T12:50:46.000Z"
+    },
+    {
+      "id": "302e2ed5834097de",
+      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+      "description": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+      "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T12:10:41.000Z"
+    },
+    {
+      "id": "fd7cc9845c15d696",
+      "title": "DuckDuckGo anti-AI glasses offer zero cameras and notifications",
+      "description": "While it’s been reported that Apple is debating whether or not the camera in its upcoming glasses product should allow users to shoot photos and videos, DuckDuckGo is going one step further …",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/DuckDuckGo-glasses-offer-zero-cameras-and-notifications.webp?w=1300",
+      "url": "https://9to5mac.com/2026/08/03/duckduckgo-anti-ai-glasses-offer-zero-cameras-and-notifications/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T11:54:20.000Z"
+    },
+    {
+      "id": "0570275ba5dae0d3",
+      "title": "Heavy Siri AI usage could cost more than we expected, given Cook’s comment",
+      "description": "What seems like a deliberately vague comment by outgoing Apple CEO Tim Cook during the earnings call suggests that heavy Siri AI usage could be more expensive than we’ve so far expected.\nWhile it had always seemed clear that we wouldn’t be able to make unlimited use of Siri AI without paying for it ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-reaches-agreement-with-Chinese-government-on-Apple-Intelligence-rollout.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/heavy-siri-ai-usage-could-cost-more-than-we-expected-given-cooks-comment/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T11:03:51.000Z"
+    },
+    {
+      "id": "9c47417c9c3d0e2c",
+      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "description": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T11:01:11.000Z"
+    },
+    {
+      "id": "773ecd6f2cb312c7",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T10:00:00.000Z"
+    },
+    {
       "id": "457ee21fa302e953",
       "title": "MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase",
       "description": "Despite receiving a price increase in June, the MacBook Air is currently experiencing a \"major\" shortage, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\"Retail store sources say Apple is struggling to keep the laptop in stock and that shipments of new units are more constrained than they can ever recal",
@@ -13,7 +170,7 @@
     {
       "id": "2f8adc66f8dad8f1",
       "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-      "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost",
+      "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Come Crashing is almost ",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
       "source": "The Verge",
@@ -47,6 +204,16 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-08-02T19:36:08.000Z"
+    },
+    {
+      "id": "203fdb34d6f6e847",
+      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
+      "description": "Next month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. It’s going to feature a 5.5-inch outer display and 7.6-inch inner display. Late last month, Samsung introduced the new Galaxy Z Fold 8 – and it comes with those same screen sizes.\nWhether or not you be",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-02T19:21:00.000Z"
     },
     {
       "id": "6a4bee22f8a41ef3",
@@ -124,175 +291,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-08-02T15:00:00.000Z"
-    },
-    {
-      "id": "edafad49827a0760",
-      "title": "Report: Apple’s smart glasses will become a major health companion, but not initially",
-      "description": "According to the latest Power On newsletter from Mark Gurman, Apple is working towards turning its upcoming non-AR smart glasses into another platform for health and fitness – though these features likely won’t debut with the first generation model in the coming year.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/02/apple-ai-smart-glasses-to-serve-as-health-companion/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-02T14:30:42.000Z"
-    },
-    {
-      "id": "5ccf489cce5f5d20",
-      "title": "AirPods Pro 3, AirPods 4, and AirPods Max 2 Discounted in Latest Amazon Deals",
-      "description": "Amazon today has the AirPods Pro 3 available for $199.99, down from $249.00. This is the best price we've seen on the AirPods Pro 3 since Prime Day in June, coming in around $20 higher when compared to that all-time low price, and it's accompanied by a solid deal on the AirPods 4 and AirPods Max 2.\r",
-      "image": "https://images.macrumors.com/article-new/2026/06/airpods-prime-day-deals.jpeg",
-      "url": "https://www.macrumors.com/2026/08/02/airpods-weekend-deals-6/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-02T14:20:48.000Z"
-    },
-    {
-      "id": "e30bb5afb23a4157",
-      "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
-      "description": "Tough sell. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nThe HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming.\nThe Omen 15 has nic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268675_HP_HyperX_Omen_15_gaming_laptop_ADiBenedetto_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T14:00:00.000Z"
-    },
-    {
-      "id": "6dd0631491dcbc11",
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "description": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the tec",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T13:00:00.000Z"
-    },
-    {
-      "id": "dabaa3bf737b43a7",
-      "title": "Foldables are sort of boring now — and that’s great news for Apple",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nBelieve it or not, it didn'",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Samsung-Galaxy-Flip8-Fold8-and-Fold8-Ultra-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-02T12:00:00.000Z"
-    },
-    {
-      "id": "ac4fb15c2f5817c2",
-      "title": "6 Things We Already Know About the 2028 iPhone",
-      "description": "Rumors about Apple's 2028 iPhone are already starting to circulate, offering an early look at how the company plans to evolve the iPhone's design, display, and cameras.\r\n\r\n\r\nThe 2028 device will follow the 20th anniversary iPhone, which is set to introduce a display that curves down around all four ",
-      "image": "https://images.macrumors.com/article-new/2026/07/iphone-2028-punch-hole-design.jpg",
-      "url": "https://www.macrumors.com/2026/08/01/things-we-know-about-2028-iphone/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-02T01:00:10.000Z"
-    },
-    {
-      "id": "6757974bd1221043",
-      "title": "Apple Upgrade might’ve provided our first hint for what could change with Apple Card",
-      "description": "This week, Apple launched Apple Upgrade, its new leasing program for most Apple products. It replaces the iPhone Upgrade Program entirely, and for the most part, it’s an incredible deal.\nThe deal is so good that largely, there isn’t a great reason to use Apple Card Monthly Installments (ACMI) anymor",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-ipad.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/01/apple-upgrade-will-it-replace-apple-card-monhtly-installments/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T21:52:35.000Z"
-    },
-    {
-      "id": "4d23a94c16f4de1d",
-      "title": "Pixel 11 specs and price leak with no surprises",
-      "description": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB of",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T21:31:24.000Z"
-    },
-    {
-      "id": "285326d8249fc0c0",
-      "title": "Inside the London hacker house taking a stand against founder burnout",
-      "description": "How one founder house is betting work-life balance can beat burnout .",
-      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T21:14:48.000Z"
-    },
-    {
-      "id": "9d5628f05a2b1c7f",
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T20:26:04.000Z"
-    },
-    {
-      "id": "4ddde1353064bffc",
-      "title": "Angela Nissel faces down grief with a laugh",
-      "description": "Angela Nissel smiles through the pain. | Image: Angela Nissel\t\n\nAngela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Angela-Nissel_Author-Headshot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T20:15:00.000Z"
-    },
-    {
-      "id": "30e653ffcba36da9",
-      "title": "Apple @ Work: Apple says MacBook Neo is pulling schools away from Windows and Chromebooks",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/01/apple-says-macbook-neo-is-pulling-schools-away-from-windows-and-chromebooks/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T20:14:48.000Z"
-    },
-    {
-      "id": "c0e2ded561c9b610",
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T19:45:45.000Z"
-    },
-    {
-      "id": "991d0009a8d7c951",
-      "title": "Indie App Spotlight: ‘Overflight’ lets you glance at what planes are flying above you",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you’re an aviation geek, Overflight is a fun new app for iPhone, iPad, and Apple TV that shows you exac",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Overflight-iPhone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/01/indie-app-spotlight-overflight-lets-you-glance-at-what-planes-are-flying-above-you/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T19:30:00.000Z"
-    },
-    {
-      "id": "4e571f9767a3223f",
-      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-      "description": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
-      "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T18:47:27.000Z"
-    },
-    {
-      "id": "43a2660552d00880",
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "description": "That cover art is almost certainly AI, too. | Image: Fenix Flexin\t\n\nFenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, thoug",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-01T18:20:00.000Z"
-    },
-    {
-      "id": "3ed224d983dc5586",
-      "title": "I’m not convinced the 20th anniversary iPhone will be what we think, here’s why",
-      "description": "Next year, the iPhone will be turning 20 – and Apple is heavily rumored to be working on a radical new design to celebrate. Many have expected this to come in the form of iPhone 19 Pro (more likely to be called iPhone 20 to align with the anniversary), but I think there’s one solid reason that it ma",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/01/heres-why-iphone-20-could-actually-be-iphone-air-3/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-01T18:01:00.000Z"
     }
   ],
-  "lastUpdated": "2026-08-03T08:55:49.287Z",
+  "lastUpdated": "2026-08-03T14:33:00.400Z",
   "sources": [
     "TechCrunch",
     "The Verge",
