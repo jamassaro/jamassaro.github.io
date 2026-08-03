@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "457ee21fa302e953",
+      "title": "MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase",
+      "description": "Despite receiving a price increase in June, the MacBook Air is currently experiencing a \"major\" shortage, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\"Retail store sources say Apple is struggling to keep the laptop in stock and that shipments of new units are more constrained than they can ever recal",
+      "image": "https://images.macrumors.com/article-new/2025/03/M4-MacBook-Air-13-and-15-inch-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/02/macbook-air-shortage-report/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T02:12:10.000Z"
+    },
+    {
       "id": "2f8adc66f8dad8f1",
       "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
       "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost",
@@ -37,16 +47,6 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-08-02T19:36:08.000Z"
-    },
-    {
-      "id": "203fdb34d6f6e847",
-      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
-      "description": "Next month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. It’s going to feature a 5.5-inch outer display and 7.6-inch inner display. Late last month, Samsung introduced the new Galaxy Z Fold 8 – and it comes with those same screen sizes.\nWhether or not you be",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-02T19:21:00.000Z"
     },
     {
       "id": "6a4bee22f8a41ef3",
@@ -292,7 +292,7 @@
       "publishedAt": "2026-08-01T18:01:00.000Z"
     }
   ],
-  "lastUpdated": "2026-08-03T01:52:48.883Z",
+  "lastUpdated": "2026-08-03T08:55:49.287Z",
   "sources": [
     "TechCrunch",
     "The Verge",
