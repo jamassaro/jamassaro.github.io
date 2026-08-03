@@ -19,33 +19,36 @@ scripts/
 
 ### Prerequisites
 
-1. **Install Ollama**
-   ```bash
-   # macOS/Linux
-   curl -fsSL https://ollama.com/install.sh | sh
-   
-   # Or download from: https://ollama.com
-   ```
+1. **Ollama on Host Machine**
+   - Already installed and running on your host
+   - Model: `llama3.2:latest` or `llama3.2:3b`
 
-2. **Start Ollama server**
-   ```bash
-   ollama serve
-   ```
-
-3. **Pull the AI model**
-   ```bash
-   ollama pull llama3.2:1b
-   ```
+2. **From Dev Container**
 
 ### Run Analysis
 
 ```bash
-# Make sure news.json exists first
+# Fetch latest news first
 yarn fetch-news
 
-# Run AI analysis
+# Run AI analysis (connects to host's Ollama)
+yarn analyze-news:local
+```
+
+**Configuration:**
+- `OLLAMA_HOST=http://host.docker.internal:11434` (host machine)
+- `OLLAMA_MODEL=llama3.2:latest` (your 3B model)
+
+### Production (GitHub Actions)
+
+```bash
+# Workflow uses default configuration
 yarn analyze-news
 ```
+
+**Configuration:**
+- `OLLAMA_HOST=http://127.0.0.1:11434` (runner's local)
+- `OLLAMA_MODEL=llama3.2:3b` (explicitly set)
 
 ### Expected Output
 

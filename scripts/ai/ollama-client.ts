@@ -1,7 +1,7 @@
 import type { OllamaResponse } from '../types/analysis.js';
 
 const OLLAMA_HOST = process.env.OLLAMA_HOST || 'http://127.0.0.1:11434';
-const MODEL = 'llama3.2:3b'; // Better quality analysis, ~3GB model
+const MODEL = process.env.OLLAMA_MODEL || 'llama3.2:3b'; // Better quality analysis, ~3GB model
 
 /**
  * Wait for Ollama server to be ready

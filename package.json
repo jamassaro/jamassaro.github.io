@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "deploy": "gh-pages -b build",
     "fetch-news": "tsx scripts/fetch-news.ts",
-    "analyze-news": "tsx scripts/analyze-news.ts"
+    "analyze-news": "tsx scripts/analyze-news.ts",
+    "analyze-news:local": "OLLAMA_HOST=http://host.docker.internal:11434 OLLAMA_MODEL=llama3.2:latest tsx scripts/analyze-news.ts"
   },
   "dependencies": {
     "@mlc-ai/web-llm": "^0.2.84",

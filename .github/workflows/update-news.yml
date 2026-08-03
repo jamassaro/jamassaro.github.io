@@ -87,6 +87,8 @@ jobs:
       
       - name: Generate AI analysis
         continue-on-error: true
+        env:
+          OLLAMA_MODEL: llama3.2:3b
         run: |
           echo "🤖 Generating AI analysis..."
           
