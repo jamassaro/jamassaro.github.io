@@ -1,5 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import { trackLinkClick } from '../../configs/analytics';
 import styles from './HeroSection.module.css';
 
 /**
@@ -32,6 +33,7 @@ const HeroSection = () => {
             <a
               href="https://www.linkedin.com/in/jose-antonio-massaro-mayorga-716a2736/"
               target="_blank"
+              onClick={() => trackLinkClick('LinkedIn link clicked', 'https://www.linkedin.com/in/jose-antonio-massaro-mayorga-716a2736/')}
               rel="noopener noreferrer"
               className={styles.socialLink}
             >
@@ -40,6 +42,7 @@ const HeroSection = () => {
             <a
               href="https://github.com/jamassaro"
               target="_blank"
+              onClick={() => trackLinkClick('GitHub link clicked', 'https://github.com/jamassaro')}
               rel="noopener noreferrer"
               className={styles.socialLink}
             >
@@ -48,6 +51,7 @@ const HeroSection = () => {
             <a
               href="/PDF/resume.pdf"
               target="_blank"
+              onClick={() => trackLinkClick('Resume link clicked', '/PDF/resume.pdf')}  
               rel="noopener noreferrer"
               className={styles.socialLink}
             >

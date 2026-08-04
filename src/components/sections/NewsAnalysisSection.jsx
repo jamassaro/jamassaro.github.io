@@ -26,7 +26,7 @@ const NewsAnalysisSection = () => {
   return (
     <section id="news-analysis" className={styles.analysisSection}>
       <div className={styles.container}>
-        <AnimatedSection animation="fadeInUp">
+        <AnimatedSection animation="fadeInUp" sectionName="AI Analysis">
           <SectionTitle 
             title='AI Analysis'
             index="05"

@@ -37,7 +37,7 @@ const VentureSection = () => {
     <section id="entrepreneurship" className={styles.section}>
       <div className={styles.container}>
         {/* Section Header */}
-        <AnimatedSection animation="fadeInUp">
+        <AnimatedSection animation="fadeInUp" sectionName="Ventures">
           <SectionTitle 
             title={t('venture.company')}
             index="04"

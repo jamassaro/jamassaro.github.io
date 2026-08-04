@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import styles from './AnimatedSection.module.css';
+import { trackSectionView } from '../../configs/analytics';
 
 /**
  * AnimatedSection Component - SRP: Handles scroll-reveal animations
@@ -12,6 +13,7 @@ import styles from './AnimatedSection.module.css';
  * @param {number} props.threshold - Intersection observer threshold (0-1)
  * @param {boolean} props.once - Animate only once
  * @param {string} props.className - Additional CSS classes
+ * @param {string} props.sectionName - Optional name for GA tracking (e.g., 'Hero Section', 'Projects')
  */
 const AnimatedSection = ({
   children,
@@ -22,6 +24,7 @@ const AnimatedSection = ({
   threshold = 0.1,
   once = true,
   className = '',
+  sectionName,
   ...rest
 }) => {
   const [isVisible, setIsVisible] = useState(false);
@@ -32,6 +35,12 @@ const AnimatedSection = ({
       ([entry]) => {
         if (entry.isIntersecting) {
           setIsVisible(true);
+          
+          // Track section view in Google Analytics
+          if (sectionName) {
+            trackSectionView(sectionName);
+          }
+          
           if (once) {
             observer.disconnect();
           }
@@ -55,7 +64,7 @@ const AnimatedSection = ({
         observer.unobserve(currentRef);
       }
     };
-  }, [threshold, once]);
+  }, [threshold, once, sectionName]);
 
   const sectionClasses = [
     styles.animatedSection,

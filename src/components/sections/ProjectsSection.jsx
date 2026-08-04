@@ -13,7 +13,7 @@ const ProjectsSection = () => {
   return (
     <section id="projects" className={styles.section}>
       <div className={styles.container}>
-        <AnimatedSection animation="fadeInUp">
+        <AnimatedSection animation="fadeInUp" sectionName="Projects">
           <SectionTitle 
             title={t('navigation.projects') || 'Projects'}
             index="03"
