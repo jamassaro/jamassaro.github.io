@@ -1,6 +1,271 @@
 {
   "articles": [
     {
+      "id": "8922f84a4d18e781",
+      "title": "OpenAI rebuts Apple trade secrets allegations in new response with receipts",
+      "description": "Apple filed a lawsuit against OpenAI last month, accusing the firm behind ChatGPT of stealing trade secrets related to hardware development. Nearly a month later, OpenAI has published a detailed response to many of Apple’s claims in the form of a blog post.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/openai-rebuts-apple-trade-secrets-allegations-in-new-response-and-evidence/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-04T06:05:15.000Z"
+    },
+    {
+      "id": "e1ef79f5cd9eed12",
+      "title": "Apple sued over alleged lack of age checks for casino games in Brazil",
+      "description": "Apple is facing a civil lawsuit in Brazil seeking R$300 million (roughly $59 million) in damages over allegations that children can download and access casino-style games on the App Store without any meaningful age verification. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
+      "url": "https://9to5mac.com/2026/08/03/apple-sued-over-alleged-lack-of-age-checks-for-casino-games-in-brazil/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-04T03:13:07.000Z"
+    },
+    {
+      "id": "fa17f92b655ca143",
+      "title": "Telegram briefly pulled from the App Store over child sexual abuse material availability [U: Apple statement ]",
+      "description": "Update: 11:00 p.m. ET: In a statement to 9to5Mac, Apple said:\n“We briefly removed Telegram from the App Store after our review found content that violates our strict guidelines prohibiting child sexual abuse material. The app was subsequently restored after the developer promptly removed the content",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/Telegram.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/telegram-appears-to-have-been-pulled-from-the-app-store-worldwide/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-04T02:19:33.000Z"
+    },
+    {
+      "id": "89d640158a1d5398",
+      "title": "Apple plans to open iPhone clipboard access to Windows PCs",
+      "description": "Apple has outlined plans to let users copy and paste content between an iPhone and a Windows PC, following an interoperability request from Microsoft in the European Union. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/Even-Windows-fans-see-the-MacBook-Neo-as-a-winner.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/apple-plans-to-open-iphone-clipboard-access-to-windows-pcs/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-04T01:43:34.000Z"
+    },
+    {
+      "id": "83d83f3f4885f5c1",
+      "title": "Russia escalates dispute with Apple over mandatory app preinstallation",
+      "description": "Reuters reports that Russia’s antitrust regulator has opened a formal case against Apple over the company’s failure to preinstall the state-backed MAX messenger and Russia’s RuStore app marketplace on its devices. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/Latest-Apple-antitrust-case-in-Russia.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/russia-escalates-dispute-with-apple-over-mandatory-app-preinstallation/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-04T00:59:23.000Z"
+    },
+    {
+      "id": "25eb80e7a1549ba6",
+      "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+      "description": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title about a militarized elephant or turning horse races into a card ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/BoR-Screenshot-66.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "id": "7e3e1661aa1aad92",
+      "title": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
+      "description": "Apple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs.\r\n\r\n\r\nMicrosoft asked for the feature using Apple's EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evalu",
+      "image": "https://images.macrumors.com/article-new/2026/08/apple-universal-clipboard-copy-paste.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/apple-iphone-windows-copy-paste/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T23:20:04.000Z"
+    },
+    {
+      "id": "9ffee025057c5b07",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T23:19:50.000Z"
+    },
+    {
+      "id": "5ada6defa0d776ae",
+      "title": "Apple caps security bug reports amid surge in AI-generated findings",
+      "description": "As it grapples with a surge in “AI slop” security reports, Apple has recently made changes to its bug bounty program. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-security-malware-virus-code-9to5mac.png?w=1600",
+      "url": "https://9to5mac.com/2026/08/03/apple-caps-security-bug-reports-amid-surge-in-ai-generated-findings/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T23:08:46.000Z"
+    },
+    {
+      "id": "77a8803a55d726bb",
+      "title": "Judge greenlights multi-billion-dollar class action over Apple Photos’ face recognition",
+      "description": "Apple will face a class-action lawsuit alleging it violated Illinois’ Biometric Information Privacy Act (BIPA), in a case that could cost the company more than $30 billion. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-Photos-app-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/judge-greenlights-multi-billion-dollar-class-action-over-apple-photos-face-recognition/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T22:24:54.000Z"
+    },
+    {
+      "id": "1249523cc26646e8",
+      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+      "description": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+      "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T22:10:58.000Z"
+    },
+    {
+      "id": "025aeaa2ff81eee7",
+      "title": "Apple Will Judge Your Mustache Authenticity at Its Ted Lasso Look-Alike Contest",
+      "description": "Ted Lasso season four is set to premiere Wednesday, and to celebrate the debut, Apple is hosting a Ted Lasso look-alike contest in New York.\r\n\r\n\r\n\"Think you have the stache to make fans believe? Join the fun this August 6 at Apple Fifth Avenue Plaza for a Ted Lasso Look-Alike contest,\" reads Apple's",
+      "image": "https://images.macrumors.com/article-new/2026/08/apple-ted-lasso-look-alike.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/apple-ted-lasso-look-alike-contest/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T22:03:19.000Z"
+    },
+    {
+      "id": "aeacccfa6d6e4a9d",
+      "title": "Report: Apple’s secrecy efforts partly undermined by lax work iCloud policy",
+      "description": "A new report from The Information details how Apple’s policy of encouraging employees to mix personal and work iCloud accounts has allowed some former staffers to retain access to confidential company files long after leaving. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/report-apples-secrecy-efforts-partly-undermined-by-lax-work-icloud-policy/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T21:30:11.000Z"
+    },
+    {
+      "id": "f63cfeb0349a1089",
+      "title": "Your Fitbit data can now connect directly to Apple Health",
+      "description": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile icon, select \"Partner apps,\" and choose Apple Health to link your",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0036.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T21:24:23.000Z"
+    },
+    {
+      "id": "b75468a348066ab3",
+      "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+      "description": "Video chat with your friends or coworkers directly from the Samsung M80F.\t\n\nSamsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly found on both types of screens",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-M80F-Lifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T21:13:38.000Z"
+    },
+    {
+      "id": "03506c2af1145d70",
+      "title": "Here’s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone",
+      "description": "The new Apple Upgrade program has a key piece of fine print: “If you’re leasing an iPhone, you’ll need to connect to AT&T, T-Mobile, or Verizon when you enroll.”\nIn a new post today, John Gruber at Daring Fireball has a likely explanation for this requirement.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/why-apple-upgrade-requires-att-t-mobile-or-verizon-for-iphone/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T21:11:34.000Z"
+    },
+    {
+      "id": "ea7b47d8e4ff7db1",
+      "title": "Apple's Next CEO Adds Retired Hardware Executive to His Team",
+      "description": "Incoming Apple CEO John Ternus is rehiring Laura Legros, a former vice president of hardware engineering who retired from Apple in 2022, reports Bloomberg.\r\n\r\n\r\nLegros previously managed product delivery, development schedules, and coordination across engineering teams. Under Ternus, she will work a",
+      "image": "https://images.macrumors.com/article-new/2026/08/apple-laura-legros.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T20:49:15.000Z"
+    },
+    {
+      "id": "9d46664de895bbc7",
+      "title": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
+      "description": "iOS 27 is a big update for Apple’s Photos app, with improvements to slideshows, shared albums, and more. It also adds a welcome camera roll-type feature many have long been asking for: ‘Captured by Me.’",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T20:44:15.000Z"
+    },
+    {
+      "id": "9046ec2c2f862ea8",
+      "title": "Apple’s contract manufacturing tax breaks in India could be extended to 2041",
+      "description": "Reuters reports that a new draft amendment would extend by 10 years a tax break for foreign companies that supply machinery and equipment to contract manufacturers in India. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/More-great-wallpaper-in-the-run-up-to-two-more-Apple-Stores-in-India.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/apples-contract-manufacturing-tax-breaks-in-india-could-be-extended-to-2041/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T20:30:51.000Z"
+    },
+    {
+      "id": "dc06da53d9737109",
+      "title": "John Ternus recruits key Apple hardware VP out of retirement ahead of CEO transition",
+      "description": "John Ternus is officially set to take over as Apple CEO on September 1. Ahead of that, he’s shaping the team around him and has brought back a key hardware engineering executive who retired several years ago.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0033.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/john-ternus-recruits-key-apple-hardware-vp-out-of-retirement-ahead-of-ceo-transition/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T20:30:32.000Z"
+    },
+    {
+      "id": "c065dccc55730534",
+      "title": "Fitbit Data Can Finally Sync to Apple Health",
+      "description": "The latest update to the Google Health app for iOS allows Google Health data to sync to Apple Health. Google's app is used to collect data from wearables like Fitbit trackers and the Pixel Watch.\r\n\r\n\r\nSync to Apple Health. Share your data like your exercise records, sleep, vitals, steps, and more fr",
+      "image": "https://images.macrumors.com/article-new/2023/04/apple-health-app.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/fitbit-apple-health-syncing/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T20:00:08.000Z"
+    },
+    {
+      "id": "652cd60af280c7f7",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T20:00:00.000Z"
+    },
+    {
+      "id": "5e92a486f4e31583",
+      "title": "WhatsApp beta for Mac tests flexible update schedules",
+      "description": "The latest beta build of WhatsApp’s Mac app lets users choose between daily and weekly update schedules, in addition to checking manually for new updates. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-macos-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/whatsapp-beta-for-mac-tests-flexible-update-schedules/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T19:54:27.000Z"
+    },
+    {
+      "id": "9c43a69fa9931a1b",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "description": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking ",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T19:45:35.000Z"
+    },
+    {
+      "id": "249b199bf770ee3b",
+      "title": "Apple announces Ted Lasso look-alike contest happening in NYC",
+      "description": "Ted Lasso returns for season 4 this week (watch here), and Apple has just announced a clever marketing event: a Ted look-alike contest happening at Apple Fifth Avenue in New York City.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ted-lasso-s4-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/apple-announces-ted-lasso-look-alike-contest-happening-in-nyc/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T19:45:14.000Z"
+    },
+    {
+      "id": "7e3c89910b25268e",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-03T19:28:57.000Z"
+    },
+    {
+      "id": "b3ebe6115c5cef20",
+      "title": "Apple Pay Launches in the Philippines",
+      "description": "Apple Pay expanded to the Philippines today, which means iPhone and Apple Watch owners in the country can add supported debit and credit cards to the Wallet app for contactless payments.\r\n\r\n\r\nCredit and debit cards can be added by opening the Wallet app and tapping on the \"+\" button. According to us",
+      "image": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
+      "url": "https://www.macrumors.com/2026/08/03/apple-pay-philippines/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-03T19:14:49.000Z"
+    },
+    {
       "id": "3e8620f3ea52e793",
       "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
       "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
@@ -19,280 +284,17 @@
       "publishedAt": "2026-08-03T18:54:09.000Z"
     },
     {
-      "id": "b840879dc61334db",
-      "title": "9to5Mac Daily: August 3, 2026 – Apple’s Q3 earnings",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/daily-august-3-2026/",
+      "id": "3f0f0dbd28fd1273",
+      "title": "MagSafe Monday: The LISEN Qi2.2 MagSafe battery brings the most unique lanyard on the market",
+      "description": "The new LISEN Qi2.2 MagSafe battery strikes a nice balance between size and design, bringing some very interesting features to the lanyard. On the spec side, the key feature is supporting the Qi2.2 standard for much faster MagSafe charging. To me, the most unique feature is a really clever lanyard s",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Lisen-battery-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/03/lisen-qi2-2-magsafe-battery/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-03T18:47:40.000Z"
-    },
-    {
-      "id": "4516abac27594416",
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it ",
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T18:43:43.000Z"
-    },
-    {
-      "id": "a9e5276c974804f7",
-      "title": "Wikipedia for iOS just added a fun, new app widget for your Home Screen",
-      "description": "If you’re anything like me, you can relate to spending way too much time going down the rabbit hole of random articles on Wikipedia. Now there’s officially an app, err, widget for that.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/wikipedia-random-article-widget.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/03/wikipedia-for-ios-just-added-a-fun-new-app-widget-for-your-home-screen/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T18:38:47.000Z"
-    },
-    {
-      "id": "f5780c5ed12712f9",
-      "title": "Outernet turns your saved posts into real-world adventures",
-      "description": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
-      "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T18:00:24.000Z"
-    },
-    {
-      "id": "e6029ece19f18013",
-      "title": "Disney+ might soon launch free tier for users, per report",
-      "description": "Hollywood increasingly sees YouTube as its major competition, and per a new report, free tiers from streamers like Disney+ and Paramount+ might be the answer.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/disney-plus-app-icon-fi-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/disney-might-soon-launch-free-tier-for-users-per-report/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T17:56:07.000Z"
-    },
-    {
-      "id": "e175c8fc3d8e4306",
-      "title": "Apple's iCloud File Sharing Left Ex-Employees With Access to Secret Documents",
-      "description": "The way Apple combines work and personal iCloud accounts left some employees able to access confidential documents after departing the company, reports The Information. The site spoke to more than half a dozen former Apple employees who were unknowingly left with access to sensitive content.\r\n\r\n\r\nTh",
-      "image": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/03/apple-icloud-sharing-ex-employees/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T17:48:41.000Z"
-    },
-    {
-      "id": "52d0ebdf7ec89418",
-      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
-      "description": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
-      "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T17:46:01.000Z"
-    },
-    {
-      "id": "6951053029cff60c",
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "description": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligation",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T17:38:45.000Z"
-    },
-    {
-      "id": "e10f73adf131593a",
-      "title": "Apple launches revamped ‘Apple Accessories’ shopping experience",
-      "description": "Apple has rolled out a new experience for browsing and buying accessories on the Apple Online Store and in the App Store app. The changes make it easier to browse accessories by categories, view editorial curations, and more.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/screenshot-2026-08-03-at-13.28.00.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/apple-launches-revamped-apple-accessories-shopping-experience/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T17:30:37.000Z"
-    },
-    {
-      "id": "2e42fe079eb22292",
-      "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
-      "description": "The Scribe comes with a Premium Pen, which includes a built-in eraser. | Photo by Amelia Holowaty Krales / The Verge\t\n\nThe Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24224265/226417__Amazon_Kindle_Scribe_AKrales_0041.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T17:17:54.000Z"
-    },
-    {
-      "id": "f1f3d1628509184c",
-      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
-      "description": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
-      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T17:16:43.000Z"
-    },
-    {
-      "id": "d0367646ea3d254e",
-      "title": "Base Power raises another $1B to save the grid using backyard batteries",
-      "description": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
-      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T16:46:57.000Z"
-    },
-    {
-      "id": "0df4062c1b647ef2",
-      "title": "Congress’s favorite AI tool? ChatGPT",
-      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T16:40:55.000Z"
-    },
-    {
-      "id": "f7f750ece79dee5d",
-      "title": "Microsoft is bringing Xbox 360 games to PC",
-      "description": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be able to run on the next-",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T16:31:35.000Z"
-    },
-    {
-      "id": "7b34a9566cb2b8a2",
-      "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
-      "description": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
-      "url": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T16:29:30.000Z"
-    },
-    {
-      "id": "1d61869affe685d5",
-      "title": "India Moves to Extend Tax Break Apple Lobbied For",
-      "description": "India has proposed extending tax breaks until 2041 for foreign companies that supply machinery to their contract manufacturers, handing a win to Apple as it expands iPhone production in the country, Reuters reports.\r\n\r\nlong since lobbied against being taxed on the high-end iPhone machinery it owns i",
-      "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
-      "url": "https://www.macrumors.com/2026/08/03/india-moves-to-extend-apple-tax-break/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T15:59:57.000Z"
-    },
-    {
-      "id": "643c535cc440e931",
-      "title": "Apple will launch five new products next month, here’s what’s coming",
-      "description": "We’re only one month away from Apple’s biggest product launch event of the year: the September iPhone event. Here’s what rumors say is coming.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/apple-will-launch-five-new-products-next-month-heres-whats-coming/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T15:46:12.000Z"
-    },
-    {
-      "id": "98e88a4c32618057",
-      "title": "Apple Launches New Legal Challenge Against UK Backdoor Demand",
-      "description": "Apple last month filed a new legal complaint with the UK's Investigatory Powers Tribunal (IPT) over the British government's demand for access to encrypted iCloud backups belonging to UK users, according to an order issued by the court and reported by the Financial Times.\r\n\r\n\r\nThe Home Office previo",
-      "image": "https://images.macrumors.com/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/03/apple-legal-challenge-against-uk-demand/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T15:34:16.000Z"
-    },
-    {
-      "id": "77ad605c34700cf7",
-      "title": "Deals: Apple Watch Ultra 3 $100 off, Series 11 from $299, AirPods, Anker chargers, Best Buy back to school sale, more",
-      "description": "Summer deals are somehow still live on AirPods Pro 3 at $50 off alongside all-time low pricing on AirTag 2, but today we have some fresh discounts on Apple Watch Ultra 3. Amazon is now offering several configurations at nearly $100 off the list prices to join refreshed Series 11 offers from $299. We",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-Apple-Watch-Ultra-3-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/deals-apple-watch-ultra-3-100-off-airpods-anker-chargers/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T15:31:22.000Z"
-    },
-    {
-      "id": "91cc139a9feffeaf",
-      "title": "Leagues Cup 2026 Kicking Off on Apple TV",
-      "description": "Apple today highlighted tomorrow's start for the Leagues Cup, an annual competition among teams from Major League Soccer and Liga MX, with all 62 matches available for Apple TV subscribers to watch at no additional charge in over 100 countries and regions.\r\n\r\n\r\nThe tournament features 18 of the 30 M",
-      "image": "https://images.macrumors.com/article-new/2026/08/apple-tv-leagues-cup-2026.jpg",
-      "url": "https://www.macrumors.com/2026/08/03/leagues-cup-2026-apple-tv/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T15:27:58.000Z"
-    },
-    {
-      "id": "624dbe1c0b977922",
-      "title": "Google Health adds two-way Apple Health syncing on iPhone",
-      "description": "Back in May, the Google Health app launched alongside the new line of affordable Google Fitbit Air health trackers.\nGoogle Health initially included one-way Apple Health integration. The app could read and import health data recorded by an iPhone, Apple Watch, and other HealthKit-connected apps, but",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/google-health.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/google-health-adds-two-way-apple-health-syncing-on-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T15:00:44.000Z"
-    },
-    {
-      "id": "85b63106cec55f66",
-      "title": "Bluesky’s new CEO wants a big tent, not a bubble",
-      "description": "Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO.\nThis is one of my favorite kinds of interviews to do on Decoder, because a couple years ago, we had Bluesky’s prior CEO, Jay Graber, on the show",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260803_Schneider.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T15:00:00.000Z"
-    },
-    {
-      "id": "f046b00fc9d1a9e2",
-      "title": "Apple's Smart Glasses Could Become Its Next Health Device",
-      "description": "Apple wants its future glasses and headsets to double as health and fitness devices, Bloomberg's Mark Gurman reports.\r\n\r\n\r\nIn the latest edition of his \"Power On\" newsletter, Gurman said the ambition traces back to Vision Pro's early development, when Apple weighed a number of ambitious health and f",
-      "image": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Pink-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/03/apple-smart-glasses-could-become-health-device/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T14:54:19.000Z"
-    },
-    {
-      "id": "42730eef6521e826",
-      "title": "Palworld’s expanding to mobile with a new MMORPG",
-      "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, freedom, and scale of the original PC surviv",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T14:50:29.000Z"
-    },
-    {
-      "id": "5ed1ae32937f00ce",
-      "title": "Apple’s latest acquisition makes a lot of sense for product roadmap",
-      "description": "Apple recently agreed to acquire a company called PlasmaSolve, according to EU-required filings. Here’s why the new acquisition could make a lot of sense for Apple’s future product roadmap.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-logo-wwdc-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/03/apples-latest-acquisition-makes-a-lot-of-sense-for-product-roadmap/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T14:44:58.000Z"
-    },
-    {
-      "id": "6bc86182cfc4fb3d",
-      "title": "Apple launches second legal challenge to UK iCloud backdoor order, per report",
-      "description": "Apple’s effort to fight back against a UK-mandated “backdoor” to encryption continues, according to a new Financial Times report.\nTim Bradshaw reports that Apple filed a new legal challenge in July against an attempt by the UK government to force access to encrypted user data.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Memory-prices-are-bad-news-for-Android-brands-but-may-actually-help-Apple.webp?w=1500",
-      "url": "https://9to5mac.com/2026/08/03/apple-launches-second-legal-challenge-to-uk-icloud-backdoor-order-per-report/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-03T14:34:15.000Z"
-    },
-    {
-      "id": "32134b1b15bd5890",
-      "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-      "description": "Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digital IMAX locations across North America starting Thursday, August 6th.\nThe news ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T14:26:47.000Z"
-    },
-    {
-      "id": "bebcafaaef78cf5f",
-      "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
-      "description": "Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is cheaper than it has sold for since February 2026. That’s something, right? Amazon has the heatsink-les",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/9100.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-03T14:16:13.000Z"
+      "publishedAt": "2026-08-03T18:51:00.000Z"
     }
   ],
-  "lastUpdated": "2026-08-03T19:14:57.126Z",
+  "lastUpdated": "2026-08-04T08:13:39.376Z",
   "sources": [
     "TechCrunch",
     "The Verge",
