@@ -1,37 +1,13 @@
 {
-  "executiveSummary": "AI-powered technologies are expanding beyond software to hardware, with SpaceX launching a mobile network, Apple CarPlay coming to pontoon boats, and Lucid's robotaxis gaining traction. Additionally, industry shifts are underway, including the rise of private companies like EA and the growth of open-weight AI models.",
-  "takeaways": [
-    {
-      "title": "AI expansion into hardware",
-      "description": "Companies like SpaceX, Apple, and Lucid are integrating AI into their products, expanding its reach beyond software development."
-    },
-    {
-      "title": "Growing importance of private companies",
-      "description": "Private companies like EA are becoming increasingly influential in the tech industry, with significant investments and acquisitions being made."
-    }
-  ],
-  "trends": [
-    "AI-powered hardware",
-    "Private company influence",
-    "Open-weight AI models",
-    "SpaceX expansion",
-    "Lucid's robotaxis"
-  ],
-  "worthWatching": [
-    "The launch of SpaceX's mobile network will significantly impact the telecommunications industry, with potential implications for traditional carriers like T-Mobile, AT&T, and Verizon."
-  ],
-  "engineeringPerspective": [
-    "Understanding the integration of AI in hardware products is crucial for software engineers to develop effective solutions that can seamlessly interact with these devices.",
-    "The growth of private companies highlights the importance of adapting business models and strategies to succeed in a rapidly changing market."
-  ],
+  "generatedAt": "2026-08-05T18:29:45.668Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "SpaceX",
-      "Apple",
-      "Lucid"
-    ]
-  },
-  "generatedAt": "2026-08-05T06:53:03.054Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
