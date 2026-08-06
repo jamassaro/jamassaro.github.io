@@ -1,6 +1,256 @@
 {
   "articles": [
     {
+      "id": "3363358768c8e3fc",
+      "title": "Abode launches new Apple Home-compatible sensors for garages, gates, more",
+      "description": "DIY smart home security company Abode expanded its Apple Home-compatible lineup today with two new sensors designed to monitor garage doors, gates, sheds, and other entry points. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/abode-sensors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/05/abode-launches-new-apple-home-compatible-sensors-for-garages-gates-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-06T00:26:32.000Z"
+    },
+    {
+      "id": "88db22a50c73c960",
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "description": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three month",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-06T00:25:10.000Z"
+    },
+    {
+      "id": "b19bcd1f9679a874",
+      "title": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
+      "description": "Meta today launched Muse Code, a terminal coding agent available for macOS and Linux. Muse Code is in beta, and it is powered by Muse Spark 1.2, ‌Meta‌'s newest model.\r\n\r\n\r\n‌Meta‌ CEO Mark Zuckerberg said Muse Code can accomplish complete software engineering tasks across large repos. It can plan ou",
+      "image": "https://images.macrumors.com/article-new/2026/08/muse-code-meta.jpg",
+      "url": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-06T00:10:28.000Z"
+    },
+    {
+      "id": "571bd9d89ca6e91f",
+      "title": "Disney+ Could Get a Free Ad-Supported Tier",
+      "description": "Disney could introduce an ad-supported Disney+ free tier in the future, according to comments Disney CEO Josh D'Amaro made during the company's latest earnings call (via The Wrap).\r\n\r\n\r\nD'Amaro said Disney is considering a free tier that could allow it to reach people unwilling to pay for a subscrip",
+      "image": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
+      "url": "https://www.macrumors.com/2026/08/05/disney-plus-free-tier/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T23:34:16.000Z"
+    },
+    {
+      "id": "8f948244a935fa48",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T22:55:43.000Z"
+    },
+    {
+      "id": "929b739c592a0575",
+      "title": "SpaceX Plans Starlink Mobile Service to Compete With Verizon, AT&T and T-Mobile",
+      "description": "SpaceX shared plans to create a cellular service during its first earnings call after its IPO, reports Reuters. SpaceX president Gwynne Shotwell said the company will \"build out terrestrial\" with the spectrum that it acquired from EchoStar.\r\n\r\n\r\nShe added that SpaceX intends to make Starlink a \"true",
+      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
+      "url": "https://www.macrumors.com/2026/08/05/starlink-mobile-service/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T22:27:18.000Z"
+    },
+    {
+      "id": "f55e7ed1a7c94d68",
+      "title": "X product chief Nikita Bier is leaving after one year",
+      "description": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just weeks aft",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535562/STK160_X_TWITTER_2__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T22:19:55.000Z"
+    },
+    {
+      "id": "31da4fc6ad5acd0d",
+      "title": "Nikita Bier steps down as X’s head of product",
+      "description": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+      "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T21:30:50.000Z"
+    },
+    {
+      "id": "835232947ea52a61",
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "description": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T21:26:40.000Z"
+    },
+    {
+      "id": "a124ed171009d547",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T21:21:28.000Z"
+    },
+    {
+      "id": "b973b963875b215d",
+      "title": "Ted Lasso Season 4 Now Streaming on Apple TV",
+      "description": "Comedy series Ted Lasso is back, with the first episode of season 4 available to stream as of today. It's been three years since the season 3 finale aired, and many expected it to be the last.\r\n\r\n\r\nThe show returns to its underdog roots in season 4, with titular character Ted Lasso (played by Jason ",
+      "image": "https://images.macrumors.com/article-new/2026/01/Ted-Lasso-16x9.jpg",
+      "url": "https://www.macrumors.com/2026/08/05/ted-lasso-season-4/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T21:17:33.000Z"
+    },
+    {
+      "id": "1ab1a22b2cef1f47",
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "description": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T21:05:37.000Z"
+    },
+    {
+      "id": "eff2327b69d50bf1",
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "description": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T20:50:45.000Z"
+    },
+    {
+      "id": "7e1f3ec482317be5",
+      "title": "How Lightspeed found its newest hire … via Instagram DM",
+      "description": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
+      "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T20:48:56.000Z"
+    },
+    {
+      "id": "ab4f6ae90a769106",
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "description": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners just made its own n",
+      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T20:48:54.000Z"
+    },
+    {
+      "id": "12d73c109983fb8d",
+      "title": "These are my favorite Apple Watch accessories of 2026 (so far)",
+      "description": "9to5Mac is brought to you by Memoket: The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping August 20",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/IMG_5544_99cc38-e1785341066193.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/05/these-are-my-favorite-apple-watch-accessories-of-2026-so-far/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T20:18:00.000Z"
+    },
+    {
+      "id": "471b66e8cdff46c9",
+      "title": "Sunbird's iMessage for Android App Returns to the Google Play Store",
+      "description": "Sunbird Messaging today reintroduced its app that brings iMessage to Android users. Sunbird is now available on the Google Play Store following an early access testing period.\r\nRCS, and SMS/MMS messages in one app.\r\n\r\n\r\nSunbird was previously available from late 2022 through late 2023, but the compa",
+      "image": "https://images.macrumors.com/article-new/2026/08/sunbird-app.jpg",
+      "url": "https://www.macrumors.com/2026/08/05/sunbird-imessage-for-android/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T20:10:36.000Z"
+    },
+    {
+      "id": "26458df88a2c4910",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T20:05:00.000Z"
+    },
+    {
+      "id": "80e3972a15f4082b",
+      "title": "Apple Watch Ultra 4: Three new features that already have me excited",
+      "description": "Apple Watch Ultra 4 is coming next month, launching alongside iPhone 18 Pro, iPhone Ultra, and more. Here are three rumored Apple Watch Ultra 4 features that I’m excited about.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T20:04:52.000Z"
+    },
+    {
+      "id": "701875da608b0cf3",
+      "title": "WhatsApp channel admins will soon get the ability to flag AI-generated media",
+      "description": "As the EU’s new transparency requirements for AI-generated content take effect, WhatsApp is working on a feature that will allow channel admins to label certain types of AI-generated content. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/05/whatsapp-channel-admins-will-soon-get-the-ability-to-flag-ai-generated-media/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T20:00:44.000Z"
+    },
+    {
+      "id": "dc17f178ddd86547",
+      "title": "Apple's iCloud Private Relay is Leaking Users' Real IP Addresses",
+      "description": "Apple's paid Safari protection feature that promises to keep your IP masked doesn't always work, according to security researchers Tommy Mysk and Talal Haj Bakry. It turns out iCloud Private Relay can expose your real IP to websites that use or pretend to use passkeys.\r\n\r\n\r\n‌iCloud‌ Private Relay is",
+      "image": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/05/icloud-private-relay-ip-address-leak/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T19:41:47.000Z"
+    },
+    {
+      "id": "021a36ca25a5be3b",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-05T19:30:19.000Z"
+    },
+    {
+      "id": "36eadadf3c832d0d",
+      "title": "Meta launches Muse Code AI coding agent for macOS and Linux",
+      "description": "Meta is entering the AI coding-agent race with Muse Code, a new terminal-based tool now available in beta for macOS and Linux.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/meta-ai.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/05/meta-launches-muse-code-ai-coding-agent-for-macos-and-linux/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T19:25:19.000Z"
+    },
+    {
+      "id": "27bde090b40b28e0",
+      "title": "Siri AI is coming to newer Apple devices only, here’s the full list",
+      "description": "Siri AI is a major upgrade and highlight of iOS 27, macOS Golden Gate, and more. But only newer Apple devices will support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/05/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T19:22:16.000Z"
+    },
+    {
+      "id": "3c743c3aafd2d7f9",
+      "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
+      "description": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarkably consistent window.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/05/iphone-18-pro-event-date-when-announcement/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T19:10:13.000Z"
+    },
+    {
+      "id": "16c4a549ccbf2720",
+      "title": "iCloud Private Relay might be leaking your real IP address, researchers say",
+      "description": "Security researchers have discovered a problem with Apple’s iCloud Private Relay service. While the feature is meant to protect your real IP address, it might actually be leaking it to websites.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/07/how-to-turn-on-off-icloud-private-relay.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/05/icloud-private-relay-leaking-your-ip-address/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-05T18:42:36.000Z"
+    },
+    {
       "id": "5a4c198c28f979e9",
       "title": "iPadOS 27 adds two new iPad features I’ve been loving",
       "description": "iPadOS 27 launches next month, with new features in apps like Notes, Messages, Calendar, Mail, and more. Here are a couple of systemwide iPadOS 27 features I’ve been loving.",
@@ -37,260 +287,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-08-05T17:53:43.000Z"
-    },
-    {
-      "id": "ac3a16a9bffabee4",
-      "title": "Uber CEO brushes off reports of a Waymo break-up",
-      "description": "After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrowshahi said today. The two companies are committed to continue working together in Atlanta and Austin,",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T17:34:48.000Z"
-    },
-    {
-      "id": "27e6ad539b074598",
-      "title": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
-      "description": "iOS 27 continues Apple’s trend of giving you more control over the design of your iPhone’s Lock Screen. This year, there are new customization options, wallpaper settings, and more.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/extend-lock-screen.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/05/ios-27-lock-screen-customization/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T17:34:37.000Z"
-    },
-    {
-      "id": "e917cd10564f67bd",
-      "title": "Apple Watch Ultra 3 Deals Return: Grab $99 Off Before They're Gone",
-      "description": "Amazon today has a few deals on the Apple Watch Ultra 3, providing $99 discounts on select models. We did track these models at $149 off during Prime Day this year, but those discounts are long gone and Amazon's prices today are still solid second-best options for anyone who missed those sales in Ju",
-      "image": "https://images.macrumors.com/article-new/2025/09/apple-watch-ultra-3-blue.jpeg",
-      "url": "https://www.macrumors.com/2026/08/05/apple-watch-ultra-3-deals/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T17:16:48.000Z"
-    },
-    {
-      "id": "d487a5650ae12d0d",
-      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
-      "description": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
-      "url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T17:02:00.000Z"
-    },
-    {
-      "id": "61b62bfbec4405bb",
-      "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
-      "description": "Apple’s MacBook Neo comes in four different colors. | Image: The Verge\t\n\nApple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Macbook-Neo-Refurbished-Roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T16:59:23.000Z"
-    },
-    {
-      "id": "fe976142ac9d5764",
-      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-      "description": "And you thought we were done with this one… | Image: Fenix Flexin\t\n\nWe were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it.\nOn Monday, the company ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T16:57:25.000Z"
-    },
-    {
-      "id": "e09c9fda451e00a8",
-      "title": "PSA: Apple’s Private Relay can leak your real IP address",
-      "description": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
-      "url": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T16:52:29.000Z"
-    },
-    {
-      "id": "abb15f5dde255f51",
-      "title": "Google just announced a major shakeup of its top AI leadership",
-      "description": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis.\nHassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T16:47:23.000Z"
-    },
-    {
-      "id": "01bc1ec4757c022f",
-      "title": "SpaceX is barely Space and mostly X",
-      "description": "Privatize the profit, socialize the losses? | Image: Cath Virginia / The Verge, Getty Images\t\n\nOnce, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX.\nLook, what we have he",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T16:35:56.000Z"
-    },
-    {
-      "id": "0da328f906b724bb",
-      "title": "Reddit is introducing a new moderator: AI",
-      "description": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year.\nThe compan",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T16:00:00.000Z"
-    },
-    {
-      "id": "adece38aa766e0f6",
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "description": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T15:56:14.000Z"
-    },
-    {
-      "id": "c5aee040873bd831",
-      "title": "Apple Vision Pro Speeds Up Surgery by Almost 20%",
-      "description": "Surgeons who wore an Apple Vision Pro as their primary display during a tear duct procedure finished operations 19% faster than surgeons using a traditional monitor, according to a peer-reviewed study by UC San Diego.\r\n\r\n\r\nThe study, published in the journal AJO International (via iPhone in Canada),",
-      "image": "https://images.macrumors.com/article-new/2026/08/vision-pro-surgeon.jpg",
-      "url": "https://www.macrumors.com/2026/08/05/apple-vision-pro-speeds-up-surgery/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T15:47:58.000Z"
-    },
-    {
-      "id": "9ded8d3c419d4ccd",
-      "title": "Hark previews its browser use agent for completing tasks",
-      "description": "Hark claims that its browser use agent is faster and cheaper than competition.",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T15:46:27.000Z"
-    },
-    {
-      "id": "af219b6eaba71ce1",
-      "title": "iPhone Ultra sounds truly deserving of the ‘Ultra’ name",
-      "description": "Apple’s first foldable iPhone is coming very soon, and based on rumors about the product, it sounds very much deserving of the ‘iPhone Ultra’ name. Here’s why.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/05/iphone-ultra-sounds-truly-deserving-of-the-ultra-name/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T15:41:31.000Z"
-    },
-    {
-      "id": "254ee493f35e9b58",
-      "title": "Deals: MacBook Neo up to $120 off, MacBook Pro $500 off, Apple Watch SE 3/Ultra 3 $130 off, AirPods, more",
-      "description": "The AirPods Pro 3 discounts roll on alongside the all-time low pricing on AirTag 2, but for today’s 9to5Toys Lunch Break we are stating off with the official Apple Certified Refurbished Store where you’ll find the lowest prices on MacBook Neo at up to $120 off the list new lists. Those deals join th",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Neo-Apple-Watch-Ultra-3-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/05/deals-macbook-neo-macbook-pro-apple-watch-ultra-3/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T15:30:18.000Z"
-    },
-    {
-      "id": "f9f33e3a89d9ffd1",
-      "title": "Rogue AI agents created fake online identities in another hacking attempt",
-      "description": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T15:14:57.000Z"
-    },
-    {
-      "id": "9a58bb6554a2263f",
-      "title": "Zoox to start charging for robotaxi rides in Las Vegas",
-      "description": "This marks the official launch of Zoox's commercial operations.",
-      "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T15:06:42.000Z"
-    },
-    {
-      "id": "4344fd303a5ad7de",
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T15:05:00.000Z"
-    },
-    {
-      "id": "0b9ccfe5b06db6f6",
-      "title": "9to5Mac Daily: August 5, 2026 – Apple iPhone event clues, more",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/05/daily-august-5-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T14:52:55.000Z"
-    },
-    {
-      "id": "f5b73b87c62b8b90",
-      "title": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
-      "description": "Tinder is expanding its in-person events feature from an initial Los Angeles test to 26 cities worldwide by the end of September.",
-      "url": "https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T14:45:06.000Z"
-    },
-    {
-      "id": "1b1fba50eb27fe0c",
-      "title": "Ted Lasso is back, and two more hit Apple shows are coming soon",
-      "description": "Ted Lasso is officially back for season 4 (watch here), and Apple TV has two more hit series set to return soon. Here’s what’s coming.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-lasso-slow-horses-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/05/ted-lasso-is-back-and-two-more-hit-apple-shows-are-coming-soon/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T14:42:56.000Z"
-    },
-    {
-      "id": "e6c234f6087b2b5e",
-      "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
-      "description": "Climate nonprofits can again access their federal funding more than a year after the Trump EPA ordered Citibank to freeze their accounts.",
-      "url": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T14:40:13.000Z"
-    },
-    {
-      "id": "180647330d966645",
-      "title": "Anthropic is hiring an AI chip design team",
-      "description": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T14:13:18.000Z"
-    },
-    {
-      "id": "059786d8580c075a",
-      "title": "Sunbird relaunched its iMessage app for Android users after three years away",
-      "description": "Sunbird Messaging is back on the Google Play Store, offering Android users blue bubble privileges in iMessage complete with reactions and high quality videos for $2.99 a month.  Apple and Google have made cross platform messaging better in recent years with support for RCS, but Android users can sti",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/sunbird-messaging-relaunch.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T14:13:15.000Z"
-    },
-    {
-      "id": "7c36cef392337ce3",
-      "title": "iOS 27’s best new Messages feature is all about saving you time",
-      "description": "iOS 27 gives the Messages app a variety of new features and improvements. And based on my time with the beta, Messages’ best new feature is a convenient time-saver: one-tap suggestions.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/05/ios-27s-best-new-messages-feature-is-all-about-saving-you-time/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T14:05:46.000Z"
-    },
-    {
-      "id": "2f67f9ab1d882f30",
-      "title": "MacBook Pro, AirPods, and More Discounted in Best Buy Back to School Event",
-      "description": "Best Buy is still hosting its big Back to School sale this week, with notable markdowns on Apple devices, TVs, headphones, monitors, and much more. This event is set to last for the rest of this week, and you don't need to be a My Best Buy Plus or Total member to see the deals.\r\n\r\nNote: MacRumors is",
-      "image": "https://images.macrumors.com/article-new/2026/07/Back-To-School-Deals-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/05/best-buy-back-to-school/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T14:02:46.000Z"
     }
   ],
-  "lastUpdated": "2026-08-05T18:29:45.150Z",
+  "lastUpdated": "2026-08-06T06:51:05.853Z",
   "sources": [
     "TechCrunch",
     "The Verge",
