@@ -48,7 +48,6 @@
     "ajv": "^6.14.0",
     "flatted": "^3.4.2",
     "@babel/runtime": "^7.26.10",
-    "sharp": "^0.35.0",
-    "react-router": "^8.3.0"
+    "sharp": "^0.35.0"
   }
 }
