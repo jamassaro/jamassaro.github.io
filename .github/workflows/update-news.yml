@@ -3,8 +3,8 @@ name: Update News Feed
 on:
   # Run twice daily at 6 AM and 6 PM UTC
   schedule:
-    - cron: '0 6,18 * * *'
-  
+    - cron: "0 6,18 * * *"
+
   # Allow manual trigger from Actions tab
   workflow_dispatch:
 
@@ -19,19 +19,19 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'yarn'
-      
+          node-version: "20"
+          cache: "yarn"
+
       - name: Cache Ollama models
         uses: actions/cache@v4
         with:
@@ -39,10 +39,10 @@ jobs:
           key: ollama-models-${{ runner.os }}-llama3.2-3b
           restore-keys: |
             ollama-models-${{ runner.os }}-
-      
+
       - name: Install dependencies
         run: yarn install --frozen-lockfile
-      
+
       - name: Install Ollama
         continue-on-error: true
         id: install-ollama
@@ -50,7 +50,7 @@ jobs:
           echo "📦 Installing Ollama..."
           curl -fsSL https://ollama.com/install.sh | sh
           echo "✅ Ollama installed"
-      
+
       - name: Start Ollama server
         continue-on-error: true
         id: start-ollama
@@ -58,7 +58,7 @@ jobs:
           echo "🚀 Starting Ollama server..."
           ollama serve > /tmp/ollama.log 2>&1 &
           sleep 5
-          
+
           # Wait for server to be ready
           for i in {1..30}; do
             if curl -s http://localhost:11434/api/tags > /dev/null; then
@@ -68,12 +68,12 @@ jobs:
             echo "⏳ Waiting for Ollama server... ($i/30)"
             sleep 1
           done
-          
+
           echo "❌ Ollama server failed to start"
           echo "📋 Server logs:"
           cat /tmp/ollama.log || echo "No logs available"
           exit 1
-      
+
       - name: Pull AI model
         continue-on-error: true
         id: pull-model
@@ -86,36 +86,36 @@ jobs:
             timeout 600 ollama pull llama3.2:3b || (echo "⚠️ Model download timed out or failed" && exit 1)
             echo "✅ Model downloaded"
           fi
-      
+
       - name: Fetch latest news
         run: yarn fetch-news
-      
+
       - name: Generate AI analysis
         continue-on-error: true
         env:
           OLLAMA_MODEL: llama3.2:3b
         run: |
           echo "🤖 Generating AI analysis..."
-          
+
           # Check if Ollama is ready
           if [ "${{ steps.start-ollama.outcome }}" != "success" ]; then
             echo "⚠️  Ollama not available - using fallback analysis"
             yarn analyze-news || echo "Fallback analysis created"
             exit 0
           fi
-          
+
           # Try to generate real analysis
           if yarn analyze-news; then
             echo "✅ AI analysis generated successfully"
           else
             echo "⚠️  AI analysis failed - fallback analysis created"
           fi
-      
+
       - name: Check for changes
         id: git-check
         run: |
           git diff --exit-code public/news.json public/analysis.json || echo "changed=true" >> $GITHUB_OUTPUT
-      
+
       - name: Commit and push if changed
         if: steps.git-check.outputs.changed == 'true'
         run: |
@@ -123,7 +123,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/news.json public/analysis.json
           git commit -m "chore: update news feed and AI analysis"
-          
+
           # Pull with rebase in case remote has diverged
           echo "🔄 Checking for remote changes..."
           git pull --rebase origin main || {
@@ -133,7 +133,7 @@ jobs:
             git add public/news.json public/analysis.json
             git rebase --continue || echo "Manual intervention may be needed"
           }
-          
+
           # Push with retry logic
           echo "⬆️  Pushing changes..."
           for i in {1..3}; do
@@ -145,17 +145,17 @@ jobs:
             git pull --rebase origin main
             sleep 2
           done
-          
+
           echo "❌ Failed to push after 3 attempts"
           exit 1
-      
+
       - name: No changes detected
         if: steps.git-check.outputs.changed != 'true'
         run: echo "📰 News feed is already up to date - no changes needed"
-      
+
       - name: Build site
         run: yarn build
-      
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
