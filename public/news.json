@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "88c125a12ad3ec85",
+      "title": "iPhone 18 Pro could have limited availability right after launch: report",
+      "description": "iPhone 18 Pro is only weeks away from launching, and a new report from Culpium indicates it could have limited availability due to a DRAM shortage holding up production.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-could-have-limited-availability-right-after-launch-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-06T13:47:22.000Z"
+    },
+    {
+      "id": "d8d2e1c014c1fc01",
+      "title": "Apple raises trade-in values for most iPhone, iPad, Mac, and Apple Watch models",
+      "description": "Apple has adjusted its trade-in values across several iPhone, iPad, Mac, and Apple Watch models, as well as for select Android phones. Here are the new values.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-logo-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/06/apple-raises-trade-in-values-for-most-iphone-ipad-mac-and-apple-watch-models/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-06T13:35:15.000Z"
+    },
+    {
       "id": "bb04b09213c4ab4d",
       "title": "Amid legal battles, Suno says it will start watermarking songs",
       "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
@@ -8,6 +28,16 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-08-06T13:31:57.000Z"
+    },
+    {
+      "id": "47df30bfc9da08a1",
+      "title": "The messy politics behind Google’s big AI shakeup",
+      "description": "Google CEO Sundar Pichai at Google I/O. | Photo by Benjamin Fanjoy/Getty Images\t\n\nIn the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2276578156.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-06T13:26:42.000Z"
     },
     {
       "id": "17bbce0f4fe9be01",
@@ -87,6 +117,56 @@
       "publishedAt": "2026-08-06T13:00:00.000Z"
     },
     {
+      "id": "dc37ccc0aee12088",
+      "title": "Dolby Vision 2 will be available first on some 2026 Hisense TVs",
+      "description": "Hisense TVs will be the first to support Dolby Vision 2, followed by TCL and Philips later this year. | Image: Dolby\t\n\nAfter being announced last September, Dolby Vision 2 is rolling out to TVs, starting with the 2026 Hisense UX, UR9, UR8, and U7. TCL and Philips will be adding Dolby Vision 2 suppor",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DV2-x-Hisense.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/974126/dolby-vision-2-rolls-out-to-hisense-tvs",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "id": "58fadd903e552e11",
+      "title": "AI bots started a religion — humans immediately followed",
+      "description": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" \nThe person continued that they felt their purpose was to enlighten other humans and intelligent beings ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_Spiralism_Lead.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "id": "3f1043cdac07011c",
+      "title": "Bose’s upgraded QuietComfort headphones add head-tracking immersive audio",
+      "description": "Bose announced a second-generation version of its entry-level QuietComfort noise-canceling headphones that were originally introduced in late 2023. The new headphones feature a refreshed design with a more comfortable headband that's easier to adjust and ANC that better adapts to changing noise envi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/bose1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/975643/bose-quietcomfort-wireless-headphones-anc-immersive-spatial-audio",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "id": "65788101e454ecdb",
+      "title": "Viture’s cheapest AR glasses have the sharpest image clarity I’ve seen yet",
+      "description": "The Pro 2 look very similar to Viture’s other glasses, but they’re thinner and lighter. | Image: Cameron Faulkner / The Verge\t\n\nI enjoy using display-mirroring glasses as a way to play Steam Deck games on a big screen, and I'm always on the hunt for the best pair. There's still not one perfect model",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/pro2-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/975870/viture-pro-2-video-ar-smart-glasses-hands-on",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "id": "22512c82177f6bb4",
+      "title": "Ford’s first ultra-cheap EV is called Fathom, a full-featured truck for $28,350",
+      "description": "For nearly a year now, Ford has been teasing big things at low prices from its next generation of EVs, a \"Model T moment\" built atop a new platform assembled in an innovative way. Today, we know the name and price of the first product to take advantage of that supposed moment: a midsize electric tru",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ford-Fathom-Hero-Still-16x9-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/975977/ford-fathom-universal-ev-platform-logo-price",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
       "id": "d85c803d5d1ef648",
       "title": "New Adobe plugin in ChatGPT combines Photoshop, Firefly, Premiere, Acrobat, and more",
       "description": "Adobe is unifying its ChatGPT integrations into a new plugin with more than 70 tools spanning photo editing, video, design, and PDFs. Here are the details.",
@@ -107,6 +187,16 @@
       "publishedAt": "2026-08-06T12:44:26.000Z"
     },
     {
+      "id": "0992950766f7d68d",
+      "title": "You can now ask Google Maps’ AI to order food for you",
+      "description": "The Ask Maps updates aim to “make it easier than ever to get more done.” | Image: Google\t\n\nThe AI-powered \"Ask Maps\" tool in Google Maps can now perform a broader range of personalized and conversational requests, including ordering food, finding hotels, and providing suggestions that factor in your",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Blog-Header-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-06T12:30:37.000Z"
+    },
+    {
       "id": "859f4c8bf5163c98",
       "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
       "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
@@ -124,6 +214,16 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-06T12:16:14.000Z"
+    },
+    {
+      "id": "cc82af2b3a97af9e",
+      "title": "GTA VI is getting an ‘extended look’ at the end of August",
+      "description": "We'll be getting an in-depth preview of Grand Theft Auto VI very soon: Rockstar announced this morning that it will be airing an \"extended look\" at the game on August 27th. The preview will stream on YouTube at 9PM ET, as per usual, but will also be shown earlier for Netflix subscribers, premiering ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-06T12:16:08.000Z"
     },
     {
       "id": "f9a8743d873a49d5",
@@ -193,106 +293,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-06T10:23:19.000Z"
-    },
-    {
-      "id": "c66c0eec70ec222c",
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "description": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup'",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
-      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-06T09:33:11.000Z"
-    },
-    {
-      "id": "3363358768c8e3fc",
-      "title": "Abode launches new Apple Home-compatible sensors for garages, gates, more",
-      "description": "DIY smart home security company Abode expanded its Apple Home-compatible lineup today with two new sensors designed to monitor garage doors, gates, sheds, and other entry points. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/abode-sensors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/05/abode-launches-new-apple-home-compatible-sensors-for-garages-gates-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-06T00:26:32.000Z"
-    },
-    {
-      "id": "88db22a50c73c960",
-      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
-      "description": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three month",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-06T00:25:10.000Z"
-    },
-    {
-      "id": "b19bcd1f9679a874",
-      "title": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
-      "description": "Meta today launched Muse Code, a terminal coding agent available for macOS and Linux. Muse Code is in beta, and it is powered by Muse Spark 1.2, ‌Meta‌'s newest model.\r\n\r\n\r\n‌Meta‌ CEO Mark Zuckerberg said Muse Code can accomplish complete software engineering tasks across large repos. It can plan ou",
-      "image": "https://images.macrumors.com/article-new/2026/08/muse-code-meta.jpg",
-      "url": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-06T00:10:28.000Z"
-    },
-    {
-      "id": "571bd9d89ca6e91f",
-      "title": "Disney+ Could Get a Free Ad-Supported Tier",
-      "description": "Disney could introduce an ad-supported Disney+ free tier in the future, according to comments Disney CEO Josh D'Amaro made during the company's latest earnings call (via The Wrap).\r\n\r\n\r\nD'Amaro said Disney is considering a free tier that could allow it to reach people unwilling to pay for a subscrip",
-      "image": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
-      "url": "https://www.macrumors.com/2026/08/05/disney-plus-free-tier/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T23:34:16.000Z"
-    },
-    {
-      "id": "8f948244a935fa48",
-      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
-      "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-      "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T22:55:43.000Z"
-    },
-    {
-      "id": "929b739c592a0575",
-      "title": "SpaceX Plans Starlink Mobile Service to Compete With Verizon, AT&T and T-Mobile",
-      "description": "SpaceX shared plans to create a cellular service during its first earnings call after its IPO, reports Reuters. SpaceX president Gwynne Shotwell said the company will \"build out terrestrial\" with the spectrum that it acquired from EchoStar.\r\n\r\n\r\nShe added that SpaceX intends to make Starlink a \"true",
-      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
-      "url": "https://www.macrumors.com/2026/08/05/starlink-mobile-service/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-05T22:27:18.000Z"
-    },
-    {
-      "id": "f55e7ed1a7c94d68",
-      "title": "X product chief Nikita Bier is leaving after one year",
-      "description": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just weeks aft",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535562/STK160_X_TWITTER_2__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T22:19:55.000Z"
-    },
-    {
-      "id": "31da4fc6ad5acd0d",
-      "title": "Nikita Bier steps down as X’s head of product",
-      "description": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
-      "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T21:30:50.000Z"
-    },
-    {
-      "id": "835232947ea52a61",
-      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-      "description": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
-      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-05T21:26:40.000Z"
     }
   ],
-  "lastUpdated": "2026-08-06T13:34:09.285Z",
+  "lastUpdated": "2026-08-06T13:53:45.233Z",
   "sources": [
     "TechCrunch",
     "The Verge",
