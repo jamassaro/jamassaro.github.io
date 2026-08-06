@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow crawling of specific paths
+Disallow: /PDF/
+
+# Sitemap location
+Sitemap: https://jamassaro.github.io/sitemap.xml
