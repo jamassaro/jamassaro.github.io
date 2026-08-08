@@ -1,6 +1,163 @@
 {
   "articles": [
     {
+      "id": "4334f0dc200d948d",
+      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+      "description": "X is winding down its existing Revenue Sharing program.",
+      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T16:34:22.000Z"
+    },
+    {
+      "id": "1209a6a2945d620c",
+      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+      "description": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T16:00:00.000Z"
+    },
+    {
+      "id": "241687c15372fd29",
+      "title": "Buc-ee’s dodges John Oliver to sue another small business",
+      "description": "Buc-ee’s mega-convenience store and 120-pump gas station in Mount Crawford, Virginia. | Image: Chip Somodevilla / Getty Images\t\n\nBuc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2222931981.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T15:47:30.000Z"
+    },
+    {
+      "id": "f03d07ac53742b0c",
+      "title": "Apple TV welcomes back Ted Lasso with a clever new commercial",
+      "description": "The Apple TV streaming service launched a new commercial this week alongside the premiere of Ted Lasso season four. The clever new ‘Welcome Back’ commercial inserts coach Lasso into a bunch of other Apple TV shows, including hits like Severance, Silo, and The Morning Show.\nYou can watch the 1:30 ad ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-ted-lasso-welcome-bacj.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/08/apple-tv-welcomes-back-ted-lasso-with-a-clever-new-commercial/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T15:14:01.000Z"
+    },
+    {
+      "id": "2a45ba129c124d3a",
+      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+      "description": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T15:00:00.000Z"
+    },
+    {
+      "id": "9487a86130b8d075",
+      "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+      "description": "Tom, we can’t see your face. | Image: Tom Vek\t\n\nTom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the G",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/P1120126.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T15:00:00.000Z"
+    },
+    {
+      "id": "e32fc52aed434e4b",
+      "title": "Here’s why Apple is skipping its M6 Pro and M6 Max chips to accelerate M7 launch",
+      "description": "According to reports from Bloomberg, Apple will be skipping its M6 Pro, M6 Max, and M6 Ultra chips to accelerate development of the M7 chip. That means the only chip to be released from the M6 family will be the base M6. Here’s why.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/09/Apple-Silicon-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T14:21:00.000Z"
+    },
+    {
+      "id": "29d0963d38a671c3",
+      "title": "Score the A16 iPad for Its Best Price Since June's Hike",
+      "description": "Amazon this weekend is taking $50 off Wi-Fi models of Apple's 11th generation iPad. Prices start at $399.00 for the 128GB Wi-Fi iPad, down from $449.00. This is a match of the best price we've seen on the iPad since Apple's price hikes in June.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon.",
+      "image": "https://images.macrumors.com/article-new/2025/10/ipad-blue-prime-day.jpeg",
+      "url": "https://www.macrumors.com/2026/08/08/score-the-a16-ipad/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T13:56:59.000Z"
+    },
+    {
+      "id": "be33277e11a0940b",
+      "title": "Apple @ Work: What IDC’s latest shipments mean for the MacBook Neo and Air in the enterprise",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/08/apple-work-what-idcs-latest-shipments-mean-for-the-macbook-neo-and-air-in-the-enterprise/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T13:36:00.000Z"
+    },
+    {
+      "id": "ff87ef45aa8ead8b",
+      "title": "Top Stories: Apple's September Announcements, MacBook Air Shortages, and More",
+      "description": "Apple's annual September iPhone event is just about a month away, and things are going to be a little bit different this year with Apple moving to a split launch for the iPhone 18 lineup, so make sure you're up to date on everything we may see at the event.\r\n\r\n\r\nThis week also saw word that Apple is",
+      "image": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-08.jpg",
+      "url": "https://www.macrumors.com/2026/08/08/top-stories-apple-september-announcements/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T13:00:12.000Z"
+    },
+    {
+      "id": "c216a76ad796349f",
+      "title": "Apple weekend deals: AirPods Pro 3 25% off, MacBook Neo, Apple gift cards, iPhone Air, Apple TV, more",
+      "description": "This weekend’s 9to5Toys Lunch Break has arrived with one of the best deals yet on AirPods Pro 3 at 25% off, $100 off AirPods Pro Max, and some notable offers courtesy of the Apple Certified Refurbished Store. \nWe are also hosting the tail end of this weekend’s 500 price drop on M5 MacBook Pro. \nSome",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Weekend-Apple-deals-best-Apple-discounts.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/08/apple-weekend-deals-airpods-pro-3-discounts/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T12:19:38.000Z"
+    },
+    {
+      "id": "aa267df34691a881",
+      "title": "Is this $450 laptop from an unknown brand too good to be true?",
+      "description": "Cute name, especially if it were a wookiee. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nFinding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered grea",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268691_Chuwi_UniBook_laptop_review_ADiBenedetto_0015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T12:00:00.000Z"
+    },
+    {
+      "id": "38810761ab3a9e2f",
+      "title": "My favorite feel-good show is back",
+      "description": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Johnny Knoxville and Google Zero and the histo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Installer-139.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T12:00:00.000Z"
+    },
+    {
+      "id": "ed63890dd6135d08",
+      "title": "Claude Code Adds Cross-Session Messaging on macOS",
+      "description": "Anthropic has updated Claude Code so that separate coding sessions can message each other directly, removing the need to manually copy context between Terminal windows.\r\n\r\n\r\nThe company shipped the feature in Claude Code version 2.1.224, released on Friday for macOS and Linux. Two new tools power it",
+      "image": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
+      "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T10:22:46.000Z"
+    },
+    {
+      "id": "5b3fe05affd18d96",
+      "title": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
+      "description": "Apple could raise iPhone 17 prices as soon as Monday, August 10, according to a new rumor, well before the wider round of increases expected with next month's iPhone 18 Pro launch.\r\n\r\n\r\nWeibo leaker \"Fixed Focus Digital\" said in a post yesterday that rumors are circulating about an ‌iPhone 17‌ price",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
+      "url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T09:54:27.000Z"
+    },
+    {
+      "id": "1fdccc945d2c85ca",
+      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+      "description": "The Nitecore NB10000 Gen 4 power bank is a great option for endurance athletes and backpackers. | Photo by Thomas Ricker / The Verge\t\n\nThere's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the ge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T07:00:00.000Z"
+    },
+    {
       "id": "9cd918f8a2aaa9a8",
       "title": "WhatsApp makes parent-managed accounts easier to set up on iPhone",
       "description": "WhatsApp is bringing its dedicated parental controls section to the iPhone, making the feature easier for parents to find and set up. Here are the details.",
@@ -135,167 +292,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-07T20:27:50.000Z"
-    },
-    {
-      "id": "fbbf1258da4d1abc",
-      "title": "iOS 27 has long-awaited fix for common iPhone wireless issue",
-      "description": "In iOS 27, Apple says it took extra care to make its software “more responsive, reliable, and delightful.” There are a variety of fixes that should make your iPhone faster, including one update for network transitions.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-27-iphone-home-screen-official.jpg?quality=82&#038;strip=all&#038;w=1536",
-      "url": "https://9to5mac.com/2026/08/07/ios-27-has-long-awaited-fix-for-common-iphone-wireless-issue/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T20:14:05.000Z"
-    },
-    {
-      "id": "64c890da16f24438",
-      "title": "You may soon be able to create and export custom WhatsApp stickers straight from ChatGPT",
-      "description": "OpenAI is working on a feature that allows users to export custom stickers created on ChatGPT straight into WhatsApp. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/07/you-may-soon-be-able-to-create-and-export-custom-whatsapp-stickers-straight-from-chatgpt/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T20:10:30.000Z"
-    },
-    {
-      "id": "5f0905e97d0664ac",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "description": "That cover art is almost certainly AI too. | Image: Fenix Flexin\t\n\nIt took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Son",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T20:01:51.000Z"
-    },
-    {
-      "id": "6eda7cd7d9d17d59",
-      "title": "These automakers still don’t support CarPlay, here’s why",
-      "description": "CarPlay is a must-have for the majority of car buyers, but three major automakers don’t support the platform. Here’s the latest on why Tesla, Rivian, and GM continue to resist CarPlay — and whether there’s any chance they change their approach.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/carplay27-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/07/these-automakers-still-dont-support-carplay-heres-why/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T19:14:14.000Z"
-    },
-    {
-      "id": "f0007e8eff74ce1b",
-      "title": "Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year",
-      "description": "According to various reports from sources such as Bloomberg's Mark Gurman and Macworld's Filipe Espósito, Apple is planning to release up to three new products with \"Ultra\" branding between late 2026 and early 2027.\r\n\r\n\r\nThe long-rumored foldable iPhone is expected to be called the \"iPhone Ultra.\" R",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "url": "https://www.macrumors.com/2026/08/07/three-new-apple-ultra-products-rumored/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T19:06:12.000Z"
-    },
-    {
-      "id": "8e38d6f2b4db7351",
-      "title": "New AirPods could launch next month, and one feature sounds very exciting",
-      "description": "Apple’s iPhone 18 Pro unveiling next month might also bring the launch of new AirPods with cameras. Here’s why the addition of cameras could prove especially compelling.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/07/new-airpods-could-launch-next-month-and-one-feature-sounds-very-exciting/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T19:01:31.000Z"
-    },
-    {
-      "id": "74acc9810a39d812",
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "description": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T18:59:46.000Z"
-    },
-    {
-      "id": "d863a1320100d0e8",
-      "title": "PSA: Claude Code enabling auto mode as default next week, Anthropic says",
-      "description": "Claude Code auto mode will become the default permission setting for users next week. \nStarting August 14, sessions for Pro, Max, and Team users will use it unless a user or administrator has pinned another setting.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/07/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T18:48:17.000Z"
-    },
-    {
-      "id": "182d0c6411a0fabc",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have al",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T18:40:34.000Z"
-    },
-    {
-      "id": "cf9d76bf445f92bc",
-      "title": "The only instant cameras worth your money",
-      "description": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure.\nWe tested instant camera models from popular ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268681_The_best_instant_cameras_you_can_buy_right_now_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T18:04:08.000Z"
-    },
-    {
-      "id": "f5bcc1ea5437d74e",
-      "title": "Disney Plus tries a new AI-powered search",
-      "description": "Disney’s AI tools for Disney Plus and ESPN.\t\n\nDisney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations.\nDisney Plus, like other streaming services, can recommend show",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-docs-image-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T17:53:44.000Z"
-    },
-    {
-      "id": "c96ce8fbfc184106",
-      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-      "description": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that s",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T17:43:34.000Z"
-    },
-    {
-      "id": "ffe17e530569c0a8",
-      "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
-      "description": "“One ring to rule them all” | Image: Warner Bros.\t\n\nLooking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This v",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9605339/fellowshipofthering.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T16:58:18.000Z"
-    },
-    {
-      "id": "eb76cb75d0afe274",
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "description": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil?",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T16:45:14.000Z"
-    },
-    {
-      "id": "8563ea209efa680c",
-      "title": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
-      "description": "The iPhone Air reaches one year on sale next month, and Apple is now closer to launching its successor than it is to the original's debut. On this week's episode of The MacRumors Show, we discuss what's next for the device.\r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\nThe fir",
-      "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T16:23:39.000Z"
-    },
-    {
-      "id": "779e79d575872e64",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T16:16:09.000Z"
     }
   ],
-  "lastUpdated": "2026-08-08T06:13:01.658Z",
+  "lastUpdated": "2026-08-08T18:06:18.752Z",
   "sources": [
     "TechCrunch",
     "The Verge",
