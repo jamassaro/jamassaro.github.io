@@ -1,6 +1,171 @@
 {
   "articles": [
     {
+      "id": "eccdc46edd9ba7c5",
+      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "description": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images\t\n\nEarlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shippin",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2190858037.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T17:20:30.000Z"
+    },
+    {
+      "id": "2e641b1af74ed87a",
+      "title": "Ceramic Case Could Return With Apple Watch Series 12",
+      "description": "Apple is planning to reintroduce its striking ceramic Apple Watch casing as soon as this year, Bloomberg's Mark Gurman reports. \r\n\r\nThe Apple Watch Series 2's white ceramic case option.\n\r\nWriting in his \"Power On\" newsletter, Gurman explained that the ceramic case option is expected to return either",
+      "image": "https://images.macrumors.com/article-new/2019/08/Apple-Watch-series-2-ceramic.jpg",
+      "url": "https://www.macrumors.com/2026/08/09/ceramic-could-return-with-apple-watch-series-12/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T16:21:48.000Z"
+    },
+    {
+      "id": "6c3ec08abba794bc",
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T16:05:00.000Z"
+    },
+    {
+      "id": "0b1eb6f0ab737138",
+      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+      "description": "Head Coach Kyle Shanahan of the San Francisco 49ers | Image: Michael Zagaris / San Francisco 49ers / Getty Images\t\n\nFour weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275684974.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T15:56:49.000Z"
+    },
+    {
+      "id": "785ee99d5184e558",
+      "title": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays",
+      "description": "Apple is already making plans for its third-generation foldable iPhone, with launch expected as early as 2028, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nWriting in his latest \"Power On\" newsletter, Gurman said the first foldable iPhone is about to get what he called the device's first \"truly revolu",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T15:55:48.000Z"
+    },
+    {
+      "id": "fee775f043d2536b",
+      "title": "Apple Watch Rethink Could See Debut of Round Model, Screenless Fitness Tracker, and More",
+      "description": "Apple is re-evaluating the Apple Watch lineup and considering a host of radical new designs, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nIn today's edition of his \"Power On\" newsletter, Gurman compared plans for the Apple Watch's evolution to the \"revolutionary design change\" that the foldable iPhone",
+      "image": "https://images.macrumors.com/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg",
+      "url": "https://www.macrumors.com/2026/08/09/apple-watch-rethink/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T15:37:23.000Z"
+    },
+    {
+      "id": "a8a32c2aaa1dac69",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T15:00:00.000Z"
+    },
+    {
+      "id": "59a43bb17688a686",
+      "title": "A new ceramic Apple Watch could go on sale soon",
+      "description": "Bloomberg’s Mark Gurman wrote today that Apple is planning a return of the much-beloved ceramic Apple Watch. In fact, Gurman says a new ceramic Watch could go on sale as soon as this year.\nThe ceramic watch option was last offered in 2019 as the ‘Apple Watch Edition Series 5’, back when it still use",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Ceramic.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/09/a-new-ceramic-apple-watch-could-go-on-sale-soon/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T14:34:41.000Z"
+    },
+    {
+      "id": "793f818d1df52c05",
+      "title": "The AI safety test is becoming a safety risk",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T14:30:00.000Z"
+    },
+    {
+      "id": "ad37dd3fab630264",
+      "title": "Apple considers round screens and more radical designs for future Apple Watch revamp",
+      "description": "Bloomberg’s Mark Gurman goes into some detail today about the future for the Apple Watch product line. \nHe suggests Apple is going back to the drawing board as the Watch faces stiffer competition from the likes of the Oura Ring and other screenless smart fitness devices. It seems Apple is preparing ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-lineup.jpg?quality=82&#038;strip=all&#038;w=1456",
+      "url": "https://9to5mac.com/2026/08/09/apple-watch-revamp-redesign-round-screen/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T14:20:19.000Z"
+    },
+    {
+      "id": "ff761cec9b8a685c",
+      "title": "This scrapped Apple Upgrade feature would’ve made setup much more seamless",
+      "description": "According to the latest edition of the Power On newsletter, Apple had reportedly been considering a feature for Apple Upgrade that would’ve made setting up your iPhone nearly seamless: where Apple would’ve already copied your data over. This feature never ended up seeing the light of day, though.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/09/this-scrapped-apple-upgrade-feature-wouldve-made-setup-much-more-seamless/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T14:19:23.000Z"
+    },
+    {
+      "id": "0ee61245568ccb64",
+      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+      "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T14:00:00.000Z"
+    },
+    {
+      "id": "a3e6a1ceac712b62",
+      "title": "Hands-on: This modular controller slides open to transform your iPhone into a mobile game console [Video]",
+      "description": "I first saw the Ohsnap MCON controller at CES last year, and I immediately fell in love with the concept. The idea was simple: give people a full-featured mobile controller that attaches to your phone via Magsafe, slides open when ready to use, and collapses into something compact that can go with y",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/controller.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/09/hands-on-this-modular-controller-slides-open-to-transform-your-iphone-into-a-mobile-game-console-video/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T14:00:00.000Z"
+    },
+    {
+      "id": "21541274d976f3a6",
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "description": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T13:00:00.000Z"
+    },
+    {
+      "id": "e201d1d01a42f8c2",
+      "title": "Dropbox is a PC builder’s best friend",
+      "description": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot of people very u",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T13:00:00.000Z"
+    },
+    {
+      "id": "2704994a1b16ad07",
+      "title": "AI detectors are creating a new era of distrust",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLong before ChatGPT beca",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T12:00:00.000Z"
+    },
+    {
+      "id": "8b94dbb5e240589e",
+      "title": "Foldable 'iPhone Ultra' Rumored to Come in These Two Colors",
+      "description": "New images of camera protector accessories for the \"iPhone Ultra\" suggest Apple's first foldable iPhone will launch in silver and dark blue finishes.\r\n\r\n\r\nLeaker Sonny Dickson yesterday shared images of two third-party camera protectors designed to fit over the ‌iPhone Ultra‌'s camera bump, with one",
+      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-rumored-to-come-in-these-two-colors/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T11:53:44.000Z"
+    },
+    {
       "id": "5e3ea643f5119143",
       "title": "New leak may reveal the iPhone Ultra’s two launch colors",
       "description": "Apple is set to announce the first-ever foldable iPhone next month. A new rumor today suggests that the iPhone Ultra might be available in two colors: silver and dark blue.",
@@ -124,178 +289,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-08-08T15:00:00.000Z"
-    },
-    {
-      "id": "9487a86130b8d075",
-      "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-      "description": "Tom, we can’t see your face. | Image: Tom Vek\t\n\nTom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the G",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/P1120126.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-08T15:00:00.000Z"
-    },
-    {
-      "id": "e32fc52aed434e4b",
-      "title": "Here’s why Apple is skipping its M6 Pro and M6 Max chips to accelerate M7 launch",
-      "description": "According to reports from Bloomberg, Apple will be skipping its M6 Pro, M6 Max, and M6 Ultra chips to accelerate development of the M7 chip. That means the only chip to be released from the M6 family will be the base M6. Here’s why.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/09/Apple-Silicon-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T14:21:00.000Z"
-    },
-    {
-      "id": "29d0963d38a671c3",
-      "title": "Score the A16 iPad for Its Best Price Since June's Hike",
-      "description": "Amazon this weekend is taking $50 off Wi-Fi models of Apple's 11th generation iPad. Prices start at $399.00 for the 128GB Wi-Fi iPad, down from $449.00. This is a match of the best price we've seen on the iPad since Apple's price hikes in June.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon.",
-      "image": "https://images.macrumors.com/article-new/2025/10/ipad-blue-prime-day.jpeg",
-      "url": "https://www.macrumors.com/2026/08/08/score-the-a16-ipad/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T13:56:59.000Z"
-    },
-    {
-      "id": "be33277e11a0940b",
-      "title": "Apple @ Work: What IDC’s latest shipments mean for the MacBook Neo and Air in the enterprise",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/08/apple-work-what-idcs-latest-shipments-mean-for-the-macbook-neo-and-air-in-the-enterprise/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T13:36:00.000Z"
-    },
-    {
-      "id": "ff87ef45aa8ead8b",
-      "title": "Top Stories: Apple's September Announcements, MacBook Air Shortages, and More",
-      "description": "Apple's annual September iPhone event is just about a month away, and things are going to be a little bit different this year with Apple moving to a split launch for the iPhone 18 lineup, so make sure you're up to date on everything we may see at the event.\r\n\r\n\r\nThis week also saw word that Apple is",
-      "image": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-08.jpg",
-      "url": "https://www.macrumors.com/2026/08/08/top-stories-apple-september-announcements/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T13:00:12.000Z"
-    },
-    {
-      "id": "c216a76ad796349f",
-      "title": "Apple weekend deals: AirPods Pro 3 25% off, MacBook Neo, Apple gift cards, iPhone Air, Apple TV, more",
-      "description": "This weekend’s 9to5Toys Lunch Break has arrived with one of the best deals yet on AirPods Pro 3 at 25% off, $100 off AirPods Pro Max, and some notable offers courtesy of the Apple Certified Refurbished Store. \nWe are also hosting the tail end of this weekend’s 500 price drop on M5 MacBook Pro. \nSome",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Weekend-Apple-deals-best-Apple-discounts.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/08/apple-weekend-deals-airpods-pro-3-discounts/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T12:19:38.000Z"
-    },
-    {
-      "id": "aa267df34691a881",
-      "title": "Is this $450 laptop from an unknown brand too good to be true?",
-      "description": "Cute name, especially if it were a wookiee. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nFinding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered grea",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268691_Chuwi_UniBook_laptop_review_ADiBenedetto_0015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-08T12:00:00.000Z"
-    },
-    {
-      "id": "38810761ab3a9e2f",
-      "title": "My favorite feel-good show is back",
-      "description": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Johnny Knoxville and Google Zero and the histo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Installer-139.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-08T12:00:00.000Z"
-    },
-    {
-      "id": "ed63890dd6135d08",
-      "title": "Claude Code Adds Cross-Session Messaging on macOS",
-      "description": "Anthropic has updated Claude Code so that separate coding sessions can message each other directly, removing the need to manually copy context between Terminal windows.\r\n\r\n\r\nThe company shipped the feature in Claude Code version 2.1.224, released on Friday for macOS and Linux. Two new tools power it",
-      "image": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
-      "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T10:22:46.000Z"
-    },
-    {
-      "id": "5b3fe05affd18d96",
-      "title": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
-      "description": "Apple could raise iPhone 17 prices as soon as Monday, August 10, according to a new rumor, well before the wider round of increases expected with next month's iPhone 18 Pro launch.\r\n\r\n\r\nWeibo leaker \"Fixed Focus Digital\" said in a post yesterday that rumors are circulating about an ‌iPhone 17‌ price",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
-      "url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T09:54:27.000Z"
-    },
-    {
-      "id": "1fdccc945d2c85ca",
-      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-      "description": "The Nitecore NB10000 Gen 4 power bank is a great option for endurance athletes and backpackers. | Photo by Thomas Ricker / The Verge\t\n\nThere's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the ge",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-08T07:00:00.000Z"
-    },
-    {
-      "id": "9cd918f8a2aaa9a8",
-      "title": "WhatsApp makes parent-managed accounts easier to set up on iPhone",
-      "description": "WhatsApp is bringing its dedicated parental controls section to the iPhone, making the feature easier for parents to find and set up. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/07/whatsapp-makes-parent-managed-accounts-easier-to-set-up-on-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T02:58:27.000Z"
-    },
-    {
-      "id": "51a15481da7d00a7",
-      "title": "Apple adds nearly 45 hearing devices to its Made for iPhone compatibility list",
-      "description": "Apple updated its list of Made for iPhone (MFi) hearing devices today, with 43 models across 22 brands. Here’s what’s new.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/hearing-devices-setup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T02:18:32.000Z"
-    },
-    {
-      "id": "f9a36fda3442c60a",
-      "title": "CarPlay connection issues? This might explain why",
-      "description": "If your Apple CarPlay connection randomly drops out while driving, the cause might not be your iPhone, cable, or car.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-tapbacks-ios-26.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/07/carplay-connection-issues/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T00:51:06.000Z"
-    },
-    {
-      "id": "f451b1f179b495fd",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T22:48:24.000Z"
-    },
-    {
-      "id": "e72b2ad3df7f5372",
-      "title": "Claude Code now lets sessions talk to each other on macOS",
-      "description": "Users running the latest version of Claude Code on macOS and Linux can now have their sessions message each other to share findings, ask questions, and coordinate work. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/claude-code-message.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T22:29:59.000Z"
-    },
-    {
-      "id": "3d1f19830adf35e9",
-      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-      "description": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off.\nRestart is operated by Moonrock, a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T22:05:08.000Z"
     }
   ],
-  "lastUpdated": "2026-08-09T06:12:59.863Z",
+  "lastUpdated": "2026-08-09T18:07:34.280Z",
   "sources": [
     "TechCrunch",
     "The Verge",
