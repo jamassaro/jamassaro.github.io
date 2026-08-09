@@ -1,6 +1,84 @@
 {
   "articles": [
     {
+      "id": "5e3ea643f5119143",
+      "title": "New leak may reveal the iPhone Ultra’s two launch colors",
+      "description": "Apple is set to announce the first-ever foldable iPhone next month. A new rumor today suggests that the iPhone Ultra might be available in two colors: silver and dark blue.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.02.22.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T00:41:55.000Z"
+    },
+    {
+      "id": "a1940e333906a32b",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T21:24:02.000Z"
+    },
+    {
+      "id": "5c1153f8bcee7eff",
+      "title": "iOS 27: The easiest beta to forget about",
+      "description": "We’ve had iOS 27 in our hands for about two months now. Of course, it’s a beta – and the public release won’t be hitting for another 4-6 weeks. That said, despite the fact that I’ve been running a beta on my phone for the past two months, I can’t say I’ve really thought much about it. It just… works",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-light-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T21:23:00.000Z"
+    },
+    {
+      "id": "1bc1d8e8b7d44879",
+      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+      "description": "X wants to make money on previously used handles. | Image: The Verge\t\n\nX is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be el",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T21:15:12.000Z"
+    },
+    {
+      "id": "6f86dd57e776f3f3",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "description": "NextSlide says its team members are now working on ChatGPT.",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T19:41:13.000Z"
+    },
+    {
+      "id": "d1431ad1da09c639",
+      "title": "Indie App Spotlight: ‘Pocket Jam’ helps you learn and practice your favorite songs",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you’re an aspiring musician, Pocket Jam might be something you find useful. It helps you turn your favo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Pocket-Jam.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/08/indie-app-spotlight-pocket-jam-helps-you-learn-and-practice-your-favorite-songs/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T19:30:00.000Z"
+    },
+    {
+      "id": "8d725738a0894b4f",
+      "title": "Why you should buy iPhone 17 Pro now instead of waiting",
+      "description": "Apple is set to unveil the iPhone 18 Pro next month. Should you buy an iPhone now or wait for the iPhone 18 Pro? This year, my advice is a bit different. Here’s why.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-pro-max-orange-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-08T18:13:25.000Z"
+    },
+    {
+      "id": "2128a5808dd51878",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-08T17:53:34.000Z"
+    },
+    {
       "id": "4334f0dc200d948d",
       "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
       "description": "X is winding down its existing Revenue Sharing program.",
@@ -215,86 +293,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-08-07T22:05:08.000Z"
-    },
-    {
-      "id": "e2c80e4da658c507",
-      "title": "9to5Mac Overtime 076: Native retro games on iPhone",
-      "description": "Fernando discusses his Pokémon 3D Mod on Mac, and Jeff shares his experience running a native port of Mario Kart 64 on iPhone. The guys also discuss why tech can feel less exciting than it used to, and share their thoughts on using the same device for many years.\n9to5Mac Overtime is a weekly video-f",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/9to5Mac-Overtime-076-Native-retro-games-on-iPhone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/07/9to5mac-overtime-076-native-retro-games-on-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T21:31:16.000Z"
-    },
-    {
-      "id": "3ad0af7c770e5e0c",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T21:30:11.000Z"
-    },
-    {
-      "id": "12fad5abb6bf421e",
-      "title": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
-      "description": "OpenAI today said it is \"pausing\" activities involving its upcoming AI model Astra, because its cyber capabilities are potentially too dangerous. OpenAI says its newest internal evaluations show \"significant advancements in agentic coding and cybersecurity,\" and it cannot rule out \"critical cyber ca",
-      "image": "https://images.macrumors.com/article-new/2025/12/openai-logo-word-mark.jpg",
-      "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T21:27:43.000Z"
-    },
-    {
-      "id": "fafe27693c5c487f",
-      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-      "description": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T21:20:00.000Z"
-    },
-    {
-      "id": "0aa5d6c654fcdea5",
-      "title": "‘Your Friends & Neighbors’ star confirmed for his third Apple TV project",
-      "description": "Actor James Marsden, who recently played billionaire Owen Ashe in the second season of Your Friends & Neighbors, was confirmed this week for his Apple TV third production. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/07/your-friends-neighbors-star-confirmed-for-his-third-apple-tv-project/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T21:17:21.000Z"
-    },
-    {
-      "id": "692a92a159eed5bc",
-      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-      "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
-      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-07T21:00:08.000Z"
-    },
-    {
-      "id": "59be642709ffd065",
-      "title": "iOS 26 Gets First Jailbreak Thanks to Dopamine",
-      "description": "After 326 days, iOS 26 has received its first jailbreak, thanks to the developers behind the popular Dopamine jailbreak.\r\n\r\nDopamine 3.0, which adds support for a number of newer firmware versions, including iOS 26.0 and iOS 26.0.1 on devices with A12 or A13 chips.\r\n\r\nAnother major addition in today",
-      "image": "https://images.macrumors.com/article-new/2026/08/dopamine.jpg",
-      "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T20:56:52.000Z"
-    },
-    {
-      "id": "6352e2d1dc8949a1",
-      "title": "iPhone 17 might get price increase next week, per new rumor",
-      "description": "Apple is widely expected to raise iPhone prices when the iPhone 18 Pro launches next month. But a new rumor suggests the iPhone 17 might get a price increase as early as next week.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-lineup-air.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-07T20:27:50.000Z"
     }
   ],
-  "lastUpdated": "2026-08-08T18:06:18.752Z",
+  "lastUpdated": "2026-08-09T06:12:59.863Z",
   "sources": [
     "TechCrunch",
     "The Verge",
