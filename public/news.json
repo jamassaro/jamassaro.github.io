@@ -1,6 +1,64 @@
 {
   "articles": [
     {
+      "id": "9c1fb6ba302c7a11",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "description": "The AI-focused hedge fund is still making some big bets.",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T20:35:17.000Z"
+    },
+    {
+      "id": "3fbb32261be20cfc",
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "description": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a deep dive in",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NDIS_LOGO.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T20:28:31.000Z"
+    },
+    {
+      "id": "3c2f1b0973eac6d3",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-09T19:20:32.000Z"
+    },
+    {
+      "id": "36da1b2e41188198",
+      "title": "HomeKit Weekly: Why the Eve Weather sensor is a must-have for Apple Home automations in 2026",
+      "description": "Local weather is one of the most underrated variables to use in your Apple Home automation setup. Over the past few years, I have used sensors for everything from knowing when to drip faucets in freezing weather to adjusting the sprinkler schedule with the Eve Aqua on hot days. Eve Weather has been ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/Eve-Weather-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/09/why-the-eve-weather-sensor-is-a-must-have-for-apple-home-automations-in-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T18:26:00.000Z"
+    },
+    {
+      "id": "c1ff45f556ca129d",
+      "title": "Will price hikes force Apple to stop dragging its feet on certain product upgrades?",
+      "description": "Earlier this summer, Apple dramatically increased its prices as a result of the ongoing memory crisis around the globe. Things like iPad Air increased from $599 to $749, M5 MacBook Pro from $1699 to $1999, and Apple TV from $129 to $199. That’s just a few examples, but the point is, these price hike",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-devices-lineup-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/09/apple-price-hikes-better-value-and-more-features/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T18:26:00.000Z"
+    },
+    {
+      "id": "793c3e5f2eaaf1c8",
+      "title": "iPhone 17 set to break a record no flagship has touched in 15 years",
+      "description": "When Apple released the iPhone 17 last September, the timer started for the new flagship model breaking a record set 15 years ago. The record takes more than a year to break, but based on current rumors, the iPhone 17 will be the first to steal the crown.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/12/iPhone-4.png?w=1600",
+      "url": "https://9to5mac.com/2026/08/09/iphone-17-availability/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-09T17:48:00.000Z"
+    },
+    {
       "id": "eccdc46edd9ba7c5",
       "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
       "description": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images\t\n\nEarlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shippin",
@@ -232,66 +290,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-08T18:13:25.000Z"
-    },
-    {
-      "id": "2128a5808dd51878",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-08T17:53:34.000Z"
-    },
-    {
-      "id": "4334f0dc200d948d",
-      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-      "description": "X is winding down its existing Revenue Sharing program.",
-      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-08T16:34:22.000Z"
-    },
-    {
-      "id": "1209a6a2945d620c",
-      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-      "description": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-08T16:00:00.000Z"
-    },
-    {
-      "id": "241687c15372fd29",
-      "title": "Buc-ee’s dodges John Oliver to sue another small business",
-      "description": "Buc-ee’s mega-convenience store and 120-pump gas station in Mount Crawford, Virginia. | Image: Chip Somodevilla / Getty Images\t\n\nBuc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2222931981.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-08T15:47:30.000Z"
-    },
-    {
-      "id": "f03d07ac53742b0c",
-      "title": "Apple TV welcomes back Ted Lasso with a clever new commercial",
-      "description": "The Apple TV streaming service launched a new commercial this week alongside the premiere of Ted Lasso season four. The clever new ‘Welcome Back’ commercial inserts coach Lasso into a bunch of other Apple TV shows, including hits like Severance, Silo, and The Morning Show.\nYou can watch the 1:30 ad ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-ted-lasso-welcome-bacj.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/08/apple-tv-welcomes-back-ted-lasso-with-a-clever-new-commercial/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-08T15:14:01.000Z"
-    },
-    {
-      "id": "2a45ba129c124d3a",
-      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-      "description": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
-      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-08T15:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-08-09T18:07:34.280Z",
+  "lastUpdated": "2026-08-10T06:23:52.296Z",
   "sources": [
     "TechCrunch",
     "The Verge",
