@@ -1,298 +1,297 @@
 {
   "articles": [
     {
-      "id": "2c89dfca26e61f06",
-      "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
-      "description": "Aiming to refute a report from Jefferies analyst Edison Lee earlier today that claimed Apple's all-glass iPhone planned for the device's 20th anniversary next year has been canceled, Bloomberg's Mark Gurman says that the \"glass-centric\" redesign remains on track for 2027.\r\n\r\n\r\nGurman says that the 2",
-      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "url": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
+      "id": "b8b4198636362142",
+      "title": "Apple Pay and Wallet leader retiring after two decades at Apple",
+      "description": "Apple’s head of Apple Pay and Wallet is retiring in October, according to a new report from Bloomberg. Jennifer Bailey joined Apple in the early 2000s and has served as vice president of Apple Pay since 2014.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apples-keynote-event_Jennifer_Bailey_introduces_apple_card-03252019.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/11/apple-pay-and-wallet-leader-retiring-after-two-decades-at-apple/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-11T18:14:08.000Z"
+    },
+    {
+      "id": "1d12568fd259fcf5",
+      "title": "Amazon Offers AirPods Max 2 for $100 Off in All Five Colors",
+      "description": "Apple's AirPods Max 2 have hit $449.00 on Amazon this week, down from $549.00. This sale is available in all five colors and it's the best price we've seen on the headphones since June.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, ",
+      "image": "https://images.macrumors.com/article-new/2026/04/airpods-max-2-purple.jpeg",
+      "url": "https://www.macrumors.com/2026/08/11/100-off-airpods-max-2/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-11T03:10:14.000Z"
+      "publishedAt": "2026-08-11T18:12:09.000Z"
     },
     {
-      "id": "87645924a5f59cac",
-      "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
-      "description": "Following reports that Apple had scrapped its long-rumored all-glass iPhone planned for the device’s 20th anniversary, Bloomberg says the redesign remains on track for next year’s Pro models. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
+      "id": "7d252b5e016e15ec",
+      "title": "iOS 27 beta 5 lets you make Liquid Glass more transparent than ever",
+      "description": "iOS 27 beta 5 released yesterday, and alongside redesigned app icons and new Siri AI voice options, the update also lets you make Liquid Glass more transparent than ever.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/music-tab-bar-ios-27-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-lets-you-make-liquid-glass-more-transparent-than-ever/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-11T02:14:14.000Z"
+      "publishedAt": "2026-08-11T18:07:12.000Z"
     },
     {
-      "id": "d3972f8a6a466906",
-      "title": "Jefferies downgrades Apple stock, cites all-glass iPhone cancellation rumor",
-      "description": "Jefferies today became the latest firm to cut Apple’s stock price target in recent days, citing supply chain checks that suggest Apple has scrapped plans for a rumored all-glass iPhone expected to mark the device’s 20th anniversary next year. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/AAPL-stock-slides-but-is-it-a-reaction-to-AI-announcements.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/jefferies-downgrades-apple-stock-cites-all-glass-iphone-cancellation-rumor/",
+      "id": "ace94d71d9ec3ef7",
+      "title": "Another OpenAI executive takes off",
+      "description": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\"\n\"Over the last few months, I've been focused on the next h",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T17:50:01.000Z"
+    },
+    {
+      "id": "35f948fff1946cc5",
+      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+      "description": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T17:46:14.000Z"
+    },
+    {
+      "id": "081fb71528a4ef0b",
+      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
+      "description": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
+      "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T17:41:49.000Z"
+    },
+    {
+      "id": "25a8633d9ba1b4ea",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T17:41:34.000Z"
+    },
+    {
+      "id": "45ebbbb591193f7d",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T17:41:22.000Z"
+    },
+    {
+      "id": "ccd56e8565913023",
+      "title": "watchOS 27 will upgrade popular Apple Watch face with new options, per leak",
+      "description": "A new leak reveals that one of Apple Watch’s most popular watch faces—Modular—is set to gain a variety of new color customization options in watchOS 27. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/modular-face-watchos-27-apple-ultra-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/11/watchos-27-will-upgrade-popular-apple-watch-face-with-new-options-per-leak/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-11T01:27:42.000Z"
+      "publishedAt": "2026-08-11T17:39:10.000Z"
     },
     {
-      "id": "3b3abfac93f9e876",
-      "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
-      "description": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image was captured with an iPhone. References to the feature were found in a privacy disclosure included in iOS 27 beta 5, but it is not live yet.\r\n\r\n\r\nAccording to the text, there will be a \"Reference\" mod",
-      "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+      "id": "40fe491b2f595c1e",
+      "title": "The budget-friendly Pixel Buds 2a are even cheaper right now",
+      "description": "The Google Pixel Buds 2a in hazel. | Image: The Verge\t\n\nLooking for great pair of earbuds that work particularly well with Android phones? The Google Pixel Buds 2a are currently discounted to $99 (usually $129) at various retailers, including Amazon, Best Buy, and directly from Google. These very ca",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Buds-2a-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T17:31:06.000Z"
+    },
+    {
+      "id": "1fe42c51e78dc27f",
+      "title": "Third macOS Golden Gate Public Beta Now Available",
+      "description": "Apple today released the third public beta of macOS Golden Gate, allowing non-developers to test the software ahead of its fall release. You can sign up to test the update on Apple's beta website, and then download it by going to System Settings > General > Software Update and toggling on the macOS ",
+      "image": "https://images.macrumors.com/article-new/2026/07/macOS-27-Public-Beta-Thumb-2.jpg",
+      "url": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-11T00:08:29.000Z"
+      "publishedAt": "2026-08-11T17:26:26.000Z"
     },
     {
-      "id": "0ebb755a6d3d2508",
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "description": "San Francisco's housing market is in trouble again.",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-11T00:03:18.000Z"
-    },
-    {
-      "id": "7c702b48c01df6f1",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T23:56:15.000Z"
-    },
-    {
-      "id": "4da564304d7e3dc1",
-      "title": "9to5Mac Daily: August 10, 2026 – Apple Watch rumors, more",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/daily-august-10-2026/",
+      "id": "218750532f38dbd6",
+      "title": "Apple rolls out macOS 27 Golden Gate public beta 3, here’s how to install it",
+      "description": "Users enrolled in Apple’s public beta program can now install macOS 27 Golden Gate public beta 3. Here’s what’s new in the system.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/11/apple-rolls-out-macos-27-golden-gate-public-beta-3-heres-how-to-install-it/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-10T23:53:49.000Z"
+      "publishedAt": "2026-08-11T17:25:20.000Z"
     },
     {
-      "id": "458b6ff424ae8e26",
-      "title": "Jeff Bezos might finally get his hands on a sports team",
-      "description": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
-      "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T23:16:44.000Z"
-    },
-    {
-      "id": "be224af28cd3dcce",
-      "title": "Apple settles lawsuit over alleged discrimination against Jewish employee",
-      "description": "Apple has agreed to pay $150,000 to settle a religious discrimination lawsuit brought by the U.S. Equal Employment Opportunity Commission (EEOC) last year. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-logo-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/apple-settles-lawsuit-over-alleged-discrimination-against-jewish-employee/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-10T23:00:22.000Z"
-    },
-    {
-      "id": "270019df60ba65eb",
-      "title": "Now Rippling is counter-suing tiny startup Runlayer",
-      "description": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
-      "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T22:26:54.000Z"
-    },
-    {
-      "id": "f499221c86829077",
-      "title": "ChatGPT users can now book tables and join restaurant waitlists through Yelp",
-      "description": "ChatGPT users can now book restaurant reservations and join waitlists through Yelp without leaving their chats. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/yelp-chatgpt2.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/08/10/chatgpt-users-can-now-book-tables-and-join-restaurant-waitlists-through-yelp/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-10T22:14:59.000Z"
-    },
-    {
-      "id": "6ff716e5dd79e340",
-      "title": "Everything New in iOS 27 Beta 5",
-      "description": "We're a little over a month away from the launch of iOS 27, and Apple is continuing to make changes. The fifth beta of ‌iOS 27‌ changes the look of some app icons and adjusts Liquid Glass, plus it adds some smaller features that make the iPhone just a little nicer to use.\r\n\r\n\r\nApp Icons\n\r\nThere are ",
+      "id": "7c38ec7371c3b4a7",
+      "title": "Third iOS 27 and iPadOS 27 Public Betas Now Available",
+      "description": "Apple today released the third public betas of iOS 27 and iPadOS 27, allowing anyone with a compatible device to download and test the new software. The third betas come two weeks after Apple seeded the second betas.\r\n\r\n\r\nYou can get started by signing up on Apple's beta website and then opting in t",
       "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/",
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-10T22:02:30.000Z"
+      "publishedAt": "2026-08-11T17:22:29.000Z"
     },
     {
-      "id": "ce8c2db8dbba0953",
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "description": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What reaction was this ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T22:00:00.000Z"
-    },
-    {
-      "id": "fce7b6b7aacda47b",
-      "title": "WhatsApp’s latest beta for iOS adds references to an in-chat search tool",
-      "description": "While WhatsApp has long offered a search option in the chat info screen, the app is now working on a faster way to access it directly from a conversation. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/whatsapps-latest-beta-for-ios-adds-references-to-an-in-chat-search-tool/",
+      "id": "017eb2a938aba970",
+      "title": "Public beta 3 for iPadOS 27 and more available now, here’s what’s new",
+      "description": "One day after shipping beta 5 for developers, Apple has just released public beta 3 for iPadOS 27 and several other OS 27 updates.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/11/public-beta-3-for-ipados-27-and-more-available-now-heres-whats-new/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-10T21:36:22.000Z"
+      "publishedAt": "2026-08-11T17:22:19.000Z"
     },
     {
-      "id": "5213900c1af2f086",
-      "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
-      "description": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
-      "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T21:20:04.000Z"
-    },
-    {
-      "id": "dab12eb4a19136c7",
-      "title": "MagSafe Monday: The TESSAN AERO 5000 brings a titanium finish to an ultra thin battery",
-      "description": "There are tons of MagSafe battery variations, and I may own most of them. The new TESSAN AERO 5000 caught my eye because it’s really thin and has a titanium finish. It also uses a new battery technology to reduce heat and improve overall safety. After reviewing the entire spec sheet, I think this mi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/TESSAN-AERO-5000-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/tessan-aero-5000/",
+      "id": "a7e25f3b877d6d51",
+      "title": "iOS 27 public beta 3 is here with Siri AI, iPhone speed upgrades, and more",
+      "description": "The third iOS 27 public beta is now available for iPhone. It gives users an early chance to try Apple’s biggest software update of the year.\nSiri AI is the headline feature. The release also includes a redesigned Screen Time experience, Liquid Glass refinements, performance upgrades, and dozens of q",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-public-beta-3/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-10T21:20:00.000Z"
+      "publishedAt": "2026-08-11T17:22:17.000Z"
     },
     {
-      "id": "61b1deff0f8dc0c4",
-      "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
-      "description": "Anker’s Nano Travel Adapter can power up to five devices at once. | Image: Anker\t\n\nIf you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our guide to the best",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/anker_travel1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T21:18:15.000Z"
-    },
-    {
-      "id": "9c901eed39a9c6a5",
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T20:53:02.000Z"
-    },
-    {
-      "id": "a7fb24657f2f0206",
-      "title": "Apple TV teams up with Academy Award-winning director for the second time",
-      "description": "Apple TV confirmed today that it has picked up Alfonso Cuarón’s Ascension series, marking his second collaboration with the platform. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/apple-tv-teams-up-with-academy-award-winning-director-for-the-second-time/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-10T20:51:02.000Z"
-    },
-    {
-      "id": "362385763db980de",
-      "title": "Apple official refurb store: Save hundreds on our top picks of the week",
-      "description": "The official Apple Certified Refurbished Store is a particularly compelling resource for landing great offers on iPhone, MacBook, Studio Display, Apple TV, and even accessories. This is not some guy in his basement shilling iPhones that fell off a truck at a discount, or some third-party selling ref",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Refurb-Store-Weekly.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/apple-official-refurb-store-top-picks/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-10T20:21:42.000Z"
-    },
-    {
-      "id": "8a93964e7600b776",
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T20:04:24.000Z"
-    },
-    {
-      "id": "386469de381ec3ad",
-      "title": "Apple is working on a way to authenticate that a photo came from an iPhone camera",
-      "description": "References included in iOS 27 beta 5 point to a new feature designed to authenticate the camera source of an iPhone photo. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-10T19:49:55.000Z"
-    },
-    {
-      "id": "c6816a9cea390809",
-      "title": "Bluesky now lets you hide reposts from that annoying person you follow",
-      "description": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of things you don't care about. If you follow me, I may be that person, I'm sorry. I ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/bafkreig2hq7svgwj4bppizprcv5t3dlg4zbu3a6pvbebftlavbocibuud4.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T19:26:50.000Z"
-    },
-    {
-      "id": "b6f9d95aee4600bf",
-      "title": "iOS 27 Beta 5 Brings New Icons for Siri, Safari, Settings and More",
-      "description": "In the fifth beta of iOS 27, Apple is continuing to make design tweaks. There are updated Liquid Glass icons for Safari, the Siri app, Settings, Remote, App Store, and Preview.\r\n\r\n\r\nThe Safari icon is a brighter blue with more detailed compass lines and arrows, while the ‌Siri‌ icon looks more like ",
-      "image": "https://images.macrumors.com/article-new/2026/08/ios-27-b5-icons.jpg",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-icons/",
+      "id": "65a6a9440dd7ddea",
+      "title": "tvOS 27 and watchOS 27 Third Public Betas Now Available",
+      "description": "Apple today released the third public betas of tvOS 27 and watchOS 27, giving Apple TV and Apple Watch users a chance to try the new software ahead of its fall launch. There's also a new HomePod Software 27 beta for the ‌HomePod‌ and HomePod mini.\r\n\r\n\r\nYou can sign up for Apple's public beta testing",
+      "image": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-watchos-27-b3/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-10T19:18:50.000Z"
+      "publishedAt": "2026-08-11T17:20:00.000Z"
     },
     {
-      "id": "80c98081ea2666be",
-      "title": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
-      "description": "Games look gorgeous on its 7.9-inch screen. | Photo: Brandt Ranj / The Verge\t\n\nThe cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Nintendo-Switch-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-10T19:14:27.000Z"
-    },
-    {
-      "id": "dabbf90a4cc42cfe",
-      "title": "AirTag 2 gets even better with this add-on accessory",
-      "description": "AirTag 2 launched this year with upgrades to range, a louder speaker, and more. But one key feature didn’t improve: battery life. Fortunately, there’s an add-on accessory that extends AirTag 2’s roughly one year of battery life to 10 years or more.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/10/airtag-2-gets-even-better-with-this-add-on-accessory/",
+      "id": "09779066edc927e1",
+      "title": "Sonos is planning Ace Ultra headphones with a big AI push, report says",
+      "description": "Two years ago, Sonos made the leap from wireless speakers to over-ear headphones. Now it sounds like Sonos is preparing a more premium, AI-infused encore.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/08/Sonos-Ace.webp?w=1200",
+      "url": "https://9to5mac.com/2026/08/11/sonos-is-planning-ace-ultra-headphones-with-a-big-ai-push-report-says/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-10T19:09:56.000Z"
+      "publishedAt": "2026-08-11T17:12:20.000Z"
     },
     {
-      "id": "a55f7f16d61252a0",
-      "title": "Latest iOS 27 Beta Expands Siri AI Voice Customization",
-      "description": "With the fifth beta of iOS 27, Apple has expanded the voice customization options for Siri AI.\r\n\r\n\r\nPace and Expressivity can now be adjusted for more of the available voice options instead of just the two American voices.\r\n\r\nThere are seven American voice options and four British voices to choose f",
-      "image": "https://images.macrumors.com/article-new/2026/08/ios-27-siri-voice.jpg",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-siri-ai-voice-customization/",
-      "source": "MacRumors",
+      "id": "8ab90ca7dc670445",
+      "title": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor",
+      "description": "SpaceXAI and Cursor are in the process of becoming a single company, but first, the two firms are releasing an all-new iPhone and Mac app called Grok Bot.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/11/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
+      "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-10T18:57:57.000Z"
+      "publishedAt": "2026-08-11T17:10:00.000Z"
     },
     {
-      "id": "8e4301984815956c",
-      "title": "Apple Cutting Back 2026 Hardware Shipments Due to Memory Shortage",
-      "description": "Apple is scaling back its hardware shipment plans in 2026 due to DRAM shortages, Apple analyst Ming-Chi Kuo said today.\r\n\r\n\r\nKuo made the comment in a longer piece disputing a recent report suggesting TSMC has $1 billion of unpackaged processors waiting on memory chips that Apple has been unable to ",
-      "image": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
-      "url": "https://www.macrumors.com/2026/08/10/apple-cutting-2026-hardware-shipments/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-10T18:38:55.000Z"
+      "id": "39879416fc0dc04b",
+      "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
+      "description": "The Pixel 11 Pro has a flashy new light on the back. | Image: Google\t\n\nLast year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec dives and executive appearances were replaced with ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T17:00:00.000Z"
     },
     {
-      "id": "a96d6c1f8c34acff",
-      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
-      "description": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
-      "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+      "id": "78d1d2c88f16e16f",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "description": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it will show of",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "id": "88180af3c16d00d0",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-10T18:31:54.000Z"
+      "publishedAt": "2026-08-11T16:25:20.000Z"
     },
     {
-      "id": "886dac86471c11f7",
-      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
-      "description": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
-      "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "id": "494664c8ec0cb8a8",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "description": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T16:19:15.000Z"
+    },
+    {
+      "id": "4fea6180d4ed3cd4",
+      "title": "Joby Aviation builds out defense business with $500M acquisition",
+      "description": "Joby Aviation reached an agreement to acquire Resonant Sciences, which will kick off its new defense business.",
+      "url": "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-10T18:30:33.000Z"
+      "publishedAt": "2026-08-11T16:06:08.000Z"
+    },
+    {
+      "id": "f2ac2eec41e4cc33",
+      "title": "Apple Now Stockpiling More Components Amid Rising Prices",
+      "description": "In response to rising component prices, Apple has extended how long it holds OLED display panels in reserve, according to a report from ETNews, citing industry sources in South Korea.\r\n\r\n\r\nApple apparently moved from a four-week display supply buffer to six weeks starting in the second quarter of 20",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-sizes-camera.jpg",
+      "url": "https://www.macrumors.com/2026/08/11/apple-now-stockpiling-more-components/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-11T16:00:32.000Z"
+    },
+    {
+      "id": "59437040666e6ca2",
+      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+      "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T15:40:46.000Z"
+    },
+    {
+      "id": "6a047fe2646f974b",
+      "title": "2025’s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
+      "description": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
+      "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T15:33:59.000Z"
+    },
+    {
+      "id": "9f02d3e31e89bb19",
+      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
+      "description": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
+      "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T15:30:00.000Z"
+    },
+    {
+      "id": "f0e1aa5444452318",
+      "title": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $100 off, MacBook Pro, Anker 25W MagSafe car charger, more",
+      "description": "If you’re still looking to land a set of AirPods Pro 3, Amazon’s particularly notable 25% price drop is still flying, but we are kicking off today’s 9to5Toys Lunch Break with another chance to score all AirPods Max 2 back at $100 off and this 14-inch M5 MacBook Pro at $300 off. We also have Anker’s ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-AirPods-Max-2-25W-car-charger.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/11/deals-airpods-pro-3-airpods-max-2-macbook-pro/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-11T15:26:22.000Z"
+    },
+    {
+      "id": "008e0ff60033c688",
+      "title": "iPhone Users Who Pay for Enough iCloud Storage Get New iOS 27 Perks",
+      "description": "If you are subscribed to an iCloud+ plan with at least 2TB of storage, you will receive new perks in the Home app on iOS 27, according to Apple.\r\n\r\n\r\nStarting with iOS 27, Apple said iPhone users who are subscribed to an iCloud+ plan with at least 2TB of storage receive access to three new Apple Int",
+      "image": "https://images.macrumors.com/article-new/2025/10/iCloud-iPhone-17-Pro.jpg",
+      "url": "https://www.macrumors.com/2026/08/11/new-ios-27-icloud-plus-perks/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-11T15:24:48.000Z"
+    },
+    {
+      "id": "66c09917b3261e32",
+      "title": "FlightAware sues Kalshi over flight cancellation prediction markets",
+      "description": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
+      "url": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-11T15:23:58.000Z"
     }
   ],
-  "lastUpdated": "2026-08-11T06:16:42.205Z",
+  "lastUpdated": "2026-08-11T18:16:20.020Z",
   "sources": [
     "TechCrunch",
     "The Verge",
