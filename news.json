@@ -1,300 +1,297 @@
 {
   "articles": [
     {
-      "id": "5912093cfead8298",
-      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-      "description": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
-      "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-12T04:30:00.000Z"
-    },
-    {
-      "id": "1c479368423f0e4a",
-      "title": "Women in Blue’s second season premieres on Apple TV",
-      "description": "Apple TV subscribers can now stream the first episode of the new season of Women in Blue (Las Azules). Here’s what to expect from the season.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/women-in-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/women-in-blues-second-season-premieres-on-apple-tv/",
+      "id": "f5d086a9c634ff30",
+      "title": "MLB iPhone app just got better with new CarPlay and Live Activity features",
+      "description": "The official MLB app for iPhone is rolling out a useful update for fans who want to follow more games. Both the CarPlay app and Live Activity experience has improved in a few ways.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/MLB-app.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/12/mlb-iphone-app-just-got-better-with-new-carplay-and-live-activity-features/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-12T01:00:59.000Z"
+      "publishedAt": "2026-08-12T18:10:42.000Z"
     },
     {
-      "id": "8fb057858110ebb5",
-      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-      "description": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine.\nThe writer, Stella Sacco, says differently, however, posti",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "id": "95999538caadf84c",
+      "title": "Apple Wallet Could Soon Save Trade-In Quotes for 90 Days",
+      "description": "Apple appears to be developing a retail trade-in system that would let customers save a trade-in offer to the Wallet app for up to 90 days, based on code seen by MacRumors.\r\n\r\n\r\nReferences to the system were found in an update to Apple's Guide app. Guide is used by Apple employees, Apple Authorized ",
+      "image": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
+      "url": "https://www.macrumors.com/2026/08/12/apple-wallet-trade-in-quotes-90-days/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-12T18:07:38.000Z"
+    },
+    {
+      "id": "f6fc8894221bf599",
+      "title": "BowFlex T6 review: Apple GymKit comes home at a normal treadmill price",
+      "description": "If you use an Apple Watch with cardio equipment, GymKit should be on your radar. It’s the best way for Apple Watch and a fitness machine like a treadmill or elliptical to exchange workout data, producing more accurate measurements than either device can provide alone.\nApple introduced GymKit with wa",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/BowFlex-T6-Apple-Watch-GymKit.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/12/bowflex-t6-review-apple-gymkit-comes-home-at-a-normal-treadmill-price/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-12T17:55:57.000Z"
+    },
+    {
+      "id": "7a9f9b23f6661b31",
+      "title": "Apple Hires Airline Exec as Vice President of Government Affairs",
+      "description": "Apple hired former American Airlines executive vice president Nick Gatten as its new vice president of government affairs, reports Bloomberg.\r\n\r\n\r\nGatten will take on some of the duties of senior vice president of government affairs Katherine Adams, who is retiring at the end of 2026. Gatten will re",
+      "image": "https://images.macrumors.com/article-new/2023/11/Apple-Logo-16x9.jpg",
+      "url": "https://www.macrumors.com/2026/08/12/apple-vice-president-government-affairs/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-12T17:51:14.000Z"
+    },
+    {
+      "id": "8e5fbaa52ff2d088",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T17:51:00.000Z"
+    },
+    {
+      "id": "8f6f3346c3839857",
+      "title": "iPhone 18 Pro set to become Apple’s new default model",
+      "description": "iPhone 18 Pro is being unveiled in mere weeks, and due to a lineup overhaul this year, it’s set to become Apple’s new default model like never before.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-12T17:50:20.000Z"
+    },
+    {
+      "id": "3084d533441e1cc3",
+      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
+      "description": "The Pixel 11 Pro in matte obsidian. | Photo: David Imel / The Verge\t\n\nLooking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches.\nThe base Pixel 11 starts at $899, the Pro and Pro XL are $1,0",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Matte-Black-on-Stands.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-12T00:39:26.000Z"
+      "publishedAt": "2026-08-12T17:47:54.000Z"
     },
     {
-      "id": "5d2775e3935442b3",
-      "title": "Microsoft Edge tests Apple Account sign-in support",
-      "description": "Microsoft’s latest Edge Canary build has added new flags for signing in to the browser with an Apple Account, while Microsoft’s release notes indicate the feature is also rolling out to Edge Beta users. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/microsoft-edge-macos.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/microsoft-edge-tests-apple-account-sign-in-support/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-12T00:11:30.000Z"
+      "id": "53a9915061197274",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T17:41:29.000Z"
     },
     {
-      "id": "ba3d800dcc66a587",
-      "title": "Samsung is Starting to Catch Up to Apple on Hearing Health",
-      "description": "Samsung today said its Galaxy Buds Hearing Aid feature has been cleared by the U.S. FDA, which means hearing aid capabilities will be coming to the Galaxy Buds in the fourth quarter of 2026.\r\n\r\n\r\nSamsung will join Apple in offering over-the-counter hearing aid functionality. Apple added an FDA-clear",
-      "image": "https://images.macrumors.com/article-new/2024/07/samsung-galaxy-buds-3.jpg",
-      "url": "https://www.macrumors.com/2026/08/11/samsung-galaxy-buds-hearing-aid/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-12T00:01:51.000Z"
-    },
-    {
-      "id": "23add8c9d98a863a",
-      "title": "Sonos Preparing AirPods Max Rival With Voice Assistant Support",
-      "description": "Sonos is working on an upgraded version of its Ace headphones that will support AI, reports Bloomberg. The Sonos Ace Ultra showed up in an FCC filing earlier this week, with the product likely set to debut in September.\r\n\r\n\r\nSonos debuted the original Sonos Ace in 2024. Reviews praised the sound qua",
-      "image": "https://images.macrumors.com/article-new/2024/09/sonos-ace-purple.jpg",
-      "url": "https://www.macrumors.com/2026/08/11/sonos-ace-ultra/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T22:53:16.000Z"
-    },
-    {
-      "id": "c74ff51a34009ccc",
-      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
-      "description": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp.\nIn May, a Brazilian regulator's leaked",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/closer-xbox-elite-3-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+      "id": "d893970beccaaff3",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or s",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-11T22:36:35.000Z"
+      "publishedAt": "2026-08-12T17:29:10.000Z"
     },
     {
-      "id": "8af34e3fa3dada2f",
-      "title": "Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports",
-      "description": "Satechi today launched the ChargeView 240W Desktop Charger, a successor to the 140W ChargeView released last year. The ChargeView 240W can power multiple devices at one time, splitting 240W across six USB-C ports.\r\n\r\n\r\nThe ChargeView 240W has an LCD display that shows the live wattage of all ports t",
-      "image": "https://images.macrumors.com/article-new/2026/08/satechi-chargeview-240w.jpg",
-      "url": "https://www.macrumors.com/2026/08/11/satechi-240w-chargeview/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T22:30:09.000Z"
-    },
-    {
-      "id": "779d9b904b15b50f",
-      "title": "Apple Extends 2026 Back to School Promotion Until September 24",
-      "description": "Apple today extended its 2026 Back to School Promotion until September 24, which means it will last almost a month longer than planned. The extension is applicable in the United States, Canada, Mexico, and multiple countries in Asia.\r\n\r\n\r\nThe Back to School promotion offers a free item or gift card ",
-      "image": "https://images.macrumors.com/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
-      "url": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T22:15:20.000Z"
-    },
-    {
-      "id": "1d52e9f5d6792514",
-      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-      "description": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
-      "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-11T21:39:58.000Z"
-    },
-    {
-      "id": "a4052e5493f453af",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-11T21:39:11.000Z"
-    },
-    {
-      "id": "9bad85d74833ef3e",
-      "title": "Apple extends 2026 Back to School deals on Macs and iPads until September 24",
-      "description": "Eligible students, parents of students, and educators in the United States just got a few extra weeks to claim Apple’s 2026 Back to School deals on select Macs and iPads. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-store-back-to-school-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/apple-extends-2026-back-to-school-deals-on-macs-and-ipads-until-september-24/",
+      "id": "42a90e9d4bd675c7",
+      "title": "iPhone Ultra’s cameras might get very unorthodox placement, per leak",
+      "description": "iPhone Ultra will be unveiled next month, and a new leak indicates the device’s front cameras could be positioned in unusual spots.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-11T21:35:29.000Z"
+      "publishedAt": "2026-08-12T17:27:04.000Z"
     },
     {
-      "id": "0451c95ec2227327",
-      "title": "An FCC filing points to new Sonos headphones coming soon",
-      "description": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25475375/DSCF7410.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
+      "id": "13a9953337a6eeb4",
+      "title": "iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage",
+      "description": "Apple has secured lower prices for OLED displays for the upcoming iPhone 18 Pro models, according to industry sources cited by South Korea's DealSite.\r\n\r\n\r\nFor example, the report said Apple will pay LG and Samsung around $68 per OLED display destined for the iPhone 18 Pro Max, down significantly fr",
+      "image": "https://images.macrumors.com/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-12T17:21:25.000Z"
+    },
+    {
+      "id": "ab02bbd5bf3ebe47",
+      "title": "Apple hires American Airlines exec to lead government affairs",
+      "description": "Apple has hired a new vice president of government affairs. Bloomberg today reports that Nate Gatten, a veteran executive from American Airlines, will take over the role on August 31.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/12/apple-hires-american-airlines-exec-to-lead-government-affairs/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-12T17:19:46.000Z"
+    },
+    {
+      "id": "99ad0e6734ad166f",
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "description": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
+      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T17:15:41.000Z"
+    },
+    {
+      "id": "8c8c962af9984eea",
+      "title": "Raycast adds a new way to ask AI about whatever is on your screen",
+      "description": "Raycast has a new feature called Screen Awareness, which lets users bring context from their active app or window directly into AI Chat. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/raycast-screen-awareness.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/12/raycast-adds-a-new-way-to-ask-ai-about-whatever-is-on-your-screen/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-12T17:12:47.000Z"
+    },
+    {
+      "id": "cabeec399d2396da",
+      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
+      "description": "The Pixel 11 Pro. | Photo: David Imel / The Verge\t\n\nGoogle just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cam",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-green-back.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-11T21:23:30.000Z"
+      "publishedAt": "2026-08-12T17:00:00.000Z"
     },
     {
-      "id": "9072d6ec579ac95d",
-      "title": "Report: Non-gaming apps drove mobile spending growth in Q2 as games fell 4.5%",
-      "description": "A new report from Sensor Tower shows that non-gaming apps continued to drive global mobile spending growth in Q2 2026 across iOS and Android, while gaming revenue declined 4.5% year over year. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/app-store-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/report-non-gaming-apps-drove-mobile-spending-growth-in-q2-as-games-fell-4-5/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T20:59:32.000Z"
-    },
-    {
-      "id": "44d7772aededfd47",
-      "title": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
-      "description": "Elon Musk's SpaceXAI today announced the launch of Grok Bot, a \"team of always-on agents\" that can complete tasks using tools, websites, and apps. Grok Bot can work in the cloud, so jobs keep running when your laptop is closed. The feature is tied to Cursor, the AI coding company that SpaceX is acqu",
-      "image": "https://images.macrumors.com/article-new/2026/01/grok-logo-purple-gradient.jpg",
-      "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T20:34:58.000Z"
-    },
-    {
-      "id": "381c4af6f134ed10",
-      "title": "iPhone 18 Pro: Three new camera upgrades are coming",
-      "description": "iPhone 18 Pro is just a few weeks away, and rumors indicate it could bring an especially noteworthy batch of camera upgrades. Here are the three main camera features currently rumored.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T20:18:09.000Z"
-    },
-    {
-      "id": "03ee1f911e2197a8",
-      "title": "Uber surprised robotics company Serve by selling its entire stake",
-      "description": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
-      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-11T20:02:02.000Z"
-    },
-    {
-      "id": "30bd99bbe6beb5c8",
-      "title": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case [U]",
-      "description": "Epic Games CEO Tim Sweeney says Judge Yvonne Gonzalez Rogers has rejected Apple’s request to pause the App Store fee proceedings pending the Supreme Court’s review of the company’s contempt ruling. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T19:59:40.000Z"
-    },
-    {
-      "id": "806b368c0ac11963",
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "description": "That’s a lot of people chatting with their AI friends all day. | Image: Google\t\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.\nA billion u",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "id": "8b936afe958256e8",
+      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
+      "description": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2287296637.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-11T19:41:42.000Z"
+      "publishedAt": "2026-08-12T16:58:29.000Z"
     },
     {
-      "id": "fdf7f7dc35d1fbfb",
-      "title": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman",
-      "description": "Apple is rumored to use ‘iPhone Ultra’ branding for its upcoming foldable model, and Mark Gurman says that is indeed the name widely used within the company’s ranks.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T19:40:15.000Z"
-    },
-    {
-      "id": "ce4b0b692ed9997c",
-      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
-      "description": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
-      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "id": "08169b5b37778541",
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-11T19:38:23.000Z"
+      "publishedAt": "2026-08-12T16:57:58.000Z"
     },
     {
-      "id": "b6217dd9a463a3d0",
-      "title": "Apple Pay Chief Jennifer Bailey Retiring in October",
-      "description": "Apple Pay executive Jennifer Bailey is retiring and leaving Apple in October, reports Bloomberg. Bailey has been with Apple since 2003 and has long overseen ‌Apple Pay‌ and Apple Wallet.\r\n\r\n\r\nIn an employee memo announcing her departure, Apple's services chief Eddy Cue said Bailey will be available ",
-      "image": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
-      "url": "https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T19:34:35.000Z"
-    },
-    {
-      "id": "0d8c63130608179d",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-11T19:15:35.000Z"
-    },
-    {
-      "id": "ccee1f478a2aef4d",
-      "title": "Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court",
-      "description": "Apple has again failed to earn a stay for fee calculations in its ongoing legal fight with Epic Games. Apple's case will be heard by the Supreme Court in the term that begins in October, and Apple asked the U.S. District Court for the Northern District of California to pause proceedings until then, ",
-      "image": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
-      "url": "https://www.macrumors.com/2026/08/11/app-store-epic-games-fee-fight-proceeds/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T19:14:01.000Z"
-    },
-    {
-      "id": "6ccb07e55fa63eb3",
-      "title": "Threads has a VR app now",
-      "description": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users.\nIt seems like a pretty full-featured",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/499619485_1363901821956630_4656091347422593965_n.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+      "id": "09d578ea760ae1b8",
+      "title": "Amazon gets out of the MMO game",
+      "description": "Amazon is fully stepping back from MMOs. After saying last year that it would be halting \"a significant amount\" of its work on first-party AAA games, \"specifically around MMOs,\" Amazon will be handing over live operations of Throne and Liberty and Lost Ark in the West to other companies, according t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ss_c4789527b9087517504af18aeec0e2df769a54db.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-11T19:10:14.000Z"
+      "publishedAt": "2026-08-12T16:46:05.000Z"
     },
     {
-      "id": "9e494b3c6ddb80b5",
-      "title": "Apple in talks to acquire streaming rights for golf’s Open Championship: report",
-      "description": "Apple is among companies in talks to acquire US rights to golf’s Open Championship, according to a new report from the Guardian. Netflix and Amazon are also expected to be interested in the rights.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/apple-streaming-rights-golf-open/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T19:01:16.000Z"
-    },
-    {
-      "id": "9a2cf9bed77166ef",
-      "title": "Apple Releases New iOS 27 AirPods Firmware for Public Beta Testers",
-      "description": "Apple today released new AirPods beta firmware available for public testers. The firmware has a build number of 9A5336b, and it is available for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. It is the same as the AirPods beta released for developers last week.\r\n\r\n\r\nIn iOS 27, iPadO",
-      "image": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware.jpg",
-      "url": "https://www.macrumors.com/2026/08/11/apple-releases-airpods-firmware-public-beta/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-11T18:55:58.000Z"
-    },
-    {
-      "id": "a834c2e0518f24d3",
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "id": "b61065f7b7ecbeac",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting peop",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-11T18:49:12.000Z"
+      "publishedAt": "2026-08-12T16:46:02.000Z"
     },
     {
-      "id": "3a50ba449f936203",
-      "title": "AirPods Pro 3 and more just got new public beta firmware",
-      "description": "Apple released iOS 27 public beta 3 today, and now new beta firmware has also arrived for AirPods Pro 3, AirPods Pro 2, and more.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-noise-cancellation-anc.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/",
-      "source": "9to5Mac",
+      "id": "26567f9ca35b938f",
+      "title": "Apple Patenting Way to Improve Notification Summaries and 'Reduce Interruptions' Focus",
+      "description": "A newly published Apple patent application describes a system for deciding, in real time, whether to interrupt what someone is doing on a device or leave them alone.\r\n\r\n\r\nThe application was filed with the U.S. Patent and Trademark Office (USPTO) on February 5, 2026 and published on August 6, 2026, ",
+      "image": "https://images.macrumors.com/article-new/2024/06/notification-summaries.jpg",
+      "url": "https://www.macrumors.com/2026/08/12/apple-patent-to-improve-summaries/",
+      "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-11T18:46:28.000Z"
+      "publishedAt": "2026-08-12T16:29:09.000Z"
     },
     {
-      "id": "6df2d67bd53e2669",
-      "title": "9to5Mac Daily: August 11, 2026 – iOS 27 beta 5, glass iPhone rumors",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/11/daily-august-11-2026-ios-27/",
+      "id": "d56609d48003c515",
+      "title": "Tesla wants to build a $10B solar factory in Texas",
+      "description": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
+      "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T16:18:31.000Z"
+    },
+    {
+      "id": "cb732c5bdb453f0a",
+      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "description": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
+      "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T16:18:23.000Z"
+    },
+    {
+      "id": "d000ce0a8dc7aa19",
+      "title": "iPhone Ultra's Two Selfie Cameras Could Sit in the Same Corner",
+      "description": "With Apple's upcoming iPhone Ultra there's been a lingering question over the exact placement of the selfie cameras in the device's folded and unfolded states – but today we may have stumbled upon the answer. \r\n\r\n\r\nDummy units have suggested a top-centered cut-out for the selfie camera on the outer ",
+      "image": "https://images.macrumors.com/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-selfie-cameras-same-corner/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-12T16:12:42.000Z"
+    },
+    {
+      "id": "4d57222a1e55f008",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T16:04:27.000Z"
+    },
+    {
+      "id": "835b499558ab4864",
+      "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
+      "description": "The Pixel 11 Pro Fold. | Photo: David Imel / The Verge\t\n\nGoogle wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, it popularized the passport-style design years ago, being more wide",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Fold-closed-in-hands.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T16:00:00.000Z"
+    },
+    {
+      "id": "09b2deb49a0e3b58",
+      "title": "SpaceXAI releases Grok 4.6, claiming GPT-5.6 Sol and Claude Fable 5-level intelligence",
+      "description": "SpaceXAI seems to be in the process of repairing Grok’s reputation. From the recent Cursor acquisition to yesterday’s Grok Bot agent release, the company is getting more serious about its models. Today’s Grok 4.6 release builds on that effort with what SpaceXAI says is intelligence comparable to Ope",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grok-4-6.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/12/spacexai-releases-grok-4-6/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-11T18:35:30.000Z"
+      "publishedAt": "2026-08-12T15:56:20.000Z"
+    },
+    {
+      "id": "ab32784d2afb7909",
+      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+      "description": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
+      "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T15:56:13.000Z"
+    },
+    {
+      "id": "8acb0f4c0e34228c",
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "description": "Maybe don’t let the AI shred next time. | Image: D’Addario\t\n\nAfter weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence pil",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T15:52:07.000Z"
+    },
+    {
+      "id": "3b6172e4fe0e4b9f",
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-12T15:44:56.000Z"
+    },
+    {
+      "id": "499e7418237a021f",
+      "title": "Deals: M5 Pro MacBook Pro up to $540 off, M5 MacBook Air from $1,099, Apple Watch Ultra 3, MagSafe chargers, more",
+      "description": "Amazon is still offering one of the best prices ever on AirPods Pro 3 down at nearly 25% off the list, and likely not for much longer. But today’s 9to5Toys Lunch Break is headlined by some big-time offers on the (nearly 35% off) and the ongoing 2026 Best Buy Back to School sale loaded with thousands",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-Pro3-MacBook-Pro-M5-Pro-Ultra-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/12/deals-m5-pro-macbook-airpods-pro-3-apple-watch-ultra-3/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-12T15:30:56.000Z"
     }
   ],
-  "lastUpdated": "2026-08-12T06:25:55.091Z",
+  "lastUpdated": "2026-08-12T18:18:06.546Z",
   "sources": [
     "TechCrunch",
     "The Verge",
