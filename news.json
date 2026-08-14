@@ -1,298 +1,300 @@
 {
   "articles": [
     {
-      "id": "5a49bed8536e59b5",
-      "title": "Matic Cues feature lets you just talk to your robot vacuum or point at a mess to clean",
-      "description": "Matic has added voice and gesture control to its robot vacuum and mop through a software update called Matic Cues. After testing both features, the short and sweet of it is that voice control is really good.\nJust say, “Hey Matic, vacuum the kitchen,” and Matic gets to work. There is no phone to unlo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/matic-homekit.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/13/matic-cues-lets-you-just-talk-to-your-robot-vacuum-or-point-at-a-mess-to-clean/",
+      "id": "8d09baf5f7549968",
+      "title": "Apple seeks settlement talks with Epic Games in new court filing",
+      "description": "In addition to submitting its proposed commission structure for purchases made outside the App Store’s IAP system in the US, Apple filed a motion indicating it is willing to explore a settlement with Epic Games. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-13T18:00:00.000Z"
+      "publishedAt": "2026-08-14T01:39:07.000Z"
     },
     {
-      "id": "cf7b45295b14c7f5",
-      "title": "MacBook Neo 2 will get the big upgrade it needs most, per rumors",
-      "description": "MacBook Neo is still only a few months old, but it’s been a big hit for Apple. And rumors say its successor is coming next year, with MacBook Neo 2 getting the key upgrade it needs most: more RAM.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macbook-neo-2-fi-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/13/macbook-neo-2-will-get-the-big-upgrade-it-needs-most-per-rumors/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-13T17:12:58.000Z"
-    },
-    {
-      "id": "f4d725689442f6a4",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "description": "Dali Rajic will take over as OpenAI's top salesperson.",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T17:07:13.000Z"
-    },
-    {
-      "id": "91d5c11d81e3eb88",
-      "title": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
-      "description": "OpenAI is previewing a new way to run its most capable GPT-5.6 model at dramatically higher speeds. The company says its new Ultrafast service tier can run GPT-5.6 Sol up to 14 times faster than standard processing.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-13T17:02:00.000Z"
-    },
-    {
-      "id": "82d398e4627bb57c",
-      "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
-      "description": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post.\nThe post doesn't explicitly say what sport this new game will focus on. But an image included in the post features w",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1786633272694.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+      "id": "a7ebb4c488925b23",
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "description": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more.\nI",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/dji-speaker-accessory.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-13T16:38:15.000Z"
+      "publishedAt": "2026-08-14T01:06:15.000Z"
     },
     {
-      "id": "9dd1bab42dcb80c3",
-      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-      "description": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
-      "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T16:37:53.000Z"
-    },
-    {
-      "id": "90aa92e672ed1ae3",
-      "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
-      "description": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. \nThe first Fathoms will be prototypes, with Ford's team in Louisville already in the production-",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Covered-Ford-Fathom_Vehicle-Carrier.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T16:23:18.000Z"
-    },
-    {
-      "id": "0bbc53e406ebe7bb",
-      "title": "Meta adds AI screening to detect WhatsApp scams",
-      "description": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T16:10:06.000Z"
-    },
-    {
-      "id": "e388445481c8626b",
-      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-      "description": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-      "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T16:00:00.000Z"
-    },
-    {
-      "id": "5abfbec805151cae",
-      "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
-      "description": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/GSX_DSC_0455.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T16:00:00.000Z"
-    },
-    {
-      "id": "70e633e791b63502",
-      "title": "Suno is trying to look more like a real music production tool",
-      "description": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's b",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T16:00:00.000Z"
-    },
-    {
-      "id": "42a9ab20d6d8ea78",
-      "title": "Instagram introduces a redesigned wordmark",
-      "description": "The social media giant says it was time for a sharper and more modern look after a decade.",
-      "url": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T15:46:02.000Z"
-    },
-    {
-      "id": "3f459091e699fa5a",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T15:30:52.000Z"
-    },
-    {
-      "id": "ad574577d766ca7a",
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "description": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which the",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T15:30:00.000Z"
-    },
-    {
-      "id": "0649adc6d7628439",
-      "title": "Deals: AirPods Pro 3, M5 MacBook Air $270 off, UWB smart lock, Thunderbolt 5 dock, Nomad cases from $17, more",
-      "description": "The 25% price drop on AirPods Pro 3 down at one of the best prices to date is still live, but today’s 9to5Toys Lunch Break is starting off with these M5 MacBook Air configs at $270 off courtesy of the official Apple Certified Refurbished Store and these 46mm Apple Watch Series 11 Cell models at $100",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-Macbook-Air-AirPods-Pro-3-thunderbolt-5-dock.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/13/deals-airpods-pro-3-m5-macbook-air-thunderbolt-5-dock/",
+      "id": "90369bff7e7d3589",
+      "title": "Apple sends fresh wave of mercenary spyware warnings worldwide",
+      "description": "Apple has notified users in 110 countries who it suspects may have been targeted by spyware attacks. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-mercenary-notification.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/13/apple-sends-fresh-wave-of-mercenary-spyware-warnings-worldwide/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-13T15:28:02.000Z"
+      "publishedAt": "2026-08-14T00:54:31.000Z"
     },
     {
-      "id": "495ed489bf31eab7",
-      "title": "Three new iPhones launch next month, here’s what’s coming",
-      "description": "Apple’s big September event is almost here, and the company has three new iPhone models set to launch: iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Ultra. Here’s what to expect.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/13/three-new-iphones-launch-next-month-heres-whats-coming/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-13T15:14:23.000Z"
-    },
-    {
-      "id": "6838376f584511da",
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T15:08:00.000Z"
-    },
-    {
-      "id": "433c9fdd48fa0105",
-      "title": "This is Instagram&#8217;s new logo",
-      "description": "It’s certainly… different. | Image: Meta\t\n\nInstagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that totally s",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Instagram-logo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T15:00:38.000Z"
-    },
-    {
-      "id": "5596980ae471ecd4",
-      "title": "Will the iPhone Ultra avoid the issue that can still kill Samsung foldables?",
-      "description": "The very first Samsung Galaxy Fold launched back in 2019 proved so vulnerable to screen damage by dust and dirt ingress that the company cancelled all pre-orders for the device. Eight generations later, we’re today learning that the issue still hasn’t been fixed.\nEnsuring that the iPhone Ultra did n",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/08/13/will-the-iphone-ultra-avoid-the-issue-that-can-still-kill-samsung-foldables/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-13T15:00:37.000Z"
-    },
-    {
-      "id": "909eabbeff2d5cf6",
-      "title": "Who really needs a cocktail robot?",
-      "description": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
-      "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T15:00:00.000Z"
-    },
-    {
-      "id": "b41981b94a97fece",
-      "title": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
-      "description": "Going into my demo of Marvel's Wolverine, I mainly wanted to try out the game's very bloody combat. And it is delightfully bloody. But after two-ish hours of slashing and stabbing (and parrying!) enemies with Wolverine's claws, I left surprised - despite no previous attachment to the character, I wa",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MW_PREVIEWS_LOGAN_4k_2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T15:00:00.000Z"
-    },
-    {
-      "id": "9b323e699f2293a1",
-      "title": "Two affordable iPhone 17 Pro accessories worth trying",
-      "description": "While my preferred way to use an iPhone is with no case or screen protector, I’m actually enjoying both on iPhone 17 Pro and can recommend them. They’re inexpensive enough to try without committing for a year or more.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/orange-circles-apple-watch-ultra-iphone-17-pro.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/13/two-affordable-iphone-17-pro-accessories-worth-trying/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-13T15:00:00.000Z"
-    },
-    {
-      "id": "4fe6bfc0ea1cbee8",
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T14:34:43.000Z"
-    },
-    {
-      "id": "ad8fef1c1108b570",
-      "title": "New Apple TV 4K: Everything we know about Apple’s 2026 upgrade",
-      "description": "Apple TV 4K is finally expected to get its first hardware refresh in nearly four years. If the latest reports are right, Apple’s next streaming box could arrive this fall with a much faster chip, possibly the new Siri, upgraded wireless connectivity, and more.\nHere is everything we currently know ab",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-tvos-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/13/new-apple-tv-4k-2026-release-date-features-price/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-13T14:30:00.000Z"
-    },
-    {
-      "id": "3d7974ecf6ded71b",
-      "title": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
-      "description": "iOS 27 is packed with new features for Apple’s Photos app, including two that have long been on many users’ wish lists: full-featured slideshow creation and upgraded iCloud Shared Albums.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/13/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-13T14:15:07.000Z"
-    },
-    {
-      "id": "868ae22a41472ce6",
-      "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
-      "description": "It is now mid-August, meaning that Apple's annual iPhone event is just around the corner. Below, we take a look at when the event might be held this year.\r\n\r\n\r\nThis September, Apple is expected to unveil the iPhone 18 Pro, iPhone 18 Pro Max, and an all-new foldable iPhone that will reportedly be nam",
-      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
+      "id": "28beb139d2bfe7ee",
+      "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
+      "description": "We're getting close to the launch of new iPhone 18 Pro models that will replace the iPhone 17 Pro models, so MacRumors videographer Dan Barbera decided to take a look back at the iPhone he's been using for close to 12 months.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nCeramic S",
+      "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-13T14:11:35.000Z"
+      "publishedAt": "2026-08-13T23:58:50.000Z"
     },
     {
-      "id": "809254b75d3874db",
-      "title": "Does Google even want to win at AI?",
-      "description": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race?\nThat’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "id": "3591651e29fc4d01",
+      "title": "What's Coming in September: New iPhones, Apple Watches and More",
+      "description": "Apple will introduce at least five new devices at its iPhone-centric event next month, and it's also possible we'll get devices waiting on Siri AI like the Apple TV.\r\n\r\n\r\niPhone 18 Pro\n\r\nThe iPhone 18 Pro is going to look like the iPhone 17 Pro, but with a smaller Dynamic Island. It's getting some i",
+      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T23:20:39.000Z"
+    },
+    {
+      "id": "c1c966e1b5499c3a",
+      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "description": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outs",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK468_APPLE_ANTITRUST_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-13T14:10:31.000Z"
+      "publishedAt": "2026-08-13T23:13:24.000Z"
     },
     {
-      "id": "4b3fcc78c44fd9f7",
-      "title": "In a first, US will allow some private firms to carry out cyberattacks",
-      "description": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-      "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-13T14:09:05.000Z"
+      "id": "6d22c1e58298aa1f",
+      "title": "Ted Lasso Season 4 Premiere is Apple TV's Biggest Launch Ever",
+      "description": "The Ted Lasso season 4 premiere was Apple's most popular TV show debut to date, according to Nielsen viewing data Apple sent to Deadline. The show racked up 296.6 million viewing minutes in the United States across the August 4 and August 5 launch window. It beat the premieres of prior seasons of Te",
+      "image": "https://images.macrumors.com/article-new/2026/01/Ted-Lasso-16x9.jpg",
+      "url": "https://www.macrumors.com/2026/08/13/ted-lasso-premiere-record/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T23:05:01.000Z"
     },
     {
-      "id": "a0a43c47ddebcf78",
-      "title": "PSA: Setting different default languages in different Mac apps",
-      "description": "I today discovered a feature tucked away in the System Settings app that I never knew existed: you can set different default languages for individual Mac apps. If you already knew this, then there’s nothing to see here, move right along. But otherwise, this is how it does (and doesn’t) work …",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/How-to-set-different-default-languages-in-different-Mac-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/13/psa-setting-different-default-languages-in-different-mac-apps/",
+      "id": "ede3c984494b06b3",
+      "title": "9to5Mac Daily: August 13, 2026 – MacBook Air shortages, iPhone Ultra launch rumors",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/13/daily-august-13-2026/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-13T14:01:45.000Z"
+      "publishedAt": "2026-08-13T22:42:23.000Z"
     },
     {
-      "id": "db3eeb175bf4e70a",
-      "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
-      "description": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. \nFor years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with standalone seats instead of a bench in the second row. Parents grouse",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/260629_BRANDON-DELA-CRUZ_MY27-ESKER-R1_0071_final.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
+      "id": "94c11ffb239b58a3",
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "description": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T22:12:40.000Z"
+    },
+    {
+      "id": "270255cc08a22fd1",
+      "title": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
+      "description": "Apple today submitted a court-ordered proposal outlining the commission it believes is reasonable to collect from U.S. apps that link to purchase options outside of the App Store.\r\n\r\n\r\nApple is asking for half of its commission on standard apps, so apps that would pay 30 percent for an in-app purcha",
+      "image": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T22:11:46.000Z"
+    },
+    {
+      "id": "577700d5e12b7a25",
+      "title": "Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]",
+      "description": "Apple has submitted its proposal for the fees it should be allowed to charge for purchases made outside of the App Store system in the Epic Games case. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T22:05:00.000Z"
+    },
+    {
+      "id": "a3a6025373d1656e",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T22:02:04.000Z"
+    },
+    {
+      "id": "b78bd05bc07d4d50",
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "description": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. \nIt's been nearly three years since",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047560/236883_Epic_Vs_Google_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-13T14:00:00.000Z"
+      "publishedAt": "2026-08-13T21:53:04.000Z"
+    },
+    {
+      "id": "2dfaf3f1ef239e12",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "description": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T21:50:11.000Z"
+    },
+    {
+      "id": "fc9bcd8310cc3c6d",
+      "title": "The fight over Flock and other ALPRs",
+      "description": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and pe",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS532_ALPRs_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T21:46:21.000Z"
+    },
+    {
+      "id": "7fd2009c14c4d6de",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "description": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as repor",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T21:42:38.000Z"
+    },
+    {
+      "id": "b0087a5543f5425c",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T21:13:24.000Z"
+    },
+    {
+      "id": "1faffa5f38fbed57",
+      "title": "Netflix is closing two game studios",
+      "description": "A screenshot of Oxenfree II: Lost Signals from Night School Studio. | Image: Night School / Netflix\t\n\nNetflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs.\nOne of the studios being shut do",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T20:52:58.000Z"
+    },
+    {
+      "id": "5e8dc4b3de091e82",
+      "title": "iFixit's Galaxy Z Fold8 Teardown is a Preview of Apple's Foldable Challenges",
+      "description": "Samsung launched new foldable smartphones earlier this month, including the Galaxy Z Fold8. If you didn't know it was a Samsung device, you might look at it and think it's Apple's foldable because it matches rumors about the iPhone Ultra so well.\r\n\r\n\n\r\nThe Z Fold8 is likely to be the closest competi",
+      "image": "https://images.macrumors.com/article-new/2026/08/ifixit-galaxy-z-fold8.jpg",
+      "url": "https://www.macrumors.com/2026/08/13/ifixit-galaxy-z-fold8-teardown/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T20:41:59.000Z"
+    },
+    {
+      "id": "53f12f941604b380",
+      "title": "Chase recently added free Apple TV, Apple One perks to popular credit card",
+      "description": "Chase recently added new benefits to its popular Sapphire Preferred credit card, including free Apple TV for a year or discounted Apple One. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chase-plus-apple-tv.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/13/chase-adds-free-apple-tv-discounted-apple-one-benefit-to-popular-credit-card/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T20:37:10.000Z"
+    },
+    {
+      "id": "edb649b604d828f8",
+      "title": "WhatsApp is working on chat themes with animated wallpapers",
+      "description": "The latest WhatsApp beta for iOS includes references to a revamped set of chat customization options, including animated wallpapers. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/13/whatsapp-is-working-on-chat-themes-with-animated-wallpapers/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T20:34:06.000Z"
+    },
+    {
+      "id": "8896804d9e47c7a4",
+      "title": "Apple Says iPhone X is Now Obsolete",
+      "description": "Apple today added the iPhone X and the 2018 model of the 15-inch MacBook Pro to its obsolete products list, according to an updated support document.\r\n\r\n\r\nReleased in November 2017, the iPhone X was the first iPhone with an OLED display and Face ID. The lack of a Touch ID home button resulted in the",
+      "image": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
+      "url": "https://www.macrumors.com/2026/08/13/apple-says-iphone-x-is-now-obsolete/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T20:17:01.000Z"
+    },
+    {
+      "id": "91a1bc7d4e1a40f0",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T20:14:39.000Z"
+    },
+    {
+      "id": "fb7ad0d084e828a5",
+      "title": "ChatGPT for Mac adds opt-in Computer History feature, replacing Chronicle",
+      "description": "OpenAI is giving ChatGPT and Codex a new way to learn from and remember how you use your Mac, even when that work happens outside the app.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/13/chatgpt-for-mac-adds-opt-in-computer-history-feature-replacing-chronicle/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T20:13:21.000Z"
+    },
+    {
+      "id": "f7c54715b470763c",
+      "title": "This school-friendly laptop from HP is $300 off",
+      "description": "The HP OmniBook X Flip 2-in-1 converts for tablet or tented use. | Image: The Verge\t\n\nWith memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HP-Omnibook-X-Flip-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T20:07:53.000Z"
+    },
+    {
+      "id": "057d6f313ef24086",
+      "title": "New HomePod mini 2: Release date, features, price, and rumors",
+      "description": "HomePod mini arrived in 2020, and nearly six years later, Apple is reportedly preparing a long-awaited second generation. Here is everything we know so far.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/13/homepod-mini-2-release-date-features-price-rumors/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T20:00:00.000Z"
+    },
+    {
+      "id": "7560bdc487cfa194",
+      "title": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
+      "description": "Apple today updated its vintage and obsolete product lists, with the iPhone X and 15-inch 2018 MacBook Pro now classified as obsolete. Here’s what that means.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-x.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/13/apple-adds-iphone-x-and-2018-macbook-pro-to-obsolete-products-list/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T19:35:26.000Z"
+    },
+    {
+      "id": "9552c19cd9e8f94d",
+      "title": "OpenAI is losing its second executive this week",
+      "description": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, wi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T19:28:39.000Z"
+    },
+    {
+      "id": "95eaf20dc0bf7cde",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-13T19:22:40.000Z"
+    },
+    {
+      "id": "7d9c6632071b30d3",
+      "title": "Ted Lasso just had the biggest Apple TV premiere ever",
+      "description": "Ted Lasso season 4 is off to a strong start, with Apple revealing to Deadline that it had “the biggest launch ever for Apple TV.” Here are the numbers.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/13/ted-lasso-just-had-the-biggest-apple-tv-premiere-ever/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-13T19:22:29.000Z"
     }
   ],
-  "lastUpdated": "2026-08-13T18:17:07.036Z",
+  "lastUpdated": "2026-08-14T06:27:02.691Z",
   "sources": [
     "TechCrunch",
     "The Verge",
