@@ -1,6 +1,74 @@
 {
   "articles": [
     {
+      "id": "71689deedacc4a14",
+      "title": "Amazon is trying to crush class-action suits before they get started",
+      "description": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. \nAmazon framed this as a \"fast and efficient\" way to resolve iss",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T17:35:02.000Z"
+    },
+    {
+      "id": "dbe3498103a8ba59",
+      "title": "It’s time for iOS to have its own Material You",
+      "description": "Over the years, Apple has only added more and more customization to iOS. First, we got all of the lock screen personalization back with iOS 16. That was followed up with icon color tinting in iOS 18, clear icons in iOS 26, and a full-on Liquid Glass slider in iOS 27.\nThe iPhone has become more and m",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-app-icon-tint-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-16T17:33:48.000Z"
+    },
+    {
+      "id": "bd97de4c5c736c47",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T16:53:51.000Z"
+    },
+    {
+      "id": "58218c81a2c71a2e",
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T16:04:00.000Z"
+    },
+    {
+      "id": "fd0e4d6b3b837dc1",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you ma",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T14:56:40.000Z"
+    },
+    {
+      "id": "d9d531de098c7664",
+      "title": "AirPods 4 ANC Hit $134.99 Low Price on Amazon, Plus Pro 3 for $189.99",
+      "description": "Amazon this weekend has introduced a big discount on the AirPods 4 with Active Noise Cancellation, available for $134.99, down from $179.00. This is one of the best prices we've seen on the earbuds all year, and it's accompanied by a solid discount on the AirPods Pro 3.\r\n\r\nNote: MacRumors is an affi",
+      "image": "https://images.macrumors.com/article-new/2025/10/airpods-4-prime-day-fall.jpeg",
+      "url": "https://www.macrumors.com/2026/08/16/airpods-4-anc-hit-134/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-16T14:18:36.000Z"
+    },
+    {
+      "id": "ec2e4646a3e1112a",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomou",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T12:00:00.000Z"
+    },
+    {
       "id": "2921ca6e53b1b41f",
       "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
       "description": "The compact Polaroid Go is great for road trips and adventures. | Image: Polaroid\t\n\nSmartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polar",
@@ -137,16 +205,6 @@
       "publishedAt": "2026-08-15T14:20:33.000Z"
     },
     {
-      "id": "e4bf5d8fd7c12599",
-      "title": "I finally found a magnetic phone grip I never want to remove",
-      "description": "The OhSnap Snap Grip Stand, in black and silver. | Photo by Sean Hollister / The Verge\t\n\nI told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up sticking wit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-ohsnap-stand-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-15T14:10:16.000Z"
-    },
-    {
       "id": "7a568f7c575e50c3",
       "title": "Apple @ Work: Understanding Apple Business Manager roles and permissions",
       "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
@@ -155,16 +213,6 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-15T14:06:00.000Z"
-    },
-    {
-      "id": "6829857f1ac02f12",
-      "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-      "description": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment\t\n\nWith Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_tp1_8222-1024x683-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-15T14:03:14.000Z"
     },
     {
       "id": "8bd17693eb571073",
@@ -196,19 +244,9 @@
       "publishedAt": "2026-08-15T13:00:12.000Z"
     },
     {
-      "id": "dd6f6e4d2e9a27fc",
-      "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
-      "description": "New plugin support for CrossPoint Reader lets Xteink’s devices access DRM-protected ebooks.\t\n\nOne of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/xteinklibby1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-15T13:00:00.000Z"
-    },
-    {
       "id": "a1c8023d0fb42bca",
       "title": "Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more",
-      "description": "Your 9to5Toys Lunch Break weekend edition is here, and so are the deals. We are starting off with a series of solid headliners, including AirPods Pro 3 at 25% and AirPods Max 2 at $100 off on all five color options, as well as AirPods 4 with ANC dropping to the best price in 6 months at $135. \nJust ",
+      "description": "Update: AirTag 2 has now dropped back down to some of the lowest prices to date: \nAirTag 2 $25 (Reg. $29)\nAirTag 2 4-pack $89 (Reg. $99)\nYour 9to5Toys Lunch Break weekend edition is here, and so are the deals. We are starting off with a series of solid headliners, including AirPods Pro 3 at 25% and ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Weekend-apple-deals-august-14-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
       "url": "https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/",
       "source": "9to5Mac",
@@ -253,47 +291,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-14T20:57:07.000Z"
-    },
-    {
-      "id": "c409a860e35fd7cd",
-      "title": "Self-driving trucks are officially testing on California highways",
-      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-14T20:37:49.000Z"
-    },
-    {
-      "id": "880e2037296c345c",
-      "title": "ChatGPT subscribers can now open and edit Google Drive files from inside the chat",
-      "description": "ChatGPT is rolling out a deeper integration with Google Drive, allowing users to add Google Drive files to their ChatGPT Library and edit documents without leaving the chat. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-googledive.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/08/14/chatgpt-subscribers-can-now-open-and-edit-google-drive-files-from-inside-the-chat/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-14T20:31:44.000Z"
-    },
-    {
-      "id": "681de06bc57dbf05",
-      "title": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
-      "description": "For the first time since Apple started selling standard and \"Pro\" iPhones, we're not going to get an entry-level iPhone model this fall. Apple doesn't plan to release an iPhone 18 in September, and will only launch the iPhone 18 Pro, ‌iPhone 18 Pro‌ Max, and foldable iPhone Ultra. The lower-cost ‌iP",
-      "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-14T20:31:42.000Z"
-    },
-    {
-      "id": "ffccdb56dfa161a3",
-      "title": "These AI tools make my life much easier on the Mac",
-      "description": "9to5Mac is brought to you by Memoket: The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping August 20",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/aluminum_header.png?w=1600",
-      "url": "https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-14T19:57:27.000Z"
     }
   ],
-  "lastUpdated": "2026-08-16T06:06:00.508Z",
+  "lastUpdated": "2026-08-16T18:03:42.443Z",
   "sources": [
     "TechCrunch",
     "The Verge",
