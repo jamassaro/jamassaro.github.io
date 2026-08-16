@@ -1,6 +1,64 @@
 {
   "articles": [
     {
+      "id": "2921ca6e53b1b41f",
+      "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+      "description": "The compact Polaroid Go is great for road trips and adventures. | Image: Polaroid\t\n\nSmartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polar",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T03:00:00.000Z"
+    },
+    {
+      "id": "938f8aa3571871d7",
+      "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
+      "description": "Doh! | Image: Activision / 20th Century Fox\t\n\nAt D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/simpsons-hit-and-run.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-15T21:56:13.000Z"
+    },
+    {
+      "id": "43c36e9f3aae6eb9",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-15T21:29:19.000Z"
+    },
+    {
+      "id": "34fcccd5454c37c0",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "description": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that ther",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-15T20:45:00.000Z"
+    },
+    {
+      "id": "fa2ffea7c830dab4",
+      "title": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nWriting a little bit of code shouldn’t be a hassle. Typically you have to set up a project and go through ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/IMG_0048.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-15T19:30:00.000Z"
+    },
+    {
+      "id": "81f010bfcb16fc23",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-15T18:58:39.000Z"
+    },
+    {
       "id": "a495e1f991c551d1",
       "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
       "description": "They’re far more powerful and fun than their bargain price suggests. | Photo: Terrence O’Brien / The Verge\t\n\nWhen I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines th",
@@ -158,36 +216,6 @@
       "publishedAt": "2026-08-15T12:20:15.000Z"
     },
     {
-      "id": "ab216b86e50301d6",
-      "title": "We’re reaching peak camera with the Sony A7R VI",
-      "description": "Maximum camera. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nIt wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI.\nSony's latest flagship high-res camera is a 66.8-megapixel spec monster. In addi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268698_Sony_A7R_VI_camera_review_ADiBenedetto_0015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-15T12:00:00.000Z"
-    },
-    {
-      "id": "cc05d51ea825071f",
-      "title": "The surprise must-see movie of the summer",
-      "description": "Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Will Ferrell and Fabrizio Romano and ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Installer-140.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-15T12:00:00.000Z"
-    },
-    {
-      "id": "b5b43638bbae7dab",
-      "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
-      "description": "Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would hold. He started working for the food delivery apps, and as he w",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ground-truth-device-field-02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-15T11:00:00.000Z"
-    },
-    {
       "id": "49cd9e405dd8816c",
       "title": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
       "description": "The Wall Street Journal reports that US Commerce Secretary Howard Lutnick has urged Apple not to turn to Chinese memory chips as the company looks for alternatives to alleviate the ongoing global supply shortage. Here are the details.",
@@ -263,39 +291,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-14T19:57:27.000Z"
-    },
-    {
-      "id": "e9d76249983b5d0c",
-      "title": "Tim Cook on his Apple legacy: ‘I hope people say I was a good and decent man’",
-      "description": "Tim Cook has entered his final weeks as Apple CEO, with John Ternus set to take over on September 1.\nIn an interview with CBS News this week, Cook reflected on his “legacy” as Apple CEO.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tim-cook-cbs.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/14/tim-cook-on-his-apple-legacy-i-hope-people-say-i-was-a-good-and-decent-man/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-14T19:49:29.000Z"
-    },
-    {
-      "id": "8cd12563dfd59050",
-      "title": "9to5Mac Daily: August 14, 2026 – Apple TV news, iPhone 18 expectations",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/14/daily-august-14-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-14T19:44:33.000Z"
-    },
-    {
-      "id": "1d6d2bdf9d2012b7",
-      "title": "iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models",
-      "description": "iPhone 18 Pro will be unveiled soon, and rumors indicate the Pro Max model could have unique advantages this year in a key area or two. Here’s what to expect.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/14/iphone-18-pro-max-vs-pro-heres-how-apple-will-differentiate-models/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-14T19:35:33.000Z"
     }
   ],
-  "lastUpdated": "2026-08-15T18:03:15.439Z",
+  "lastUpdated": "2026-08-16T06:06:00.508Z",
   "sources": [
     "TechCrunch",
     "The Verge",
