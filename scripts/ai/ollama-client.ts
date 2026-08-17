@@ -1,7 +1,7 @@
 import type { OllamaResponse } from '../types/analysis.js';
 
 const OLLAMA_HOST = process.env.OLLAMA_HOST || 'http://127.0.0.1:11434';
-const MODEL = process.env.OLLAMA_MODEL || 'llama3.2:3b'; // Better quality analysis, ~3GB model
+const MODEL = process.env.OLLAMA_MODEL || 'llama3.1:8b'; // Better quality analysis, ~5GB model with 8B parameters
 
 /**
  * Wait for Ollama server to be ready
@@ -47,8 +47,8 @@ export async function generateCompletion(prompt: string): Promise<OllamaResponse
       prompt: prompt,
       stream: false,
       options: {
-        temperature: 0.7,
-        top_p: 0.9,
+        temperature: 0.2, // Lower = more factual, less creative
+        top_p: 0.85,
         num_predict: 2000, // Max tokens to generate
         stop: ['</analysis>'], // Stop token
       },

@@ -109,7 +109,14 @@ const NewsAnalysisSection = () => {
                   </h3>
                   <ul className={styles.bulletList}>
                     {analysis.worthWatching.map((item, index) => (
-                      <li key={index} className={styles.bulletItem}>{item}</li>
+                      <li key={index} className={styles.bulletItem}>
+                        {typeof item === 'string' ? item : (
+                          <>
+                            <strong>{item.title}</strong>
+                            {item.description && `: ${item.description}`}
+                          </>
+                        )}
+                      </li>
                     ))}
                   </ul>
                 </div>
@@ -126,7 +133,14 @@ const NewsAnalysisSection = () => {
                   </h3>
                   <ul className={styles.bulletList}>
                     {analysis.engineeringPerspective.map((item, index) => (
-                      <li key={index} className={styles.bulletItem}>{item}</li>
+                      <li key={index} className={styles.bulletItem}>
+                        {typeof item === 'string' ? item : (
+                          <>
+                            <strong>{item.title}</strong>
+                            {item.description && `: ${item.description}`}
+                          </>
+                        )}
+                      </li>
                     ))}
                   </ul>
                 </div>

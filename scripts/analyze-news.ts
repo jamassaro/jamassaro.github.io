@@ -67,7 +67,7 @@ async function main() {
     
     // Step 6: Parse and validate response
     console.log('Step 6: Parsing AI response...');
-    const analysis = parseAndValidate(response.response);
+    const analysis = parseAndValidate(response.response, newsData.articles);
     console.log('');
     
     // Step 7: Save to file
