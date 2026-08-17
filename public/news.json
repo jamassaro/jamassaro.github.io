@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": "904b0602760c205e",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T21:32:56.000Z"
+    },
+    {
+      "id": "b6ded3e45df3e149",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T20:57:04.000Z"
+    },
+    {
+      "id": "4bd349a23f8cf5d5",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T20:32:01.000Z"
+    },
+    {
+      "id": "a9cdea5e0199c889",
+      "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+      "description": "In every possible universe? | Image: Backwoodz Studioz\t\n\n\"Breakups are… tough.\"\nIt's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-16T20:31:37.000Z"
+    },
+    {
       "id": "71689deedacc4a14",
       "title": "Amazon is trying to crush class-action suits before they get started",
       "description": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. \nAmazon framed this as a \"fast and efficient\" way to resolve iss",
@@ -185,26 +223,6 @@
       "publishedAt": "2026-08-15T15:00:00.000Z"
     },
     {
-      "id": "7e0d8c31c2c40cdf",
-      "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
-      "description": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star Wars universe, with Gra",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AhsokaS2_poster_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-15T14:58:27.000Z"
-    },
-    {
-      "id": "9c40ab03f609c67d",
-      "title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
-      "description": "Shawn Levy, Ryan Gosling | Image: The Walt Disney Company/Image Group LA\t\n\nThe annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_RH7_7615.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-15T14:20:33.000Z"
-    },
-    {
       "id": "7a568f7c575e50c3",
       "title": "Apple @ Work: Understanding Apple Business Manager roles and permissions",
       "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
@@ -271,29 +289,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-08-14T22:43:24.000Z"
-    },
-    {
-      "id": "6c0fcd4cd11d13b7",
-      "title": "WhatsApp working on customizable emoji reaction sets on iOS",
-      "description": "New references in the latest WhatsApp beta for iOS suggest users may soon be able to replace the app’s standard set of emoji reactions with their own selection. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-14T21:49:23.000Z"
-    },
-    {
-      "id": "3001ce86f4f0b639",
-      "title": "Apple adds new MacBook Air configs, iPhone 16 Plus models, more to refurb store",
-      "description": "Apple has expanded its Certified Refurbished Store this week with a handful of new MacBook Air and MacBook Pro configurations. It also includes unique iPhone 16 Plus models, Apple Watch, and more.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/m5-macbook-air-video.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/14/apple-adds-new-macbook-air-iphone-16-plus-refurb-store/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-14T20:57:07.000Z"
     }
   ],
-  "lastUpdated": "2026-08-16T18:03:42.443Z",
+  "lastUpdated": "2026-08-17T06:07:45.595Z",
   "sources": [
     "TechCrunch",
     "The Verge",
