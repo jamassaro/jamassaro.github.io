@@ -1,300 +1,297 @@
 {
   "articles": [
     {
-      "id": "9fad78d2dfe15bd8",
-      "title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
-      "description": "Since 2019, Apple has released a more affordable standard iPhone and a higher-end \"Pro\" variant, giving customers multiple flagship iPhones to choose from. Apple is deviating from its standard release timeline this year and splitting the iPhone 18 launch.\r\n\r\n\r\nWe aren't going to get all of the ‌iPho",
-      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T22:58:50.000Z"
-    },
-    {
-      "id": "be2dc2a5bb338c80",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-18T22:14:25.000Z"
-    },
-    {
-      "id": "d42dea3bcd3b0b80",
-      "title": "9to5Mac Daily: August 18, 2026 – iOS 27 beta 6, AirPods leak",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T21:56:50.000Z"
-    },
-    {
-      "id": "cbeefc2822b8e0a5",
-      "title": "Apple Wallet driver’s licenses coming to these states next",
-      "description": "At WWDC 2021, Apple announced support for storing your driver’s license in Apple Wallet on iPhone. At the time, Apple touted this as the last step before you can be “fully free of your physical wallet.”\nHere are the states where support for the Apple Wallet driver’s license feature is coming next …",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/11/colorado-dl.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T20:57:45.000Z"
-    },
-    {
-      "id": "465e6eaa6c8edeb8",
-      "title": "iCloud, Photos, Find My and More Experiencing Issues",
-      "description": "Several iCloud services are experiencing issues, according to Apple's system status page.\r\n\r\n\r\nFind My, Game Center, Photos, ‌iCloud‌ Calendar, ‌iCloud‌ Mail, ‌iCloud‌ Contacts, ‌iCloud‌ Web Apps, and iWork for ‌iCloud‌ are all experiencing service interruptions.\r\n\r\nTags: Find My, Photos\nThis articl",
-      "image": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T20:56:35.000Z"
-    },
-    {
-      "id": "3503451a0831375a",
-      "title": "Find My, iCloud, and several other Apple services are currently down for some users [U: Fixed]",
-      "description": "Update, 7:49 p.m. ET: All issues are now marked as resolved. The original story follows below.\nApple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T20:48:38.000Z"
-    },
-    {
-      "id": "100ddaf82d57e3bb",
-      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-      "description": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
-      "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-18T20:36:20.000Z"
-    },
-    {
-      "id": "0b2d03b906ad027c",
-      "title": "Comcast just turned millions of Xfinity routers into motion sensors",
-      "description": "Comcast launched Xfinity Shield today, a new home protection platform that includes a feature to turn routers into motion sensors. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/comcast-xfinity-gateway-router.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T20:33:55.000Z"
-    },
-    {
-      "id": "8857ab0d4630ec8d",
-      "title": "Firefox Smart Window adds AI web search, automatic tab groups, and more",
-      "description": "Mozilla today announced new features to Firefox’s AI-powered Smart Window, which remains in beta. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/firefox-smart-window.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T20:23:57.000Z"
-    },
-    {
-      "id": "7cf7e0114314cb79",
-      "title": "TikTok explores peer-to-peer payments via DMs, report says",
-      "description": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-      "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-18T20:03:56.000Z"
-    },
-    {
-      "id": "967476d61cf51efd",
-      "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-      "description": "The Nova 3P in eye-catching cyan. | Image: SteelSeries\t\n\nWhile many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Steelseries-Arctis-Nova-3P-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
+      "id": "8c1312bc35c8d717",
+      "title": "The wearable future is stuck in weird, experimental, existential limbo",
+      "description": "AI on the wrist is one such experimental feature.\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nFor the past week, I've been tes",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google_pixel_watch_5_review5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-18T20:01:01.000Z"
+      "publishedAt": "2026-08-19T18:00:00.000Z"
     },
     {
-      "id": "a282edd4e5ac934f",
-      "title": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
-      "description": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen.\r\n\r\n\r\nMentions of the Widget Gallery were found in macOS Tahoe 26.7, an upd",
-      "image": "https://images.macrumors.com/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-3.jpg",
-      "url": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T19:56:40.000Z"
-    },
-    {
-      "id": "53fbfc8eaf16f62c",
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trust",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "id": "83d25cdf362f4264",
+      "title": "Grab an iPad Air M4 for its lowest price since the June increase",
+      "description": "The iPad Air M4 in space gray. | Image: The Verge\t\n\nAlmost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ipad-air-m4-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-18T19:48:26.000Z"
+      "publishedAt": "2026-08-19T17:56:15.000Z"
     },
     {
-      "id": "b2ef9a57bb24040d",
-      "title": "Here’s everything new for Apple Calendar in iOS 27",
-      "description": "iOS 27 is packed with new features for Apple Wallet, Messages, Notes, and other system apps—including Calendar. Here’s everything new for Apple’s Calendar app in iOS 27.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T19:37:21.000Z"
-    },
-    {
-      "id": "58645acbed12426e",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-18T19:28:30.000Z"
-    },
-    {
-      "id": "6e1d84f5fe06403a",
-      "title": "Apple pulls AI ‘nudify’ app promoted in Meta ads",
-      "description": "WIRED reports that Meta ran ads for a now-pulled App Store app that let users create AI-generated pornographic deepfakes of real people, with one of the ads featuring a woman resembling a prominent US politician. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
-      "url": "https://9to5mac.com/2026/08/18/apple-pulls-ai-nudify-app-promoted-in-meta-ads/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T19:28:04.000Z"
-    },
-    {
-      "id": "92c124e9f9db8d4c",
-      "title": "National Parks Apple Watch Activity Challenge Launching August 23",
-      "description": "Apple will launch its annual National Parks Apple Watch activity challenge on Sunday, August 23 to celebrate national parks across the United States.\r\n\r\n\r\nApple Watch owners can earn an Apple Watch activity award by doing a hike, walk, run, or wheelchair push that lasts for 20 minutes or more on Aug",
-      "image": "https://images.macrumors.com/article-new/2026/08/national-parks-activity-2026.jpg",
-      "url": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
+      "id": "8b15e16c3dc5978e",
+      "title": "Beats 360 Over-Ear Headphones Leak in Retail Listings",
+      "description": "One of the Beats codenames MacRumors found in the macOS Tahoe 26.7 update (B518) appears to be for the Beats 360, a new set of over-ear headphones that we could see launch soon.\r\n\r\n\r\nMultiple Reddit users found signs of the Beats 360 on UK websites like Amazon, though those listings have now been re",
+      "image": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/19/beats-360-headphones/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-18T19:09:16.000Z"
+      "publishedAt": "2026-08-19T17:36:58.000Z"
     },
     {
-      "id": "579ba22264b2e990",
-      "title": "Next Apple Watch activity challenge supports national parks",
-      "description": "Apple Watch users can mark their calendars for the next activity challenge. The 2026 National Parks Challenge is set for this Sunday, August 23.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/watch-challenge-parks.webp?w=1500",
-      "url": "https://9to5mac.com/2026/08/18/next-apple-watch-activity-challenge-supports-national-parks-2/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T19:00:26.000Z"
-    },
-    {
-      "id": "f7978f05bc66ee36",
-      "title": "Safari 26.6.1 patches multiple WebKit security flaws on macOS Sonoma and Sequoia",
-      "description": "Following yesterday’s wave of point updates with security fixes, Apple has now detailed the security content of Safari 26.6.1. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/safari-ios26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/18/safari-26-6-1-patches-multiple-webkit-security-flaws-on-macos-sonoma-and-sequoia/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T18:29:25.000Z"
-    },
-    {
-      "id": "8190d76dc2601d2f",
-      "title": "Apple's Camera AirPods May Launch as 'AirPods Pro,' Not 'AirPods Ultra'",
-      "description": "The camera-equipped AirPods that we've confirmed Apple is working on are likely going to be part of the AirPods Pro lineup rather than separate \"AirPods Ultra.\"\r\n\r\n\r\nA macOS Tahoe 26.7 file that references the new AirPods is labeled \"AirPods Pro,\" hinting at the new name. It's possible that's a plac",
-      "image": "https://images.macrumors.com/article-new/2026/06/airpods-pro-3-prime-day.jpeg",
-      "url": "https://www.macrumors.com/2026/08/18/camera-airpods-naming/",
+      "id": "611daf778fe43ad5",
+      "title": "Anker and Jackery Kick Off Power Station Sales With Up to $1,500 Off",
+      "description": "Anker and Jackery have introduced big discounts across their most popular portable power stations this week, including up to $1,500 off select models from each company. We're tracking Anker's best deals over at Amazon, while Jackery's discounts can be found on the retailer's own website.\r\n\r\nAnker SO",
+      "image": "https://images.macrumors.com/article-new/2026/02/new-anker-solix.jpeg",
+      "url": "https://www.macrumors.com/2026/08/19/anker-and-jackery-1500-off/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-18T18:01:46.000Z"
+      "publishedAt": "2026-08-19T17:30:08.000Z"
     },
     {
-      "id": "786ae8ad6e97bdbc",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "id": "c4d3b9dccfaf0150",
+      "title": "Meta AI is now available as a more capable desktop app for Mac",
+      "description": "Meta continues to get serious about its AI technology. The latest sign? A dedicated Mac app for Meta AI.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/meta-ai-mac-app.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-19T17:29:29.000Z"
+    },
+    {
+      "id": "ad77f8297f1df533",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "description": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or f",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-18T18:00:00.000Z"
+      "publishedAt": "2026-08-19T17:26:48.000Z"
     },
     {
-      "id": "754bb82dd8945c27",
-      "title": "tvOS 27 to add Siri AI for Apple TV 4K, per new leak",
-      "description": "Siri AI was unveiled in June for most Apple platforms—but Apple TV and HomePod missed out. A new leak, however, points to tvOS 27 including Siri AI after all.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-apple-tv-4k-tvos-27-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/18/tvos-27-to-add-siri-ai-for-apple-tv-4k-per-new-leak/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T17:56:49.000Z"
+      "id": "c8a9bb376d971765",
+      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+      "description": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+      "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T17:26:32.000Z"
     },
     {
-      "id": "bab11c4477db8c68",
-      "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-      "description": "The Samsung Galaxy Buds 3 Pro.\t\n\nIf you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-Galaxy-Buds-3-Pro-roundup-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+      "id": "fda2f120d3057475",
+      "title": "OpenAI hit the brakes. Now what?",
+      "description": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.\nOn Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguard",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-18T17:47:04.000Z"
+      "publishedAt": "2026-08-19T17:10:09.000Z"
     },
     {
-      "id": "0135274d19cf1091",
-      "title": "Apple pledges donation in support of Indonesia earthquake relief",
-      "description": "Apple CEO Tim Cook announced today that Apple will donate to support the relief efforts on the ground following Indonesia’s devastating earthquake. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/tim-cook-apple-park-rainbow-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/18/apple-pledges-donation-in-support-of-indonesia-earthquake-relief/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-18T17:31:33.000Z"
+      "id": "dd1f3684016ba5e0",
+      "title": "GTA VI keeps leaking ahead of its gameplay premiere",
+      "description": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November.\nI've seen three clips seemingly showing off the game, though two have been pulled fro",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T17:03:11.000Z"
     },
     {
-      "id": "5bd02c7c1eec80a0",
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "id": "3d99a9a507478c92",
+      "title": "Meta AI is getting a Mac app",
+      "description": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questio",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T17:00:00.000Z"
+    },
+    {
+      "id": "ddcf2bed50738554",
+      "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
       "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "url": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-18T17:31:01.000Z"
+      "publishedAt": "2026-08-19T16:16:18.000Z"
     },
     {
-      "id": "aebec6502dfb7bcf",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-18T17:21:58.000Z"
-    },
-    {
-      "id": "e99c56d1c2fa00a3",
-      "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-      "description": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+      "id": "de98c5410813c0bc",
+      "title": "We reviewed the new Pixel lineup, ask us anything",
+      "description": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure. We're giving subscribers a chance to engage with us directly in an AMA l",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-3-phones.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-18T17:18:57.000Z"
+      "publishedAt": "2026-08-19T16:15:00.000Z"
     },
     {
-      "id": "75c1dfd8f6236d1e",
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "description": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-      "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+      "id": "3ed73e906f45e3c6",
+      "title": "The Pixel 11 Pro is a great phone, no thanks to its flashiest new features",
+      "description": "Google is trying to get you off your phone. The Pixel 11 Pro is \"A Phone Designed to Help You Use It Less,\" the company promises. It can proactively help you book restaurant reservations, take the best frames from a video, and help you voice-text significantly faster. The pitch is that the new featu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-Lede-Standing-table-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/981713/google-pixel-11-pro-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T16:00:00.000Z"
+    },
+    {
+      "id": "1bb259909485aa02",
+      "title": "Google’s Pixel 11 Pro Fold feels like the end of an era",
+      "description": "The Pixel 11 Pro Fold has a square screen and a very obvious crease.\t\n\nThe foldable phone market is in the middle of a huge transformation, but no one told Google.\nLast year, Samsung transformed its Galaxy Z Fold 7 with a dramatically thinner design. This year, it made its phones thinner and lighter",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T16:00:00.000Z"
+    },
+    {
+      "id": "d0ab8311159b4f80",
+      "title": "Google’s Pixel Watch 5 is promising — but it isn’t finished",
+      "description": "Please clap for my Gemini-inspired nails.\t\n\nThe Google Pixel Watch 5 has, in many ways, been the hardest Pixel Watch to accurately review. Barely anything has changed in terms of hardware. The sizes are the same, the chips and battery got an itty-bitty boost, and there's a new pyrite satin case fini",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google_pixel_watch_5_review1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T16:00:00.000Z"
+    },
+    {
+      "id": "3fab9c9a1661da52",
+      "title": "The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy",
+      "description": "The frost color scheme is nice, but it’s no pistachio or hibiscus. | Photo: Cameron Faulkner / The Verge\t\n\nIt'd be easy to overlook the Pixel 11. Want the best cameras? The Pixel 11 Pro is your answer. Want the best bargain? The Pixel 10A is still a great deal.\nBut the Pixel 11 might be the sweet sp",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268705_Pixel_11_review_CFAULKNER_P1011493.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/982190/google-pixel-11-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T16:00:00.000Z"
+    },
+    {
+      "id": "38a5f6f45cfa3093",
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-18T17:12:13.000Z"
+      "publishedAt": "2026-08-19T15:44:53.000Z"
     },
     {
-      "id": "34aa1f7e5435f1eb",
-      "title": "Anthropic says Claude Cowork is now available on mobile for all paid plans",
-      "description": "Last month, Anthropic announced plans to expand Claude Cowork from the Mac to iPhone and iPad. The rollout started with Anthropic’s most expensive paid plan.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/",
+      "id": "14b4cffc46e16b40",
+      "title": "Apple TV hit comedy from Ted Lasso, Shrinking creator returns soon",
+      "description": "Bad Monkey is an excellent Apple TV comedy from creator Bill Lawrence, of Ted Lasso and Shrinking fame—and it returns soon for a new season. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bad-monkey-s2-vince-vaughn-martinez.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/19/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-soon/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-18T17:09:16.000Z"
+      "publishedAt": "2026-08-19T15:41:37.000Z"
     },
     {
-      "id": "aed6bcec41245234",
-      "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27]",
-      "description": "Update, August 18, 1:06 p.m. ET: Apple has now published watchOS 27 Public Beta 4 (Build: 24R5353a). The original story follows below\nAfter releasing developer betas 6 earlier today, Apple is now rolling out iOS 27 public beta 4, alongside corresponding updates for some of its other platforms. Here ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
+      "id": "f36044d8b269126a",
+      "title": "Rivian spinout Also raises another $150M",
+      "description": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
+      "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T15:39:47.000Z"
+    },
+    {
+      "id": "c4ca3f91d6423eca",
+      "title": "Deals: 1-day Apple sale – $400 off M5 Pro MacBook Pro, iPhone Air up to $406 off, iPad mini $450 off, AirPods, more",
+      "description": "The AirPods deals are still flying with AirPods Pro 3 down at one of the best prices ever and AirPods Max 2 at $120 off, but today’s 9to5Toys Lunch Break is headlined by a M5 Pro MacBook Pro configs in brand new condition, the best price ever on iPhone Air at $170 off (or you can land open-box units",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-AirTag-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/19/deals-1-day-apple-sale-macbook-pro-iphone-air-airpods/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-18T17:07:54.000Z"
+      "publishedAt": "2026-08-19T15:31:25.000Z"
+    },
+    {
+      "id": "6756ce5f3127164d",
+      "title": "Apple will launch 10+ new products soon, with September event coming",
+      "description": "Apple’s September event is almost here, with the date likely being announced next week. Here are 10+ new Apple products launching soon, most of which are expected to be unveiled in September.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/19/apple-will-launch-10-new-products-soon-with-september-event-coming/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-19T15:17:10.000Z"
+    },
+    {
+      "id": "9059e54761cfdd67",
+      "title": "Apple Accidentally Leaked More Than 10 New Products in macOS Update",
+      "description": "Apple on Monday seeded the macOS 26.7 Release Candidate, and the upcoming software update has seemingly leaked more than 10 new Apple products.\r\n\r\n\r\nmacOS 26.7's code contains references to AirPods with infrared cameras for Visual Intelligence, the long-rumored foldable iPhone, an all-new Apple smar",
+      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "url": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-19T15:03:06.000Z"
+    },
+    {
+      "id": "ef08d8b5755273b8",
+      "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
+      "description": "The investment comes amid Navi plans to go public.",
+      "url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T15:01:41.000Z"
+    },
+    {
+      "id": "18162358398dc781",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "description": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T15:00:00.000Z"
+    },
+    {
+      "id": "94fd5ee201518306",
+      "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
+      "description": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
+      "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T14:57:58.000Z"
+    },
+    {
+      "id": "53cb785843366f78",
+      "title": "Next Apple TV Rumored to Have Five New Features, Including Siri AI",
+      "description": "According to rumors, the next-generation Apple TV 4K will have at least five new features, including an A17 Pro chip or newer, increased RAM, Siri AI support, an Apple-designed N1 chip with Wi-Fi 7 support, and an updated Siri Remote.\r\n\r\n\r\nBelow, we recap everything rumored for the next Apple TV, al",
+      "image": "https://images.macrumors.com/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-19T14:43:02.000Z"
+    },
+    {
+      "id": "3135f98d9d45bb7b",
+      "title": "ClarityCheck people-finder left millions of face photos exposed, likely without their knowledge",
+      "description": "ClarityCheck, a facial-identification tool for which it’s hard to think of many legitimate uses, reportedly left millions of face photos publicly exposed on the internet in a major privacy breach.\nIt’s likely that the vast majority of victims had no idea their photos had been uploaded to the site, a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ClarityCheck-people-finder-left-millions-of-face-photos-exposed.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/19/claritycheck-people-finder-left-millions-of-face-photos-exposed-likely-without-their-knowledge/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-19T14:17:19.000Z"
+    },
+    {
+      "id": "8c20c8550ed57f21",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "description": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T14:09:39.000Z"
+    },
+    {
+      "id": "8d0467bb155a3658",
+      "title": "Things 3.23 update now available with major repeating to-do improvements",
+      "description": "Things is making repeating to-dos significantly more flexible in version 3.23, addressing two common situations: finishing a task ahead of schedule and changing its date when plans shift.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/things-repeat.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/19/things-3-23-update-now-available-with-major-repeating-to-do-improvements/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-19T14:03:30.000Z"
+    },
+    {
+      "id": "1cf074db69b6659d",
+      "title": "The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
+      "description": "Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how world-class tech events get built and more.",
+      "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-19T14:02:00.000Z"
     }
   ],
-  "lastUpdated": "2026-08-19T06:06:56.657Z",
+  "lastUpdated": "2026-08-19T18:05:32.672Z",
   "sources": [
     "TechCrunch",
     "The Verge",
