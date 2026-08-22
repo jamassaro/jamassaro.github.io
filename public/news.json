@@ -1,6 +1,152 @@
 {
   "articles": [
     {
+      "id": "e1cf3060aa78ea94",
+      "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
+      "description": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarkably consistent window.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T17:32:09.000Z"
+    },
+    {
+      "id": "9a63b0be8fbe93f8",
+      "title": "Doodle generative compositions in your browser with Musical Spirograph",
+      "description": "So pretty. | Screenshot: Terrence O’Brien / The Verge\t\n\nI remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirogra",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T17:00:00.000Z"
+    },
+    {
+      "id": "ae0edad6449707b0",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T16:30:34.000Z"
+    },
+    {
+      "id": "e327e4e4e3dd012a",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T16:00:00.000Z"
+    },
+    {
+      "id": "b1d6a65ed44c5510",
+      "title": "US battery startups have found a lifeline in defense",
+      "description": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+      "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T15:20:00.000Z"
+    },
+    {
+      "id": "265547f288cf85ec",
+      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+      "description": "I’m just as confused as you. | Image: Aundre Larrow\t\n\nW. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Bell-W.-Kamau-2-PC-Aundre-Larrow.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T15:00:00.000Z"
+    },
+    {
+      "id": "8a876ee944f0b2fa",
+      "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+      "description": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+      "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T14:00:00.000Z"
+    },
+    {
+      "id": "1958c2916b5830c2",
+      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+      "description": "The Echo Dot Max went from $99.99 to $119.99 overnight, while its sibling the Echo Dot jumped to $79.99 from $49.99. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nCiting \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T13:41:01.000Z"
+    },
+    {
+      "id": "96593f3174860264",
+      "title": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T13:30:00.000Z"
+    },
+    {
+      "id": "8f5ddeccc8b4981e",
+      "title": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
+      "description": "This week, Best Buy kicked off its big 60th anniversary sale that includes great deals on AirPods, TVs, computers, and much more. Alongside this event, we're tracking solid markdowns on portable power stations from Anker and Jackery, plus the best prices of the summer on M4 iPad Air.\r\n\r\nNote: MacRum",
+      "image": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
+      "url": "https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T13:05:00.000Z"
+    },
+    {
+      "id": "53b83e6cdf968b80",
+      "title": "Top Stories: Apple Leaks - Camera-Equipped AirPods, Beats 360, and More",
+      "description": "It was a big week for leaks in the Apple world, with Apple itself revealing information on a bunch of upcoming products within a macOS Tahoe 26.7 build and retailers leaking details on new Beats 360 headphones that could be launching soon.\r\n\r\n\r\nIn addition to all of the scoops from Apple's leaks, we",
+      "image": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-22.jpg",
+      "url": "https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T13:00:12.000Z"
+    },
+    {
+      "id": "da84079ead1e7d89",
+      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+      "description": "The OmniBook 3 isn’t a sweet treat, but it gets things done on the cheap. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nLaptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuf",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268709_HP_OmniBook_3_16_laptop_review_ADiBenedetto_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T13:00:00.000Z"
+    },
+    {
+      "id": "84067672d1ad4013",
+      "title": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
+      "description": "Alongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. \nThose discounts join a big-time $500 price drop on M5 Pro MacBook Pro, the lowest prices around on MacBook Neo and M5 MacBook Air courtesy of the official Apple Certified Refurbished Store, Apple Watch",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-AirPods-Pro-3-MacBook-Neo-AirTag.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T12:17:11.000Z"
+    },
+    {
+      "id": "aeacbb7c3a6a7bdb",
+      "title": "Two great new repairable gadgets",
+      "description": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been getting back into the Installer groove, trying out some",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/installer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T12:00:00.000Z"
+    },
+    {
+      "id": "4eb88caca3375dee",
+      "title": "Apple Vision Pro Was Almost Called 'Reality Pro'",
+      "description": "The Vision Pro headset was internally called \"Reality Pro\" for a significant stretch of its development before Apple settled on the name it ultimately shipped with, according to the prototype collector and leaker known as \"Kosutami.\"\r\n\r\n\r\nIn a post on X, Kosutami wrote that the \"Apple Vision Pro was",
+      "image": "https://images.macrumors.com/article-new/2023/09/Vision-Pro-Person.jpg",
+      "url": "https://www.macrumors.com/2026/08/22/vision-pro-was-almost-called-reality-pro/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T07:30:49.000Z"
+    },
+    {
       "id": "05dda6806db3227c",
       "title": "Michael Polansky is training an AI model on skin that’s still alive",
       "description": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about i",
@@ -143,154 +289,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-21T20:31:01.000Z"
-    },
-    {
-      "id": "90d1a24e16a61155",
-      "title": "Apple paid Ireland $17 billion last year as EU back-tax case came due",
-      "description": "The Financial Times reports that new tax disclosures showed Apple paid Ireland $17 billion in corporate income taxes in 2025, accounting for 40% of its worldwide total. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/21/apple-paid-ireland-17-billion-last-year-as-eu-back-tax-case-came-due/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T20:29:03.000Z"
-    },
-    {
-      "id": "ca3f397fdd404764",
-      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-      "description": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
-      "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T20:25:21.000Z"
-    },
-    {
-      "id": "4050fb8678924c04",
-      "title": "Apple's Camera-Equipped AirPods: All the New Rumors",
-      "description": "Apple is working on AirPods that have cameras for feeding data to Siri. The new earbuds will be Apple's first AI wearable, and they're expected to launch sometime in 2027.\r\n\r\n\r\nLeaked Video\n\r\nApple accidentally left a demo video featuring its rumored camera-equipped AirPods in macOS Tahoe 26.7 in mi",
-      "image": "https://images.macrumors.com/article-new/2026/06/AirPods-Pro-4-With-Camera-Thumb.jpg",
-      "url": "https://www.macrumors.com/guide/airpods-ultra/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T19:58:59.000Z"
-    },
-    {
-      "id": "f8aeb27e28d27450",
-      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
-      "description": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
-      "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T19:57:46.000Z"
-    },
-    {
-      "id": "a2ca608de0e0f40b",
-      "title": "Apple's New Beats 360 Headphones Spotted in Another Regulatory Filing",
-      "description": "Apple's upcoming Beats 360 headphones have been submitted to a regulatory database in the United Arab Emirates, according to a filing viewed by MacRumors. The filing mentions both the name Beats 360 and the model number A3577.\r\n\r\nprevious coverage. The headphones have also appeared in U.S. and Brazi",
-      "image": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/21/beats-360-regulatory-filing/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T19:55:30.000Z"
-    },
-    {
-      "id": "29e118fdffa1f3d3",
-      "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-      "description": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut.\nApple said in a st",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258038_M5_Vision_Pro_AKrales_0256.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T19:44:55.000Z"
-    },
-    {
-      "id": "3a8dc967a5494130",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T19:43:39.000Z"
-    },
-    {
-      "id": "b7dad4e6e932d610",
-      "title": "Apple refurb store: Apple TV 4K is back, Apple Watch Ultra 3 offers, more",
-      "description": "We’re back with our check-in for what’s new on Apple’s official Certified Refurbished Store this week. This week’s highlights include the MacBook Neo, new MacBook Air configurations, Apple Watch Ultra 3, and more.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-4k-homekit.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/21/apple-refurb-store-apple-tv-4k-ultra/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T19:43:19.000Z"
-    },
-    {
-      "id": "87cdde2a4d0210de",
-      "title": "Apple lays off 200+ people across Vision Pro and Siri teams",
-      "description": "Apple is cutting jobs across multiple teams, according to a new Bloomberg report. All told, the company has cut more than 200 jobs across teams working on Vision Pro, Siri, and software engineering.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/21/apple-lays-off-200-people-across-vision-pro-and-siri-teams/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T19:17:51.000Z"
-    },
-    {
-      "id": "365608844c650b9c",
-      "title": "Apple Guts Vision Pro Gaming and Immersive Video Teams, Trims Siri Staff",
-      "description": "In addition to cutting dozens of Vision Pro employees who worked on features like immersive video and gaming, Apple is laying off people who worked on Siri and AI, reports Bloomberg.\r\n\r\n\r\nApple is \"largely shutting down\" the Vision Pro team focused on gaming, and it is paring down the team that make",
-      "image": "https://images.macrumors.com/article-new/2025/04/Apple-Immersive-Video-Utility-Vision-Pro.jpeg",
-      "url": "https://www.macrumors.com/2026/08/21/apple-guts-vision-pro-teams/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T19:16:26.000Z"
-    },
-    {
-      "id": "130c8bb7818bb2ea",
-      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-      "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T19:16:15.000Z"
-    },
-    {
-      "id": "c206ecdcac4616f6",
-      "title": "HomeKit Weekly: Homey secures Matter 1.5 certification to expand bridging and energy support",
-      "description": "Athom has announced that it has officially achieved Homey Pro mini, and the Homey Self Hosted Server. This update brings important upgrades for both native device integration and cross-platform device bridging.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Homey-Matter-1.5-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T18:52:00.000Z"
-    },
-    {
-      "id": "bf1747bd452067cc",
-      "title": "iPadOS 27 adds three features to make iPad more like the Mac",
-      "description": "iPadOS and macOS used to be very different software platforms. But especially since iPadOS 26, the two have become a lot more alike. And that’s even more true this year, with iPadOS 27 adding three features that make the iPad more Mac-like than ever.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/21/ipados-27-adds-three-features-to-make-ipad-more-like-the-mac/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T18:50:16.000Z"
-    },
-    {
-      "id": "0c22fb8f0c50da8a",
-      "title": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor [U]",
-      "description": "SpaceXAI and Cursor are in the process of becoming a single company, but first, the two firms are releasing an all-new iPhone and Mac app called Grok Bot.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/21/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T18:16:22.000Z"
-    },
-    {
-      "id": "0b8384bde005ae88",
-      "title": "Tesla’s solar roof is dead — here’s what went wrong",
-      "description": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
-      "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T18:09:53.000Z"
     }
   ],
-  "lastUpdated": "2026-08-22T06:04:51.754Z",
+  "lastUpdated": "2026-08-22T18:04:08.140Z",
   "sources": [
     "TechCrunch",
     "The Verge",
