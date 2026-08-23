@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "6b078084fa635198",
+      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "description": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T03:00:00.000Z"
+    },
+    {
+      "id": "05b1a7e46d6ec28c",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T21:46:56.000Z"
+    },
+    {
+      "id": "81fde540da456a34",
+      "title": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy",
+      "description": "Earlier this month, Google unveiled its new Pixel 11 lineup. The phones themselves were rather similar compared to the previous Pixel 10 lineup, though they offer a few delightful quality of life improvements. One of those is a new set of camera processing options – allowing you to have far more con",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-cosmic-orange-cameras-angle.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T20:43:49.000Z"
+    },
+    {
+      "id": "49cdb27593b343f2",
+      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+      "description": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T20:24:20.000Z"
+    },
+    {
+      "id": "bb0ecf46cb92e6dd",
+      "title": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nOn the Apple TV, gaming is a little bit of an afterthought for developers. Compared to iPhone, iPad, and e",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/CloudGear-aligned.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T19:30:00.000Z"
+    },
+    {
+      "id": "4c689ba5609620ba",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-22T19:00:00.000Z"
+    },
+    {
+      "id": "d62dd5e2c0559938",
+      "title": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
+      "description": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be rolling out its first touchscreen MacBook as soon as October. This’ll come alongside the next MacBook Pro redesign, potentially dubbed MacBook Ultra.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T17:58:00.000Z"
+    },
+    {
       "id": "e1cf3060aa78ea94",
       "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
       "description": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarkably consistent window.",
@@ -221,77 +287,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-08-21T22:13:34.000Z"
-    },
-    {
-      "id": "68e5388a8644e76c",
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-      "description": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T22:10:01.000Z"
-    },
-    {
-      "id": "5626812ea6cc0da5",
-      "title": "Emmy-winning ‘Stillwater’ returns to Apple TV with five new episodes",
-      "description": "Apple TV subscribers can now watch the entire new season of Stillwater, the platform’s award-winning mindfulness-focused animated series. Watch the trailer below.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/stillwater-s5-panda.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/21/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T21:53:41.000Z"
-    },
-    {
-      "id": "3f45ed799355665c",
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "description": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T21:25:50.000Z"
-    },
-    {
-      "id": "271c2eb70faf90da",
-      "title": "Epic accuses Apple of sidestepping App Store antitrust deal in Brazil",
-      "description": "Apple has until Monday to respond to a complaint Epic Games filed with Brazil’s antitrust watchdog, where it accuses the company of adopting restrictive interpretations of its obligations under a recent App Store antitrust deal in the country. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/21/epic-accuses-apple-of-sidestepping-app-store-antitrust-deal-in-brazil/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T21:20:58.000Z"
-    },
-    {
-      "id": "7d0bd951707b18aa",
-      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-      "description": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-      "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T20:58:07.000Z"
-    },
-    {
-      "id": "fcf1a9af4877214f",
-      "title": "Apple Watch Series 12 and Ultra 4 to get one big upgrade at perfect time",
-      "description": "Apple Watch Series 12 and Ultra 4 are launching next month, and rumors indicate they’ll pack a big upgrade—a new, more powerful chip—that will arrive at just the right time.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T20:53:21.000Z"
-    },
-    {
-      "id": "c4e8e38ba7b7fcd3",
-      "title": "When is Apple Pay coming to your Walmart? Here’s the full schedule",
-      "description": "Earlier today, Walmart officially announced it will finally start rolling out Apple Pay after holding out for more than a decade.\nWhen will Apple Pay come to your Walmart location? I got my hands on the full launch plan with all that information…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/07/apple-pay.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T20:31:01.000Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:04:08.140Z",
+  "lastUpdated": "2026-08-23T06:06:37.591Z",
   "sources": [
     "TechCrunch",
     "The Verge",
