@@ -1,6 +1,93 @@
 {
   "articles": [
     {
+      "id": "4f53908fa827a903",
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T16:03:00.000Z"
+    },
+    {
+      "id": "13cbaa4ffedbee3f",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T15:30:00.000Z"
+    },
+    {
+      "id": "8211789b9bb9ef2a",
+      "title": "Report: Apple launching updated iMac with M6 chip and new colors later this year",
+      "description": "After a two year hiatus, Apple is working on a new iMac with the M6 chipset and updated color options, per Bloomberg’s Mark Gurman. It should release “before the end of the year.”",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-imac-vs-m3-imac-colors.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-23T15:20:34.000Z"
+    },
+    {
+      "id": "bd67f18d1cf0979e",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T15:00:00.000Z"
+    },
+    {
+      "id": "1237671cb9c90cd3",
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "description": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. \nWe are immediatel",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MV5BNGQyNmE1ZDctNzlhYS00NDQyLWIwNjctYTQzNGFkZTNiZmUwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw%40%40._V1_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T15:00:00.000Z"
+    },
+    {
+      "id": "35efb136f40c98e5",
+      "title": "Here’s what people who have used the iPhone Ultra like most",
+      "description": "We’re just a few weeks away from the rumored launch of the foldable iPhone Ultra. As we’ve written before, excitement for the device is mounting.\nA new report from Bloomberg today outlines what people inside Apple who have used the iPhone Ultra love about it.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-23T14:41:50.000Z"
+    },
+    {
+      "id": "064c286cab664d3b",
+      "title": "Apple Stores preparing ‘significant’ changes for new Home product launches: report",
+      "description": "According to Bloomberg’s Mark Gurman, Apple is preparing significant changes at its retail stores in preparation for upcoming Home product launches. At the very least, Apple should debut a refreshed HomePod mini and Apple TV 4K this fall, though the changes would suggest a third, more significant pr",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-siri-ai-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-23T14:33:51.000Z"
+    },
+    {
+      "id": "a1ee70a930729a5d",
+      "title": "AirTag 2 4-Pack Hits New Low Price of $85 on Amazon",
+      "description": "Apple's AirTag 2 is on sale for $85.00 this weekend on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a new record low price for the accessory, beating the previous low by about $4.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make",
+      "image": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
+      "url": "https://www.macrumors.com/2026/08/23/airtag-2-85-amazon/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-23T13:52:53.000Z"
+    },
+    {
+      "id": "3d9f212c6fa2b13b",
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nFour years ago",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lucia_Caminos_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T12:00:00.000Z"
+    },
+    {
       "id": "6b078084fa635198",
       "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
       "description": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
@@ -183,113 +270,27 @@
       "publishedAt": "2026-08-22T13:00:00.000Z"
     },
     {
+      "id": "220936451b5bce45",
+      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+      "description": "Apple’s fall iPhone event is expected to look different this year. Rather than unveiling four closely related models, rumors point to a flagship-only September lineup consisting of three premium models: iPhone 18 Pro, iPhone 18 Pro Max, and Apple’s first foldable, widely expected to be called iPhone",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-22T13:00:00.000Z"
+    },
+    {
       "id": "84067672d1ad4013",
       "title": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
-      "description": "Alongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. \nThose discounts join a big-time $500 price drop on M5 Pro MacBook Pro, the lowest prices around on MacBook Neo and M5 MacBook Air courtesy of the official Apple Certified Refurbished Store, Apple Watch",
+      "description": "Update 8/23: Amazon has now dropped price on the 4-pack of Apple’s AirTag 2 down even lower to a new $84 all-time low – $21 each. \nAlongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. \nThose discounts join a big-time $500 price drop on M5 Pro MacBook Pro,",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-AirPods-Pro-3-MacBook-Neo-AirTag.jpg?quality=82&#038;strip=all&#038;w=1600",
       "url": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-22T12:17:11.000Z"
-    },
-    {
-      "id": "aeacbb7c3a6a7bdb",
-      "title": "Two great new repairable gadgets",
-      "description": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been getting back into the Installer groove, trying out some",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/installer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-22T12:00:00.000Z"
-    },
-    {
-      "id": "4eb88caca3375dee",
-      "title": "Apple Vision Pro Was Almost Called 'Reality Pro'",
-      "description": "The Vision Pro headset was internally called \"Reality Pro\" for a significant stretch of its development before Apple settled on the name it ultimately shipped with, according to the prototype collector and leaker known as \"Kosutami.\"\r\n\r\n\r\nIn a post on X, Kosutami wrote that the \"Apple Vision Pro was",
-      "image": "https://images.macrumors.com/article-new/2023/09/Vision-Pro-Person.jpg",
-      "url": "https://www.macrumors.com/2026/08/22/vision-pro-was-almost-called-reality-pro/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-22T07:30:49.000Z"
-    },
-    {
-      "id": "05dda6806db3227c",
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "description": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about i",
-      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-22T01:31:04.000Z"
-    },
-    {
-      "id": "4588af1ebb7b47ba",
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "description": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-22T01:03:06.000Z"
-    },
-    {
-      "id": "99d0cf0317059240",
-      "title": "ChatGPT’s iPhone app gets a handy shortcut to attach recent photos more quickly",
-      "description": "Users who rely on ChatGPT for quick visual searches can now add photos to a conversation more quickly with a new gesture. Here’s how.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/21/chatgpts-iphone-app-gets-a-handy-shortcut-to-attach-recent-photos-more-quickly/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T23:50:13.000Z"
-    },
-    {
-      "id": "1f9173b0eda530f0",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T23:07:25.000Z"
-    },
-    {
-      "id": "8044eec67b068531",
-      "title": "10 Ways to Improve Your iPhone's Battery Life",
-      "description": "When you're at home or work with regular access to an iPhone charger, you probably don't need to worry much about your iPhone's battery. On days when you're away from home for long stretches, you might want to make some adjustments to extend battery life.\r\n\r\n\r\nWe've rounded up 10 tips that can cut d",
-      "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg",
-      "url": "https://www.macrumors.com/guide/iphone-battery-life-10-tips/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-21T22:53:10.000Z"
-    },
-    {
-      "id": "734412805ebd440b",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T22:37:38.000Z"
-    },
-    {
-      "id": "69cbdf6cc0b1c629",
-      "title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "description": "The HoverAir Versa. | Image: HoverAir\t\n\nI am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T22:14:11.000Z"
-    },
-    {
-      "id": "812ca9922a1fe0b4",
-      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-      "description": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or ob",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-21T22:13:34.000Z"
     }
   ],
-  "lastUpdated": "2026-08-23T06:06:37.591Z",
+  "lastUpdated": "2026-08-23T18:03:44.259Z",
   "sources": [
     "TechCrunch",
     "The Verge",
