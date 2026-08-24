@@ -1,6 +1,93 @@
 {
   "articles": [
     {
+      "id": "cbe950cd74828a0c",
+      "title": "These are the best MacBook deals right now: August 2026 Buyer’s Guide",
+      "description": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market.\nUnfortunately, Apple just drastically increased its",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/M4-MacBook-Air-take-two.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/23/best-apple-macbook-deals-right-now-august/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-24T02:54:40.000Z"
+    },
+    {
+      "id": "f45f0f1330467c6c",
+      "title": "Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price",
+      "description": "Recently, Mophie debuted four new power banks for the iPhone. They slide nicely into your pocket, come in two finishes, offer built-in cables, and pack 5000mAh or 10000mAh of capacity. They’re by no means the smallest battery banks on the market, though they hit a price point that makes them worthwh",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mophie-4-batteries.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-23T20:27:08.000Z"
+    },
+    {
+      "id": "b4fb1750429a62ec",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T20:01:36.000Z"
+    },
+    {
+      "id": "2261bb6a9b6a3f87",
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "description": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+      "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T19:30:00.000Z"
+    },
+    {
+      "id": "a58441a7698c6445",
+      "title": "Apple Retail Stores Preparing for New Home Product Launches",
+      "description": "Bloomberg's Mark Gurman reports that Apple is reorganizing parts of its brick-and-mortar stores this fall to make room for new home products.\r\n\r\n\r\nWriting in his latest Power On newsletter, Gurman says the teams responsible for store layouts are preparing changes to the \"Avenues,\" or the perimeter w",
+      "image": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/23/apple-stores-prepare-new-home-products/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-23T19:20:20.000Z"
+    },
+    {
+      "id": "d36c489d66728841",
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "description": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T19:14:37.000Z"
+    },
+    {
+      "id": "04597073dbcd3441",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-23T19:14:08.000Z"
+    },
+    {
+      "id": "92d9a650cedf4c7a",
+      "title": "M6 iMac Coming This Year in New Colors",
+      "description": "Apple is readying new iMac models with an upgraded chip and new color options, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nWriting in his latest Power On newsletter, Gurman says the new version is likely to be an updated 24-inch model with an M6 chip, replacing the existing M4 model that arrived in O",
+      "image": "https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/23/m6-imac-this-year-new-colors/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-23T18:36:39.000Z"
+    },
+    {
+      "id": "3074d530e9f78d22",
+      "title": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera",
+      "description": "Apple's upcoming foldable iPhone Ultra is winning over the few people who have had hands-on time with the device, though the camera setup may leave some users wanting, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nWriting in his latest Power On newsletter, Gurman says people who have used the device – ",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-23T18:19:25.000Z"
+    },
+    {
       "id": "4f53908fa827a903",
       "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
       "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
@@ -199,98 +286,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-08-22T15:20:00.000Z"
-    },
-    {
-      "id": "265547f288cf85ec",
-      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-      "description": "I’m just as confused as you. | Image: Aundre Larrow\t\n\nW. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Bell-W.-Kamau-2-PC-Aundre-Larrow.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-22T15:00:00.000Z"
-    },
-    {
-      "id": "8a876ee944f0b2fa",
-      "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-      "description": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
-      "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-22T14:00:00.000Z"
-    },
-    {
-      "id": "1958c2916b5830c2",
-      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "description": "The Echo Dot Max went from $99.99 to $119.99 overnight, while its sibling the Echo Dot jumped to $79.99 from $49.99. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nCiting \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-22T13:41:01.000Z"
-    },
-    {
-      "id": "96593f3174860264",
-      "title": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-22T13:30:00.000Z"
-    },
-    {
-      "id": "8f5ddeccc8b4981e",
-      "title": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
-      "description": "This week, Best Buy kicked off its big 60th anniversary sale that includes great deals on AirPods, TVs, computers, and much more. Alongside this event, we're tracking solid markdowns on portable power stations from Anker and Jackery, plus the best prices of the summer on M4 iPad Air.\r\n\r\nNote: MacRum",
-      "image": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
-      "url": "https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-22T13:05:00.000Z"
-    },
-    {
-      "id": "53b83e6cdf968b80",
-      "title": "Top Stories: Apple Leaks - Camera-Equipped AirPods, Beats 360, and More",
-      "description": "It was a big week for leaks in the Apple world, with Apple itself revealing information on a bunch of upcoming products within a macOS Tahoe 26.7 build and retailers leaking details on new Beats 360 headphones that could be launching soon.\r\n\r\n\r\nIn addition to all of the scoops from Apple's leaks, we",
-      "image": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-22.jpg",
-      "url": "https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-22T13:00:12.000Z"
-    },
-    {
-      "id": "da84079ead1e7d89",
-      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-      "description": "The OmniBook 3 isn’t a sweet treat, but it gets things done on the cheap. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nLaptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuf",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268709_HP_OmniBook_3_16_laptop_review_ADiBenedetto_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-22T13:00:00.000Z"
-    },
-    {
-      "id": "220936451b5bce45",
-      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
-      "description": "Apple’s fall iPhone event is expected to look different this year. Rather than unveiling four closely related models, rumors point to a flagship-only September lineup consisting of three premium models: iPhone 18 Pro, iPhone 18 Pro Max, and Apple’s first foldable, widely expected to be called iPhone",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-22T13:00:00.000Z"
-    },
-    {
-      "id": "84067672d1ad4013",
-      "title": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
-      "description": "Update 8/23: Amazon has now dropped price on the 4-pack of Apple’s AirTag 2 down even lower to a new $84 all-time low – $21 each. \nAlongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. \nThose discounts join a big-time $500 price drop on M5 Pro MacBook Pro,",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-AirPods-Pro-3-MacBook-Neo-AirTag.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-22T12:17:11.000Z"
     }
   ],
-  "lastUpdated": "2026-08-23T18:03:44.259Z",
+  "lastUpdated": "2026-08-24T06:10:03.528Z",
   "sources": [
     "TechCrunch",
     "The Verge",
