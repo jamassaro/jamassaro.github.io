@@ -1,6 +1,278 @@
 {
   "articles": [
     {
+      "id": "14864b5f957f2b0a",
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T03:30:00.000Z"
+    },
+    {
+      "id": "77b99100591992d5",
+      "title": "Apple renews push for expedited discovery in OpenAI trade secret misappropriation lawsuit",
+      "description": "Apple has submitted its response to OpenAI’s attempt to block expedited discovery in its ongoing trade secret lawsuit. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/25/apple-renews-push-for-expedited-discovery-in-openai-trade-secret-misappropriation-lawsuit/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T02:58:54.000Z"
+    },
+    {
+      "id": "b9fd3e764cec16c7",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T00:40:59.000Z"
+    },
+    {
+      "id": "7e6cb34d1f16f244",
+      "title": "BenQ's New iScreenBar is a Monitor Light Bar Made for the iMac",
+      "description": "BenQ today announced the launch of the iScreenBar, which it says is the first monitor light bar built for the iMac.\r\n\r\n\r\nThe iScreenBar is meant to look like an extension of the ‌iMac‌, offering desk lighting that does not clash with the ‌iMac‌'s design or block the camera or microphone. It's made f",
+      "image": "https://images.macrumors.com/article-new/2026/08/iscreenbar-1.jpg",
+      "url": "https://www.macrumors.com/2026/08/25/benq-light-bar-for-imac/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T00:32:12.000Z"
+    },
+    {
+      "id": "7f61e07e3dde9d9f",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T00:06:20.000Z"
+    },
+    {
+      "id": "e17706ddde70b0fb",
+      "title": "Apple shares behind-the-scenes video for its fun new Mac mini ad",
+      "description": "Apple today published a fun commercial promoting the new Mac mini with M6. Now, the company has shared a short behind-the-scenes video showing some of the (extensive) work that went into producing the ad. Watch it below.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-ad.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/25/apple-shares-behind-the-scenes-video-for-its-fun-new-mac-mini-ad/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T23:26:35.000Z"
+    },
+    {
+      "id": "ed72e1a6b077aa3b",
+      "title": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
+      "description": "Notability today announced a new desktop workflow that lets Mac users start recording sessions directly from their calendar events, with the resulting notes automatically organized around their schedule. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/notability.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T22:49:13.000Z"
+    },
+    {
+      "id": "4b80dde57f45b50b",
+      "title": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/25/daily-august-25-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T22:48:14.000Z"
+    },
+    {
+      "id": "103caf27bc5de933",
+      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+      "description": "The Garmin Fenix 9. | Image: Garmin\t\n\nGarmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T22:20:17.000Z"
+    },
+    {
+      "id": "149e27ea389f488d",
+      "title": "Here are all the Apple devices with full Wi-Fi 7 support",
+      "description": "Today, Apple updated the Mac mini and Mac Studio, bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/01/Generic-Wi-Fi-icon.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T21:45:10.000Z"
+    },
+    {
+      "id": "cf4e5be5ca5abae1",
+      "title": "Trump is upping the price of Big Tech’s favorite visa",
+      "description": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The Associated Press, wou",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257976_h1b_visa_chaos__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T21:45:00.000Z"
+    },
+    {
+      "id": "991a2cfc89b71653",
+      "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off",
+      "description": "Ads in Apple Maps are live in the United States and Canada, which means iPhone and iPad users will see them when searching for locations and when viewing Suggested Places.\r\n\r\n\r\nApple announced plans to bring ads to the Maps app in March, and said the feature would roll out starting in late summer. A",
+      "image": "https://images.macrumors.com/article-new/2026/08/apple-maps-ads-live.jpg",
+      "url": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T21:13:58.000Z"
+    },
+    {
+      "id": "3d0c30037c3eb1c8",
+      "title": "OpenAI announces the Admin plugin for ChatGPT Work and Codex",
+      "description": "OpenAI’s new ChatGPT Admin plugin lets workspace admins manage users and permissions, analyze usage, and build reports directly from a conversation. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/25/openai-announces-the-admin-plugin-for-chatgpt-work-and-codex/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T20:56:02.000Z"
+    },
+    {
+      "id": "087687236f446020",
+      "title": "iOS 27 release date: Here’s when the new iPhone update will launch",
+      "description": "The next major iPhone software version is iOS 27, and it’s launching very soon. Here’s when to expect the public release for iOS 27.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/25/ios-27-release-date-when-next-major-iphone-update-is-coming/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T20:45:15.000Z"
+    },
+    {
+      "id": "cb91b808aa516399",
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T20:44:12.000Z"
+    },
+    {
+      "id": "88143cdf28d8ca85",
+      "title": "At just $8, you owe it to yourself to grab Inscryption",
+      "description": "What starts as a roguelite deckbuilder builds into something far more ambitious. | Image: Daniel Mullins Games/Devolver Digital\t\n\nIf you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T20:38:37.000Z"
+    },
+    {
+      "id": "30d1e682bcf53ee8",
+      "title": "The Witcher 3 is getting a remaster",
+      "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also inclu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/3-2.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T20:24:24.000Z"
+    },
+    {
+      "id": "404f18e72c57401c",
+      "title": "WhatsApp announces three ways to make accounts more secure",
+      "description": "Meta today announced a set of new security features for WhatsApp, including expanded passkey support and stronger two-step verification. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/whatsapp-security.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/25/whatsapp-announces-three-ways-to-make-accounts-more-secure/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T20:10:26.000Z"
+    },
+    {
+      "id": "0c497f15c1330913",
+      "title": "Three new Macs are launching this fall, here’s what’s coming",
+      "description": "Apple launched two new products today—Mac mini and Mac Studio—but three more Macs are rumored to arrive this fall. Here’s what’s coming.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold-glow.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/25/three-new-macs-are-launching-this-fall-heres-whats-coming/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T19:54:57.000Z"
+    },
+    {
+      "id": "399ee2035c3d8090",
+      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+      "description": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
+      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T19:22:52.000Z"
+    },
+    {
+      "id": "16ecda45e575e65d",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "description": "The company's new fundraising total now stands at $232 million.",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T19:03:47.000Z"
+    },
+    {
+      "id": "9b32bdec2b796c51",
+      "title": "Dreame’s dream of a rocket-powered car is dead",
+      "description": "The Dreame NEXT event during the Silicon Valley Summit at the Palace of Fine Arts on April 29, 2026 in San Francisco, CA. | Photo by Kelsey McClellan / The Verge\t\n\nDreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project afte",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268500_Dreame_NEXT_2026_KMcClellan_0065.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T18:52:53.000Z"
+    },
+    {
+      "id": "9bd149f53b1e302f",
+      "title": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
+      "description": "Pebblebee has launched “LÔC8,” a unique new Android Find Hub / Apple Find My tracker that’s designed to hide within your bike handles, golf clubs, and other places to help you keep tabs on your gear.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/pebblebee-loc8-find-hub-7.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T18:48:18.000Z"
+    },
+    {
+      "id": "f8003c737a99312f",
+      "title": "New Mac Mini and Mac Studio: 13 Things You Might Have Missed",
+      "description": "Apple today announced new M6 and M5 Pro Mac mini models and M5 Max and M5 Ultra Mac Studio models. We've covered all of the announcements in-depth, but wanted to highlight some interesting tidbits about the new machines.\r\n\r\n\r\n\r\nPrice Increases - The Mac mini now starts at $899, $300 over the origina",
+      "image": "https://images.macrumors.com/article-new/2026/08/Apple-New-Macs-and-Polishing-Cloth.jpg",
+      "url": "https://www.macrumors.com/2026/08/25/mac-studio-mac-mini-tidbits/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T18:41:35.000Z"
+    },
+    {
+      "id": "7dc3eb10c5e06b65",
+      "title": "Apple Maps launches ads on iPhone, here’s what’s new",
+      "description": "Apple has officially launched ads in Apple Maps, with the rollout ramping up in the coming weeks. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-25T18:33:10.000Z"
+    },
+    {
+      "id": "df7c945b6853689b",
+      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+      "description": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
+      "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T18:26:55.000Z"
+    },
+    {
+      "id": "d31176669f16e46e",
+      "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+      "description": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
+      "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T18:22:50.000Z"
+    },
+    {
+      "id": "886ba036cfeca432",
+      "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
+      "description": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG Green,\" matching the Xbox Series X25 limited editi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/xbox-25th-anniversary-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-25T18:16:29.000Z"
+    },
+    {
       "id": "3a36081e4b64e72d",
       "title": "Apple to Release 13 More New Products Later This Year",
       "description": "Looking past the new Mac mini and Mac Studio models unveiled today, Apple still has plenty of other new products on its roadmap for this year.\r\n\r\n\r\nIt is nearly September, and that means the iPhone 18 Pro, iPhone 18 Pro Max, and the first-ever foldable iPhone are just around the corner. Other produc",
@@ -18,280 +290,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-08-25T18:01:30.000Z"
-    },
-    {
-      "id": "a0ffb89df66b354c",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "description": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T17:50:33.000Z"
-    },
-    {
-      "id": "5589aebcc3e49998",
-      "title": "Apple's 40W Dynamic Power Adapter Expands to More Countries",
-      "description": "Alongside the launch of new Mac Studio and Mac mini models, Apple today expanded its 40W Dynamic Power Adapter with 60W Max to Vietnam and countries in Europe that use the type C two-pin Europlug.\r\n\r\n\r\nThe updated variant of the power adapter has a retractable two-prong design. The prongs pop back i",
-      "image": "https://images.macrumors.com/article-new/2026/08/Apples-40W-Dynamic-Power-Adapter-Now-Available-in-Europe-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/25/apple-40w-dynamic-power-adapter-europe/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T17:45:29.000Z"
-    },
-    {
-      "id": "f9bf20e1c66c51da",
-      "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
-      "description": "The Bose SoundLink Micro is just over four inches square. | Image: The Verge\t\n\nBose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact Bl",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Bose-Soundlink-Micro-Gen2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T17:39:20.000Z"
-    },
-    {
-      "id": "385d6997013f9eec",
-      "title": "Waymo robotaxis are headed to Munich",
-      "description": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
-      "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T17:32:03.000Z"
-    },
-    {
-      "id": "e6a1583d163ce924",
-      "title": "Apple just revealed two ways iPhone 18 Pro could get big upgrades",
-      "description": "Today Apple unveiled its M6 chip, the first of a new chip generation that will soon include iPhone 18 Pro’s A20 Pro. Here’s what the M6 reveals about iPhone 18 Pro gains to expect.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/25/apple-just-revealed-two-ways-iphone-18-pro-could-get-big-upgrades/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T17:30:58.000Z"
-    },
-    {
-      "id": "61e1346e839374fd",
-      "title": "Anthropic update unifies memory feature across Claude Cowork and chat",
-      "description": "Anthropic has announced a new update to how memory works between Claude Cowork and chat. Today’s change unifies memory between the two systems.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/25/anthropic-update-unifies-memory-feature-across-claude-cowork-and-chat/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T17:20:08.000Z"
-    },
-    {
-      "id": "c75aa9d88671d7b4",
-      "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-      "description": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we already have some idea of what to expect, including looks at F",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T17:20:00.000Z"
-    },
-    {
-      "id": "156a677e1d818287",
-      "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-      "description": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/insta-first-draft.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T17:12:31.000Z"
-    },
-    {
-      "id": "2829b04102fdb0c1",
-      "title": "New Mac mini and more now available from Amazon for launch day pre-order",
-      "description": "Apple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models.\nIf you’re in the market for some of today’s new Apple gear, you now have the choice to pre-order from Amazon as well.\nBuy Mac mini from Amazon\nBuy Mac Studio from B&H Photo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-mac-studio-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/25/new-mac-mini-now-available-amazon-launch-day-preorder/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T17:09:04.000Z"
-    },
-    {
-      "id": "c710ded13fba3691",
-      "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-      "description": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match your ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T16:58:53.000Z"
-    },
-    {
-      "id": "19de336a1ba2236a",
-      "title": "Mac Studio With M5 Ultra Chip and 512GB of RAM Launching in October",
-      "description": "Apple today unveiled new Mac Studio models with M5 Max and M5 Ultra chips. Pre-orders began today ahead of a September 22 launch, but one configuration will not be available until later.\r\n\r\nstopped offering the previous-generation Mac Studio with 512GB of RAM in March due to the ongoing memory chip ",
-      "image": "https://images.macrumors.com/article-new/2025/06/Mac-Studio-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/25/mac-studio-m5-ultra-512gb-ram-october/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T16:55:49.000Z"
-    },
-    {
-      "id": "7293a66919e54b7b",
-      "title": "GeForce Now is getting support for the Steam Controller",
-      "description": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on your Steam Deck or Steam Machine. If you",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T16:47:15.000Z"
-    },
-    {
-      "id": "86ec900b1901129a",
-      "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-      "description": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
-      "url": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T16:35:00.000Z"
-    },
-    {
-      "id": "aecd0babbcaec936",
-      "title": "Polestar claims it was blindsided by sales ban",
-      "description": "BEVERLY HILLS, CALIFORNIA - JUNE 26: Polestar cars are displayed in the showroom at a Polestar dealership on June 26, 2026 in Beverly Hills, California. Electric car maker Polestar will be barred from selling new vehicles in the United States starting with the 2027 model year after the Commerce Depa",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283439943.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T16:14:45.000Z"
-    },
-    {
-      "id": "fa1190d2dd9f9953",
-      "title": "New Macs and More: Here's Everything Apple Announced Today",
-      "description": "Apple today unveiled a new Mac mini with M6 and M5 Pro chip options, a new Mac Studio with M5 Max and M5 Ultra chip options, a new version of the Polishing Cloth with a lower price, and updated Magic Keyboards for Macs.\r\n\r\nSubscribe to MacRumors on YouTube\n\r\nHere are all of the new products that App",
-      "url": "https://www.macrumors.com/2026/08/25/everything-apple-announced-today/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T16:10:21.000Z"
-    },
-    {
-      "id": "a74c1dabeaefa4fb",
-      "title": "That fake Grand Theft Auto VI demo is actually just malware",
-      "description": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
-      "url": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T15:48:38.000Z"
-    },
-    {
-      "id": "4827eb759c90126d",
-      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-      "description": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
-      "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T15:30:00.000Z"
-    },
-    {
-      "id": "e1cc153a6c5b3848",
-      "title": "Apple TV unveils Matthew McConaughey comedy series from ‘The Office’ alum",
-      "description": "Apple TV has a new original comedy series—Brothers—coming next month with Matthew McConaughey and Woody Harrelson. Here’s the trailer.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-cake.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/25/apple-tv-unveils-matthew-mcconaughey-comedy-series-from-the-office-alum/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T15:28:41.000Z"
-    },
-    {
-      "id": "0821c40c677b8944",
-      "title": "Deals: M6 Mac mini $500+ off with M4 trades, AirTag 2 $20 each, 48GB M5 Pro MacBook Pro $400 off, more",
-      "description": "Price drops are still live on AirPods Pro 3 and AirPods Max 2 at $120 off, just make sure you scope out AirTag 2 at the lowest price ever while you still can (from $20 each). Apple has now unleashed the updated M6 Mac mini, pre-orders are now live, and you can land one at over $500 off with a mid-ra",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M6-Mac-mini-preorder-Macbook-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/25/deals-m6-mac-mini-airtag-2-48gb-macbook-pro/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T15:24:39.000Z"
-    },
-    {
-      "id": "ca58ea61f062be11",
-      "title": "Apple Smart Home Display Still Coming This Year",
-      "description": "Apple remains on track to launch its first smart home device with a screen before the end of the year, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nGurman reiterated that the device will use facial recognition to determine who is standing in front of it and serve up personalized content for that indiv",
-      "image": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T15:19:48.000Z"
-    },
-    {
-      "id": "43da115f94659cfd",
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "description": "Lica co-founders are going to work on Gamma's new research team.",
-      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T15:00:00.000Z"
-    },
-    {
-      "id": "f364f830b6297e30",
-      "title": "Apple releases new Magic Keyboards with one notable change",
-      "description": "Today Apple launched its latest Mac mini and Mac Studio models, and alongside the release, minor updates have been made to the company’s various Magic Keyboard accessories.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/magic-keyboard-new-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/25/apple-releases-new-magic-keyboards-with-one-notable-change/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T14:52:03.000Z"
-    },
-    {
-      "id": "76ac4ffd91c324c6",
-      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "description": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
-      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T14:46:32.000Z"
-    },
-    {
-      "id": "d9761527b211f26b",
-      "title": "Labor Day Accessory Deals on Anker, Sony, Samsung, and More Live Now",
-      "description": "There's a big accessory sale happening on Amazon this week, with the year's best prices on Anker chargers, Samsung monitors, Sonos audio products, and much more.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small p",
-      "image": "https://images.macrumors.com/article-new/2026/07/samsung-sony-amazon-sale.jpeg",
-      "url": "https://www.macrumors.com/2026/08/25/labor-day-accessory-deals/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T14:39:51.000Z"
-    },
-    {
-      "id": "74fcf1506574d7d8",
-      "title": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
-      "description": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19.\nIt doesn't look like anything else has changed, as the desc",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/polishing-cloth.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T14:25:52.000Z"
-    },
-    {
-      "id": "5e4d85cbe3c9f379",
-      "title": "M6 Mac mini vs M4 Mac mini: Here are all the new features",
-      "description": "Today Apple launched a new Mac mini, available in M6 and M5 Pro configurations. Here’s everything new compared to the M4 and M4 Pro Mac mini models.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-m6-m5-pro-vs-m4.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T14:25:03.000Z"
-    },
-    {
-      "id": "e4b4a3fca3fa2ab3",
-      "title": "Apple Quietly Refreshes Magic Keyboards",
-      "description": "Apple today quietly introduced updated Magic Keyboard models with revised U.S. English key labeling.\r\n\r\n\r\nOn the new keyboards, the tab, caps lock, shift, return, and delete keycaps are labeled with glyphs rather than edge text. On the full-size models with a numeric keypad, the change goes further,",
-      "image": "https://images.macrumors.com/article-new/2026/08/apple-magic-keyboard-with-glyphs-2026-refresh.png",
-      "url": "https://www.macrumors.com/2026/08/25/apple-quietly-refreshes-magic-keyboards/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-25T14:22:41.000Z"
-    },
-    {
-      "id": "44494868cc5aa5e8",
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "description": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-25T14:22:04.000Z"
     }
   ],
-  "lastUpdated": "2026-08-25T18:07:12.658Z",
+  "lastUpdated": "2026-08-26T06:08:55.275Z",
   "sources": [
     "TechCrunch",
     "The Verge",
