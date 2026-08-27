@@ -1,6 +1,277 @@
 {
   "articles": [
     {
+      "id": "6e03c4e76cb6e6d8",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-27T06:32:51.000Z"
+    },
+    {
+      "id": "4f53131f1d920750",
+      "title": "Apple says these three things can speed up the new Spotlight indexing",
+      "description": "Apple has published a new support document explaining how Spotlight indexing works across its devices, including three things it says can help the process finish more quickly. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/indexing-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/26/apple-says-these-three-things-can-speed-up-the-new-spotlight-indexing/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-27T02:24:45.000Z"
+    },
+    {
+      "id": "769d49181e32dbf5",
+      "title": "The best displays to pair with your new Mac mini or Mac Studio",
+      "description": "If you’ve just purchased a new Mac, like the recently released Mac mini or Mac Studio, you might be in the market for a new external display as well. \nHere are my recommendations, covering multiple product categories, price points, and more.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Asus-ProArt-Display-6K-Review.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/26/best-new-mac-displays/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-27T00:28:28.000Z"
+    },
+    {
+      "id": "13909c0fc06d655e",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-27T00:24:57.000Z"
+    },
+    {
+      "id": "8005181aa82dc2d7",
+      "title": "LM Studio adds GLM-5.3-Flash to Bionic, with image support and 1M-token context",
+      "description": "LM Studio has added Z.ai’s new GLM-5.3-Flash model to Bionic, its AI agent platform, bringing multimodal input, a 1 million-token context window, and significantly lower pricing than GLM-5.2. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lm-studio-bionic.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/26/lm-studio-adds-glm-5-3-flash-to-bionic-with-image-support-and-1m-token-context/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-27T00:10:19.000Z"
+    },
+    {
+      "id": "4a68cb97586ebae0",
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T23:47:18.000Z"
+    },
+    {
+      "id": "d957450ed5df3493",
+      "title": "PSA: Proton Mail and other Proton platforms facing widespread outage [U: Fixed]",
+      "description": "Update, 8:45 p.m. ET: Proton’s latest update says: “This outage has now been largely resolved, and services are back online. We are still clearing a few lingering issues, however, meaning some users will experience delays in email delivery and reception, and receiving notifications. No data has been",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/12/biggest-internet-outages.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/26/psa-proton-mail-and-other-proton-platforms-facing-widespread-outage/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T23:45:19.000Z"
+    },
+    {
+      "id": "150d180c43d9437b",
+      "title": "Apple's iPhone Event Tagline is Different in Every Country",
+      "description": "Apple today announced it will hold its annual iPhone-centric event on Wednesday, September 9 at 10 a.m. Pacific Time. In the U.S. and several other countries, Apple used \"Surprise and Shine\" as its tagline for the event, but in other countries, the tagline isn't a literal translation.\r\n\r\n\r\nHere are ",
+      "image": "https://images.macrumors.com/article-new/2026/08/Surprise-and-Shine-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-taglines/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T23:41:10.000Z"
+    },
+    {
+      "id": "4d71ed024ccf91fb",
+      "title": "Astropad Launches Rock Paper Pencil 4.0 With New Graphite Apple Pencil Tip",
+      "description": "Astropad today launched Rock Paper Pencil 4.0, an updated version of its screen protector and Apple Pencil tip combo made for the iPad.\r\n\r\n\n\r\nRock Paper Pencil offers a paper-like writing experience on a tablet display by pairing a paper-textured screen protector with custom tips for the ‌Apple Penc",
+      "image": "https://images.macrumors.com/article-new/2026/08/rock-paper-pencil-4-0.jpg",
+      "url": "https://www.macrumors.com/2026/08/26/astropad-rock-paper-pencil-4/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T23:26:07.000Z"
+    },
+    {
+      "id": "6c6258cb0bccc365",
+      "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+      "description": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+      "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T22:47:58.000Z"
+    },
+    {
+      "id": "dbb2accf14fb0a98",
+      "title": "Meta Agrees to Limit Teens' Time on Facebook and Instagram, Calls on TikTok and YouTube to Match",
+      "description": "Meta today said it will implement major changes to Facebook and Instagram's child safety features as part of a settlement agreement with almost all U.S. states.\r\n\r\n\r\nHere's what will change for users under 18 on Instagram and Facebook if the agreement is approved.\r\n\r\n \t\nTime Limit - Teens will have ",
+      "image": "https://images.macrumors.com/article-new/2026/01/Meta-16x9.jpg",
+      "url": "https://www.macrumors.com/2026/08/26/meta-teen-time-limit/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T22:28:00.000Z"
+    },
+    {
+      "id": "42bf605628e81dd5",
+      "title": "Apple Releases Safari Technology Preview 251 With Bug Fixes and Performance Improvements",
+      "description": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the Safari browser.\r\n\r\n\r\nApple has not provide",
+      "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/08/26/apple-releases-safari-technology-preview-251/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T22:00:00.000Z"
+    },
+    {
+      "id": "d2183d3af46ec7c2",
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "description": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. \nNvidia said in its latest earnings report that it brought in ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T21:40:53.000Z"
+    },
+    {
+      "id": "afb0034518b2f9d3",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T21:37:39.000Z"
+    },
+    {
+      "id": "07515dbf51c2cfb7",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "description": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nIn July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and h",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T21:36:06.000Z"
+    },
+    {
+      "id": "6355d20da041b993",
+      "title": "Here’s how many foldable iPhones IDC expects Apple to ship in one year",
+      "description": "As Apple reportedly gears up to announce its first foldable iPhone on September 9, Bloomberg reports that IDC has a bullish outlook on the device’s performance during its first year. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T21:13:32.000Z"
+    },
+    {
+      "id": "bb649a24bba6f4e5",
+      "title": "Here’s everything new for Reminders in iOS 27",
+      "description": "iOS 27 adds new features to Apple Notes, Messages, Wallet, and more, and it has a few improvements for the Reminders app too. Here’s everything new for Reminders in iOS 27.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/reminders-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/26/heres-everything-new-for-reminders-in-ios-27/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T20:24:07.000Z"
+    },
+    {
+      "id": "9c3d7b78ca1a5fbb",
+      "title": "Counterpoint: iPhone 17 topped worldwide smartphone sales during Q2",
+      "description": "In a report published today, Counterpoint Research says Apple once again secured five spots among the world’s 10 best-selling smartphones during the second quarter of 2026. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-17-purple-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/26/counterpoint-iphone-17-topped-worldwide-smartphone-sales-during-q2/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T20:07:02.000Z"
+    },
+    {
+      "id": "99ad702f2b4f90d6",
+      "title": "All the ways Instagram and Facebook are changing for teens",
+      "description": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platforms, as well as res",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T20:00:00.000Z"
+    },
+    {
+      "id": "5d94f913d75dc4db",
+      "title": "Apple just did something rare that signals big September event",
+      "description": "Apple’s ‘Surprise and shine’ event is set for September 9, but the company already surprised us this week by launching new products in late August. Here’s why that rare move could signal big things coming at the September event.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/hands-on-steve-jobs-theater-2018.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/26/apple-just-did-something-rare-that-signals-big-september-event/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T19:57:26.000Z"
+    },
+    {
+      "id": "b44020d49666804b",
+      "title": "iOS 27: 13 Ways the Messages App is Smarter and Less Annoying",
+      "description": "The Messages app is arguably the most important app on the iPhone, and in iOS 27, Apple is adding some useful improvements. There are some quality-of-life fixes for longtime issues, and new AI features.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nContextual Suggestions\n\r\nMessage",
+      "image": "https://images.macrumors.com/article-new/2026/07/ios-27-messages-actions.jpg",
+      "url": "https://www.macrumors.com/guide/ios-27-messages/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T19:47:04.000Z"
+    },
+    {
+      "id": "c142c463c54a7c71",
+      "title": "Google Translate thinks Apple’s iPhone Ultra event tagline in China includes a hidden ‘foldable’ teaser",
+      "description": "Apple officially announced the date for its big September event with the tagline “Surprise and shine,” a play on the phrase rise and shine. This is for the event where Apple is expected to reveal its first foldable iPhone.\nMeanwhile, in China, the localized tagline includes a hidden “foldable” Easte",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/translated-apple-event-tagline-china.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/26/apples-iphone-ultra-event-tagline-in-china-includes-a-hidden-foldable-teaser/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T19:41:07.000Z"
+    },
+    {
+      "id": "873eb2ae3b947ba2",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "description": "Consumer AI apps need to stop making users learn their product architecture.",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T19:37:34.000Z"
+    },
+    {
+      "id": "5a027a1784fb4955",
+      "title": "Apple’s ‘Surprise and shine’ hashmoji is already live on X",
+      "description": "As is tradition, users who post on X with the #AppleEvent hashtag over the next few days will get a custom Apple logo hashmoji attached to their posts. See it in detail below.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-surprise-hashmoji.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/26/apples-surprise-and-shine-hashmoji-is-already-live-on-x/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-26T19:36:54.000Z"
+    },
+    {
+      "id": "cd62ef961fdfd1de",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "description": "Was Greg Brockman the right executive all along?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T19:34:04.000Z"
+    },
+    {
+      "id": "e06a0b50f5aee8da",
+      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
+      "description": "The Pixel 11 in hibiscus. | Image: The Verge\t\n\nIf you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL when you use the coupon code PIXEL11 at checkout. Whil",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Hibiscus-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T19:18:23.000Z"
+    },
+    {
+      "id": "eb4c1d6d4c3a36c3",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T19:05:22.000Z"
+    },
+    {
+      "id": "2f711d38f5cc7e10",
+      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+      "description": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
+      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-26T18:35:40.000Z"
+    },
+    {
       "id": "2b86b54c98819c81",
       "title": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
       "description": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
@@ -10,288 +281,17 @@
       "publishedAt": "2026-08-26T18:23:09.000Z"
     },
     {
-      "id": "1baa2ba7f841a574",
-      "title": "Leaker says iPhone Ultra will come in these colors, with one surprise",
-      "description": "Leaker Evan Blass has just posted what he claims are the three colors coming to iPhone Ultra, and they include a surprising red option.",
+      "id": "deb4740dace22c74",
+      "title": "Leaker says iPhone Ultra will come in these colors, with one surprise [Updated]",
+      "description": "Leaker Evan Blass has just posted what he claims are the three colors coming to iPhone Ultra, and they include a surprising red option.\nUpdate: Mark Gurman posted on X that there’s no red option coming for iPhone Ultra, directly disputing Blass’s claim. Original article below.",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
       "url": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-26T18:17:53.000Z"
-    },
-    {
-      "id": "ad0172b902c1f7f7",
-      "title": "Being a mom is hard — the heat is making it harder",
-      "description": "It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. \"How was the botanic garden?\" I ask him. \"It was okay. It was just too hot,\" he tells me. I didn't expect us to spend so much of our son's",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824776/STK438_CLIMATE_CHANGE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/985225/heat-stress-children-climate-change-study",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T18:14:08.000Z"
-    },
-    {
-      "id": "fc5baddb3a4275fb",
-      "title": "The Switch 2’s $50 price increase is happening next week",
-      "description": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a game will go from $449.99 to $499.99. Nintendo recently announc",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T18:00:00.000Z"
-    },
-    {
-      "id": "dfd011a11a32c1b7",
-      "title": "Astropad’s new Rock Paper Pencil 4 adds a graphite feel to Apple Pencil and iPad",
-      "description": "Want the nano-texture feel on your iPad display without the commitment? Astropad has an all-new version of its excellent Rock Paper Pencil product that adds a second writing feel while retaining its removable design.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/rock-paper-pencil-4.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/26/astropads-new-rock-paper-pencil-4-adds-a-graphite-feel-to-apple-pencil-and-ipad/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T18:00:00.000Z"
-    },
-    {
-      "id": "598d1830fe7d9422",
-      "title": "OpenAI expands free ChatGPT for Teachers to 55 school systems across 20 states",
-      "description": "OpenAI first launched its free ChatGPT for Teachers program in 2025. Today the company announced a vast expansion of the program, covering 55 additional school systems across 20 states.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-teachers.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/26/free-chatgpt-for-teachers-expansion/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T17:46:34.000Z"
-    },
-    {
-      "id": "f4cab1fb74d655d0",
-      "title": "Apple Maps has ads now",
-      "description": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple says they'll also show up at the top of search results. Accordin",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-Business-ads-on-Apple-Maps.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T17:34:32.000Z"
-    },
-    {
-      "id": "1ad1e95446b6cb04",
-      "title": "Apple Event Livestream: Where and When to Watch on September 9",
-      "description": "Following this morning's announcement of the iPhone event that will take place on September 9, Apple added an event placeholder to its YouTube channel.\r\n\r\n\n\r\nApple will stream the \"Surprise and Shine\" event on YouTube, on the Apple Events website, and in the Apple TV app wherever it is available.\r\n\r",
-      "url": "https://www.macrumors.com/2026/08/26/apple-event-livestream-youtube/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T17:30:32.000Z"
-    },
-    {
-      "id": "40692c14e2ae0ea4",
-      "title": "iPhone Ultra is coming: Three new features will be worth the wait",
-      "description": "The iPhone Ultra will be unveiled very soon at the just-confirmed September 9 event. Apple’s foldable will debut seven years after competing products, but three key iPhone Ultra features should make the wait worth it. Here’s what’s coming.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/26/iphone-ultra-is-coming-three-new-features-will-be-worth-the-wait/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T17:18:11.000Z"
-    },
-    {
-      "id": "138f4a34806d3011",
-      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "description": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments.",
-      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T17:01:05.000Z"
-    },
-    {
-      "id": "13f316118a49943f",
-      "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
-      "description": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the markets where women drive demand. That mainly falls into three buckets for the firm, Margaret Coblentz, the firm’s co-fou",
-      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T17:00:00.000Z"
-    },
-    {
-      "id": "bca5c4c0c6fc8a7c",
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "description": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to rele",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T17:00:00.000Z"
-    },
-    {
-      "id": "0ecb62b7a36ed00f",
-      "title": "Apple is holding its iPhone launch event on September 9",
-      "description": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
-      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T16:53:07.000Z"
-    },
-    {
-      "id": "05ce18c1ea6ac5f0",
-      "title": "1-800-APL-CARE Now Connects You With AI Assistant Instead of Human",
-      "description": "If you dial Apple Support's phone number 1-800-APL-CARE from the U.S. or Canada, there is a good chance that an AI-powered support assistant will now answer.\r\n\r\n\r\nWhile many of Apple's phone systems already had a basic automated operator, the Apple Support phone line is now using a voice powered by ",
-      "image": "https://images.macrumors.com/article-new/2023/08/Apple-Support-App-General-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T16:40:19.000Z"
-    },
-    {
-      "id": "474aafee6d5d042d",
-      "title": "Leaked Images Give First Look at Apple's AI Servers",
-      "description": "Images claiming to show the inside of an Apple-made AI server, believed to power Private Cloud Compute, surfaced online this week, offering a first look at how the hardware is laid out.\r\n\r\n\r\nThe images were shared earlier this week by the X user @hsuchingpo, an account with a track record of Apple h",
-      "image": "https://images.macrumors.com/article-new/2026/08/apple-silicon-gray.jpg",
-      "url": "https://www.macrumors.com/2026/08/26/leaked-images-of-apple-ai-servers/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T16:34:32.000Z"
-    },
-    {
-      "id": "e4b3d6f8d8d5a605",
-      "title": "Apple Event Announced for September 9: 'Surprise and Shine'",
-      "description": "Apple plans to hold its annual iPhone-centric event on Wednesday, September 9 at the Apple Park campus in Cupertino, California. The event will begin at 10:00 a.m. Pacific Time, with select members of the media invited to attend.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nThe S",
-      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T16:14:28.000Z"
-    },
-    {
-      "id": "921268f453b732eb",
-      "title": "Apple announces September iPhone launch event",
-      "description": "A screenshot from Apple’s events website.\t\n\nApple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a li",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,94.827045012242",
-      "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T16:03:49.000Z"
-    },
-    {
-      "id": "14b3b4ca5d76bf02",
-      "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
-      "description": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
-      "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T16:03:14.000Z"
-    },
-    {
-      "id": "5f3eb29295edfee2",
-      "title": "Apple announces iPhone 18 Pro and foldable iPhone Ultra event: ‘Surprise and shine’",
-      "description": "Apple has officially announced its next product event, where it will unveil the iPhone 18 Pro lineup and its first foldable iPhone. The event will take place on September 9 at 10 am, PT. The tagline reads “Surprise and shine,” and the invitation features a glowing Apple logo with a sun shining throu",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-max-ultra-event.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T16:02:04.000Z"
-    },
-    {
-      "id": "43c4bd4dd7f68f49",
-      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-      "description": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it.  On this e",
-      "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T16:00:00.000Z"
-    },
-    {
-      "id": "18efbe7ca560bcfe",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "description": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T15:47:28.000Z"
-    },
-    {
-      "id": "2ac26e1010c52e8a",
-      "title": "Pioneer releases its first collection of iPhone accessories",
-      "description": "Pioneer, the maker of many of our favorite CarPlay head units, is expanding into iPhone accessories for the first time. The company has launched a full lineup of in-car iPhone gear, including a MagSafe wireless charger and phone mount.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/pioneer.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/26/pioneer-releases-its-first-collection-of-iphone-accessories/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T15:45:22.000Z"
-    },
-    {
-      "id": "77d0ee3b98d7880a",
-      "title": "Apple TV reveals new crime thriller coming soon with major stars",
-      "description": "Apple TV just announced a heist-centric thriller series, ‘12 12 12,’ that premieres this fall with stars Anthony Mackie and Jamie Dornan. Here are the details and first look.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/121212-anthony-mackie-jamie-dornan.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/26/apple-tv-reveals-new-crime-thriller-coming-soon-with-major-stars/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T15:33:26.000Z"
-    },
-    {
-      "id": "097edd740686f768",
-      "title": "Deals: AirPods, AirTag 2, M6 Mac mini trades up to $500 off,  iPhone 17 Pro $220 off, Anker Smart Display power bank, more",
-      "description": "Joining ongoing price drop on AirPods Pro 3 and the all-time lows on AirTag 2 from $20 each, the pre-orders on the new M6 Mac mini are now back in-stock at Amazon and we detailed some notable Anker Prime Power Bank with display that doubles as wall charger. All of that and more awaits below.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-iPhone-17-Pro-M6-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/26/deals-airpods-airtag-2-m6-mac-mini-iphone-17-pro/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T15:29:10.000Z"
-    },
-    {
-      "id": "a17da16fb2989f07",
-      "title": "Volvo’s cars will warn one another about hazards in the road",
-      "description": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's cars talking to one another, as opposed to crowdsourced alert systems used by popular navigation tools",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T15:28:14.000Z"
-    },
-    {
-      "id": "d102aaccdd68aa74",
-      "title": "Apple Wallet driver’s license support just launched in a new state",
-      "description": "Apple Wallet driver’s license support has expanded to its 15th state. Starting today, people in Virginia can add their driver’s license to the Wallet app for digital access on iPhone and Apple Watch.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-virginia-id.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/26/apple-wallet-drivers-license-support-launches-in-virginia/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T15:25:12.000Z"
-    },
-    {
-      "id": "28cc7ccbed9a53e9",
-      "title": "iPhone 17 Remains World's Best Selling Smartphone",
-      "description": "The iPhone 17 retained its position as the world's best selling smartphone in the second quarter of 2026, according to Counterpoint Research, with the iPhone 17 Pro Max and ‌iPhone 17 Pro‌ holding the next two spots on the firm's quarterly ranking.\r\n\r\n\r\nData from Counterpoint's Global Handset Model ",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
-      "url": "https://www.macrumors.com/2026/08/26/iphone-17-remains-best-selling-smartphone/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T15:19:29.000Z"
-    },
-    {
-      "id": "c39335581cb03058",
-      "title": "Volvo details CarPlay update that adds Spatial Audio feature for three models",
-      "description": "Earlier this year, we learned that Volvo planned to support Spatial Audio for Apple Music and more through an update to CarPlay. Today Volvo has reaffirmed support and detailed availability for the audio upgrade.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/volvo.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/26/volvo-details-carplay-update-that-adds-spatial-audio-feature-for-three-models/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T15:07:43.000Z"
-    },
-    {
-      "id": "513a8d955d45dd14",
-      "title": "Apple Explains Why Spotlight Indexing Can Take Days After an Update",
-      "description": "For anyone who's experienced the lengthy post-update indexing process when trialing the beta version of iOS 27, macOS 27 Golden Gate, iPadOS 27, or visionOS 27: Apple has published a Spotlight support document that explains what's going on.\r\n\r\nThis article, \"Apple Explains Why Spotlight Indexing Can",
-      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-Search-or-Ask.jpg",
-      "url": "https://www.macrumors.com/2026/08/26/apple-explains-spotlight-indexing/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-26T15:06:11.000Z"
-    },
-    {
-      "id": "f6ffb3b38ba18e30",
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "description": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-26T15:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-08-26T18:34:07.706Z",
+  "lastUpdated": "2026-08-27T08:58:04.531Z",
   "sources": [
     "TechCrunch",
     "The Verge",
