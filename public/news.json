@@ -1,6 +1,144 @@
 {
   "articles": [
     {
+      "id": "93100da032eb5bf4",
+      "title": "Apple pledges donation following deadly floods in Nepal and Tibet",
+      "description": "Apple is once again stepping up to contribute to support relief efforts following a deadly natural disaster. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/Trump-says-Apple-will-invest-a-further-100B-in-US-production.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/27/apple-pledges-donation-following-deadly-floods-in-nepal-and-tibet/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T03:14:41.000Z"
+    },
+    {
+      "id": "787cc407d3044922",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "description": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. \nThe lawsuit, filed in March in a California district court, accused the Trump adminis",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-28T03:14:06.000Z"
+    },
+    {
+      "id": "242d3fea68e911ff",
+      "title": "Afterglow brings classic After Dark screen savers to modern Macs",
+      "description": "This interesting project by Jeff Halter (via Daring Fireball) lets users run the original 68k After Dark screen saver modules on modern Macs. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/afterglow.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/27/afterglow-brings-classic-after-dark-screen-savers-to-modern-macs/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T02:49:54.000Z"
+    },
+    {
+      "id": "f924a0731a850572",
+      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+      "description": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking t",
+      "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-28T02:02:44.000Z"
+    },
+    {
+      "id": "06919865cc02f040",
+      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
+      "description": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-28T01:05:18.000Z"
+    },
+    {
+      "id": "86f3471172b7ebc9",
+      "title": "9to5Mac Daily: August 27, 2026 – AirPods 5 rumors, Apple Maps ads",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/27/daily-august-27-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T01:04:16.000Z"
+    },
+    {
+      "id": "ba78b1ac68b32b5b",
+      "title": "‘Dark Matter’ season 2 premieres on Apple TV",
+      "description": "The first episode of the new season of Dark Matter is now available to Apple TV subscribers. Watch the trailer for the new season below.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/dark-matter.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/27/dark-matter-season-2-premieres-on-apple-tv/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T01:01:22.000Z"
+    },
+    {
+      "id": "470bf29fc9a7be63",
+      "title": "Apple Pay is getting even better with four new features and more",
+      "description": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/27/apple-pay-is-getting-even-better-with-four-new-features/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-27T23:34:07.000Z"
+    },
+    {
+      "id": "d3c8c9c79684fa66",
+      "title": "The biggest video game of all time looks like a movie",
+      "description": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige crime drama than any video game trailer",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-27T23:20:00.000Z"
+    },
+    {
+      "id": "5da3f0f16f12183a",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-27T23:16:45.000Z"
+    },
+    {
+      "id": "109eeb8878b737b7",
+      "title": "OpenAI renews push to get Apple’s trade secret theft lawsuit tossed",
+      "description": "Chang Liu, Tang Tan, OpenAI, and io Products filed a new petition asking the court to dismiss Apple’s trade secret misappropriation complaint with prejudice. Here’s what that means.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/27/openai-renews-push-to-get-apples-trade-secret-theft-lawsuit-tossed/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-27T23:08:40.000Z"
+    },
+    {
+      "id": "8b0fe8883731b92f",
+      "title": "Tim Cook and John Ternus host Pikachu and The Pokémon Company CEO at Apple Park",
+      "description": "In a tongue-in-cheek post on X, Apple CEO Tim Cook shared a video showing Pikachu running around Apple Park during a visit from the Pokémon team. Watch it below.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/27/tim-cook-and-john-ternus-host-pikachu-and-the-pokemon-company-ceo-at-apple-park/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-27T22:24:41.000Z"
+    },
+    {
+      "id": "3beb5fa2e2c569e1",
+      "title": "Pikachu Visits Apple Park, Meets Tim Cook and John Ternus",
+      "description": "Tim Cook shared an inside look at the work he is doing behind the scenes as he prepares to step down as Apple's CEO next week. Cook has been preparing incoming CEO John Ternus for the transition over the last several months, and today he introduced Ternus to popular Pokémon character Pikachu.\r\n\r\n\r\nC",
+      "image": "https://images.macrumors.com/article-new/2026/08/cook-ternus-pikachu.jpg",
+      "url": "https://www.macrumors.com/2026/08/27/pikachu-apple-park-cook-ternus/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-27T22:10:19.000Z"
+    },
+    {
+      "id": "b399ecf6974d9542",
+      "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+      "description": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a re",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0059.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-27T21:37:45.000Z"
+    },
+    {
       "id": "609dffdd8e5d5339",
       "title": "Apple announces App Store price changes in four countries",
       "description": "Apple’s Developer blog today announced tax and price updates for apps, In-App Purchases, and subscriptions in several regions. Here are the details.",
@@ -154,143 +292,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-27T18:20:18.000Z"
-    },
-    {
-      "id": "7887a05233f50fef",
-      "title": "Tim Cook Stepping Down as Apple CEO Next Week: 15 Years in Quotes",
-      "description": "Tim Cook will be stepping down as Apple's CEO in just five more days, with the company's hardware engineering chief John Ternus set to take over.\r\n\r\n\r\nBelow, we have surfaced some of Cook's notable quotes over his 15 years leading Apple.\r\n\r\nI want you to be confident that Apple is not going to chang",
-      "image": "https://images.macrumors.com/article-new/2026/04/Tim-Cook-Apple-Logo.jpg",
-      "url": "https://www.macrumors.com/2026/08/27/tim-cook-15-years-of-quotes/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T18:13:20.000Z"
-    },
-    {
-      "id": "3e2fc7a0677f0987",
-      "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
-      "description": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
-      "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T17:54:23.000Z"
-    },
-    {
-      "id": "148a3ad57446f694",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T17:43:24.000Z"
-    },
-    {
-      "id": "1e6a90b80bdf48c5",
-      "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
-      "description": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
-      "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T17:05:45.000Z"
-    },
-    {
-      "id": "6be0a199aa86ac72",
-      "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
-      "description": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.",
-      "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T17:00:00.000Z"
-    },
-    {
-      "id": "1900198cc94f06ab",
-      "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
-      "description": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
-      "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T16:53:50.000Z"
-    },
-    {
-      "id": "746b0215e6666da6",
-      "title": "2025 vs. 2026 Mac Studio Buyer's Guide: All Upgrades Compared",
-      "description": "Apple this week announced a new Mac Studio with the M5 Max and M5 Ultra chips, discontinuing the M4 Max and M3 Ultra models that had been on sale since March 2025.\r\n\r\n\r\nThe machine's design is unchanged for a fifth consecutive year, with all of the upgrades being internal. The table below details ev",
-      "image": "https://images.macrumors.com/article-new/2026/08/image.png",
-      "url": "https://www.macrumors.com/guide/2025-vs-2026-mac-studio/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T16:30:02.000Z"
-    },
-    {
-      "id": "e1cc10c85d38cf11",
-      "title": "Speedo’s new smart goggles module can track all four swim strokes",
-      "description": "You can pair Speedo’s Vanquisher goggles with its iQ module. | Image: Speedo\t\n\nSpeedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system u",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/8-E000235012-B1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T16:18:51.000Z"
-    },
-    {
-      "id": "2a0315b58255b906",
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\"   \nHe's right. For the su",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T16:15:52.000Z"
-    },
-    {
-      "id": "c09237e7761e9bf5",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T16:00:00.000Z"
-    },
-    {
-      "id": "5f9d34c953c6cf5b",
-      "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
-      "description": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED TVs.\nThe Bravia 6 OLED comes",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sony-Bravia-6-lifestyle.jpg?quality=90&#038;strip=all&#038;crop=22.8,23.10036094314,54.8,50.799231237988",
-      "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T16:00:00.000Z"
-    },
-    {
-      "id": "16cf27e893ed784b",
-      "title": "Americans are cheering for vigilantes who take down Flock cameras",
-      "description": "Americans have declared war on Flock cameras. They've protested them, damaged them, and destroyed them. This is only the beginning. \nThe spontaneous and decentralized nature of the vigilante protests is also what makes them difficult to suppress. There isn't a uniform method of disruption; people ha",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T15:49:47.000Z"
-    },
-    {
-      "id": "278226d165fd5025",
-      "title": "How to watch Apple’s September event: iPhone 18 Pro, iPhone Ultra, more",
-      "description": "Apple has announced September 9 as the date for its iPhone launch event, with a tagline: ‘Surprise and shine.’ Here’s how to watch the September event live, and a roundup of new products rumored to debut.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/how-to-watch-apples-september-event-iphone-18-pro-iphone-ultra-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T15:44:11.000Z"
-    },
-    {
-      "id": "d9bd5c31c684a2d2",
-      "title": "Deals: iPhone 17 Pro up to $285 off, AirTag 2, AirPods Pro 3, Anker MagSafe Nano power bank, more",
-      "description": "Joining this week’s AirPods Pro 3 discount and best deals yet on AirTag 2 from $20 each, today’s 9to5Toys Lunch Break is headlined by Anker’s MagSafe Nano Power Bank down at $49 in all colors, up to down at $60. Just be sure to dive into the now live ecobee 2026 Labor Day sale – HomeKit thermostats,",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-iPhone-17-Pro-MagSafe-power-bank-homekit.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/deals-iphone-17-pro-airtag-2-airpods-pro-3-power-bank/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T15:31:20.000Z"
     }
   ],
-  "lastUpdated": "2026-08-27T21:10:01.576Z",
+  "lastUpdated": "2026-08-28T09:00:40.934Z",
   "sources": [
     "TechCrunch",
     "The Verge",
