@@ -1,300 +1,297 @@
 {
   "articles": [
     {
-      "id": "93100da032eb5bf4",
-      "title": "Apple pledges donation following deadly floods in Nepal and Tibet",
-      "description": "Apple is once again stepping up to contribute to support relief efforts following a deadly natural disaster. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/Trump-says-Apple-will-invest-a-further-100B-in-US-production.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/apple-pledges-donation-following-deadly-floods-in-nepal-and-tibet/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T03:14:41.000Z"
-    },
-    {
-      "id": "787cc407d3044922",
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "description": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. \nThe lawsuit, filed in March in a California district court, accused the Trump adminis",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T03:14:06.000Z"
-    },
-    {
-      "id": "242d3fea68e911ff",
-      "title": "Afterglow brings classic After Dark screen savers to modern Macs",
-      "description": "This interesting project by Jeff Halter (via Daring Fireball) lets users run the original 68k After Dark screen saver modules on modern Macs. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/afterglow.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/afterglow-brings-classic-after-dark-screen-savers-to-modern-macs/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T02:49:54.000Z"
-    },
-    {
-      "id": "f924a0731a850572",
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-      "description": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking t",
-      "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "id": "a50127bad95462fb",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-28T02:02:44.000Z"
+      "publishedAt": "2026-08-28T20:24:11.000Z"
     },
     {
-      "id": "06919865cc02f040",
-      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-      "description": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T01:05:18.000Z"
-    },
-    {
-      "id": "86f3471172b7ebc9",
-      "title": "9to5Mac Daily: August 27, 2026 – AirPods 5 rumors, Apple Maps ads",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/daily-august-27-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T01:04:16.000Z"
-    },
-    {
-      "id": "ba78b1ac68b32b5b",
-      "title": "‘Dark Matter’ season 2 premieres on Apple TV",
-      "description": "The first episode of the new season of Dark Matter is now available to Apple TV subscribers. Watch the trailer for the new season below.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/dark-matter.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/dark-matter-season-2-premieres-on-apple-tv/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T01:01:22.000Z"
-    },
-    {
-      "id": "470bf29fc9a7be63",
-      "title": "Apple Pay is getting even better with four new features and more",
-      "description": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/apple-pay-is-getting-even-better-with-four-new-features/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T23:34:07.000Z"
-    },
-    {
-      "id": "d3c8c9c79684fa66",
-      "title": "The biggest video game of all time looks like a movie",
-      "description": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige crime drama than any video game trailer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T23:20:00.000Z"
-    },
-    {
-      "id": "5da3f0f16f12183a",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "id": "520fd690b6b04a96",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-27T23:16:45.000Z"
+      "publishedAt": "2026-08-28T19:30:38.000Z"
     },
     {
-      "id": "109eeb8878b737b7",
-      "title": "OpenAI renews push to get Apple’s trade secret theft lawsuit tossed",
-      "description": "Chang Liu, Tang Tan, OpenAI, and io Products filed a new petition asking the court to dismiss Apple’s trade secret misappropriation complaint with prejudice. Here’s what that means.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/openai-renews-push-to-get-apples-trade-secret-theft-lawsuit-tossed/",
+      "id": "dadb1a3524f49085",
+      "title": "Apple Photos in iOS 27 upgrades one of my favorite features in a big way",
+      "description": "Apple Photos is full of exciting updates in iOS 27, including for one of my favorite features in the app: iCloud Shared Albums.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/28/apple-photos-in-ios-27-upgrades-one-of-my-favorite-features-in-a-big-way/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-27T23:08:40.000Z"
+      "publishedAt": "2026-08-28T19:26:40.000Z"
     },
     {
-      "id": "8b0fe8883731b92f",
-      "title": "Tim Cook and John Ternus host Pikachu and The Pokémon Company CEO at Apple Park",
-      "description": "In a tongue-in-cheek post on X, Apple CEO Tim Cook shared a video showing Pikachu running around Apple Park during a visit from the Pokémon team. Watch it below.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/tim-cook-and-john-ternus-host-pikachu-and-the-pokemon-company-ceo-at-apple-park/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T22:24:41.000Z"
-    },
-    {
-      "id": "3beb5fa2e2c569e1",
-      "title": "Pikachu Visits Apple Park, Meets Tim Cook and John Ternus",
-      "description": "Tim Cook shared an inside look at the work he is doing behind the scenes as he prepares to step down as Apple's CEO next week. Cook has been preparing incoming CEO John Ternus for the transition over the last several months, and today he introduced Ternus to popular Pokémon character Pikachu.\r\n\r\n\r\nC",
-      "image": "https://images.macrumors.com/article-new/2026/08/cook-ternus-pikachu.jpg",
-      "url": "https://www.macrumors.com/2026/08/27/pikachu-apple-park-cook-ternus/",
+      "id": "7ab0842a8347b62d",
+      "title": "Steve Jobs' 8th Grade Science Project Sells for $34,375",
+      "description": "A science project that Apple co-founder Steve Jobs built for his 8th-grade science fair sold at auction for $34,375.\r\n\r\n\r\nJobs was attending Cupertino Jr. High when he designed the project, which is titled \"What is the SCR?\" The lot includes a display board built from plywood with three explanatory ",
+      "image": "https://images.macrumors.com/article-new/2026/08/steve-jobs-rr-auction-science-project.jpg",
+      "url": "https://www.macrumors.com/2026/08/28/steve-jobs-science-project-auction/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-08-27T22:10:19.000Z"
+      "publishedAt": "2026-08-28T19:24:43.000Z"
     },
     {
-      "id": "b399ecf6974d9542",
-      "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
-      "description": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a re",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0059.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T21:37:45.000Z"
-    },
-    {
-      "id": "609dffdd8e5d5339",
-      "title": "Apple announces App Store price changes in four countries",
-      "description": "Apple’s Developer blog today announced tax and price updates for apps, In-App Purchases, and subscriptions in several regions. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-developer.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/apple-announces-app-store-price-changes-in-four-countries/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T20:31:32.000Z"
-    },
-    {
-      "id": "339a59ab94b4d2f6",
-      "title": "Rivian’s CFO is leaving the company",
-      "description": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
-      "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+      "id": "b8da16f189fc2839",
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "description": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-27T20:23:10.000Z"
+      "publishedAt": "2026-08-28T18:50:00.000Z"
     },
     {
-      "id": "a4720090e93fc289",
-      "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
-      "description": "Sometimes people just want to post to their followers, Bluesky says.",
-      "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+      "id": "fad1c2b5c0f5a069",
+      "title": "HomeKit Weekly: Linkind’s Smart Light Stick brings flame effects with Matter support",
+      "description": "“Flame effects” is not something I’d used before in a smart bulb, so this was a super interesting concept to me. Linkind’s Smart Light Stick aims to bring the idea of a “live flame” to a smart bulb, and it works with Apple Home out of the box thanks to Matter.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Linkind-Smart-Light-Stick-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/28/linkinds-smart-light-stick-brings-flame-effects-and-matter-support/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T18:49:00.000Z"
+    },
+    {
+      "id": "260a4fac607f975a",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "description": "There's a lot of capital pouring into the business of giving models away.",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-27T20:15:26.000Z"
+      "publishedAt": "2026-08-28T18:19:40.000Z"
     },
     {
-      "id": "0f45f66372df6588",
-      "title": "Apple cleared for the second time to pursue documents from federal agencies in antitrust case",
-      "description": "Special Master Jose Linares has rejected the DOJ’s request to reconsider his decision allowing Apple to seek documents from 14 separate government agencies in the antitrust case against the company. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/apple-cleared-for-the-second-time-to-pursue-documents-from-federal-agencies-in-antitrust-case/",
+      "id": "c7c290f10fc6554b",
+      "title": "Which Macs Will Get an M6 Chip and Which Won't?",
+      "description": "Apple announced new Mac mini machines this week, and the lower-end models include the first M6 chip. The M6 era will be a little complicated, because few Macs are going to get it. We won't have M6 Pro or M6 Max chips, which shakes up the Mac lineup for the next couple of years.\r\n\r\nSubscribe to the M",
+      "url": "https://www.macrumors.com/2026/08/28/m6-chip-macs/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T18:11:45.000Z"
+    },
+    {
+      "id": "3d3238956bfe2088",
+      "title": "Here’s how Apple Watch Ultra 4 will differentiate itself from prior models",
+      "description": "Apple Watch Ultra 4 is coming on September 9, here are the key ways it’s rumored to differentiate itself from prior models.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-watchos-27-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-27T20:08:59.000Z"
+      "publishedAt": "2026-08-28T18:09:24.000Z"
     },
     {
-      "id": "52662a24e637638f",
-      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-      "description": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
-      "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+      "id": "201246f3e1dab200",
+      "title": "ChatGPT and Codex now support multiple Gmail and Google Calendar accounts",
+      "description": "OpenAI confirmed today that ChatGPT and Codex users can now add multiple Gmail and Google Cal accounts. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T18:01:41.000Z"
+    },
+    {
+      "id": "193891762750385c",
+      "title": "Apple's Siri Settlement: Here's When iPhone Owners Can Submit Claims",
+      "description": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout. Today, a new court document revealed when customers will likely be able to begin submitting claims.\r\n\r\n\r\nIf the dates proposed by ",
+      "image": "https://images.macrumors.com/article-new/2024/09/iphone-16-teal.jpg",
+      "url": "https://www.macrumors.com/2026/08/28/apple-siri-ai-settlement-claims-timing/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T18:01:20.000Z"
+    },
+    {
+      "id": "a55ec458c94a6371",
+      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+      "description": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
+      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-27T20:04:26.000Z"
+      "publishedAt": "2026-08-28T17:09:05.000Z"
     },
     {
-      "id": "d36c489d66728841",
-      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-      "description": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, eventually shifting to November 19th, 2026, a full year after its origi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "id": "2171810909dacfb4",
+      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+      "description": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for dee",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/TCL-QM7L-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-27T20:01:56.000Z"
+      "publishedAt": "2026-08-28T17:03:07.000Z"
     },
     {
-      "id": "c7915a2c21d3b163",
-      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-      "description": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
-      "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+      "id": "5b9b0591d3849421",
+      "title": "WhatsApp rolls out new chat themes on iOS, including animated wallpapers",
+      "description": "Following the recent discovery that WhatsApp was working on new chat themes, the feature is now rolling out to iPhone users. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T16:30:09.000Z"
+    },
+    {
+      "id": "4ec659df709ff048",
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "description": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to co",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-28T16:28:40.000Z"
+    },
+    {
+      "id": "267c38af828aac7c",
+      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+      "description": "The unofficial version of DLSS 5 makes Jesse Faden’s features much more pronounced. | Image: gabdeg via YouTube\n\t\n\nModders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-ac",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-28T16:22:16.000Z"
+    },
+    {
+      "id": "ea04225e12161a24",
+      "title": "This New App Brings 1990s 'After Dark' Screen Savers to Modern macOS",
+      "description": "As noted by Daring Fireball's John Gruber, developer Jeff Halter has released a new Afterglow app that allows you to run classic After Dark screen savers on modern macOS versions.\r\n\r\nseveral fun nostalgic projects, such as After Dark space shooter Lunacy and HyperCard player Stacks.\nThis article, \"T",
+      "image": "https://images.macrumors.com/article-new/2026/08/Afterglow.jpg",
+      "url": "https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T16:16:15.000Z"
+    },
+    {
+      "id": "35d2801556fafabe",
+      "title": "iPhone 18 Pro: Two new features I’m excited to upgrade for",
+      "description": "Apple will unveil the iPhone 18 Pro on September 9, but rumors have already leaked a lot of what to expect. And there are two standout features that I’m excited to upgrade for.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-two-new-features-im-excited-to-upgrade-for/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T16:14:44.000Z"
+    },
+    {
+      "id": "30cbf3735c757e04",
+      "title": "The MacRumors Show: Apple's Surprisingly Big Week of Announcements",
+      "description": "It's been an unusually big week for Apple announcements. On this week's episode of The MacRumors Show, we discuss the new Mac mini and Mac Studio, the M6 and M5 Ultra chips, and invites to Apple's September event. \r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\nApple confirmed ",
+      "url": "https://www.macrumors.com/2026/08/28/the-macrumors-show-apple-week-of-announcements/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T16:12:18.000Z"
+    },
+    {
+      "id": "b1a629bf71387156",
+      "title": "This video experiment perfectly illustrates my frustration with iPhone Cinematic mode",
+      "description": "I recently observed that Apple appeared to have abandoned Cinematic mode, and a video experiment perfectly illustrates my frustration at this fact.\nThat’s not because the feature is bad, but rather that it comes so close to being good enough for real-life use that it’s hard to see why Apple hasn’t t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/This-video-experiment-perfectly-illustrates-my-frustration-with-iPhone-Cinematic-mode.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/28/this-video-experiment-perfectly-illustrates-my-frustration-with-iphone-cinematic-mode/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T16:00:00.000Z"
+    },
+    {
+      "id": "b94d68bb15dd2fbf",
+      "title": "More Americans oppose police license plate cameras than support them: survey",
+      "description": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
+      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-27T19:54:28.000Z"
+      "publishedAt": "2026-08-28T15:57:58.000Z"
     },
     {
-      "id": "b63c77f03fe5a663",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "id": "235326038137fed9",
+      "title": "Apple TV Buys an Existing Hit for the First Time Ever",
+      "description": "Apple TV has bought the worldwide rights to \"Small Prophets,\" breaking with how it normally operates in acquiring an existing English-language hit rather than commissioning a show of its own from the start.\r\n\r\n\r\n\r\n‌Apple TV‌ has typically developed or, at the very least, commissioned shows in-house ",
+      "image": "https://images.macrumors.com/article-new/2025/10/Apple-TV-Color.jpg",
+      "url": "https://www.macrumors.com/2026/08/28/apple-tv-buys-an-existing-hit-for-first-time/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T15:52:49.000Z"
+    },
+    {
+      "id": "efe49a9f3e0b038a",
+      "title": "Friend-focused photo-sharing app Retro snags $21M",
+      "description": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
+      "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-27T19:52:52.000Z"
+      "publishedAt": "2026-08-28T15:35:03.000Z"
     },
     {
-      "id": "33236615c58af98e",
-      "title": "GTA VI looks just as great as we could hope for",
-      "description": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes. But everything just looks much better than previous entries, with impress",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-3.26.13-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
+      "id": "f217641d1edb781d",
+      "title": "Deals: Amazon Labor Day sale, AirPods Pro 3, M6 Mac mini, Apple Watch $200, AirTag 2, more",
+      "description": "The massive 2026 Amazon Labor Day sale is now live with $50 off AirPods Pro 3 and the ongoing all-time low on AirTag 2 from just $20 each. However, today’s 9to5Toys Lunch Break is headlined by Amazon now offering the first cash discounts on the brand new M6 Mac mini and M5 Pro Mac mini as well as th",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M6-Mac-mini-AirPods-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T15:29:34.000Z"
+    },
+    {
+      "id": "5a52ff8d760e123e",
+      "title": "The iPhone Fold could make concerts even worse",
+      "description": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it.\nThis week on The Vergecast, we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as well",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST_0828_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-08-27T19:49:57.000Z"
+      "publishedAt": "2026-08-28T15:26:19.000Z"
     },
     {
-      "id": "a7b61b16ed7e4ca8",
-      "title": "New Apple TV 4K is coming: Four features launching soon",
-      "description": "A new Apple TV 4K is long overdue, and was originally expected to launch last fall. But now that Siri AI is finally ready, all signs point to the new Apple TV 4K being unveiled soon—possibly at the September 9 event. Here’s what’s rumored.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Apple-TV-4K-2022.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/new-apple-tv-4k-is-coming-four-features-launching-soon/",
+      "id": "3ea5807cbcd96030",
+      "title": "iPhone 18 Pro Pre-Orders May Start at an Unusual Time",
+      "description": "Pre-orders of Apple's iPhone 18 Pro may not open until Saturday, September 12, a day later than the company's usual schedule, according to a new report.\r\n\r\n\r\nApple is set to hold its annual iPhone event on Wednesday, September 9, where the ‌iPhone 18 Pro‌ models, its first-ever foldable iPhone, and ",
+      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/28/iphone-18-pro-pre-orders-may-start-at-unusual-time/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T15:17:27.000Z"
+    },
+    {
+      "id": "864808cba3cccc88",
+      "title": "Apple’s new M6 adds feature previously exclusive to high-end chips",
+      "description": "Apple’s next-generation M6 chip is here, debuting first in the new Mac mini. And among its powerful upgrades, M6 gets a new feature previously exclusive to higher-end chips like M5 Pro and Max.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6-lg-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/28/apples-new-m6-adds-feature-previously-exclusive-to-high-end-chips/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-27T19:30:51.000Z"
+      "publishedAt": "2026-08-28T15:07:28.000Z"
     },
     {
-      "id": "f6419bce6bed094c",
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "description": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate pla",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "source": "The Verge",
+      "id": "5ccc8512ffe1539b",
+      "title": "What NOT to Expect at Apple's 'Surprise and Shine' September 9 Event",
+      "description": "Apple's annual fall event takes place on Wednesday, September 9, when it is expected to unveil new iPhone 18 Pro models, the first foldable iPhone, an Apple Watch Series 12, a fourth-generation Apple Watch Ultra, and potentially AirPods 5. Apple may also make some additional new products available a",
+      "image": "https://images.macrumors.com/article-new/2026/08/What-Not-To-Expect-From-Surprise-and-Shine-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/08/28/what-not-to-expect-apple-sept-9-event/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-28T14:54:56.000Z"
+    },
+    {
+      "id": "acc7533a45325e68",
+      "title": "Apple TV is raising its subscription prices again",
+      "description": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
+      "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+      "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-08-27T19:30:00.000Z"
+      "publishedAt": "2026-08-28T14:36:48.000Z"
     },
     {
-      "id": "905acf351fd43932",
-      "title": "New Mac mini, new Mac Studio announced as iPhone 18 Pro event confirmed",
-      "description": "Benjamin and Chance break down an action-packed week of news, with a new lineup of Mac mini and Mac Studio announced, invites officially going out for the September iPhone event, and even more rumors about what new products to expect later this fall.\nAnd in Happy Hour Plus, we discuss the reasons be",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/happy-hour-605/",
+      "id": "2eccb82cdaafa788",
+      "title": "Apple will launch 15+ new products this fall, here’s what’s coming",
+      "description": "Apple has a packed lineup of products launching this fall, including new iPhones, Macs, iPads, and more. Here’s every new Apple product rumored to arrive starting September 9.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/08/28/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-08-27T19:20:20.000Z"
-    },
-    {
-      "id": "72d5fde950883e8e",
-      "title": "iOS 27’s Passwords app adds powerful feature that can save you time",
-      "description": "Among the many Apple Intelligence features coming in iOS 27, the Passwords app is getting an especially powerful one: the ability to automatically change your passwords for you.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/passwords-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/ios-27s-passwords-app-can-change-your-passwords-for-you-automatically/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T19:14:11.000Z"
-    },
-    {
-      "id": "af95031685560fd9",
-      "title": "Google tells Android app developers to cool it on memory use, or else",
-      "description": "The memory crisis just won’t quit. | Image: Alex Castro / The Verge\t\n\nGoogle will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage restriction",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/acastro_STK112_android_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-27T18:33:11.000Z"
-    },
-    {
-      "id": "8dad63519e8a04ae",
-      "title": "New Mac mini and more now available from Amazon for launch day pre-order [Updated]",
-      "description": "Update August 27, 2026: The new Mac Studio is also now available for pre-order on Amazon. \nApple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models.\nIf you’re in the market for some of today’s new Apple gear, you now have the choice to pre-order from ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-mac-studio-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/new-mac-mini-now-available-amazon-launch-day-preorder/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T18:23:29.000Z"
-    },
-    {
-      "id": "1cfc0954735f86ac",
-      "title": "M6 Mac mini: Three things Apple didn’t highlight in the announcement",
-      "description": "A new Mac mini with M6 and M5 Pro was unveiled this week, but we’ve since learned three things about the product that weren’t highlighted by Apple.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-top-down-m6.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/27/m6-mac-mini-three-things-apple-didnt-highlight-in-the-announcement/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-27T18:20:18.000Z"
+      "publishedAt": "2026-08-28T14:16:09.000Z"
     }
   ],
-  "lastUpdated": "2026-08-28T09:00:40.934Z",
+  "lastUpdated": "2026-08-28T21:22:45.443Z",
   "sources": [
     "TechCrunch",
     "The Verge",
