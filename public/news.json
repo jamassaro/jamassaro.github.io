@@ -1,6 +1,161 @@
 {
   "articles": [
     {
+      "id": "a7d844ad6d681580",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T17:51:10.000Z"
+    },
+    {
+      "id": "59ae37d66b6d21a5",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T17:36:47.000Z"
+    },
+    {
+      "id": "e796f4c1f7ea9cdc",
+      "title": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
+      "description": "Since iOS 26.4, Apple has supported conversational apps on CarPlay.\nThis category includes AI chatbot apps. Siri AI joins the CarPlay party starting with iOS 27. The iPhone software update is currently in beta ahead of the official launch in September.\nMeanwhile, the fourth third-party AI chatbot ha",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/best-carplay-apps.webp?w=1600",
+      "url": "https://9to5mac.com/2026/08/29/apple-carplay-gaining-a-new-ai-chatbot-app-before-siri-ai-arrives/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T17:13:20.000Z"
+    },
+    {
+      "id": "c7a829d3ae3755a7",
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "description": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T16:10:00.000Z"
+    },
+    {
+      "id": "a4d715dab1d02117",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "description": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, fo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268605_BYOK_TOBrien_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T16:01:13.000Z"
+    },
+    {
+      "id": "101b6bea167ab822",
+      "title": "Tested: You have to see Sharge’s impressive new metal unibody power bank with display [Launch deal]",
+      "description": "Not all power banks are made equal. Some feature one of the most impressive designs I have ever seen with an onboard display, the ability to charge two MacBooks at once, RGB lighting, and a a pair of window cutouts in the solid metal housing to put the internal tech on display – Sharge’s new Shargee",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Shargeek-300-Power-Bank-review-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T15:51:36.000Z"
+    },
+    {
+      "id": "9649e9937227b687",
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "description": "10 out of 10 beard. | Photo: Ben Mekler\t\n\nJoseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Val",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/unnamed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T15:00:00.000Z"
+    },
+    {
+      "id": "1b96296c2c9207a5",
+      "title": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming",
+      "description": "As soon as next year, Apple will be debuting its first pair of AI-powered smart glasses. They’ll integrate Visual Intelligence and bring Siri to the real world. Here’s what we’re expecting.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T14:48:00.000Z"
+    },
+    {
+      "id": "bc7cb25f04fbd203",
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assume",
+      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T14:00:00.000Z"
+    },
+    {
+      "id": "7e05cbf1e0d4e716",
+      "title": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio",
+      "description": "It turned out to be a big week for Apple news this week, as we not only got an official announcement about the upcoming iPhone event but also several hardware announcements including updated Mac mini and Mac Studio models.\r\n\r\n\r\nAnticipation continues to build for Apple's first foldable iPhone coming",
+      "image": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-29.jpg",
+      "url": "https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T13:00:12.000Z"
+    },
+    {
+      "id": "4fdad038efc949ad",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T13:00:00.000Z"
+    },
+    {
+      "id": "4f67581401cf2826",
+      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+      "description": "The Z Flip 8 is designed to be used shut more than ever before. | Photo: Dominic Preston / The Verge\t\n\nWhat do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T13:00:00.000Z"
+    },
+    {
+      "id": "7c640c1a62955049",
+      "title": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
+      "description": "Apple introduced the M6 and M5 Pro Mac mini this week, and Amazon currently has the first pre-order discounts on these models ahead of their September launch. Below, we're also tracking a new record low price on the AirTag 2 during Amazon's Labor Day event.\r\n\r\nNote: MacRumors is an affiliate partner",
+      "image": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
+      "url": "https://www.macrumors.com/2026/08/29/best-apple-deals-of-the-week-8-28-26/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T12:31:59.000Z"
+    },
+    {
+      "id": "1fe9a49661f92168",
+      "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more",
+      "description": "Update: The official Apple MagSafe Battery back down to the lowest price ever in brand new condition at 40% off. Or you can land one via Amazon Resale down at just $39 (60% off). \nWe are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongsi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-late-August-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/29/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T12:13:39.000Z"
+    },
+    {
+      "id": "7e9d77d497183a10",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediat",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T12:00:00.000Z"
+    },
+    {
+      "id": "f6479689f322c4b3",
+      "title": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parallels-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/29/parallels-desktop-27/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T12:00:00.000Z"
+    },
+    {
       "id": "4a08909abbe39371",
       "title": "9to5Mac Daily: August 28, 2026 – Foldable iPhone expectations, more",
       "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
@@ -134,164 +289,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-28T18:49:00.000Z"
-    },
-    {
-      "id": "260a4fac607f975a",
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "description": "There's a lot of capital pouring into the business of giving models away.",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T18:19:40.000Z"
-    },
-    {
-      "id": "c7c290f10fc6554b",
-      "title": "Which Macs Will Get an M6 Chip and Which Won't?",
-      "description": "Apple announced new Mac mini machines this week, and the lower-end models include the first M6 chip. The M6 era will be a little complicated, because few Macs are going to get it. We won't have M6 Pro or M6 Max chips, which shakes up the Mac lineup for the next couple of years.\r\n\r\nSubscribe to the M",
-      "url": "https://www.macrumors.com/2026/08/28/m6-chip-macs/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T18:11:45.000Z"
-    },
-    {
-      "id": "3d3238956bfe2088",
-      "title": "Here’s how Apple Watch Ultra 4 will differentiate itself from prior models",
-      "description": "Apple Watch Ultra 4 is coming on September 9, here are the key ways it’s rumored to differentiate itself from prior models.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-watchos-27-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T18:09:24.000Z"
-    },
-    {
-      "id": "201246f3e1dab200",
-      "title": "ChatGPT and Codex now support multiple Gmail and Google Calendar accounts",
-      "description": "OpenAI confirmed today that ChatGPT and Codex users can now add multiple Gmail and Google Cal accounts. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
-      "url": "https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T18:01:41.000Z"
-    },
-    {
-      "id": "193891762750385c",
-      "title": "Apple's Siri Settlement: Here's When iPhone Owners Can Submit Claims",
-      "description": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout. Today, a new court document revealed when customers will likely be able to begin submitting claims.\r\n\r\n\r\nIf the dates proposed by ",
-      "image": "https://images.macrumors.com/article-new/2024/09/iphone-16-teal.jpg",
-      "url": "https://www.macrumors.com/2026/08/28/apple-siri-ai-settlement-claims-timing/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T18:01:20.000Z"
-    },
-    {
-      "id": "a55ec458c94a6371",
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-      "description": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
-      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T17:09:05.000Z"
-    },
-    {
-      "id": "2171810909dacfb4",
-      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-      "description": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for dee",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/TCL-QM7L-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T17:03:07.000Z"
-    },
-    {
-      "id": "5b9b0591d3849421",
-      "title": "WhatsApp rolls out new chat themes on iOS, including animated wallpapers",
-      "description": "Following the recent discovery that WhatsApp was working on new chat themes, the feature is now rolling out to iPhone users. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T16:30:09.000Z"
-    },
-    {
-      "id": "4ec659df709ff048",
-      "title": "Trump’s EPA wants to let data centers hide their air pollution",
-      "description": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to co",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T16:28:40.000Z"
-    },
-    {
-      "id": "267c38af828aac7c",
-      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-      "description": "The unofficial version of DLSS 5 makes Jesse Faden’s features much more pronounced. | Image: gabdeg via YouTube\n\t\n\nModders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-ac",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T16:22:16.000Z"
-    },
-    {
-      "id": "ea04225e12161a24",
-      "title": "This New App Brings 1990s 'After Dark' Screen Savers to Modern macOS",
-      "description": "As noted by Daring Fireball's John Gruber, developer Jeff Halter has released a new Afterglow app that allows you to run classic After Dark screen savers on modern macOS versions.\r\n\r\nseveral fun nostalgic projects, such as After Dark space shooter Lunacy and HyperCard player Stacks.\nThis article, \"T",
-      "image": "https://images.macrumors.com/article-new/2026/08/Afterglow.jpg",
-      "url": "https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T16:16:15.000Z"
-    },
-    {
-      "id": "35d2801556fafabe",
-      "title": "iPhone 18 Pro: Two new features I’m excited to upgrade for",
-      "description": "Apple will unveil the iPhone 18 Pro on September 9, but rumors have already leaked a lot of what to expect. And there are two standout features that I’m excited to upgrade for.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-two-new-features-im-excited-to-upgrade-for/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T16:14:44.000Z"
-    },
-    {
-      "id": "30cbf3735c757e04",
-      "title": "The MacRumors Show: Apple's Surprisingly Big Week of Announcements",
-      "description": "It's been an unusually big week for Apple announcements. On this week's episode of The MacRumors Show, we discuss the new Mac mini and Mac Studio, the M6 and M5 Ultra chips, and invites to Apple's September event. \r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\nApple confirmed ",
-      "url": "https://www.macrumors.com/2026/08/28/the-macrumors-show-apple-week-of-announcements/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T16:12:18.000Z"
-    },
-    {
-      "id": "b1a629bf71387156",
-      "title": "This video experiment perfectly illustrates my frustration with iPhone Cinematic mode",
-      "description": "I recently observed that Apple appeared to have abandoned Cinematic mode, and a video experiment perfectly illustrates my frustration at this fact.\nThat’s not because the feature is bad, but rather that it comes so close to being good enough for real-life use that it’s hard to see why Apple hasn’t t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/This-video-experiment-perfectly-illustrates-my-frustration-with-iPhone-Cinematic-mode.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/28/this-video-experiment-perfectly-illustrates-my-frustration-with-iphone-cinematic-mode/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T16:00:00.000Z"
-    },
-    {
-      "id": "b94d68bb15dd2fbf",
-      "title": "More Americans oppose police license plate cameras than support them: survey",
-      "description": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
-      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T15:57:58.000Z"
-    },
-    {
-      "id": "235326038137fed9",
-      "title": "Apple TV Buys an Existing Hit for the First Time Ever",
-      "description": "Apple TV has bought the worldwide rights to \"Small Prophets,\" breaking with how it normally operates in acquiring an existing English-language hit rather than commissioning a show of its own from the start.\r\n\r\n\r\n\r\n‌Apple TV‌ has typically developed or, at the very least, commissioned shows in-house ",
-      "image": "https://images.macrumors.com/article-new/2025/10/Apple-TV-Color.jpg",
-      "url": "https://www.macrumors.com/2026/08/28/apple-tv-buys-an-existing-hit-for-first-time/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T15:52:49.000Z"
     }
   ],
-  "lastUpdated": "2026-08-29T06:02:39.204Z",
+  "lastUpdated": "2026-08-29T18:02:51.120Z",
   "sources": [
     "TechCrunch",
     "The Verge",
