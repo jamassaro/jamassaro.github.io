@@ -1,6 +1,75 @@
 {
   "articles": [
     {
+      "id": "e78c180db8e76222",
+      "title": "Apple Card keeps getting better, here’s everything new",
+      "description": "Apple Card launched seven years ago this month, and it keeps getting better. There are new features, perks, rewards, and more. Plus, there’s one major change looming.\nHere’s everything new with Apple Card lately.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T23:18:38.000Z"
+    },
+    {
+      "id": "f547b0420c949fbf",
+      "title": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?",
+      "description": "Earlier this year, rumors were rampant about a revamped Health app coming to iOS 26.4. Then the project was delayed, and iOS 27 came and went, and the revamp still didn’t arrive.\nWith the new Apple Watch Series 12 and Ultra 4 debuting next month, it’s worth asking: will we see the features debut alo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T21:38:00.000Z"
+    },
+    {
+      "id": "7c51d688e441f31f",
+      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+      "description": "Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge\t\n\nI used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-29-at-4.57.57-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T20:59:26.000Z"
+    },
+    {
+      "id": "32438d9a05dd6c3c",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "description": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13604714/milopatreon.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T19:49:59.000Z"
+    },
+    {
+      "id": "9ff7b33516205541",
+      "title": "Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you lose track of things you’d like to reference later, Laytr might be a nice solution for you. All of ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Laytr-app.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T19:30:00.000Z"
+    },
+    {
+      "id": "66d6d6933adfef2c",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T18:41:59.000Z"
+    },
+    {
+      "id": "a7392925a5836e22",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable co",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-29T18:19:53.000Z"
+    },
+    {
       "id": "a7d844ad6d681580",
       "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
       "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
@@ -8,6 +77,16 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-08-29T17:51:10.000Z"
+    },
+    {
+      "id": "9413cafca191e96a",
+      "title": "As a relatively new Apple Vision Pro user, this is my favorite way to use it",
+      "description": "Apple Vision Pro is one of Apple’s most interesting hardware releases yet. It’s technically very impressive, yet it seems almost certain that this form factor won’t last – and is instead just a temporary platform to introduce visionOS to the world before we eventually get glasses.\nI did buy one late",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/m5-vision-pro-chance.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/29/heres-how-i-enjoy-using-apple-vision-pro/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-29T17:50:00.000Z"
     },
     {
       "id": "59ae37d66b6d21a5",
@@ -212,86 +291,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-08-28T22:03:13.000Z"
-    },
-    {
-      "id": "07ff76765a1935a0",
-      "title": "Steve Jobs’ 1968 science fair project fetches $34,375 at auction",
-      "description": "RR Auction’s bidding for Steve Jobs’ 1968 science fair project has now closed, with the hand-built exhibit selling for $34,375. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Steve-Jobs-8th-grade-science-fair-project-goes-up-for-auction.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/28/steve-jobs-1968-science-fair-project-fetches-34375-at-auction/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T21:35:19.000Z"
-    },
-    {
-      "id": "a50127bad95462fb",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T20:24:11.000Z"
-    },
-    {
-      "id": "6c3ea6af6e2a9dfc",
-      "title": "9to5Mac Overtime 079: The $899 Mac mini",
-      "description": "Jeff and Fernando delve into the $899 Mac mini, comparing the outgoing M4 model and the new M6 Mac mini. They also discuss the new M5 Pro Mac mini and Apple’s new Mac Studio desktops equipped with M5 Max and M5 Ultra SoCs. Finally, the duo previews Apple’s upcoming ‘Surprise and Shine’ iPhone event.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/9to5Mac-Overtime-079.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/28/9to5mac-overtime-079-the-899-mac-mini/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T20:00:00.000Z"
-    },
-    {
-      "id": "520fd690b6b04a96",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T19:30:38.000Z"
-    },
-    {
-      "id": "dadb1a3524f49085",
-      "title": "Apple Photos in iOS 27 upgrades one of my favorite features in a big way",
-      "description": "Apple Photos is full of exciting updates in iOS 27, including for one of my favorite features in the app: iCloud Shared Albums.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/28/apple-photos-in-ios-27-upgrades-one-of-my-favorite-features-in-a-big-way/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T19:26:40.000Z"
-    },
-    {
-      "id": "7ab0842a8347b62d",
-      "title": "Steve Jobs' 8th Grade Science Project Sells for $34,375",
-      "description": "A science project that Apple co-founder Steve Jobs built for his 8th-grade science fair sold at auction for $34,375.\r\n\r\n\r\nJobs was attending Cupertino Jr. High when he designed the project, which is titled \"What is the SCR?\" The lot includes a display board built from plywood with three explanatory ",
-      "image": "https://images.macrumors.com/article-new/2026/08/steve-jobs-rr-auction-science-project.jpg",
-      "url": "https://www.macrumors.com/2026/08/28/steve-jobs-science-project-auction/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T19:24:43.000Z"
-    },
-    {
-      "id": "b8da16f189fc2839",
-      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-      "description": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
-      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T18:50:00.000Z"
-    },
-    {
-      "id": "fad1c2b5c0f5a069",
-      "title": "HomeKit Weekly: Linkind’s Smart Light Stick brings flame effects with Matter support",
-      "description": "“Flame effects” is not something I’d used before in a smart bulb, so this was a super interesting concept to me. Linkind’s Smart Light Stick aims to bring the idea of a “live flame” to a smart bulb, and it works with Apple Home out of the box thanks to Matter.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Linkind-Smart-Light-Stick-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/28/linkinds-smart-light-stick-brings-flame-effects-and-matter-support/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T18:49:00.000Z"
     }
   ],
-  "lastUpdated": "2026-08-29T18:02:51.120Z",
+  "lastUpdated": "2026-08-30T06:02:29.861Z",
   "sources": [
     "TechCrunch",
     "The Verge",
