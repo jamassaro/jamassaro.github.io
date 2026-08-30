@@ -1,6 +1,163 @@
 {
   "articles": [
     {
+      "id": "b9ee83c0f9766303",
+      "title": "Apple’s next iPad mini is almost ready, here’s what to expect",
+      "description": "Apple has a lot in store for this fall, headlined by the iPhone Ultra and iPhone 18 Pro launching next month. Apple is also working on a new iPad mini, and a new report today suggests it’s coming in October.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/30/apples-next-ipad-mini-is-almost-here-heres-what-to-expect/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-30T16:54:54.000Z"
+    },
+    {
+      "id": "8a47b3974e725ebb",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-30T16:54:25.000Z"
+    },
+    {
+      "id": "67b0affa85616105",
+      "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+      "description": "NASA’s Nancy Grace Roman Telescope blasts off. | Photo: NASA / John Kraus\t\n\nAfter funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NHQ20260830_admin_0002large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-30T16:36:39.000Z"
+    },
+    {
+      "id": "b71f866fdb401ec6",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-30T16:03:00.000Z"
+    },
+    {
+      "id": "0d763af0f7406c68",
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "description": "Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information.\r\n\r\n\r\nApple normally releases new Mac models in the autumn, closer to October or November, making this week's annou",
+      "image": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-30T15:52:05.000Z"
+    },
+    {
+      "id": "112c8ced1f5cc680",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "description": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacki",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-30T15:35:10.000Z"
+    },
+    {
+      "id": "f89c7984cfef142c",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-08-30T15:00:00.000Z"
+    },
+    {
+      "id": "28db7387001cb5b3",
+      "title": "New Apple Watch Series 12 and Apple Watch Ultra 4 Features Revealed",
+      "description": "Bloomberg's Mark Gurman today further outlined what to expect from the Apple Watch Series 12 and Apple Watch Ultra 4 set to be unveiled on September 9.\r\n\r\n\r\nWhile it was initially rumored that Touch ID may be coming to the Apple Watch this year, Gurman reiterated that he does not expect the Series 1",
+      "image": "https://images.macrumors.com/article-new/2026/05/Apple-Watch-Ultra-2-Black-Titanium.jpg",
+      "url": "https://www.macrumors.com/2026/08/30/apple-watch-series-12-ultra-4-features/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-30T14:54:09.000Z"
+    },
+    {
+      "id": "bbc22ee161dbbce2",
+      "title": "Apple reportedly considered launching a new Apple Pencil for iPhone Ultra",
+      "description": "Apple’s first foldable iPhone should be making its debut in just over a week. In the development process, Apple was reportedly mulling the idea of launching a new Apple Pencil to use alongside the iPhone Ultra – though it probably won’t make it to market.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-30T14:38:37.000Z"
+    },
+    {
+      "id": "dbcac8d054888eb9",
+      "title": "Apple Pencil for iPhone Ultra Was Tested",
+      "description": "Apple has internally prototyped, tested, and considered launching an Apple Pencil for the upcoming foldable iPhone, according to Bloomberg's Mark Gurman. However, he said it is unlikely that the accessory will be released.\r\n\r\n\r\nIn his Power On newsletter today, Gurman said the Apple Pencil tested fo",
+      "image": "https://images.macrumors.com/article-new/2026/08/Apple-Pencil-Pro-iPad-Pro.jpg",
+      "url": "https://www.macrumors.com/2026/08/30/apple-pencil-for-iphone-ultra-was-tested/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-30T14:27:55.000Z"
+    },
+    {
+      "id": "8ad604798377e196",
+      "title": "Report: Apple Watch Series 12 may feature always-on heart-rate tracking, new Fitness app",
+      "description": "According to Bloomberg’s Mark Gurman, Apple has a couple new features in the pipeline for Apple Watch Series 12 and Ultra 4 that’ll make it much more appealing for health-conscious users. The company is also testing two finishes for the rumored ceramic version.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/07/apple-watch-heart-rate-app-watchos-10.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/30/apple-watch-series-12-last-minute-leaks-new-fitness-app-heart-rate/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-30T14:27:28.000Z"
+    },
+    {
+      "id": "32de0eda7e02c784",
+      "title": "Beyond iPhone 18 Pro: AirPods 5 in September, iPad Mini With OLED Display in October",
+      "description": "In his newsletter today, Bloomberg's Mark Gurman reiterated that AirPods 5 will be released as early as this September, alongside the iPhone 18 Pro, iPhone 18 Pro Max, a foldable iPhone, the Apple Watch Series 12, and the Apple Watch Ultra 4. Apple is holding an event on Wednesday, September 9 at 10",
+      "image": "https://images.macrumors.com/article-new/2026/03/airpods-4-new-new-orange.jpg",
+      "url": "https://www.macrumors.com/2026/08/30/iphone-18-pro-airpods-5-ipad-mini-oled/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-08-30T14:25:52.000Z"
+    },
+    {
+      "id": "0eeab9ee1100fb5b",
+      "title": "Chess.com launched a poker site and is planning even more classic games",
+      "description": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/chess-com-gambit-launch-bot-match.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-30T13:00:00.000Z"
+    },
+    {
+      "id": "7d6675004998e57d",
+      "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more [Updated]",
+      "description": "We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount on AirPods Pro 3 and the all-time low on AirTag 2 at $20 a pop. \nSome other h",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-late-August-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-08-30T12:15:00.000Z"
+    },
+    {
+      "id": "214003ae4bb13185",
+      "title": "China’s robots race ahead",
+      "description": "Humanoid robot competes in the optional boxing routine event during the 2nd World Humanoid Robot Games at National Speed Skating Oval on August 26, 2026 in Beijing, China. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For mor",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-30T12:00:00.000Z"
+    },
+    {
+      "id": "e9391bd5ee0dd7d0",
+      "title": "Two new small, powerful Macs",
+      "description": "Hi, friends! Welcome to Installer No. 142, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, how is it almost September already, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been remembering Dolly Parton, Tim Curry, and",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/installer_c1a629.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-08-30T12:00:00.000Z"
+    },
+    {
       "id": "e78c180db8e76222",
       "title": "Apple Card keeps getting better, here’s everything new",
       "description": "Apple Card launched seven years ago this month, and it keeps getting better. There are new features, perks, rewards, and more. Plus, there’s one major change looming.\nHere’s everything new with Apple Card lately.",
@@ -60,9 +217,9 @@
       "publishedAt": "2026-08-29T18:41:59.000Z"
     },
     {
-      "id": "a7392925a5836e22",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable co",
+      "id": "b40d2bc54299a228",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "description": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when iden",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "source": "The Verge",
@@ -135,165 +292,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-08-29T15:51:36.000Z"
-    },
-    {
-      "id": "9649e9937227b687",
-      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
-      "description": "10 out of 10 beard. | Photo: Ben Mekler\t\n\nJoseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Val",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/unnamed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-29T15:00:00.000Z"
-    },
-    {
-      "id": "1b96296c2c9207a5",
-      "title": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming",
-      "description": "As soon as next year, Apple will be debuting its first pair of AI-powered smart glasses. They’ll integrate Visual Intelligence and bring Siri to the real world. Here’s what we’re expecting.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-29T14:48:00.000Z"
-    },
-    {
-      "id": "bc7cb25f04fbd203",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assume",
-      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-29T14:00:00.000Z"
-    },
-    {
-      "id": "7e05cbf1e0d4e716",
-      "title": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio",
-      "description": "It turned out to be a big week for Apple news this week, as we not only got an official announcement about the upcoming iPhone event but also several hardware announcements including updated Mac mini and Mac Studio models.\r\n\r\n\r\nAnticipation continues to build for Apple's first foldable iPhone coming",
-      "image": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-29.jpg",
-      "url": "https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-29T13:00:12.000Z"
-    },
-    {
-      "id": "4fdad038efc949ad",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-29T13:00:00.000Z"
-    },
-    {
-      "id": "4f67581401cf2826",
-      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-      "description": "The Z Flip 8 is designed to be used shut more than ever before. | Photo: Dominic Preston / The Verge\t\n\nWhat do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-29T13:00:00.000Z"
-    },
-    {
-      "id": "7c640c1a62955049",
-      "title": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
-      "description": "Apple introduced the M6 and M5 Pro Mac mini this week, and Amazon currently has the first pre-order discounts on these models ahead of their September launch. Below, we're also tracking a new record low price on the AirTag 2 during Amazon's Labor Day event.\r\n\r\nNote: MacRumors is an affiliate partner",
-      "image": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
-      "url": "https://www.macrumors.com/2026/08/29/best-apple-deals-of-the-week-8-28-26/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-08-29T12:31:59.000Z"
-    },
-    {
-      "id": "1fe9a49661f92168",
-      "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more",
-      "description": "Update: The official Apple MagSafe Battery back down to the lowest price ever in brand new condition at 40% off. Or you can land one via Amazon Resale down at just $39 (60% off). \nWe are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongsi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-late-August-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/29/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-29T12:13:39.000Z"
-    },
-    {
-      "id": "7e9d77d497183a10",
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediat",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-29T12:00:00.000Z"
-    },
-    {
-      "id": "f6479689f322c4b3",
-      "title": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parallels-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/29/parallels-desktop-27/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-29T12:00:00.000Z"
-    },
-    {
-      "id": "4a08909abbe39371",
-      "title": "9to5Mac Daily: August 28, 2026 – Foldable iPhone expectations, more",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/08/28/9to5mac-daily-august-28-2026-foldable-iphone-expectations-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-29T01:02:53.000Z"
-    },
-    {
-      "id": "17153222cae8e0e9",
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
-      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T23:24:27.000Z"
-    },
-    {
-      "id": "203f80a0e38504b7",
-      "title": "Google further buries search results under AI mode",
-      "description": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T22:48:11.000Z"
-    },
-    {
-      "id": "7670c0417b41ba18",
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T22:42:48.000Z"
-    },
-    {
-      "id": "4bdd6d2b5e4f4233",
-      "title": "Most people overpay for their phone plan – Tello Mobile maxes out at $25/month",
-      "description": "The US has some of the most expensive mobile phone plans in the world, and many people are paying $60 to $100 per month or more without questioning it.\nSwitching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, and even the unlimited plan is just $25 a month – all whi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Banner-2-1920-x-1080.png?w=1600",
-      "url": "https://9to5mac.com/2026/08/28/most-people-overpay-phone-plan-tello-mobile-maxes-out-at-25-month/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-08-28T22:30:00.000Z"
-    },
-    {
-      "id": "a325b19bfd1083bf",
-      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
-      "description": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nAccording to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\"\n\"We've been hard at work ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-08-28T22:03:13.000Z"
     }
   ],
-  "lastUpdated": "2026-08-30T06:02:29.861Z",
+  "lastUpdated": "2026-08-30T18:02:33.151Z",
   "sources": [
     "TechCrunch",
     "The Verge",
