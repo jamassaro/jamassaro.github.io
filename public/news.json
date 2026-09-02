@@ -1,298 +1,296 @@
 {
   "articles": [
     {
-      "id": "43e91ecf1dbfcbf8",
-      "title": "Apple Teases 'Huge Launch' Next Week",
-      "description": "In his first memo to Apple employees as CEO today, John Ternus teased a \"huge launch next week that's going to be phenomenal.\"\r\n\r\n\r\nIn a social media post today, Apple's marketing chief Greg Joswiak teased that Apple has \"more to say\" on Wednesday, September 9, which is when the company will be hold",
-      "image": "https://images.macrumors.com/article-new/2026/08/Surprise-and-Shine-Alt-Angle-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/01/apple-teases-huge-launch-next-week/",
+      "id": "e7fe2592080903c1",
+      "title": "This new Roomba seals itself to your carpet",
+      "description": "The Roomba Max 875 Combo is iRobot’s latest flagship robot vacuum mop. | Image: iRobot\t\n\niRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner, Pic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roomba_Max_875_Combo_Email_Onboarding_Touch1_Hero_Mobile_425x300.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T06:00:00.000Z"
+    },
+    {
+      "id": "d9534f9b3ee04d5c",
+      "title": "Apple tells Mac App Store developers they can now drop Intel support",
+      "description": "Apple started informing developers today that universal macOS apps on the Mac App Store that require macOS 13 or later can now drop support for Intel-based Macs.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/01/apple-tells-mac-app-store-developers-they-can-now-drop-intel-support/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T00:50:53.000Z"
+    },
+    {
+      "id": "1dca36285f5064ce",
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "description": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-01T23:59:59.000Z"
+    },
+    {
+      "id": "fefb65bbaaa57e79",
+      "title": "Mac App Store Apps Can Now Drop Support for Intel Macs",
+      "description": "Apple today informed developers that universal Mac App Store apps that require macOS 13 or later can remove support for Intel-based Mac computers.\r\n\r\n\r\nWe're reaching out to let you know that universal macOS apps on the Mac App Store that require macOS 13 or later can now remove support for Intel-ba",
+      "image": "https://images.macrumors.com/article-new/2025/06/intel-macs-no-more-updates.jpg",
+      "url": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T18:03:11.000Z"
+      "publishedAt": "2026-09-01T23:50:09.000Z"
     },
     {
-      "id": "a4a5ca8f643d1555",
-      "title": "Read John Ternus' First Memo to Apple Employees as CEO",
-      "description": "John Ternus officially became Apple's CEO today, with Tim Cook transitioning to a new role as Executive Chair. Ternus sent his first memo as CEO to employees this morning, praising Cook and sharing his excitement for Apple's future.\r\n\r\n\r\nMacRumors obtained a copy of the memo, which you can read in f",
-      "image": "https://images.macrumors.com/article-new/2026/09/John-Ternus-CEO-16x9-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/01/john-ternus-first-memo/",
+      "id": "c468f4ac27c9af73",
+      "title": "iPhone Air Review: One Year With Apple's Super Thin $999 iPhone",
+      "description": "It's been almost 12 months since Apple launched the iPhone Air, and because MacRumors videographer Dan Barbera has been using it daily since launch, he decided to do a one-year review covering what it's like using Apple's super-thin iPhone on a long-term basis.\r\n\r\n\n\r\nThe ‌iPhone Air‌ is the thinnest",
+      "url": "https://www.macrumors.com/2026/09/01/iphone-air-one-year-review/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T17:51:47.000Z"
+      "publishedAt": "2026-09-01T23:35:51.000Z"
     },
     {
-      "id": "bb06ff1788a9cd43",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "id": "efe33ba7b6d2dcc3",
+      "title": "Ford explains why it chose Apple Maps over Google for its new EVs",
+      "description": "Earlier this year, Apple announced a partnership with Ford to bring native Apple Maps integration to the automaker’s upcoming Universal Electric Vehicle (UEV) Platform, including what we now know is called the Fathom.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-01T23:33:07.000Z"
+    },
+    {
+      "id": "0a15e2d5f2daff2d",
+      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T17:35:37.000Z"
+      "publishedAt": "2026-09-01T23:00:00.000Z"
     },
     {
-      "id": "ed17b25d4734a9f2",
-      "title": "Read new Apple CEO John Ternus’s full memo to employees",
-      "description": "New Apple CEO John Ternus has just sent his first company-wide memo. In it, Ternus thanks Tim Cook and recognizes that Apple is “so lucky to have had a CEO who led with his values and with such decency and humanity.”\n“We have a huge launch next week that’s going to be phenomenal,” Ternus also says, ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0032.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/read-new-apple-ceo-john-ternuss-full-memo-to-employees/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T17:26:51.000Z"
-    },
-    {
-      "id": "7aa81782b0e89b9c",
-      "title": "Steve Jobs in 1996: ‘I still think Apple has a future’",
-      "description": "Apple has a new CEO today. Meanwhile, a vintage video of Steve Jobs from 1996 has resurfaced. It adds some incredible perspective.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/steve-jobs.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/01/steve-jobs-in-1996-i-still-think-apple-has-a-future/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T17:24:21.000Z"
-    },
-    {
-      "id": "fc91e7f323b62e2b",
-      "title": "John Ternus’s first day as Apple CEO: Here’s the latest",
-      "description": "Today is John Ternus’s first day as Apple CEO. A new Bloomberg report has more details on other executive changes, plus tidbits on changes Ternus might make.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/john-ternuss-first-day-as-apple-ceo-heres-the-latest/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T17:18:06.000Z"
-    },
-    {
-      "id": "e9c8ff58899b6428",
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T17:00:00.000Z"
-    },
-    {
-      "id": "0889371580ffb0f8",
-      "title": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac",
-      "description": "Meta is launching Muse Voice Transcribe, its first real-time audio perception model. It brings multilingual, streaming transcription to Meta AI for Mac, Muse Code, and developers through the Meta Model API.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/meta-ai-mac-app.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/01/meta-launches-muse-voice-transcribe-for-real-time-voice-dictation-on-mac/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T17:00:00.000Z"
-    },
-    {
-      "id": "dbfa1ec385ba52da",
-      "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
-      "description": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
-      "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T16:49:12.000Z"
-    },
-    {
-      "id": "c3fd8498b637879a",
-      "title": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
-      "description": "Samsung’s recently released Galaxy Z Fold 8 Ultra. | Image: The Verge\t\n\nIf you missed the release promotions for the recent round of Samsung Galaxy phones, you’re in luck. The Samsung Galaxy Z Fold 8 Ultra is $300 off at Best Buy, the best deal we’ve seen since the phone launched last month. The pho",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Samsung-Galaxy-Z-Fold-8-Ultra-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale",
+      "id": "59bf440dc00c5d04",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios,  hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T16:48:45.000Z"
+      "publishedAt": "2026-09-01T22:50:29.000Z"
     },
     {
-      "id": "2d9835a1bc863460",
-      "title": "GoPro has been acquired and is getting into &#8216;defense, government, robotics and aerospace&#8217;",
-      "description": "GoPro suddenly looks like a very different company than it did just last week. First, YouTuber Mark \"Markiplier\" Fischbach became the company's single largest shareholder, without disclosing that in a sponsored review that came out a week later. Now, almost the entire company has been bought by Star",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GoPro-Mission-1-Action-Camera-Lifestyle-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+      "id": "3f850ac1f1c4b6b8",
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-01T22:13:34.000Z"
+    },
+    {
+      "id": "7b8ed14ef02c4224",
+      "title": "Here’s how much Apple is paying John Ternus as CEO, Tim Cook as executive chairman",
+      "description": "In a new regulatory filing today, Apple revealed that new CEO John Ternus is receiving a pay package with $58 million in salary and target stock awards. The company also shared details on Tim Cook’s lucrative new deal as Apple’s executive chairman.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/01/john-ternus-gets-58m-pay-package-as-ceo-tim-cook-47m-as-chairman/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-01T22:10:39.000Z"
+    },
+    {
+      "id": "11d1b66acb7a0bfe",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-01T22:08:24.000Z"
+    },
+    {
+      "id": "c88f5ef7eb19d5dc",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "description": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T16:46:08.000Z"
+      "publishedAt": "2026-09-01T22:01:36.000Z"
     },
     {
-      "id": "784a6e6f21743d5a",
-      "title": "Apple's M4 iPad Air Gets Best Discounts Since Summer Price Hikes",
-      "description": "Amazon and Best Buy this week have multiple discounts on the M4 iPad Air, providing up to $149 off these 2026 models. These are the best prices we've seen in the wake of Apple's summer price hikes.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we ",
-      "image": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
-      "url": "https://www.macrumors.com/2026/09/01/m4-ipad-air-best-discounts/",
+      "id": "9f0d1d3257cf1742",
+      "title": "Here's What Apple is Paying John Ternus to Run the Company",
+      "description": "Apple has set new CEO John Ternus' target compensation at $58 million, according to an updated SEC filing [PDF]. Tim Cook's target compensation is $47 million in his new role as executive chairman.\r\n\r\n\r\nTernus' fiscal 2027 compensation includes a $3 million salary and an annual equity award with a t",
+      "image": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
+      "url": "https://www.macrumors.com/2026/09/01/apple-ceo-john-ternus-compensation/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T16:44:59.000Z"
+      "publishedAt": "2026-09-01T21:50:32.000Z"
     },
     {
-      "id": "85bd7a4528239d7f",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "id": "6597cbcabecd0636",
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "description": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada.\nThe Canadian version of Appl",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-maps-lake-america.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-01T21:22:56.000Z"
+    },
+    {
+      "id": "b7729c379cea3164",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T16:31:04.000Z"
+      "publishedAt": "2026-09-01T21:06:24.000Z"
     },
     {
-      "id": "4077eaa669955688",
-      "title": "Sonos unveils ‘Sonos 27’ software with four new features",
-      "description": "Today alongside launching two new products, Sonos has unveiled ‘Sonos 27’ branding for its software platform and detailed four new features coming soon for Sonos users.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-white-product-speaker.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/sonos-unveils-sonos-27-software-with-four-new-features/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T16:12:03.000Z"
-    },
-    {
-      "id": "8b4baf9d55e046c1",
-      "title": "Apple's New CEO John Ternus is Now on X",
-      "description": "Apple's new CEO John Ternus now has an X account, and he has already shared his first post saying hello to the world.\r\n\r\nTernus did not have a public social media presence prior to today.\r\n\r\nhis own X account's description has been updated to reflect that change.\nThis article, \"Apple's New CEO John ",
-      "image": "https://images.macrumors.com/article-new/2026/09/John-Ternus-CEO-16x9-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/01/apples-new-ceo-john-ternus-is-now-on-x/",
+      "id": "b63a122f563401c8",
+      "title": "Apple Maps Renames Lake Ontario 'Lake America'",
+      "description": "Apple Maps users in the United States will now see \"Lake America\" instead of \"Lake Ontario\" for the Great Lake on the border of Ontario and New York.\r\n\r\n\r\nThe updated name is currently rolling out to iPhone, iPad, and Mac users. The Maps app still has the Lake Ontario label for the body of water, bu",
+      "image": "https://images.macrumors.com/article-new/2026/09/trump-lake-america.jpg",
+      "url": "https://www.macrumors.com/2026/09/01/apple-maps-lake-america/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T16:01:03.000Z"
+      "publishedAt": "2026-09-01T20:58:35.000Z"
     },
     {
-      "id": "1e8146e265a4c023",
-      "title": "John Deere launched an AI chatbot for farmers",
-      "description": "John Deere is testing a new  \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usag",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "id": "592e5c42d55cf678",
+      "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+      "description": "The Lenovo 7i’s 360-degree hinges opens up new usage options. | Image: Lenovo\t\n\nBest Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, wi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Lenovo-Yoga-7i-2in1-breakout-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T16:00:52.000Z"
+      "publishedAt": "2026-09-01T20:54:08.000Z"
     },
     {
-      "id": "4af3fd237aaaf6ac",
-      "title": "Sony’s new party speakers have more bass, more LEDs, and more connectivity",
-      "description": "Sony announced three new tower-style party speakers that will now be the largest options in its ULT Power Sound lineup. The new ULT Tower Max, ULT Tower 7, and ULT Tower 5 all feature expanded connectivity including USB-C, RCA, and XLR ports for connecting to audio gear using physical cables. The ne",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/sonyspeaker1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds",
+      "id": "c1e19bcca673401a",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-01T20:53:05.000Z"
+    },
+    {
+      "id": "d891ed7362a8bdb9",
+      "title": "Apple Maps now uses ‘Lake America’ instead of ‘Lake Ontario’ after Trump order",
+      "description": "If you head to Apple Maps today, you’ll notice that Apple has started renaming Lake Ontario to “Lake America.” The move follows Trump’s order last week to change the name as part of an ongoing trade dispute with Canada.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/01/apple-maps-renaming-lake-ontario-to-lake-america-following-trump-order/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-01T20:49:50.000Z"
+    },
+    {
+      "id": "690ec90ef0b9d74c",
+      "title": "X says attackers are targeting user accounts after the launch of X Money",
+      "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-01T20:48:32.000Z"
+    },
+    {
+      "id": "a89f3f72b6ae9034",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "description": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post.\nIn July, an unreleased OpenAI model broke out of its res",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T16:00:00.000Z"
+      "publishedAt": "2026-09-01T20:45:49.000Z"
     },
     {
-      "id": "9cd1742c27b223d5",
-      "title": "Google Pics is like Canva, but with even more AI",
-      "description": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google\t\n\nGoogle has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "id": "075cb9686dc26613",
+      "title": "New iPhone Ultra details arrive for specs, multitasking, launch timing, more",
+      "description": "Next week, the iPhone Ultra will be unveiled at Apple’s September event, and today a new Tom’s Guide interview with Mark Gurman reveals several fresh details on what to expect from specs, software, launch timing, and more.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-01T20:25:36.000Z"
+    },
+    {
+      "id": "d42f428100c8a46a",
+      "title": "On first listen, the Sonos Beam Ultra sounds great",
+      "description": "The Beam Ultra is made for TVs up to 65 inches. It will also be available in black. | Photo by Cameron Faulkner / The Verge\t\n\nSonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app upd",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/beamultra1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T16:00:00.000Z"
+      "publishedAt": "2026-09-01T20:08:38.000Z"
     },
     {
-      "id": "f10c21d86c829e35",
-      "title": "Sonos launches new ‘Ultra’ headphones and soundbar, plus more",
-      "description": "Sonos has announced two new hardware products today—Ace headphones and a Beam soundbar with ‘Ultra’ branding—alongside rebranding its software as ‘Sonos 27.’ Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-ace-ultra-headphones.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/sonos-launches-new-ultra-headphones-and-soundbar-plus-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T15:57:29.000Z"
-    },
-    {
-      "id": "902caed0c440a9ce",
-      "title": "GoPro to be acquired for $285M, will remain a public company",
-      "description": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
-      "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+      "id": "7a2c502af4599abe",
+      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+      "description": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+      "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T15:57:23.000Z"
+      "publishedAt": "2026-09-01T19:45:28.000Z"
     },
     {
-      "id": "81bf032db82e0347",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "id": "9e6bc204ac944868",
+      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+      "description": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the compa",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951501/VRG_Illo_STK170_L_Normand_TimCook_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-01T19:43:39.000Z"
+    },
+    {
+      "id": "5513b0ac8c0ba370",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T15:51:55.000Z"
+      "publishedAt": "2026-09-01T19:39:22.000Z"
     },
     {
-      "id": "9e860d81dbd73e3a",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T15:45:51.000Z"
-    },
-    {
-      "id": "7b29f802da97c0be",
-      "title": "New Apple CEO John Ternus now has his own X account",
-      "description": "The new Apple CEO has just launched their social media presence on X, with the handle @johnternus. His bio is simply ‘ CEO’, and his first post simply reads ‘hello’.\nToday is Ternus’s first official day in the top job, with outgoing Tim Cook moving to an Executive Chair role.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-joins-twitter.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/new-apple-ceo-john-ternus-now-has-his-own-x-account/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T15:43:58.000Z"
-    },
-    {
-      "id": "7684d16a1d5c58e2",
-      "title": "Deals: iPhone Air up to $359 off, iPhone 17 Pro, M5 MacBook Air $240 off, AirTag 2, more",
-      "description": "The giant best price ever on AirTag 2, but we spotted this 16GB/1TB M5 MacBook Air at $240 off via the Apple refurb store if you’re quick. Today’s 9to5Toys Lunch Break is also headlined by iPhone Air at $150 off (or as much as $359 off at Best Buy in open-box condition), iPhone 17 Pro models droppin",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-iPhone-M6-Mac-mini-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/deals-iphone-air-iphone-17-pro-m5-macbook-air/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T15:31:57.000Z"
-    },
-    {
-      "id": "43e974deb6eb6403",
-      "title": "Apple TV just added a ton of free classic movies, here’s everything new",
-      "description": "Apple TV has just added a large batch of 15 classic movies to its library, available free for subscribers. Here’s the full list.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/apple-tv-just-added-a-ton-of-free-classic-movies-heres-everything-new/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T15:25:44.000Z"
-    },
-    {
-      "id": "1bb48196180950ce",
-      "title": "Microsoft 365 outage drags on, but things are improving",
-      "description": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
-      "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T15:23:15.000Z"
-    },
-    {
-      "id": "0edaaf7b2dbbfab2",
-      "title": "iPhone 18 Pro Colors Apparently Include Black, But Skip Silver",
-      "description": "iPhone 18 Pro colors could include Dark Cherry, Sky Blue, and Black, with a Silver option unlikely to make the final lineup, according to the leaker known as \"Fixed Focus Digital.\" \r\n\r\n\r\nIn a new post on Weibo, the leaker \"Fixed Focus Digital\" said the ‌iPhone 18 Pro‌ has entered full mass productio",
-      "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/01/iphone-18-pro-colors-include-black-but-skip-silver/",
+      "id": "d66560d171cb9e59",
+      "title": "macOS Golden Gate Seems to Hint at MacBook Pro With OLED Display",
+      "description": "As noted by Broadcasts developer Steven Troughton-Smith, many Liquid Glass interface elements on the macOS Golden Gate beta have an even glassier appearance on certain high-end OLED displays with HDR support than they do on ordinary displays.\r\n\r\nor \"MacBook Ultra\" models with an OLED display by earl",
+      "image": "https://images.macrumors.com/article-new/2026/09/macOS-Golden-Gate-Liquid-Glass-UI-HDR.jpg",
+      "url": "https://www.macrumors.com/2026/09/01/macos-golden-gate-hdr-liquid-glass/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T15:22:57.000Z"
+      "publishedAt": "2026-09-01T19:34:56.000Z"
     },
     {
-      "id": "c84079efe51d98cd",
-      "title": "Perplexity launches privacy-minded ‘hybrid compute’ AI feature for Mac",
-      "description": "Aside from being featured by Apple in the M6 Mac mini launch, Perplexity has been relatively quiet on the Mac front this summer. That changes today with hybrid compute for Mac.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T15:20:50.000Z"
-    },
-    {
-      "id": "2fdc9d8e311ccadc",
-      "title": "Shelly’s new $50 security camera watches your home without a subscription",
-      "description": "After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.99 security camera today that can be used without any additional subscription fees - although that's still an option if you want to expand its capabilities.\nThe Shelly Camera will be av",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/shellycamera1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T15:19:17.000Z"
-    },
-    {
-      "id": "a8b8728835f051b6",
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "id": "6f180cdda152e631",
+      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+      "description": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+      "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T15:10:58.000Z"
+      "publishedAt": "2026-09-01T19:30:24.000Z"
+    },
+    {
+      "id": "9f8767d661df43ba",
+      "title": "Apple Watch Series 12: Three new features coming next week",
+      "description": "Apple Watch Series 12 is coming next week, launching at the September event alongside Apple Watch Ultra 4. Here are three new features rumored for Apple Watch Series 12.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-01T19:18:04.000Z"
+    },
+    {
+      "id": "d352f10aa58e5b71",
+      "title": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+      "description": "Anthropic today introduced Claude Fable 5.1 and Claude Mythos 5.1, which the company says are the \"world's most advanced models for coding and knowledge work.\"\r\n\r\n\r\nAccording to Anthropic, Claude Fable 5.1 sets a new standard for coding, knowledge work, and long-running problem-solving tasks. It ach",
+      "image": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
+      "url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-01T19:15:25.000Z"
     }
   ],
-  "lastUpdated": "2026-09-01T18:04:16.903Z",
+  "lastUpdated": "2026-09-02T06:05:53.169Z",
   "sources": [
     "TechCrunch",
     "The Verge",
