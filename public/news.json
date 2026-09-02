@@ -1,296 +1,296 @@
 {
   "articles": [
     {
-      "id": "e7fe2592080903c1",
-      "title": "This new Roomba seals itself to your carpet",
-      "description": "The Roomba Max 875 Combo is iRobot’s latest flagship robot vacuum mop. | Image: iRobot\t\n\niRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner, Pic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roomba_Max_875_Combo_Email_Onboarding_Touch1_Hero_Mobile_425x300.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+      "id": "62ace29e3a9b2491",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-02T06:00:00.000Z"
+      "publishedAt": "2026-09-02T17:52:56.000Z"
     },
     {
-      "id": "d9534f9b3ee04d5c",
-      "title": "Apple tells Mac App Store developers they can now drop Intel support",
-      "description": "Apple started informing developers today that universal macOS apps on the Mac App Store that require macOS 13 or later can now drop support for Intel-based Macs.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/apple-tells-mac-app-store-developers-they-can-now-drop-intel-support/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T00:50:53.000Z"
-    },
-    {
-      "id": "1dca36285f5064ce",
-      "title": "Larry Page’s flying car company Pivotal loses its CEO",
-      "description": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
-      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T23:59:59.000Z"
-    },
-    {
-      "id": "fefb65bbaaa57e79",
-      "title": "Mac App Store Apps Can Now Drop Support for Intel Macs",
-      "description": "Apple today informed developers that universal Mac App Store apps that require macOS 13 or later can remove support for Intel-based Mac computers.\r\n\r\n\r\nWe're reaching out to let you know that universal macOS apps on the Mac App Store that require macOS 13 or later can now remove support for Intel-ba",
-      "image": "https://images.macrumors.com/article-new/2025/06/intel-macs-no-more-updates.jpg",
-      "url": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
+      "id": "4001eb3abc5fc623",
+      "title": "'I Wouldn't Be Talking to You': Apple Shares Apple Watch Survival Story",
+      "description": "Apple today shared a short video featuring an Apple Watch user named Amanda who says her device saved her life.\r\n\r\n\n\r\nIn 2024, Amanda began receiving alerts about an abnormal heart rate. Her watch alerted her about changes to her resting heart rate and her overnight vitals, prompting her to visit he",
+      "url": "https://www.macrumors.com/2026/09/02/apple-watch-heart-story/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T23:50:09.000Z"
+      "publishedAt": "2026-09-02T17:48:01.000Z"
     },
     {
-      "id": "c468f4ac27c9af73",
-      "title": "iPhone Air Review: One Year With Apple's Super Thin $999 iPhone",
-      "description": "It's been almost 12 months since Apple launched the iPhone Air, and because MacRumors videographer Dan Barbera has been using it daily since launch, he decided to do a one-year review covering what it's like using Apple's super-thin iPhone on a long-term basis.\r\n\r\n\n\r\nThe ‌iPhone Air‌ is the thinnest",
-      "url": "https://www.macrumors.com/2026/09/01/iphone-air-one-year-review/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T23:35:51.000Z"
+      "id": "b3a3a25fe42b99ee",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T17:18:13.000Z"
     },
     {
-      "id": "efe33ba7b6d2dcc3",
-      "title": "Ford explains why it chose Apple Maps over Google for its new EVs",
-      "description": "Earlier this year, Apple announced a partnership with Ford to bring native Apple Maps integration to the automaker’s upcoming Universal Electric Vehicle (UEV) Platform, including what we now know is called the Fathom.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs/",
+      "id": "2c062200f9d5df1c",
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+      "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T17:12:27.000Z"
+    },
+    {
+      "id": "36359fbfca499ae1",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T17:09:06.000Z"
+    },
+    {
+      "id": "081a23b887df3412",
+      "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
+      "description": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spaceship-looking pod as a Range Rover. Sometimes fam",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/RANGE-ROVER-ELECTRIC-FRONT-3-4-02_09_26_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T17:01:08.000Z"
+    },
+    {
+      "id": "346b7e47e01df86e",
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+      "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T16:54:23.000Z"
+    },
+    {
+      "id": "2cd084249a569f87",
+      "title": "The best tech and gadgets announced at IFA so far",
+      "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - in",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T16:43:50.000Z"
+    },
+    {
+      "id": "bbc7558a7a35c65d",
+      "title": "Apple’s new film from ‘Best Picture’ Oscar winner gets first trailer",
+      "description": "Apple won the ‘Best Picture’ Oscar for CODA back in 2022, and now director Siân Heder is back with another potential winner: Being Heumann. Here’s the new trailer.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/being-heumann-courtroom.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/apples-new-film-from-best-picture-oscar-winner-gets-first-trailer/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T23:33:07.000Z"
+      "publishedAt": "2026-09-02T16:41:31.000Z"
     },
     {
-      "id": "0a15e2d5f2daff2d",
-      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-      "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
-      "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T23:00:00.000Z"
-    },
-    {
-      "id": "59bf440dc00c5d04",
-      "title": "Google needs Hollywood more than the studios need AI",
-      "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios,  hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "id": "8657fead5f04fbfa",
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI secur",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T22:50:29.000Z"
+      "publishedAt": "2026-09-02T16:40:50.000Z"
     },
     {
-      "id": "3f850ac1f1c4b6b8",
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-      "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
-      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T22:13:34.000Z"
-    },
-    {
-      "id": "7b8ed14ef02c4224",
-      "title": "Here’s how much Apple is paying John Ternus as CEO, Tim Cook as executive chairman",
-      "description": "In a new regulatory filing today, Apple revealed that new CEO John Ternus is receiving a pay package with $58 million in salary and target stock awards. The company also shared details on Tim Cook’s lucrative new deal as Apple’s executive chairman.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/john-ternus-gets-58m-pay-package-as-ceo-tim-cook-47m-as-chairman/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T22:10:39.000Z"
-    },
-    {
-      "id": "11d1b66acb7a0bfe",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T22:08:24.000Z"
-    },
-    {
-      "id": "c88f5ef7eb19d5dc",
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "description": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "id": "5e489f14401b8816",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"b",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T22:01:36.000Z"
+      "publishedAt": "2026-09-02T16:12:25.000Z"
     },
     {
-      "id": "9f0d1d3257cf1742",
-      "title": "Here's What Apple is Paying John Ternus to Run the Company",
-      "description": "Apple has set new CEO John Ternus' target compensation at $58 million, according to an updated SEC filing [PDF]. Tim Cook's target compensation is $47 million in his new role as executive chairman.\r\n\r\n\r\nTernus' fiscal 2027 compensation includes a $3 million salary and an annual equity award with a t",
-      "image": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
-      "url": "https://www.macrumors.com/2026/09/01/apple-ceo-john-ternus-compensation/",
+      "id": "12e21d391e3db293",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T16:04:10.000Z"
+    },
+    {
+      "id": "48097b70e14a549b",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T16:01:48.000Z"
+    },
+    {
+      "id": "aefa115e0430b9a5",
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "description": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice:\nFirst up on September 5 is a new MrBeast video ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T15:47:03.000Z"
+    },
+    {
+      "id": "6ed25588ffa56b3b",
+      "title": "Google dodges another breakup attempt",
+      "description": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years.\nBrinkema said she would adopt most of the behavioral changes propos",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T15:42:17.000Z"
+    },
+    {
+      "id": "350a5365cbb59387",
+      "title": "Open the Current App's Settings From Control Center",
+      "description": "Recently, Daring Fireball's John Gruber resurfaced an old tip that lets you quickly access the settings menu for the currently opened app on your iPhone. If you find it a hassle digging through the Settings app to find the associated app menu, this solution saves you the bother. \r\n\r\nconveniently dow",
+      "image": "https://images.macrumors.com/article-new/2026/06/Shortcuts-Feature.jpg",
+      "url": "https://www.macrumors.com/how-to/open-the-current-apps-settings-from-control-center/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T21:50:32.000Z"
+      "publishedAt": "2026-09-02T15:36:54.000Z"
     },
     {
-      "id": "6597cbcabecd0636",
-      "title": "Apple Maps follows Google in renaming Lake Ontario",
-      "description": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada.\nThe Canadian version of Appl",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-maps-lake-america.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T21:22:56.000Z"
-    },
-    {
-      "id": "b7729c379cea3164",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T21:06:24.000Z"
-    },
-    {
-      "id": "b63a122f563401c8",
-      "title": "Apple Maps Renames Lake Ontario 'Lake America'",
-      "description": "Apple Maps users in the United States will now see \"Lake America\" instead of \"Lake Ontario\" for the Great Lake on the border of Ontario and New York.\r\n\r\n\r\nThe updated name is currently rolling out to iPhone, iPad, and Mac users. The Maps app still has the Lake Ontario label for the body of water, bu",
-      "image": "https://images.macrumors.com/article-new/2026/09/trump-lake-america.jpg",
-      "url": "https://www.macrumors.com/2026/09/01/apple-maps-lake-america/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-01T20:58:35.000Z"
-    },
-    {
-      "id": "592e5c42d55cf678",
-      "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
-      "description": "The Lenovo 7i’s 360-degree hinges opens up new usage options. | Image: Lenovo\t\n\nBest Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, wi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Lenovo-Yoga-7i-2in1-breakout-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T20:54:08.000Z"
-    },
-    {
-      "id": "c1e19bcca673401a",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T20:53:05.000Z"
-    },
-    {
-      "id": "d891ed7362a8bdb9",
-      "title": "Apple Maps now uses ‘Lake America’ instead of ‘Lake Ontario’ after Trump order",
-      "description": "If you head to Apple Maps today, you’ll notice that Apple has started renaming Lake Ontario to “Lake America.” The move follows Trump’s order last week to change the name as part of an ongoing trade dispute with Canada.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/apple-maps-renaming-lake-ontario-to-lake-america-following-trump-order/",
+      "id": "4f901ef69405d7ad",
+      "title": "M6 MacBook Pro: Three new upgrades launching this fall",
+      "description": "Apple has a new M6 MacBook Pro launching this fall with a 14-inch screen and the current industrial design. Now that the M6 chip has officially been unveiled, here are three upgrades to expect from the new MacBook Pro.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/m6-macbook-pro-three-new-upgrades-launching-this-fall/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T20:49:50.000Z"
+      "publishedAt": "2026-09-02T15:36:43.000Z"
     },
     {
-      "id": "690ec90ef0b9d74c",
-      "title": "X says attackers are targeting user accounts after the launch of X Money",
-      "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
-      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T20:48:32.000Z"
-    },
-    {
-      "id": "a89f3f72b6ae9034",
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "description": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post.\nIn July, an unreleased OpenAI model broke out of its res",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "id": "61e1992eb3050a87",
+      "title": "Continuous glucose monitors are about to get more complicated",
+      "description": "The Abbot Libre Duo is the first FDA authorized 2-in-1 continuous glucose monitor. | Image: Abbott\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Libre-Duo-10-Day_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T20:45:49.000Z"
+      "publishedAt": "2026-09-02T15:30:00.000Z"
     },
     {
-      "id": "075cb9686dc26613",
-      "title": "New iPhone Ultra details arrive for specs, multitasking, launch timing, more",
-      "description": "Next week, the iPhone Ultra will be unveiled at Apple’s September event, and today a new Tom’s Guide interview with Mark Gurman reveals several fresh details on what to expect from specs, software, launch timing, and more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
+      "id": "0e8f228a58c4f756",
+      "title": "Deals: AirPods Pro 3 $50 off, M5 MacBook Air $240 off, M6 Mac mini, accessories from $5.50, more",
+      "description": "Alongside the massive AirPods Pro 3 are now back down at $50 off. That offer joins the ongoing all-time low on AirTag 2 at $20 each and a sizable M5 MacBook Air re-stock in the official Apple Refurb Store (more details on those right here). We have the going M6 Mac mini pre-order discounts alongside",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-Pro-3-MacBook-Air-M5-Mac-mini-M6.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/deals-airpods-pro-3-m5-macbook-air-m6-mac-mini/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T20:25:36.000Z"
+      "publishedAt": "2026-09-02T15:27:42.000Z"
     },
     {
-      "id": "d42f428100c8a46a",
-      "title": "On first listen, the Sonos Beam Ultra sounds great",
-      "description": "The Beam Ultra is made for TVs up to 65 inches. It will also be available in black. | Photo by Cameron Faulkner / The Verge\t\n\nSonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app upd",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/beamultra1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T20:08:38.000Z"
-    },
-    {
-      "id": "7a2c502af4599abe",
-      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-      "description": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
-      "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T19:45:28.000Z"
-    },
-    {
-      "id": "9e6bc204ac944868",
-      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
-      "description": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the compa",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951501/VRG_Illo_STK170_L_Normand_TimCook_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T19:43:39.000Z"
-    },
-    {
-      "id": "5513b0ac8c0ba370",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-01T19:39:22.000Z"
-    },
-    {
-      "id": "d66560d171cb9e59",
-      "title": "macOS Golden Gate Seems to Hint at MacBook Pro With OLED Display",
-      "description": "As noted by Broadcasts developer Steven Troughton-Smith, many Liquid Glass interface elements on the macOS Golden Gate beta have an even glassier appearance on certain high-end OLED displays with HDR support than they do on ordinary displays.\r\n\r\nor \"MacBook Ultra\" models with an OLED display by earl",
-      "image": "https://images.macrumors.com/article-new/2026/09/macOS-Golden-Gate-Liquid-Glass-UI-HDR.jpg",
-      "url": "https://www.macrumors.com/2026/09/01/macos-golden-gate-hdr-liquid-glass/",
+      "id": "5bc421585590b63f",
+      "title": "Apple's New Mac Mini Already Discounted - See the Pre-Order Deals",
+      "description": "Amazon has introduced the first cash discounts on Apple's brand new Mac mini, with discounts including two of the M6 models as well as the M5 Pro model. All of these deals are pre-order discounts on the 2026 Mac mini, which officially launches on September 22.\r\n\r\nNote: MacRumors is an affiliate part",
+      "image": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
+      "url": "https://www.macrumors.com/2026/09/02/pre-order-discounts-mac-mini/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T19:34:56.000Z"
+      "publishedAt": "2026-09-02T15:11:36.000Z"
     },
     {
-      "id": "6f180cdda152e631",
-      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-      "description": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
-      "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+      "id": "c0f5d10915977015",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-01T19:30:24.000Z"
+      "publishedAt": "2026-09-02T15:01:23.000Z"
     },
     {
-      "id": "9f8767d661df43ba",
-      "title": "Apple Watch Series 12: Three new features coming next week",
-      "description": "Apple Watch Series 12 is coming next week, launching at the September event alongside Apple Watch Ultra 4. Here are three new features rumored for Apple Watch Series 12.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
+      "id": "c9a73f4589ad488b",
+      "title": "Belkin’s kid-friendly wireless headphones are 25 percent off",
+      "description": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you’re willing to spend a bit more. | Image: The Verge\t\n\nVerge readers can get a discount on Belkin’s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy c",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T14:58:15.000Z"
+    },
+    {
+      "id": "a65a271cd465a5fa",
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T14:56:34.000Z"
+    },
+    {
+      "id": "b3c356b0efdda14a",
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "description": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2261008686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T14:35:03.000Z"
+    },
+    {
+      "id": "7171362552557404",
+      "title": "iOS 27 gives Apple Pay its best upgrade in years with redesign",
+      "description": "iOS 27 introduces several improvements for Apple Pay, including a fully overhauled checkout flow that’s the service’s best upgrade in years.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay-card-ios-27-checkout.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/ios-27-gives-apple-pay-its-best-upgrade-in-years-with-redesign/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T19:18:04.000Z"
+      "publishedAt": "2026-09-02T14:26:06.000Z"
     },
     {
-      "id": "d352f10aa58e5b71",
-      "title": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
-      "description": "Anthropic today introduced Claude Fable 5.1 and Claude Mythos 5.1, which the company says are the \"world's most advanced models for coding and knowledge work.\"\r\n\r\n\r\nAccording to Anthropic, Claude Fable 5.1 sets a new standard for coding, knowledge work, and long-running problem-solving tasks. It ach",
-      "image": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
-      "url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1/",
+      "id": "8c21171d357a7589",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T14:03:57.000Z"
+    },
+    {
+      "id": "a618b39089780e67",
+      "title": "Apple Wallet driver’s license support launches in Oklahoma",
+      "description": "Apple is rolling out support for Apple Wallet driver’s license integration to a new state. Starting today, Oklahoma residents can add their license to the Wallet app on iPhone and Apple Watch for easy mobile access.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ok.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/apple-wallet-drivers-license-support-launches-in-oklahoma/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T13:52:00.000Z"
+    },
+    {
+      "id": "eba83040482c1ae5",
+      "title": "iPhone Driver's License Feature in Apple Wallet Just Launched in 16th U.S. State",
+      "description": "Starting today, Oklahoma residents can add a digital version of their driver's license to the Apple Wallet app on the iPhone and Apple Watch. The digital ID can be used to display proof of identity or age at TSA checkpoints in select airports, at select businesses, and in select apps, but the number",
+      "image": "https://images.macrumors.com/article-new/2025/03/apple-wallet-drivers-license-feature-iPhone-15-pro-purple-1.jpg",
+      "url": "https://www.macrumors.com/2026/09/02/apple-wallet-id-feature-16th-us-state/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-01T19:15:25.000Z"
+      "publishedAt": "2026-09-02T13:38:58.000Z"
+    },
+    {
+      "id": "c581e504b394d882",
+      "title": "Siri AI won’t be your friend, and here’s why that really matters",
+      "description": "Elon University has partnered with The Washington Post to conduct what turned out to be a worrying survey about Americans viewing AI chatbots as virtual friends or therapists.\nThe results very much vindicate Apple’s careful decision to ensure that Siri AI doesn’t encourage such pseudo-relationships ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-wont-act-as-your-friend-and-heres-why-that-really-matters.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/siri-ai-wont-be-your-friend-and-heres-why-that-really-matters/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T13:21:44.000Z"
+    },
+    {
+      "id": "befb146ccba45daf",
+      "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
+      "description": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
+      "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T13:11:47.000Z"
     }
   ],
-  "lastUpdated": "2026-09-02T06:05:53.169Z",
+  "lastUpdated": "2026-09-02T18:03:00.324Z",
   "sources": [
     "TechCrunch",
     "The Verge",
