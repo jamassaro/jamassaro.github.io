@@ -1,6 +1,208 @@
 {
   "articles": [
     {
+      "id": "49cf1674f372241f",
+      "title": "Govee Debuts $400 Matter-Enabled Sky Ceiling Light",
+      "description": "Govee today introduced three new lighting products, including theSky Ceiling Light, COB Strip Light 2 Pro, and Permanent Outdoor Lights 2 Pro.\r\n\r\n\r\nGovee says the $400 Matter-enabled Sky Ceiling Light is a \"mood-responsive\" light that uses AI Lighting Bot 2.0 to set the color of the light based on t",
+      "image": "https://images.macrumors.com/article-new/2026/09/govee-ceiling-light.jpg",
+      "url": "https://www.macrumors.com/2026/09/03/govee-sky-ceiling-light/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T06:00:11.000Z"
+    },
+    {
+      "id": "2c00ca9fcc56201d",
+      "title": "When is Apple releasing new AirPods?",
+      "description": "Apple’s AirPods lineup is stronger than ever, but there are already rumors about what’s coming next. Here’s everything we know so far about when Apple will release new AirPods.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-3-table.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/when-is-apple-releasing-new-airpods/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T00:47:20.000Z"
+    },
+    {
+      "id": "bfc2c2136128e30e",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T23:01:00.000Z"
+    },
+    {
+      "id": "e443950224081ff5",
+      "title": "Uber beats Waymo as first to launch robotaxis in London",
+      "description": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. \nThe launch is a milestone for Uber, which has been plotting a UK l",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T23:00:00.000Z"
+    },
+    {
+      "id": "6beaa729347c0109",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T22:44:56.000Z"
+    },
+    {
+      "id": "d83ebaca6a8bc4f0",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T22:24:09.000Z"
+    },
+    {
+      "id": "6c89c2e3e9cf3da5",
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T21:38:34.000Z"
+    },
+    {
+      "id": "2baacd606ca63b6c",
+      "title": "Rare Working Apple-1 Could Fetch $800,000 at Auction",
+      "description": "An original Apple–1 Computer could sell for between $500,000 and $800,000 when it is auctioned off this October.\r\n\r\n\r\nThere are fewer than 75 Apple–1 Computers known to exist, and a smaller number that are operational. The \"Hatfield\" Apple–1 is number 48 on the Apple–1 registry, and it is in working",
+      "image": "https://images.macrumors.com/article-new/2026/09/hatfield-apple-1.jpg",
+      "url": "https://www.macrumors.com/2026/09/02/hatfield-apple-1-auction/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T21:10:43.000Z"
+    },
+    {
+      "id": "2458549073d7a7cd",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T20:19:14.000Z"
+    },
+    {
+      "id": "5724ae5d92c04750",
+      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+      "description": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+      "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T20:12:41.000Z"
+    },
+    {
+      "id": "e34142fc147c2704",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per m",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T20:11:40.000Z"
+    },
+    {
+      "id": "731621abbdbae3f9",
+      "title": "Ryan Reynolds’ new Apple TV spy movie is a winner, reviews here",
+      "description": "Apple TV kicks off its big fall lineup this week with Mayday, a new Ryan Reynolds film that’s part buddy comedy, part action spy thriller. And the first reviews say the movie’s a winner.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ryan-reynolds-mayday-jacket.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/ryan-reynolds-new-apple-tv-spy-movie-is-a-winner-reviews-here/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T19:53:35.000Z"
+    },
+    {
+      "id": "1d6c55f894f458d1",
+      "title": "iOS 27 Introduces New 'iPhone Handoff' Feature",
+      "description": "Apple has added a new \"iPhone Handoff\" feature to iOS 27 that will allow you to switch between two iPhones while using the same phone number on each device.\r\n\r\n\r\nThis functionality was briefly mentioned during the WWDC 2026 keynote in June, on a slide that listed hundreds of new features coming in i",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T19:35:53.000Z"
+    },
+    {
+      "id": "edf1e67c7cf4db26",
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T19:35:09.000Z"
+    },
+    {
+      "id": "bf482f9cca8ab340",
+      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+      "description": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+      "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T19:25:35.000Z"
+    },
+    {
+      "id": "f237493afe3a2286",
+      "title": "Anthropic upgrades Claude’s computer use to run in the background on Mac",
+      "description": "While computer use isn’t new for Claude on the desktop, running it in the background is a nice upgrade.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T19:14:00.000Z"
+    },
+    {
+      "id": "cca9126cab9adf83",
+      "title": "iOS 27 fixes Apple Mail in three ways longtime users will love",
+      "description": "iOS 27 is packed with powerful features like Siri AI and upgrades to productivity apps like Apple Mail, Notes, Reminders, and Calendar. But for many users, some of iOS 27’s best changes might be bug fixes that make apps run better than ever—here are three coming to Apple Mail.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T19:00:40.000Z"
+    },
+    {
+      "id": "2bf0f3e4087af496",
+      "title": "Here are some of REI’s best Labor Day sale deals",
+      "description": "The discounted Garmin InReach 3 Mini can help you stay in touch when you’re out in the wilderness. | Image: Garmin\t\n\nSummer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, man",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Garmin-InReach-Mini-3-Lifestyle-Press-Image.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T18:56:59.000Z"
+    },
+    {
+      "id": "1832bc1cfa4e9003",
+      "title": "1Password wades into a right-wing mess after funding a Linux project",
+      "description": "David Faugno, CEO at 1Password, at the Web Summit conference in Lisbon, Portugal, on November 11th, 2025. | Photo: Zed Jameson / Bloomberg via Getty Image\t\n\n1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Han",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2245678912.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-02T18:48:14.000Z"
+    },
+    {
+      "id": "b76e345bad69f432",
+      "title": "iPhone 18 Pro will have three upgrades that have been rumored for years",
+      "description": "iPhone 18 Pro is launching next week, and expected to feature three upgrades that have been rumored for years. Here’s what’s coming.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T18:21:33.000Z"
+    },
+    {
+      "id": "2a8a323b0e0a091b",
+      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+      "description": "GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories.\nWith iOS 27, Apple is expanding that idea beyo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/02/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-02T18:00:00.000Z"
+    },
+    {
       "id": "62ace29e3a9b2491",
       "title": "Amazon’s AI assistant can now spot fake emails from the company",
       "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to com",
@@ -40,7 +242,7 @@
     {
       "id": "36359fbfca499ae1",
       "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
       "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "source": "TechCrunch",
       "category": "Tech News",
@@ -69,7 +271,7 @@
       "id": "2cd084249a569f87",
       "title": "The best tech and gadgets announced at IFA so far",
       "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - in",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
       "source": "The Verge",
       "category": "Tech News",
@@ -84,213 +286,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-09-02T16:41:31.000Z"
-    },
-    {
-      "id": "8657fead5f04fbfa",
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI secur",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T16:40:50.000Z"
-    },
-    {
-      "id": "5e489f14401b8816",
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"b",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T16:12:25.000Z"
-    },
-    {
-      "id": "12e21d391e3db293",
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T16:04:10.000Z"
-    },
-    {
-      "id": "48097b70e14a549b",
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T16:01:48.000Z"
-    },
-    {
-      "id": "aefa115e0430b9a5",
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "description": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice:\nFirst up on September 5 is a new MrBeast video ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T15:47:03.000Z"
-    },
-    {
-      "id": "6ed25588ffa56b3b",
-      "title": "Google dodges another breakup attempt",
-      "description": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years.\nBrinkema said she would adopt most of the behavioral changes propos",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T15:42:17.000Z"
-    },
-    {
-      "id": "350a5365cbb59387",
-      "title": "Open the Current App's Settings From Control Center",
-      "description": "Recently, Daring Fireball's John Gruber resurfaced an old tip that lets you quickly access the settings menu for the currently opened app on your iPhone. If you find it a hassle digging through the Settings app to find the associated app menu, this solution saves you the bother. \r\n\r\nconveniently dow",
-      "image": "https://images.macrumors.com/article-new/2026/06/Shortcuts-Feature.jpg",
-      "url": "https://www.macrumors.com/how-to/open-the-current-apps-settings-from-control-center/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T15:36:54.000Z"
-    },
-    {
-      "id": "4f901ef69405d7ad",
-      "title": "M6 MacBook Pro: Three new upgrades launching this fall",
-      "description": "Apple has a new M6 MacBook Pro launching this fall with a 14-inch screen and the current industrial design. Now that the M6 chip has officially been unveiled, here are three upgrades to expect from the new MacBook Pro.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/m6-macbook-pro-three-new-upgrades-launching-this-fall/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T15:36:43.000Z"
-    },
-    {
-      "id": "61e1992eb3050a87",
-      "title": "Continuous glucose monitors are about to get more complicated",
-      "description": "The Abbot Libre Duo is the first FDA authorized 2-in-1 continuous glucose monitor. | Image: Abbott\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Libre-Duo-10-Day_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T15:30:00.000Z"
-    },
-    {
-      "id": "0e8f228a58c4f756",
-      "title": "Deals: AirPods Pro 3 $50 off, M5 MacBook Air $240 off, M6 Mac mini, accessories from $5.50, more",
-      "description": "Alongside the massive AirPods Pro 3 are now back down at $50 off. That offer joins the ongoing all-time low on AirTag 2 at $20 each and a sizable M5 MacBook Air re-stock in the official Apple Refurb Store (more details on those right here). We have the going M6 Mac mini pre-order discounts alongside",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-Pro-3-MacBook-Air-M5-Mac-mini-M6.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/deals-airpods-pro-3-m5-macbook-air-m6-mac-mini/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T15:27:42.000Z"
-    },
-    {
-      "id": "5bc421585590b63f",
-      "title": "Apple's New Mac Mini Already Discounted - See the Pre-Order Deals",
-      "description": "Amazon has introduced the first cash discounts on Apple's brand new Mac mini, with discounts including two of the M6 models as well as the M5 Pro model. All of these deals are pre-order discounts on the 2026 Mac mini, which officially launches on September 22.\r\n\r\nNote: MacRumors is an affiliate part",
-      "image": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
-      "url": "https://www.macrumors.com/2026/09/02/pre-order-discounts-mac-mini/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T15:11:36.000Z"
-    },
-    {
-      "id": "c0f5d10915977015",
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T15:01:23.000Z"
-    },
-    {
-      "id": "c9a73f4589ad488b",
-      "title": "Belkin’s kid-friendly wireless headphones are 25 percent off",
-      "description": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you’re willing to spend a bit more. | Image: The Verge\t\n\nVerge readers can get a discount on Belkin’s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy c",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T14:58:15.000Z"
-    },
-    {
-      "id": "a65a271cd465a5fa",
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T14:56:34.000Z"
-    },
-    {
-      "id": "b3c356b0efdda14a",
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "description": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2261008686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T14:35:03.000Z"
-    },
-    {
-      "id": "7171362552557404",
-      "title": "iOS 27 gives Apple Pay its best upgrade in years with redesign",
-      "description": "iOS 27 introduces several improvements for Apple Pay, including a fully overhauled checkout flow that’s the service’s best upgrade in years.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay-card-ios-27-checkout.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/ios-27-gives-apple-pay-its-best-upgrade-in-years-with-redesign/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T14:26:06.000Z"
-    },
-    {
-      "id": "8c21171d357a7589",
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T14:03:57.000Z"
-    },
-    {
-      "id": "a618b39089780e67",
-      "title": "Apple Wallet driver’s license support launches in Oklahoma",
-      "description": "Apple is rolling out support for Apple Wallet driver’s license integration to a new state. Starting today, Oklahoma residents can add their license to the Wallet app on iPhone and Apple Watch for easy mobile access.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ok.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/apple-wallet-drivers-license-support-launches-in-oklahoma/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T13:52:00.000Z"
-    },
-    {
-      "id": "eba83040482c1ae5",
-      "title": "iPhone Driver's License Feature in Apple Wallet Just Launched in 16th U.S. State",
-      "description": "Starting today, Oklahoma residents can add a digital version of their driver's license to the Apple Wallet app on the iPhone and Apple Watch. The digital ID can be used to display proof of identity or age at TSA checkpoints in select airports, at select businesses, and in select apps, but the number",
-      "image": "https://images.macrumors.com/article-new/2025/03/apple-wallet-drivers-license-feature-iPhone-15-pro-purple-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/02/apple-wallet-id-feature-16th-us-state/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T13:38:58.000Z"
-    },
-    {
-      "id": "c581e504b394d882",
-      "title": "Siri AI won’t be your friend, and here’s why that really matters",
-      "description": "Elon University has partnered with The Washington Post to conduct what turned out to be a worrying survey about Americans viewing AI chatbots as virtual friends or therapists.\nThe results very much vindicate Apple’s careful decision to ensure that Siri AI doesn’t encourage such pseudo-relationships ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-wont-act-as-your-friend-and-heres-why-that-really-matters.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/siri-ai-wont-be-your-friend-and-heres-why-that-really-matters/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T13:21:44.000Z"
-    },
-    {
-      "id": "befb146ccba45daf",
-      "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
-      "description": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
-      "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T13:11:47.000Z"
     }
   ],
-  "lastUpdated": "2026-09-02T18:03:00.324Z",
+  "lastUpdated": "2026-09-03T06:04:55.468Z",
   "sources": [
     "TechCrunch",
     "The Verge",
