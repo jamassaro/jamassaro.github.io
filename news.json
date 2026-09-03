@@ -1,294 +1,301 @@
 {
   "articles": [
     {
-      "id": "49cf1674f372241f",
-      "title": "Govee Debuts $400 Matter-Enabled Sky Ceiling Light",
-      "description": "Govee today introduced three new lighting products, including theSky Ceiling Light, COB Strip Light 2 Pro, and Permanent Outdoor Lights 2 Pro.\r\n\r\n\r\nGovee says the $400 Matter-enabled Sky Ceiling Light is a \"mood-responsive\" light that uses AI Lighting Bot 2.0 to set the color of the light based on t",
-      "image": "https://images.macrumors.com/article-new/2026/09/govee-ceiling-light.jpg",
-      "url": "https://www.macrumors.com/2026/09/03/govee-sky-ceiling-light/",
+      "id": "88e994fa3db0e0d0",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T18:01:45.000Z"
+    },
+    {
+      "id": "725a753d5d403ea7",
+      "title": "Apple Vision Pro was just used in a first-of-its-kind surgery",
+      "description": "We’ve seen several stories about Apple Vision Pro being used in healthcare settings. This week, Stryker announced the completion of the first surgical procedure using an innovative new app on Vision Pro.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ssv_press-release-hero.jpeg?quality=82&#038;strip=all&#038;w=1278",
+      "url": "https://9to5mac.com/2026/09/03/apple-vision-pro-was-just-used-in-a-first-of-its-kind-surgery/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T17:59:08.000Z"
+    },
+    {
+      "id": "47828095a1b5f831",
+      "title": "Apple Watch loses a useful multitasking feature in watchOS 27 that I’ve been missing",
+      "description": "I mentioned today in my Siri AI Apple Watch piece that there’s one change I still hope Apple makes to watchOS 27 before it ships this month. It’s one of those common muscle-memory features that have existed for years, and I’ve been missing it all summer.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-modular-face.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/03/apple-watch-loses-a-useful-multitasking-feature-in-watchos-27-that-ive-been-missing/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T17:44:55.000Z"
+    },
+    {
+      "id": "97c962343ca57743",
+      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+      "description": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
+      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T17:00:00.000Z"
+    },
+    {
+      "id": "7c2707089dbb8fa7",
+      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+      "description": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will be limited to just 15 ho",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T17:00:00.000Z"
+    },
+    {
+      "id": "74993ceb22ee3f23",
+      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+      "description": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who don't use cloud access enough to warrant a monthly ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T17:00:00.000Z"
+    },
+    {
+      "id": "d407d7cbdf8d5adf",
+      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+      "description": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
+      "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:42:54.000Z"
+    },
+    {
+      "id": "3468a74cc5ded285",
+      "title": "Apple has reportedly canceled innovative product that was ‘Ternus priority’",
+      "description": "A new Omdia research note today outlined Apple’s reported Mac and iPad roadmap for the years ahead, and it also mentioned that a key rumored product has been canceled. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/03/apple-has-reportedly-canceled-innovative-product-that-was-ternus-priority/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T16:24:22.000Z"
+    },
+    {
+      "id": "81c2c1c6cb2c71a7",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:09:01.000Z"
+    },
+    {
+      "id": "0e08dde85452bf95",
+      "title": "Lenovo IdeaPad Vibe is a MacBook Neo competitor starting at $699",
+      "description": "Lenovo is taking on the MacBook Neo with a colorful new laptop – the IdeaPad Vibe.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/lenovo-ideapad-vibe-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5google.com/2026/09/03/lenovo-ideapad-vibe-is-a-macbook-neo-competitor-starting-at-699/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T16:08:40.000Z"
+    },
+    {
+      "id": "6f5eb3152795148d",
+      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+      "description": "Users can search for emails or draft documents using the new conversational feature.",
+      "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "a9a4a6014b93daee",
+      "title": "I held the first truly bezel-free phone",
+      "description": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. \nThen, progress just stopped. The bezel shrunk down until ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tecno-bezelless-concept-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "ca94d4a8bc288ca8",
+      "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
+      "description": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Sli",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/circular1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "393740ecb7b0d91a",
+      "title": "The Moto Watch Ultra is a return to Wear OS",
+      "description": "The Moto Watch Ultra comes in one size, two colors, and with Google’s smartwatch software.\t\n\nJust a few months after getting back into the smartwatch game, Motorola is targeting the premium end of the market with the first Moto Watch Ultra. It comes with some upgrades from the recent Moto Watch - mo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/moto-watch-ultra-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "a7cccf4879cb56a0",
+      "title": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
+      "description": "Tag yourself. I’m spicy gold. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nLenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with AMD and Qualcomm chip ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_IdeaPad_Vibe_IFA_2026_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "c3deb9370a0f4de2",
+      "title": "This ultra-thin Lenovo laptop concept uses solid-state cooling",
+      "description": "A laptop we’ll hopefully see but never hear.\t\n\nLenovo is announcing a new concept laptop for IFA 2026 that uses solid-state cooling instead of traditional fans, making it incredibly thin and super light. The 14-inch Project AeroBlade concept laptop is less than 10mm thick and weighs under 1.8 pounds",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_ThinkBook_Ultra_Concept_Frore_IFA_2026_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "3c4061472255c8d2",
+      "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
+      "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two different configurations in October.\nYou'll be ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "eae1cad9dace0f8f",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-s",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "1dfd53b94c9fa9c3",
+      "title": "This 14-inch laptop has a screen that unrolls to 17 inches",
+      "description": "ThinkBooks, roll out! | Photo: Antonio G. Di Benedetto / The Verge\t\n\nLenovo's latest rollable concept, announced at IFA 2026, is the ThinkBook Project Swan: a business laptop with a screen that expands horizontally from 14 to 17 inches.\nRollable screens are nothing new for Lenovo. The company has sh",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_ThinkBook_Swan_14-17_Rollable_Concept_IFA_2026_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T16:00:00.000Z"
+    },
+    {
+      "id": "85766136f60b4e1a",
+      "title": "Apple’s big roadmap for new Mac and iPad models revealed: report",
+      "description": "A new report from Omdia offers fresh details on Apple’s roadmap for new MacBook Pro, MacBook Air, and iPad models in the years ahead. Here’s what it says is coming.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/macbook-air-m4-m3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/03/apples-big-roadmap-for-new-mac-and-ipad-models-revealed-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T15:49:51.000Z"
+    },
+    {
+      "id": "ef6bfb1f9e451574",
+      "title": "Deals: AirPods Pro 3, 2026 Apple Studio Display $214 off, iPad Air $100 off, charging gear, more",
+      "description": "The giant Labor Day sales roll on at both Amazon and AirTag 2 at $20 each. But today’s 9to5Toys Lunch Break is headlined by this 2026 Apple Studio Display hitting the Amazon all-time low at $214 off and the most affordable current-gen iPad Air at $100 off. We also have launch deal on Anker’s brand n",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Studio-Display-AirPods-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T15:29:04.000Z"
+    },
+    {
+      "id": "3292b4d48b6d206f",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T15:00:00.000Z"
+    },
+    {
+      "id": "7165a217a25c06f3",
+      "title": "AI outage: Claude, ChatGPT, and Grok are currently down for many users [U]",
+      "description": "Update: Service appears to be coming back online for some after about half an hour. Your mileage may vary.\nIt’s not just you. Claude, ChatGPT/Codex, and Grok are currently experiencing what appears to be a widespread outage for many users.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ai-outage.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/03/chatgpt-and-codex-are-experiencing-an-outage-for-many-users/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T14:57:31.000Z"
+    },
+    {
+      "id": "84289ca4d41b1fe1",
+      "title": "Apple Hit With $2.7 Billion Lawsuit Over App Tracking Rules",
+      "description": "Apple is facing a £2 billion ($2.7 billion) lawsuit in London accusing it of imposing stricter App Tracking Transparency rules on third party developers than on its own advertising services (via Reuters).\r\n\r\nordered Apple to pay around £1.5 billion over App Store commissions last October, a ruling A",
+      "image": "https://images.macrumors.com/article-new/2021/04/generic-tracking-prompt-orange.jpg",
+      "url": "https://www.macrumors.com/2026/09/03/apple-hit-with-lawsuit-over-app-tracking/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-03T06:00:11.000Z"
+      "publishedAt": "2026-09-03T14:46:47.000Z"
     },
     {
-      "id": "2c00ca9fcc56201d",
-      "title": "When is Apple releasing new AirPods?",
-      "description": "Apple’s AirPods lineup is stronger than ever, but there are already rumors about what’s coming next. Here’s everything we know so far about when Apple will release new AirPods.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-3-table.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/when-is-apple-releasing-new-airpods/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T00:47:20.000Z"
-    },
-    {
-      "id": "bfc2c2136128e30e",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T23:01:00.000Z"
-    },
-    {
-      "id": "e443950224081ff5",
-      "title": "Uber beats Waymo as first to launch robotaxis in London",
-      "description": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. \nThe launch is a milestone for Uber, which has been plotting a UK l",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T23:00:00.000Z"
-    },
-    {
-      "id": "6beaa729347c0109",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T22:44:56.000Z"
-    },
-    {
-      "id": "d83ebaca6a8bc4f0",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T22:24:09.000Z"
-    },
-    {
-      "id": "6c89c2e3e9cf3da5",
-      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-      "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
-      "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T21:38:34.000Z"
-    },
-    {
-      "id": "2baacd606ca63b6c",
-      "title": "Rare Working Apple-1 Could Fetch $800,000 at Auction",
-      "description": "An original Apple–1 Computer could sell for between $500,000 and $800,000 when it is auctioned off this October.\r\n\r\n\r\nThere are fewer than 75 Apple–1 Computers known to exist, and a smaller number that are operational. The \"Hatfield\" Apple–1 is number 48 on the Apple–1 registry, and it is in working",
-      "image": "https://images.macrumors.com/article-new/2026/09/hatfield-apple-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/02/hatfield-apple-1-auction/",
+      "id": "4dda377abda68085",
+      "title": "Apple's 2026 Studio Display Gets Steep $214 Discount on Amazon",
+      "description": "Amazon today has introduced a big discount on the Apple Studio Display with Nano-Texture Glass and Tilt-Adjustable Stand, available for $1,684.88 with an on-page coupon, down from $1,899.00. This is the first time in nearly three months we've seen any notable discounts on the 2026 Studio Display lin",
+      "image": "https://images.macrumors.com/article-new/2026/04/studio-display-2026-pink.jpeg",
+      "url": "https://www.macrumors.com/2026/09/03/studio-display-214-discount/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-02T21:10:43.000Z"
+      "publishedAt": "2026-09-03T14:38:53.000Z"
     },
     {
-      "id": "2458549073d7a7cd",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T20:19:14.000Z"
-    },
-    {
-      "id": "5724ae5d92c04750",
-      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-      "description": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
-      "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T20:12:41.000Z"
-    },
-    {
-      "id": "e34142fc147c2704",
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per m",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T20:11:40.000Z"
-    },
-    {
-      "id": "731621abbdbae3f9",
-      "title": "Ryan Reynolds’ new Apple TV spy movie is a winner, reviews here",
-      "description": "Apple TV kicks off its big fall lineup this week with Mayday, a new Ryan Reynolds film that’s part buddy comedy, part action spy thriller. And the first reviews say the movie’s a winner.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ryan-reynolds-mayday-jacket.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/ryan-reynolds-new-apple-tv-spy-movie-is-a-winner-reviews-here/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T19:53:35.000Z"
-    },
-    {
-      "id": "1d6c55f894f458d1",
-      "title": "iOS 27 Introduces New 'iPhone Handoff' Feature",
-      "description": "Apple has added a new \"iPhone Handoff\" feature to iOS 27 that will allow you to switch between two iPhones while using the same phone number on each device.\r\n\r\n\r\nThis functionality was briefly mentioned during the WWDC 2026 keynote in June, on a slide that listed hundreds of new features coming in i",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
-      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+      "id": "9df1e4c485b87d34",
+      "title": "iPhone Ultra's Very High Price and Features Revealed in New Report",
+      "description": "Ahead of Apple's event on Wednesday, September 9, where it is expected to unveil its first-ever foldable iPhone, Taiwanese research firm TrendForce today outlined the device's estimated price range, features, and some other key details.\r\n\r\n\r\nIn the U.S., TrendForce estimated that the foldable iPhone",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-02T19:35:53.000Z"
+      "publishedAt": "2026-09-03T14:33:59.000Z"
     },
     {
-      "id": "edf1e67c7cf4db26",
-      "title": "It sure looks like hackers breached a major ID card verification service",
-      "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
-      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T19:35:09.000Z"
-    },
-    {
-      "id": "bf482f9cca8ab340",
-      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-      "description": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
-      "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T19:25:35.000Z"
-    },
-    {
-      "id": "f237493afe3a2286",
-      "title": "Anthropic upgrades Claude’s computer use to run in the background on Mac",
-      "description": "While computer use isn’t new for Claude on the desktop, running it in the background is a nice upgrade.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/",
+      "id": "672e2c9f8bd9a722",
+      "title": "Apple will launch six major new products next week, here’s what’s coming",
+      "description": "Apple’s biggest event of the year is just days away. September 9 will bring the “huge launch” new CEO John Ternus recently teased, with rumors indicating new iPhones, Apple Watch models, and AirPods are coming—and possibly more. Here are the six major products expected to debut.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-park-rainbow.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/03/apple-will-launch-six-major-new-products-next-week-heres-whats-coming/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-02T19:14:00.000Z"
+      "publishedAt": "2026-09-03T14:25:36.000Z"
     },
     {
-      "id": "cca9126cab9adf83",
-      "title": "iOS 27 fixes Apple Mail in three ways longtime users will love",
-      "description": "iOS 27 is packed with powerful features like Siri AI and upgrades to productivity apps like Apple Mail, Notes, Reminders, and Calendar. But for many users, some of iOS 27’s best changes might be bug fixes that make apps run better than ever—here are three coming to Apple Mail.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T19:00:40.000Z"
-    },
-    {
-      "id": "2bf0f3e4087af496",
-      "title": "Here are some of REI’s best Labor Day sale deals",
-      "description": "The discounted Garmin InReach 3 Mini can help you stay in touch when you’re out in the wilderness. | Image: Garmin\t\n\nSummer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, man",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Garmin-InReach-Mini-3-Lifestyle-Press-Image.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T18:56:59.000Z"
-    },
-    {
-      "id": "1832bc1cfa4e9003",
-      "title": "1Password wades into a right-wing mess after funding a Linux project",
-      "description": "David Faugno, CEO at 1Password, at the Web Summit conference in Lisbon, Portugal, on November 11th, 2025. | Photo: Zed Jameson / Bloomberg via Getty Image\t\n\n1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Han",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2245678912.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T18:48:14.000Z"
-    },
-    {
-      "id": "b76e345bad69f432",
-      "title": "iPhone 18 Pro will have three upgrades that have been rumored for years",
-      "description": "iPhone 18 Pro is launching next week, and expected to feature three upgrades that have been rumored for years. Here’s what’s coming.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T18:21:33.000Z"
-    },
-    {
-      "id": "2a8a323b0e0a091b",
-      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
-      "description": "GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories.\nWith iOS 27, Apple is expanding that idea beyo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/02/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-02T18:00:00.000Z"
-    },
-    {
-      "id": "62ace29e3a9b2491",
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T17:52:56.000Z"
-    },
-    {
-      "id": "4001eb3abc5fc623",
-      "title": "'I Wouldn't Be Talking to You': Apple Shares Apple Watch Survival Story",
-      "description": "Apple today shared a short video featuring an Apple Watch user named Amanda who says her device saved her life.\r\n\r\n\n\r\nIn 2024, Amanda began receiving alerts about an abnormal heart rate. Her watch alerted her about changes to her resting heart rate and her overnight vitals, prompting her to visit he",
-      "url": "https://www.macrumors.com/2026/09/02/apple-watch-heart-story/",
+      "id": "8d83e2e26c034444",
+      "title": "Apple Apparently Cancels Plans for Two New MacBooks",
+      "description": "Apple has canceled plans for a foldable MacBook and a larger OLED MacBook Pro model, according to research firm Omdia.\r\n\r\n\r\nIn a new research note, Omdia said Apple has scrapped development of a large foldable MacBook that would have measured between 16.1 and 18 inches when unfolded. It was previous",
+      "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
+      "url": "https://www.macrumors.com/2026/09/03/apple-cancels-plans-for-two-new-macbooks/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-02T17:48:01.000Z"
+      "publishedAt": "2026-09-03T14:12:51.000Z"
     },
     {
-      "id": "b3a3a25fe42b99ee",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T17:18:13.000Z"
+      "id": "98089ae32e9d5001",
+      "title": "Mini-LED MacBook Pro Models Could Stick Around Until 2028",
+      "description": "Apple has reportedly revised its plans for adopting OLED displays across its MacBook lineup, and its existing LCD-based MacBook Pro models with mini-LED backlighting are now expected to remain available for longer than anticipated.\r\n\r\n\r\nAccording to a new OLED adoption roadmap published by research ",
+      "image": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens-2.jpg",
+      "url": "https://www.macrumors.com/2026/09/03/mini-led-macbook-pro-models-until-2028/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T14:08:28.000Z"
     },
     {
-      "id": "2c062200f9d5df1c",
-      "title": "X shifts US creator payouts from Stripe to X Money",
-      "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-      "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T17:12:27.000Z"
-    },
-    {
-      "id": "36359fbfca499ae1",
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T17:09:06.000Z"
-    },
-    {
-      "id": "081a23b887df3412",
-      "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
-      "description": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spaceship-looking pod as a Range Rover. Sometimes fam",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/RANGE-ROVER-ELECTRIC-FRONT-3-4-02_09_26_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T17:01:08.000Z"
-    },
-    {
-      "id": "346b7e47e01df86e",
-      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-      "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
-      "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T16:54:23.000Z"
-    },
-    {
-      "id": "2cd084249a569f87",
-      "title": "The best tech and gadgets announced at IFA so far",
-      "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - in",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-02T16:43:50.000Z"
-    },
-    {
-      "id": "bbc7558a7a35c65d",
-      "title": "Apple’s new film from ‘Best Picture’ Oscar winner gets first trailer",
-      "description": "Apple won the ‘Best Picture’ Oscar for CODA back in 2022, and now director Siân Heder is back with another potential winner: Being Heumann. Here’s the new trailer.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/being-heumann-courtroom.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/02/apples-new-film-from-best-picture-oscar-winner-gets-first-trailer/",
+      "id": "133b0bff91636a6b",
+      "title": "We need to talk about Siri AI for Apple Watch",
+      "description": "Siri AI on Apple Watch arrived two cycles late for watchOS 27 beta this summer. I had high hopes for how new Siri could transform Apple Watch into an AI wearable.\nWhat actually happened in July and August is that Siri has been remarkably unusable in watchOS 27 beta. Like “hold off on updating” bad.\n",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/03/we-need-to-talk-about-siri-ai-for-apple-watch/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-02T16:41:31.000Z"
+      "publishedAt": "2026-09-03T14:07:07.000Z"
     }
   ],
-  "lastUpdated": "2026-09-03T06:04:55.468Z",
+  "lastUpdated": "2026-09-03T18:02:28.816Z",
   "sources": [
     "TechCrunch",
     "The Verge",
