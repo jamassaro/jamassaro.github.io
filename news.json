@@ -1,6 +1,255 @@
 {
   "articles": [
     {
+      "id": "7beda55b8c963ea8",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-04T04:21:03.000Z"
+    },
+    {
+      "id": "660aae9066d31c30",
+      "title": "Six Sleeps Until iPhone 18 Pro: Here's What We Know",
+      "description": "We are just six sleeps away from Apple's unveiling of its new-generation iPhone 18 Pro and iPhone 18 Pro Max models, not forgetting its first foldable iPhone.\r\n\r\n\r\nApple is expected to introduce the devices at its annual iPhone fall event, which is this year carrying the tagline \"Surprise and shine.",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-What-We-Know-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T02:25:46.000Z"
+    },
+    {
+      "id": "14982439d14df663",
+      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+      "description": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision.\nBut unofficially, modders have already ported a leaked version of DLSS 5 to run on ju",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-04T01:49:25.000Z"
+    },
+    {
+      "id": "af8093e03d920d3c",
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-04T00:48:42.000Z"
+    },
+    {
+      "id": "3e4b1ffca285352e",
+      "title": "The unusually muted Tesla Cybercab launch",
+      "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-04T00:25:06.000Z"
+    },
+    {
+      "id": "cbd7bb4efe78a9e7",
+      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "description": "A view of the Halo Board inside the Intuit Dome in 2024 | Icon Sportswire via Getty Images\t\n\nLast September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2166198274.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T23:37:37.000Z"
+    },
+    {
+      "id": "2fe46e572a579ac7",
+      "title": "Oura files to go public",
+      "description": "The ring maker says that its business has shown significant revenue growth over the past year.",
+      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T22:35:41.000Z"
+    },
+    {
+      "id": "4e7846a4232b6041",
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "description": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T22:18:30.000Z"
+    },
+    {
+      "id": "72dc6becd59b4546",
+      "title": "M6 vs. M5 Pro Mac Mini Buyer's Guide",
+      "description": "Apple last week announced two new Mac mini models, one with the all-new M6 chip and one with the M5 Pro chip that debuted in the MacBook Pro earlier this year.\r\n\r\n\r\nSomewhat like the ‌MacBook Pro‌ last year, Apple has again placed its newest silicon in the entry-level machine and a previous-generati",
+      "image": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
+      "url": "https://www.macrumors.com/guide/m6-vs-m5-pro-mac-mini/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T22:00:11.000Z"
+    },
+    {
+      "id": "4bcdbb6ff5e2df98",
+      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+      "description": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power bank",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T22:00:00.000Z"
+    },
+    {
+      "id": "51b2b878b422cd69",
+      "title": "MacBook Neo 2: Here’s everything we know so far",
+      "description": "Apple released the all-new MacBook Neo earlier this year, and it’s been a resounding success by all indications. Here’s everything we know so far about what’s next for Apple’s most affordable laptop …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/03/macbook-neo-2-features-release-date/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T21:00:37.000Z"
+    },
+    {
+      "id": "90fc5524d545d010",
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "description": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T20:59:23.000Z"
+    },
+    {
+      "id": "e4c65896649df5de",
+      "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
+      "description": "Strahd returned earlier this year in Ravenloft: The Horrors Within. | Image: Wizards of the Coast\t\n\nA Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ravenloft-horrors-within-cover-strahd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T20:48:05.000Z"
+    },
+    {
+      "id": "f4ea2b505d389d2d",
+      "title": "iPhone 18 Pro and Pro Max: Two new display upgrades coming next week",
+      "description": "iPhone 18 Pro and Pro Max will have the same screen sizes as their predecessors, but rumors indicate their displays will be upgraded in two other ways. Here’s what’s coming.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/03/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T20:29:33.000Z"
+    },
+    {
+      "id": "55319820531599ad",
+      "title": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event",
+      "description": "We're less than a week away from the debut of Apple's first foldable iPhone, and rumors have been picking up as the event date approaches. Here's the latest.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nMagSafe - Even though foldable iPhone dummies we saw earlier this year didn",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T20:10:51.000Z"
+    },
+    {
+      "id": "013e6578cb29e95f",
+      "title": "John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase",
+      "description": "Benjamin and Chance talk about John Ternus’s first week in the job as Apple CEO, and how much Tim Cook will still be involved. Also, it’s the last chance for iPhone event rumors, with details about some health updates for the Apple Watch Series 12 coming to the fore. And there was an Apple TV subscr",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/03/happy-hour-606/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T20:00:29.000Z"
+    },
+    {
+      "id": "4f9518bed0cc3a97",
+      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+      "description": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+      "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T19:42:48.000Z"
+    },
+    {
+      "id": "3a804b0778c11735",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T19:36:29.000Z"
+    },
+    {
+      "id": "437ec4258fac0ceb",
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+      "description": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
+      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T19:29:16.000Z"
+    },
+    {
+      "id": "7c94e58d2f026153",
+      "title": "Apple’s Calendar app in iOS 27 has brand new design for key features",
+      "description": "iOS 27 adds a variety of new features for popular apps like Notes, Reminders, and Calendar—and the Calendar app gets some notable design changes too. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T19:02:28.000Z"
+    },
+    {
+      "id": "66dd978c15e40522",
+      "title": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
+      "description": "It’s been just over a year since OpenAI released the first GPT-5 models for ChatGPT. Now it’s time for GPT-6 Astra to upgrade ChatGPT and Codex capabilities. Details below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/03/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T18:48:48.000Z"
+    },
+    {
+      "id": "ae727e6cce174b6b",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T18:37:57.000Z"
+    },
+    {
+      "id": "169d5498586a2b01",
+      "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
+      "description": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said.\nAfter negotiating \"in good faith\" to bring TikTok's chief security officer before the House Select Committee on China",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T18:37:57.000Z"
+    },
+    {
+      "id": "24bce7b744b91665",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T18:19:56.000Z"
+    },
+    {
+      "id": "3e4a00e1096e4d99",
+      "title": "Three advantages iPhone Ultra will have over iPhone 18 Pro",
+      "description": "Apple has three new flagship iPhones launching next week: iPhone 18 Pro and Pro Max and iPhone Ultra. Apple’s Pro models will have several advantages over the Ultra, but here are three ways the high-end Ultra will come out on top.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/03/three-advantages-iphone-ultra-will-have-over-iphone-18-pro/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-03T18:17:57.000Z"
+    },
+    {
+      "id": "70e902e5245c57c8",
+      "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+      "description": "Samsung’s Q990F is a full home audio system in a single box. | Image: The Verge\t\n\nResearching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Samsung-Q990F-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T18:14:07.000Z"
+    },
+    {
       "id": "88e994fa3db0e0d0",
       "title": "OpenAI launches Astra, its powerful (and controversial) new model",
       "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
@@ -8,6 +257,16 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-09-03T18:01:45.000Z"
+    },
+    {
+      "id": "148c042535126073",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "description": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"cr",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-03T18:00:00.000Z"
     },
     {
       "id": "725a753d5d403ea7",
@@ -28,274 +287,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-09-03T17:44:55.000Z"
-    },
-    {
-      "id": "97c962343ca57743",
-      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
-      "description": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
-      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T17:00:00.000Z"
-    },
-    {
-      "id": "7c2707089dbb8fa7",
-      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
-      "description": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will be limited to just 15 ho",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T17:00:00.000Z"
-    },
-    {
-      "id": "74993ceb22ee3f23",
-      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
-      "description": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who don't use cloud access enough to warrant a monthly ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T17:00:00.000Z"
-    },
-    {
-      "id": "d407d7cbdf8d5adf",
-      "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-      "description": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
-      "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:42:54.000Z"
-    },
-    {
-      "id": "3468a74cc5ded285",
-      "title": "Apple has reportedly canceled innovative product that was ‘Ternus priority’",
-      "description": "A new Omdia research note today outlined Apple’s reported Mac and iPad roadmap for the years ahead, and it also mentioned that a key rumored product has been canceled. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/03/apple-has-reportedly-canceled-innovative-product-that-was-ternus-priority/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T16:24:22.000Z"
-    },
-    {
-      "id": "81c2c1c6cb2c71a7",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:09:01.000Z"
-    },
-    {
-      "id": "0e08dde85452bf95",
-      "title": "Lenovo IdeaPad Vibe is a MacBook Neo competitor starting at $699",
-      "description": "Lenovo is taking on the MacBook Neo with a colorful new laptop – the IdeaPad Vibe.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/lenovo-ideapad-vibe-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5google.com/2026/09/03/lenovo-ideapad-vibe-is-a-macbook-neo-competitor-starting-at-699/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T16:08:40.000Z"
-    },
-    {
-      "id": "6f5eb3152795148d",
-      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-      "description": "Users can search for emails or draft documents using the new conversational feature.",
-      "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "a9a4a6014b93daee",
-      "title": "I held the first truly bezel-free phone",
-      "description": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. \nThen, progress just stopped. The bezel shrunk down until ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tecno-bezelless-concept-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "ca94d4a8bc288ca8",
-      "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
-      "description": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Sli",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/circular1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "393740ecb7b0d91a",
-      "title": "The Moto Watch Ultra is a return to Wear OS",
-      "description": "The Moto Watch Ultra comes in one size, two colors, and with Google’s smartwatch software.\t\n\nJust a few months after getting back into the smartwatch game, Motorola is targeting the premium end of the market with the first Moto Watch Ultra. It comes with some upgrades from the recent Moto Watch - mo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/moto-watch-ultra-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "a7cccf4879cb56a0",
-      "title": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
-      "description": "Tag yourself. I’m spicy gold. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nLenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with AMD and Qualcomm chip ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_IdeaPad_Vibe_IFA_2026_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "c3deb9370a0f4de2",
-      "title": "This ultra-thin Lenovo laptop concept uses solid-state cooling",
-      "description": "A laptop we’ll hopefully see but never hear.\t\n\nLenovo is announcing a new concept laptop for IFA 2026 that uses solid-state cooling instead of traditional fans, making it incredibly thin and super light. The 14-inch Project AeroBlade concept laptop is less than 10mm thick and weighs under 1.8 pounds",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_ThinkBook_Ultra_Concept_Frore_IFA_2026_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "3c4061472255c8d2",
-      "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
-      "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two different configurations in October.\nYou'll be ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "eae1cad9dace0f8f",
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-s",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "1dfd53b94c9fa9c3",
-      "title": "This 14-inch laptop has a screen that unrolls to 17 inches",
-      "description": "ThinkBooks, roll out! | Photo: Antonio G. Di Benedetto / The Verge\t\n\nLenovo's latest rollable concept, announced at IFA 2026, is the ThinkBook Project Swan: a business laptop with a screen that expands horizontally from 14 to 17 inches.\nRollable screens are nothing new for Lenovo. The company has sh",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_ThinkBook_Swan_14-17_Rollable_Concept_IFA_2026_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "id": "85766136f60b4e1a",
-      "title": "Apple’s big roadmap for new Mac and iPad models revealed: report",
-      "description": "A new report from Omdia offers fresh details on Apple’s roadmap for new MacBook Pro, MacBook Air, and iPad models in the years ahead. Here’s what it says is coming.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/macbook-air-m4-m3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/03/apples-big-roadmap-for-new-mac-and-ipad-models-revealed-report/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T15:49:51.000Z"
-    },
-    {
-      "id": "ef6bfb1f9e451574",
-      "title": "Deals: AirPods Pro 3, 2026 Apple Studio Display $214 off, iPad Air $100 off, charging gear, more",
-      "description": "The giant Labor Day sales roll on at both Amazon and AirTag 2 at $20 each. But today’s 9to5Toys Lunch Break is headlined by this 2026 Apple Studio Display hitting the Amazon all-time low at $214 off and the most affordable current-gen iPad Air at $100 off. We also have launch deal on Anker’s brand n",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Studio-Display-AirPods-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T15:29:04.000Z"
-    },
-    {
-      "id": "3292b4d48b6d206f",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-03T15:00:00.000Z"
-    },
-    {
-      "id": "7165a217a25c06f3",
-      "title": "AI outage: Claude, ChatGPT, and Grok are currently down for many users [U]",
-      "description": "Update: Service appears to be coming back online for some after about half an hour. Your mileage may vary.\nIt’s not just you. Claude, ChatGPT/Codex, and Grok are currently experiencing what appears to be a widespread outage for many users.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ai-outage.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/03/chatgpt-and-codex-are-experiencing-an-outage-for-many-users/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T14:57:31.000Z"
-    },
-    {
-      "id": "84289ca4d41b1fe1",
-      "title": "Apple Hit With $2.7 Billion Lawsuit Over App Tracking Rules",
-      "description": "Apple is facing a £2 billion ($2.7 billion) lawsuit in London accusing it of imposing stricter App Tracking Transparency rules on third party developers than on its own advertising services (via Reuters).\r\n\r\nordered Apple to pay around £1.5 billion over App Store commissions last October, a ruling A",
-      "image": "https://images.macrumors.com/article-new/2021/04/generic-tracking-prompt-orange.jpg",
-      "url": "https://www.macrumors.com/2026/09/03/apple-hit-with-lawsuit-over-app-tracking/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T14:46:47.000Z"
-    },
-    {
-      "id": "4dda377abda68085",
-      "title": "Apple's 2026 Studio Display Gets Steep $214 Discount on Amazon",
-      "description": "Amazon today has introduced a big discount on the Apple Studio Display with Nano-Texture Glass and Tilt-Adjustable Stand, available for $1,684.88 with an on-page coupon, down from $1,899.00. This is the first time in nearly three months we've seen any notable discounts on the 2026 Studio Display lin",
-      "image": "https://images.macrumors.com/article-new/2026/04/studio-display-2026-pink.jpeg",
-      "url": "https://www.macrumors.com/2026/09/03/studio-display-214-discount/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T14:38:53.000Z"
-    },
-    {
-      "id": "9df1e4c485b87d34",
-      "title": "iPhone Ultra's Very High Price and Features Revealed in New Report",
-      "description": "Ahead of Apple's event on Wednesday, September 9, where it is expected to unveil its first-ever foldable iPhone, Taiwanese research firm TrendForce today outlined the device's estimated price range, features, and some other key details.\r\n\r\n\r\nIn the U.S., TrendForce estimated that the foldable iPhone",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T14:33:59.000Z"
-    },
-    {
-      "id": "672e2c9f8bd9a722",
-      "title": "Apple will launch six major new products next week, here’s what’s coming",
-      "description": "Apple’s biggest event of the year is just days away. September 9 will bring the “huge launch” new CEO John Ternus recently teased, with rumors indicating new iPhones, Apple Watch models, and AirPods are coming—and possibly more. Here are the six major products expected to debut.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-park-rainbow.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/03/apple-will-launch-six-major-new-products-next-week-heres-whats-coming/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T14:25:36.000Z"
-    },
-    {
-      "id": "8d83e2e26c034444",
-      "title": "Apple Apparently Cancels Plans for Two New MacBooks",
-      "description": "Apple has canceled plans for a foldable MacBook and a larger OLED MacBook Pro model, according to research firm Omdia.\r\n\r\n\r\nIn a new research note, Omdia said Apple has scrapped development of a large foldable MacBook that would have measured between 16.1 and 18 inches when unfolded. It was previous",
-      "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
-      "url": "https://www.macrumors.com/2026/09/03/apple-cancels-plans-for-two-new-macbooks/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T14:12:51.000Z"
-    },
-    {
-      "id": "98089ae32e9d5001",
-      "title": "Mini-LED MacBook Pro Models Could Stick Around Until 2028",
-      "description": "Apple has reportedly revised its plans for adopting OLED displays across its MacBook lineup, and its existing LCD-based MacBook Pro models with mini-LED backlighting are now expected to remain available for longer than anticipated.\r\n\r\n\r\nAccording to a new OLED adoption roadmap published by research ",
-      "image": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens-2.jpg",
-      "url": "https://www.macrumors.com/2026/09/03/mini-led-macbook-pro-models-until-2028/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T14:08:28.000Z"
-    },
-    {
-      "id": "133b0bff91636a6b",
-      "title": "We need to talk about Siri AI for Apple Watch",
-      "description": "Siri AI on Apple Watch arrived two cycles late for watchOS 27 beta this summer. I had high hopes for how new Siri could transform Apple Watch into an AI wearable.\nWhat actually happened in July and August is that Siri has been remarkably unusable in watchOS 27 beta. Like “hold off on updating” bad.\n",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/03/we-need-to-talk-about-siri-ai-for-apple-watch/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-03T14:07:07.000Z"
     }
   ],
-  "lastUpdated": "2026-09-03T18:02:28.816Z",
+  "lastUpdated": "2026-09-04T06:03:50.737Z",
   "sources": [
     "TechCrunch",
     "The Verge",
