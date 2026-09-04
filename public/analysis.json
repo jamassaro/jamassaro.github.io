@@ -1,43 +1,13 @@
 {
-  "executiveSummary": "AI continues to shape industries, with concerns over job security and ethical AI development; New iPhone and foldable iPhone releases promise improved performance and design; Supply chain issues and pricing changes affect tech companies",
-  "takeaways": [
-    {
-      "title": "Job security concerns",
-      "description": "AI-powered systems may displace certain jobs, as seen in the article about Abliteration.ai making AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity (Article 22)"
-    },
-    {
-      "title": "Improved performance and design",
-      "description": "New iPhone and foldable iPhone releases promise improved performance and design, as seen in the article about iPhone 18 Pro and Pro Max: Two new display upgrades coming next week (Article 14)"
-    },
-    {
-      "title": "Supply chain issues",
-      "description": "Supply chain issues affect tech companies, as seen in the article about MacBook Air supply shortages (Article not provided)"
-    }
-  ],
-  "trends": [
-    "AI",
-    "iPhone",
-    "foldable iPhones",
-    "Supply chain issues",
-    "Pricing changes"
-  ],
-  "worthWatching": [
-    "The impact of AI on the job market, as companies struggle to adapt to new technologies (Article 22)",
-    "The growing importance of sustainability in tech companies, as seen in the article about Ugreen’s liquid-cooled power bank (Article 10)"
-  ],
-  "engineeringPerspective": [
-    "The use of Astra, a powerful new AI model, could significantly improve the performance of certain tasks, such as cybersecurity and professional work (Article 28)",
-    "The potential for AI to displace certain jobs, as seen in the article about Abliteration.ai making AI models without guardrails easier to access (Article 22)"
-  ],
+  "generatedAt": "2026-09-04T18:05:13.270Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "AI",
-      "iPhone",
-      "Tesla",
-      "Nvidia"
-    ]
-  },
-  "generatedAt": "2026-09-04T06:06:25.708Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
