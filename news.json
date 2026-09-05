@@ -1,6 +1,124 @@
 {
   "articles": [
     {
+      "id": "d1c2b2195bf9c28a",
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "description": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-05T17:00:00.000Z"
+    },
+    {
+      "id": "d70448a1a3b5084c",
+      "title": "CD sales are booming as physical media continues its resurgence",
+      "description": "There’s some real gems in there. | Photo: Terrence O’Brien / The Verge\t\n\nAccording to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from jus",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSCF1155-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-05T16:49:33.000Z"
+    },
+    {
+      "id": "7bb3836af00ec344",
+      "title": "AirTag 2 4-Pack Drops to $79.99 on Amazon, Matching Record Low",
+      "description": "Apple's AirTag 2 is on sale for $79.99 this weekend on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a match of the record low price for the accessory, beating the previous low by about $5.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link",
+      "image": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
+      "url": "https://www.macrumors.com/2026/09/05/airtag-2-4-pack-on-sale/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-05T16:09:38.000Z"
+    },
+    {
+      "id": "9848c1f092aa62b5",
+      "title": "iPhone 18 Pro: Everything M6 Tells Us About the A20 Chip",
+      "description": "Apple announced the M6 chip last week, just ahead of its September iPhone event, providing the clearest indication yet of what the A20 will bring to the iPhone 18 lineup.\r\n\r\n\r\nApple silicon generations share much of their architecture across the A-series and the M-series, so a new A-series chip norm",
+      "image": "https://images.macrumors.com/article-new/2026/09/m6-a20-pro-chips.jpg",
+      "url": "https://www.macrumors.com/2026/09/05/what-m6-tells-us-about-a20/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-05T16:00:13.000Z"
+    },
+    {
+      "id": "3083e23f4bf7a71a",
+      "title": "Oura is going public, but these smart ring companies are coming for its crown",
+      "description": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+      "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-05T15:00:00.000Z"
+    },
+    {
+      "id": "b6b2d95133b4c241",
+      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+      "description": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/andy.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-05T15:00:00.000Z"
+    },
+    {
+      "id": "6062c190cb0df96b",
+      "title": "Content creators drop the ball",
+      "description": "The USTA Billie Jean King National Tennis Center. | Getty Images\t\n\nDuring Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293089524.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-05T14:00:16.000Z"
+    },
+    {
+      "id": "079598c8b1ca7f6d",
+      "title": "Top Stories: 'Surprise and Shine' Apple Event Preview, John Ternus Takes Over, and More",
+      "description": "After years of rumors, the highly anticipated foldable iPhone is almost here, but that's not all we're expecting to see at next week's big event, and we've got full coverage of expectations for the \"Surprise and Shine\" event.\r\n\r\n\r\nBeyond the event, this week also saw John Ternus take over from Tim C",
+      "image": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-05.jpg",
+      "url": "https://www.macrumors.com/2026/09/05/top-stories-suprise-and-shine-preview/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-05T13:00:10.000Z"
+    },
+    {
+      "id": "09063b7f497319ee",
+      "title": "The weird and wonderful headphones of CanJam 2026",
+      "description": "A collection of headphone manufacturers and fans come together for their love of great sound. | Image: CanJam Global\t\n\nI've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uni",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canjam-socal-2026-show-floor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-05T13:00:00.000Z"
+    },
+    {
+      "id": "f2ee1ce98a2d6de0",
+      "title": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more",
+      "description": "Labor Day weekend is here with massive sale events now live at both Amazon and AirTag from $20 a pop. \nMoving over to the Mac and the pre-order discounts on the new M6/M5 Pro Mac mini, we also have $150 off this 13-inch M5 MacBook Air and new Amazon all-time lows on the 2026 Apple Studio Displays. J",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Labor-Day-weekend-Apple-deals.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/05/apple-labor-day-weekend-deals-airpods/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-05T12:12:36.000Z"
+    },
+    {
+      "id": "30639104782a0c89",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "description": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.\nRegarding the \"'wiki incident,' where our age",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-05T11:15:55.000Z"
+    },
+    {
+      "id": "d531af15dde5f059",
+      "title": "Robotaxis enter their villain era",
+      "description": "It's Bullitt meets Christine meets Waymo.\nA new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-05T11:00:00.000Z"
+    },
+    {
       "id": "3c87235a95cd5564",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "description": "The round is being raised just months after the robot data startup exited from stealth.",
@@ -175,127 +293,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-09-04T19:42:54.000Z"
-    },
-    {
-      "id": "744e945113b63fa5",
-      "title": "New profile of John Ternus offers insight into life and reputation of Apple CEO",
-      "description": "John Ternus became Apple’s new CEO this week, and today the Financial Times published a profile that offers fresh insights into Ternus’s life and reputation among Apple employees and partners.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-01.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T19:17:00.000Z"
-    },
-    {
-      "id": "8b39300a39ab4c43",
-      "title": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
-      "description": "Update: A day later, GPT-6 Astra is rolling out to Business and Pro customers on the $100/month or $200/month plan. This follows other new model releases before Plus customers on the $20/month plan gain access.\nUpdate #2: A few hours later, Plus users with the $20/month subscription now have Astra a",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T18:52:35.000Z"
-    },
-    {
-      "id": "455ef2e13ba96460",
-      "title": "HomeKit Weekly: ULTRALOQ’s Bolt Fingerprint has everything you’d want except Home Key",
-      "description": "My door has had a smart lock on it for 5-6 years, and I’ve tried plenty of options. The ULTRALOQ Bolt Fingerprint is a great option for almost anyone thanks to its Apple Home integration, built-in Wi-Fi, and plenty of ways to lock and unlock your door. Whether you’re looking for fingerprint ID unloc",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ULTRALOQ-Bolt-Fingerprint-WiFi-Smart-Lock-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/04/ultraloq-bolt-fingerprint/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T18:39:00.000Z"
-    },
-    {
-      "id": "61bbafd7c0864b92",
-      "title": "SpaceXAI expands Grok Bot to iPad as access expands to cheaper plans",
-      "description": "Last month, SpaceXAI launched Grok Bot, an iMessage-style AI system that displays agents as teammates. The product originally arrived as an iPhone and Mac app with a very expensive price tag. In the weeks since launch, Grok Bot has expanded to the iPad and dramatically lowered the cost.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T18:30:53.000Z"
-    },
-    {
-      "id": "f2cdac8dac0dfc7f",
-      "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
-      "description": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, aft",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/09-4-mission1-pro-pdp-desktop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T18:00:45.000Z"
-    },
-    {
-      "id": "cfd8d064f2459f99",
-      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-      "description": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-      "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T17:52:05.000Z"
-    },
-    {
-      "id": "1f05c99b3dc8af65",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "description": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ide",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T17:51:35.000Z"
-    },
-    {
-      "id": "78fcbbb95f74d99c",
-      "title": "MacRumors Giveaway: Win an iPad Air and Revamped Rock Paper Pencil Kit From Astropad",
-      "description": "For this week's giveaway, we've once again teamed up with Astropad to offer MacRumors readers a chance to win an M4 iPad Air, an Apple Pencil Pro, and an Astropad Rock Paper Pencil kit to use with it.\r\n\r\n\r\nThe $49.99 Rock Paper Pencil is a screen protector and ‌Apple Pencil‌ tip combo that makes wri",
-      "image": "https://images.macrumors.com/article-new/2026/09/astropad-kit-main.jpg",
-      "url": "https://www.macrumors.com/2026/09/04/macrumors-giveaway-astropad-september/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T17:41:05.000Z"
-    },
-    {
-      "id": "fbae58b80e58a0fb",
-      "title": "Silo season 4 just got its release date on Apple TV and first trailer",
-      "description": "Silo’s season 3 finale is available now, and Apple TV has already announced the release date for season 4. Here’s when it’s coming, plus the first Silo season 4 trailer.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/silo-s3-juliette-rebecca-ferguson.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/04/silo-season-4-just-got-its-release-date-on-apple-tv-and-first-trailer/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T17:35:19.000Z"
-    },
-    {
-      "id": "ced259012bfbf730",
-      "title": "What will Apple’s John Ternus era look like?",
-      "description": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far,",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T17:18:00.000Z"
-    },
-    {
-      "id": "6471d9e6c454f6d5",
-      "title": "AGI is whatever you want it to be",
-      "description": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now.\nToday on The Vergecast, we've got an all-star panel to break down the news of the week.\nFirst, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Artboard-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T17:16:49.000Z"
-    },
-    {
-      "id": "c75b113690832f67",
-      "title": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
-      "description": "Aqara today introduced five new Matter-enabled smart lights compatible with Apple Home. The lights support Thread and Zigbee as well, and can be paired with Aqara sensors and switches.\r\n\r\n\r\nThe Floor Lamp T1 is a tall, rod-shaped light with a wall-wash effect. It has 18 controllable zones that can b",
-      "image": "https://images.macrumors.com/article-new/2026/09/aqara-floor-lamp.jpg",
-      "url": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T17:12:55.000Z"
     }
   ],
-  "lastUpdated": "2026-09-05T06:02:31.019Z",
+  "lastUpdated": "2026-09-05T18:01:51.884Z",
   "sources": [
     "TechCrunch",
     "The Verge",
