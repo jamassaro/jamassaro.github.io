@@ -1,6 +1,222 @@
 {
   "articles": [
     {
+      "id": "3c87235a95cd5564",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "description": "The round is being raised just months after the robot data startup exited from stealth.",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-04T23:36:14.000Z"
+    },
+    {
+      "id": "8fcfe2b9cc1b98fd",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-04T23:15:11.000Z"
+    },
+    {
+      "id": "c696509e917fea66",
+      "title": "iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview",
+      "description": "Apple's September event will take place on Wednesday, September 9 at 10:00 a.m. Pacific Time. Apple will announce its 2026 iPhone lineup, and this year is a big one. Along with the slab-style iPhones we've been using for years, Apple is going to debut its first foldable device. We'll also get new Ap",
+      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+      "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T22:26:17.000Z"
+    },
+    {
+      "id": "7c6b66039d8ea2b4",
+      "title": "Apple Planning AI Home Security Camera and Service for 2027",
+      "description": "Apple could release a home security system and service in 2027, according to Bloomberg.\r\n\r\n\r\nThe company is designing a privacy-forward home security camera that will \"use AI to monitor the surrounding environment instead of actual video footage.\" It will apparently work with a new home security and",
+      "image": "https://images.macrumors.com/article-new/2024/11/homekit-showdown-redux.jpg",
+      "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T22:05:37.000Z"
+    },
+    {
+      "id": "55319820531599ad",
+      "title": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event",
+      "description": "We're less than a week away from the debut of Apple's first foldable iPhone, and rumors have been picking up as the event date approaches. Here's the latest.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nMagSafe - Even though foldable iPhone dummies we saw earlier this year didn",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T21:56:27.000Z"
+    },
+    {
+      "id": "4dda377abda68085",
+      "title": "Apple's 2026 Studio Display Gets Steep $214 Discount on Amazon",
+      "description": "Amazon today has introduced a big discount on the Apple Studio Display with Nano-Texture Glass and Tilt-Adjustable Stand, available for $1,684.88 with an on-page coupon, down from $1,899.00. This is the first time in nearly three months we've seen any notable discounts on the 2026 Studio Display lin",
+      "image": "https://images.macrumors.com/article-new/2026/04/studio-display-2026-pink.jpeg",
+      "url": "https://www.macrumors.com/2026/09/03/studio-display-214-discount/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T21:53:13.000Z"
+    },
+    {
+      "id": "7a07473f1cd1fe42",
+      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+      "description": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the prom",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-04T21:23:50.000Z"
+    },
+    {
+      "id": "e6349a8f4b29f1d9",
+      "title": "CarPlay now works with five major chatbot apps",
+      "description": "CarPlay has picked up its fifth major AI chatbot app with the addition of Claude. Anthropic’s iPhone app adding CarPlay is the second AI chatbot app to be updated with support this week.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/04/carplay-now-works-with-five-major-chatbot-apps/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T21:17:46.000Z"
+    },
+    {
+      "id": "801f873dc69a39a9",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-04T21:12:11.000Z"
+    },
+    {
+      "id": "523f09388aeb8e29",
+      "title": "Anthropic's Claude Comes to CarPlay",
+      "description": "Anthropic added CarPlay integration to the Claude iOS app, which means Claude users can talk to Claude through their in-car infotainment systems.\r\n\r\n\r\nApple added support for third-party chatbots in ‌CarPlay‌ in iOS 26.4. Chatbot apps with ‌CarPlay‌ integration need to add support for a voice contro",
+      "image": "https://images.macrumors.com/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
+      "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T20:43:31.000Z"
+    },
+    {
+      "id": "8cd4eea904c40cd6",
+      "title": "macOS 26.7 Code Hints at Two Unreleased Apple Game Controllers",
+      "description": "References to two unreleased controllers that identify as Apple hardware in code were spotted in the macOS 26.7 release candidate by MacRumors reader Pdfu. Apple's first macOS 26.7 release candidate came out in mid-August, and it was full of references to unreleased Apple devices, from iPhones and M",
+      "image": "https://images.macrumors.com/article-new/2024/10/apple-game-controller-graphic.jpg.png",
+      "url": "https://www.macrumors.com/2026/09/04/macos-26-7-code-game-controllers/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T20:40:31.000Z"
+    },
+    {
+      "id": "5216902ea628dc39",
+      "title": "watchOS 27 removes three features that Apple Watch users might miss after updating",
+      "description": "When watchOS 27 is released later this month, Apple Watch users may notice that some things work a bit differently. The upcoming software update removes three features that users may miss after updating.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/04/watchos-27-removes-three-features-that-apple-watch-users-might-miss-after-updating/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T20:36:32.000Z"
+    },
+    {
+      "id": "dd6440603f00eb72",
+      "title": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
+      "description": "It's Labor Day weekend, and we're tracking big discounts across a wide variety of Apple and Apple-related products, including some of the best prices of the year on Studio Displays. You can also still get pre-order discounts on the new Mac minis on Amazon.\r\n\r\nNote: MacRumors is an affiliate partner ",
+      "image": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
+      "url": "https://www.macrumors.com/2026/09/04/best-apple-deals-of-the-week-9-4-26/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T20:25:31.000Z"
+    },
+    {
+      "id": "131c04fabcfb1f2f",
+      "title": "iPhone Duo?",
+      "description": "While the long-awaited foldable iPhone has often been referred to as the iPhone Ultra or the iPhone Fold in rumors, another name making the rounds is iPhone Duo.\r\n\r\n\r\nThere is no actual evidence that Apple will use the iPhone Duo name, but it is certainly a possibility. Apple has used Duo branding i",
+      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/09/04/iphone-duo/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T19:54:45.000Z"
+    },
+    {
+      "id": "b156e96be7e81e50",
+      "title": "Alogic Expands Display Lineup With New 5K and 6K Models, Debuts New Peripherals",
+      "description": "Accessory brand Alogic today announced an expansion to its display lineup, adding several new 5K and 6K models offering varying feature sets with availability coming over the next couple of months.\r\n\r\nAspekt displays\n\r\nNew models in the Aspekt touch-enabled family include a 27-inch 5K model and a 32",
+      "image": "https://images.macrumors.com/article-new/2026/09/alogic-aspekt-displays.jpg",
+      "url": "https://www.macrumors.com/2026/09/04/alogic-new-displays-peripherals/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T19:51:13.000Z"
+    },
+    {
+      "id": "1bc1a52155d327f5",
+      "title": "Fender MIX headphones now have an iPhone app for tuning your sound",
+      "description": "In August, Fender released the $299 MIX wireless headphones. The over-ear headphones come with a replaceable battery and the FWD Tx USB-C wireless transmitter for low-latency, lossless connectivity. Fender MIX headphones also now include an iPhone app for tuning the experience.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Fender-MIX-app.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/04/fender-mix-headphones-now-have-an-iphone-app-for-tuning-your-sound/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T19:46:16.000Z"
+    },
+    {
+      "id": "417ec3490edb05e7",
+      "title": "Review: Acer's 6K Touchscreen Display Turns Your Mac Into a Giant iPad, Sort Of",
+      "description": "Acer recently came out with a new 6K 31.5-inch display, the ProDesigner PE320QXT. It's a touchscreen display that's able to work with a Mac using touch drivers, and it's aimed at professional creators. It's fun to use, but there are some compromises, and this is not the display to get unless you rea",
+      "image": "https://images.macrumors.com/article-new/2026/09/acer-display-main-image.jpg",
+      "url": "https://www.macrumors.com/review/acer-6k-touchscreen-display/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T19:45:56.000Z"
+    },
+    {
+      "id": "42693e53f11180b7",
+      "title": "The White House is making arcade games racist",
+      "description": "Trump’s racist new “Build the Wall” game. | Image: The White House\t\n\nThe PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-04-at-3.23.13-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-04T19:42:54.000Z"
+    },
+    {
+      "id": "744e945113b63fa5",
+      "title": "New profile of John Ternus offers insight into life and reputation of Apple CEO",
+      "description": "John Ternus became Apple’s new CEO this week, and today the Financial Times published a profile that offers fresh insights into Ternus’s life and reputation among Apple employees and partners.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T19:17:00.000Z"
+    },
+    {
+      "id": "8b39300a39ab4c43",
+      "title": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
+      "description": "Update: A day later, GPT-6 Astra is rolling out to Business and Pro customers on the $100/month or $200/month plan. This follows other new model releases before Plus customers on the $20/month plan gain access.\nUpdate #2: A few hours later, Plus users with the $20/month subscription now have Astra a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T18:52:35.000Z"
+    },
+    {
+      "id": "455ef2e13ba96460",
+      "title": "HomeKit Weekly: ULTRALOQ’s Bolt Fingerprint has everything you’d want except Home Key",
+      "description": "My door has had a smart lock on it for 5-6 years, and I’ve tried plenty of options. The ULTRALOQ Bolt Fingerprint is a great option for almost anyone thanks to its Apple Home integration, built-in Wi-Fi, and plenty of ways to lock and unlock your door. Whether you’re looking for fingerprint ID unloc",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ULTRALOQ-Bolt-Fingerprint-WiFi-Smart-Lock-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/04/ultraloq-bolt-fingerprint/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T18:39:00.000Z"
+    },
+    {
+      "id": "61bbafd7c0864b92",
+      "title": "SpaceXAI expands Grok Bot to iPad as access expands to cheaper plans",
+      "description": "Last month, SpaceXAI launched Grok Bot, an iMessage-style AI system that displays agents as teammates. The product originally arrived as an iPhone and Mac app with a very expensive price tag. In the weeks since launch, Grok Bot has expanded to the iPad and dramatically lowered the cost.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-04T18:30:53.000Z"
+    },
+    {
       "id": "f2cdac8dac0dfc7f",
       "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
       "description": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, aft",
@@ -37,7 +253,7 @@
       "url": "https://www.macrumors.com/2026/09/04/macrumors-giveaway-astropad-september/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-04T17:41:16.000Z"
+      "publishedAt": "2026-09-04T17:41:05.000Z"
     },
     {
       "id": "fbae58b80e58a0fb",
@@ -77,223 +293,9 @@
       "source": "MacRumors",
       "category": "Apple News",
       "publishedAt": "2026-09-04T17:12:55.000Z"
-    },
-    {
-      "id": "68de6c16d09198d5",
-      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-      "description": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-      "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T16:51:23.000Z"
-    },
-    {
-      "id": "a33567c3d84ded72",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T16:21:11.000Z"
-    },
-    {
-      "id": "193a590a0b3056e5",
-      "title": "The MacRumors Show: iPhone 18 Pro Event Expectations",
-      "description": "Ahead of Apple's \"Surprise and shine\" event on September 9, we talk through everything to expect on this week's episode of The MacRumors Show.\r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\nThe event begins at 10:00 a.m. Pacific Time at the Apple Park campus in Cupertino, Calif",
-      "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T16:13:18.000Z"
-    },
-    {
-      "id": "a29d93ba97fc49d1",
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "description": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors.\nAs part of t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T16:05:57.000Z"
-    },
-    {
-      "id": "8d8ed7b621d7c397",
-      "title": "Will the iPhone 18 Pro’s biggest upgrade really deliver?",
-      "description": "In general, we’re not expecting the iPhone 18 Pro to be a significant upgrade over its predecessor. Indeed, if you currently have an older iPhone there are arguments for buying the iPhone 17 Pro ahead of next week’s launch.\nOf the few upgrades we are expecting, the biggest one on paper is going to b",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Will-the-iPhone-18-Pros-biggest-upgrade-really-deliver.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/04/will-the-iphone-18-pros-biggest-upgrade-really-deliver/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T16:00:00.000Z"
-    },
-    {
-      "id": "1c001c8ea299ff1f",
-      "title": "Apple Just Fixed TestFlight",
-      "description": "As noted by MacStories editor-in-chief Federico Viticci, TestFlight now shows recent betas by default again for all users.\r\n\r\navailable in the App Store now. The search field remains.\nTag: TestFlight\nThis article, \"Apple Just Fixed TestFlight\" first appeared on MacRumors.com\nDiscuss this article in ",
-      "image": "https://images.macrumors.com/article-new/2026/09/TestFlight-App-Store.jpeg",
-      "url": "https://www.macrumors.com/2026/09/04/apple-just-fixed-testflight/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T15:56:25.000Z"
-    },
-    {
-      "id": "eaf27be0b7744649",
-      "title": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more",
-      "description": "Apple is launching new iPhones next week, and a Bloomberg report today details what to expect from those models as well as the roadmap for 2027 and 2028 debuts.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T15:48:03.000Z"
-    },
-    {
-      "id": "2cd084249a569f87",
-      "title": "The best tech and gadgets announced at IFA so far",
-      "description": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including a smar",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/besttop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T15:41:17.000Z"
-    },
-    {
-      "id": "dd6440603f00eb72",
-      "title": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
-      "description": "It's Labor Day weekend, and we're tracking big discounts across a wide variety of Apple and Apple-related products, including some of the best prices of the year on Studio Displays. You can also still get pre-order discounts on the new Mac minis on Amazon.\r\n\r\nNote: MacRumors is an affiliate partner ",
-      "image": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
-      "url": "https://www.macrumors.com/2026/09/04/best-apple-deals-of-the-week-9-4-26/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T15:34:23.000Z"
-    },
-    {
-      "id": "d871e5373458ef86",
-      "title": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
-      "description": "We are heading into the weekend with the massive Labor Day sale at Amazon and the ongoing $50 price drop on AirPods Pro 3, but at $329 off, this standard Studio Display model at the all-time low, and some Apple Refurb options at up to $500 off. Just be sure to also scope out this Midnight 16GB/1TB 1",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-MacBook-Air-Dark-Cherry-chargers.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T15:29:07.000Z"
-    },
-    {
-      "id": "8c3fe62b3b9806b9",
-      "title": "Apple Testing New HomePod With Siri AI",
-      "description": "Apple has been testing a new full-sized HomePod with Siri AI support, according to Bloomberg's Mark Gurman.\r\n\r\noutlining upcoming Apple products today, Gurman said the new full-sized HomePod \"doesn't appear to be imminent,\" so do not expect the speaker to be updated soon. The current HomePod was unv",
-      "image": "https://images.macrumors.com/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
-      "url": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T15:25:33.000Z"
-    },
-    {
-      "id": "e17cde105d7b6864",
-      "title": "iPhone 20 Rumored to Have Biggest Revamp Since iPhone X",
-      "description": "Apple plans to release a special 20th-anniversary iPhone next year with the biggest design changes since the iPhone X, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nUnveiled by Steve Jobs in 2007, the iPhone turns 20 next year. To mark the occasion, the report said Apple plans to release a 20th-anniver",
-      "image": "https://images.macrumors.com/article-new/2026/03/All-Screen-iPhone-2030-Feature-Sans-Text.jpg",
-      "url": "https://www.macrumors.com/2026/09/04/iphone-20-biggest-revamp-since-iphone-x/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T15:10:58.000Z"
-    },
-    {
-      "id": "c43d66c055ea156e",
-      "title": "Apple TV’s big fall lineup: Here’s every new show and movie coming soon",
-      "description": "Apple TV is now airing Ted Lasso season 4, and more high-profile shows and movies are coming to the streamer soon. Here’s everything in Apple TV’s fall lineup so far, which could keep growing as more premieres are announced.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-tv-logo-mountains-lg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/04/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T15:02:32.000Z"
-    },
-    {
-      "id": "5b02844d3356ecaf",
-      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-      "description": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
-      "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T15:00:00.000Z"
-    },
-    {
-      "id": "f321d0bd47dc3f8f",
-      "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
-      "description": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIEN used at checkout). It costs $1,029 for ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T14:55:40.000Z"
-    },
-    {
-      "id": "f5837b1de2199739",
-      "title": "9to5Mac Daily: September 4, 2026 – iPhone Ultra and iPhone 18 Pro rumors",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff: Stuff helps you get everything out of your head an",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/04/daily-september-4-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T14:55:35.000Z"
-    },
-    {
-      "id": "3ec36586a7249079",
-      "title": "What to expect at Apple’s September 9th launch event",
-      "description": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineup. That could include the long-rumored foldable \"i",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,94.827045012242",
-      "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T14:52:00.000Z"
-    },
-    {
-      "id": "3ec4a1a955dfec7f",
-      "title": "Krafton doubles down on India with another $250M bet beyond gaming",
-      "description": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
-      "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T14:47:20.000Z"
-    },
-    {
-      "id": "f807d7bf233fa910",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T14:47:11.000Z"
-    },
-    {
-      "id": "fcb97c82f66471db",
-      "title": "New iPhone 18 Pro report details flagship camera feature and more",
-      "description": "iPhone 18 Pro and Pro Max will be unveiled next week, and a new report offers fresh details on the flagship “mechanical aperture” camera feature that’s coming, plus mentions an improved vapor chamber and more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/04/new-iphone-18-pro-report-details-flagship-camera-feature-and-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T14:36:10.000Z"
-    },
-    {
-      "id": "ca014270143c74dc",
-      "title": "Nintendo&#8217;s next two Direct events are both happening next week",
-      "description": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube channel or the Nintendo Today app. \nImages recently ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKR001_NINTENDO_SWITCH_3_F.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T14:29:44.000Z"
-    },
-    {
-      "id": "8e860d54ba8c3f46",
-      "title": "Apple Planning to Update MacBook Neo in Three Ways",
-      "description": "Bloomberg's Mark Gurman today reported that Apple plans to release a second-generation MacBook Neo in 2027 with three updates: an A19 Pro chip, 12GB of RAM, and new color options.\r\n\r\nraised the price to $699 in June. Apple continues to offer a $100 discount to college students and educational staff.",
-      "image": "https://images.macrumors.com/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/04/macbook-neo-2-rumors/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T14:17:36.000Z"
     }
   ],
-  "lastUpdated": "2026-09-04T18:02:22.963Z",
+  "lastUpdated": "2026-09-05T06:02:31.019Z",
   "sources": [
     "TechCrunch",
     "The Verge",
