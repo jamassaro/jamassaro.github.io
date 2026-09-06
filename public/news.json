@@ -1,6 +1,84 @@
 {
   "articles": [
     {
+      "id": "45244a2916ec33ac",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T16:45:00.000Z"
+    },
+    {
+      "id": "27b29fb4e6356390",
+      "title": "Netflix includes 80+ ad-free iPhone and iPad games, here’s every app",
+      "description": "Looking for new iPhone and iPad games to play? The App Store has plenty of games without ads and in-app purchases.\nApple Arcade is a great subscription option for families, though it’s not the only game in town. If you’re a Netflix subscriber, you’re also paying for a huge catalog of great iPhone an",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/netflix-games.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/06/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-06T16:41:03.000Z"
+    },
+    {
+      "id": "9c4402a486c199fe",
+      "title": "Boox’s tiny Picco e-reader should land in November",
+      "description": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a p",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T16:28:58.000Z"
+    },
+    {
+      "id": "7b018f03479181d2",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T16:08:00.000Z"
+    },
+    {
+      "id": "28baaab2926b4e77",
+      "title": "Apple might soon make App Store changes to raise revenue, increase margins: report",
+      "description": "According to the latest edition of the Power On newsletter from Mark Gurman, Apple is reportedly considering making some changes to its App Store. The goal? To increase the potential revenue it brings in.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/06/apple-might-soon-make-app-store-changes-to-raise-revenue-increase-margins-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-06T14:53:21.000Z"
+    },
+    {
+      "id": "d9c91a1cba9c7941",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "description": "Repairability rules.\t\n\nThe Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled.\nThe mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themsel",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268725_Fairphone_6_Plus_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T13:00:00.000Z"
+    },
+    {
+      "id": "d03829244c566705",
+      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+      "description": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why.\nBattle simulator Pokémon Champions originally launched on the Swit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T13:00:00.000Z"
+    },
+    {
+      "id": "b591a6b737273adc",
+      "title": "DIY plug-in solar gains momentum in the US",
+      "description": "EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives i",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/banner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T12:00:00.000Z"
+    },
+    {
       "id": "7ed622d5034e3941",
       "title": "This new reveal suggests MacBook Ultra might cost more than we think",
       "description": "As soon as next month, Apple is expected to introduce its next MacBook Pro redesign. We’ll be seeing OLED, the first touchscreen on a Mac, a thinner chassis, Dynamic Island, and much more. This upgrade was rumored to be called MacBook Ultra, though it wasn’t necessarily clear where that’d leave the ",
@@ -188,32 +266,12 @@
     {
       "id": "f2ee1ce98a2d6de0",
       "title": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more",
-      "description": "Labor Day weekend is here with massive sale events now live at both Amazon and AirTag from $20 a pop. \nMoving over to the Mac and the pre-order discounts on the new M6/M5 Pro Mac mini, we also have $150 off this 13-inch M5 MacBook Air and new Amazon all-time lows on the 2026 Apple Studio Displays. J",
+      "description": "Update: 9/6: Amazon is now offering Apple’s AirPods Max 2 at $100 off. \nLabor Day weekend is here with massive sale events now live at both Amazon and AirTag from $20 a pop. \nMoving over to the Mac and the pre-order discounts on the new M6/M5 Pro Mac mini, we also have $150 off this 13-inch M5 MacBo",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Labor-Day-weekend-Apple-deals.jpg?quality=82&#038;strip=all&#038;w=1600",
       "url": "https://9to5mac.com/2026/09/05/apple-labor-day-weekend-deals-airpods/",
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-09-05T12:12:36.000Z"
-    },
-    {
-      "id": "30639104782a0c89",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "description": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.\nRegarding the \"'wiki incident,' where our age",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T11:15:55.000Z"
-    },
-    {
-      "id": "d531af15dde5f059",
-      "title": "Robotaxis enter their villain era",
-      "description": "It's Bullitt meets Christine meets Waymo.\nA new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T11:00:00.000Z"
     },
     {
       "id": "3c87235a95cd5564",
@@ -232,68 +290,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-09-04T23:15:11.000Z"
-    },
-    {
-      "id": "c696509e917fea66",
-      "title": "iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview",
-      "description": "Apple's September event will take place on Wednesday, September 9 at 10:00 a.m. Pacific Time. Apple will announce its 2026 iPhone lineup, and this year is a big one. Along with the slab-style iPhones we've been using for years, Apple is going to debut its first foldable device. We'll also get new Ap",
-      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-      "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T22:26:17.000Z"
-    },
-    {
-      "id": "7c6b66039d8ea2b4",
-      "title": "Apple Planning AI Home Security Camera and Service for 2027",
-      "description": "Apple could release a home security system and service in 2027, according to Bloomberg.\r\n\r\n\r\nThe company is designing a privacy-forward home security camera that will \"use AI to monitor the surrounding environment instead of actual video footage.\" It will apparently work with a new home security and",
-      "image": "https://images.macrumors.com/article-new/2024/11/homekit-showdown-redux.jpg",
-      "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T22:05:37.000Z"
-    },
-    {
-      "id": "55319820531599ad",
-      "title": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event",
-      "description": "We're less than a week away from the debut of Apple's first foldable iPhone, and rumors have been picking up as the event date approaches. Here's the latest.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nMagSafe - Even though foldable iPhone dummies we saw earlier this year didn",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T21:56:27.000Z"
-    },
-    {
-      "id": "4dda377abda68085",
-      "title": "Apple's 2026 Studio Display Gets Steep $214 Discount on Amazon",
-      "description": "Amazon today has introduced a big discount on the Apple Studio Display with Nano-Texture Glass and Tilt-Adjustable Stand, available for $1,684.88 with an on-page coupon, down from $1,899.00. This is the first time in nearly three months we've seen any notable discounts on the 2026 Studio Display lin",
-      "image": "https://images.macrumors.com/article-new/2026/04/studio-display-2026-pink.jpeg",
-      "url": "https://www.macrumors.com/2026/09/03/studio-display-214-discount/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T21:53:13.000Z"
-    },
-    {
-      "id": "7a07473f1cd1fe42",
-      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-      "description": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the prom",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T21:23:50.000Z"
-    },
-    {
-      "id": "e6349a8f4b29f1d9",
-      "title": "CarPlay now works with five major chatbot apps",
-      "description": "CarPlay has picked up its fifth major AI chatbot app with the addition of Claude. Anthropic’s iPhone app adding CarPlay is the second AI chatbot app to be updated with support this week.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/04/carplay-now-works-with-five-major-chatbot-apps/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-04T21:17:46.000Z"
     }
   ],
-  "lastUpdated": "2026-09-06T06:03:34.816Z",
+  "lastUpdated": "2026-09-06T18:02:30.271Z",
   "sources": [
     "TechCrunch",
     "The Verge",
