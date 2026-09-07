@@ -1,41 +1,13 @@
 {
-  "executiveSummary": "Major trends include Apple's new iPhone and MacBook releases, AI/ML developments, and supply chain issues, with a focus on the impact of these developments on software engineers and tech professionals.",
-  "takeaways": [
-    {
-      "title": "AI/ML development",
-      "description": "OpenAI and Microsoft are facing lawsuits over AI use, while AI-generated content is being explored in iPhone 18 Pro mock ads and the Fairphone 6 Plus's repairability rules."
-    },
-    {
-      "title": "Apple hardware releases",
-      "description": "Apple is expected to release new iPhone 18 Pro and MacBook Ultra devices, with a focus on foldable displays and OLED screens."
-    },
-    {
-      "title": "Supply chain issues",
-      "description": "AirTag 2 4-Pack is on sale for $79.99, and there are reports of MacBook Air supply shortages."
-    }
-  ],
-  "trends": [
-    "AI/ML",
-    "Apple Hardware",
-    "Supply Chain",
-    "New Releases",
-    "Pricing"
-  ],
-  "worthWatching": [
-    "The growth of CD sales is a resurgence of physical media, with 17.5 million CDs sold in the first six months of 2026."
-  ],
-  "engineeringPerspective": [
-    "The use of AI in content creation, such as AI-generated iPhone 18 Pro mock ads, raises questions about the role of humans in creative processes."
-  ],
+  "generatedAt": "2026-09-07T18:05:14.515Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "iPhone",
-      "MacBook",
-      "AI",
-      "Apple"
-    ]
-  },
-  "generatedAt": "2026-09-07T06:05:08.976Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }

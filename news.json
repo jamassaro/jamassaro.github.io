@@ -1,14 +1,213 @@
 {
   "articles": [
     {
-      "id": "7436c5cc9bfe4c8d",
-      "title": "This AI-generated iPhone 18 Pro mock ad makes me actually love dark cherry color",
-      "description": "Can you believe it’s new iPhone week already?\nApple’s “Rise and Surprise” event is just a few days away on Wednesday, September 9, at 10 am PT. The company is set to unveil the foldable iPhone Ultra and new iPhone 18 Pro and iPhone 18 Pro Max, among other new hardware products. \nThe interesting new ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/dark-cherry-iphone-18-pro-mock-ad.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/06/this-ai-generated-iphone-18-pro-mock-ad-makes-me-actually-love-dark-cherry-color/",
+      "id": "874645ab272605d0",
+      "title": "Report: Apple TV working on spin-off to its hit series Silo",
+      "description": "Apple TV just wrapped up the third season of its hit sci-fi series Silo, with a fourth and final season already dated for summer next year.\nBut it seems the streamer has more ambitious plans yet. According to reliable Apple TV reporter Sigmund Judge, Apple is working on a spin-off show that could go",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-silo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/07/report-apple-tv-working-on-silo-spin-off/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-07T05:01:31.000Z"
+      "publishedAt": "2026-09-07T17:15:35.000Z"
+    },
+    {
+      "id": "06bbf9e18e1a74b5",
+      "title": "Five iPhone 18 Pro Camera Features Seemingly Leak in Code",
+      "description": "Apple is working on a broader set of Camera app improvements in iOS 27 it has announced, according to a new deep dive from MacRumors forum member \"pdfu.\"\r\n\r\n\r\n‌iOS 27‌ beta code apparently points to five features that could arrive alongside new iPhone models this week or in a future software update:",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
+      "url": "https://www.macrumors.com/2026/09/07/five-iphone-18-pro-camera-features-seemingly-leak/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T16:07:47.000Z"
+    },
+    {
+      "id": "83c4b04f20fd41bd",
+      "title": "Six years later, Sony revisits its legendary XM4 headphones",
+      "description": "The XM4C (in white) have the exact same visual design as the XM4 (in black) from 2020. | Photo: John Higgins / The Verge\t\n\nSix years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-07T16:00:00.000Z"
+    },
+    {
+      "id": "38acd732c36c3dd1",
+      "title": "Leak Hints at Four New Features for Apple Watch Series 12 and Ultra 4",
+      "description": "Ahead of the announcement of the Apple Watch Series 12 and Ultra 4 later this week, code in the watchOS 27 and iOS 27 betas points to a series of new features for the product line.\r\n\r\n\r\nThe information comes from a new post from MacRumors forums member \"pdfu.\" The findings include:\r\n\r\n\r\nNew \"Readine",
+      "image": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12.png",
+      "url": "https://www.macrumors.com/2026/09/07/leak-hints-at-four-new-apple-watch-features/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T15:58:06.000Z"
+    },
+    {
+      "id": "4282f1642d20d19c",
+      "title": "What we expect from the upcoming Apple launch",
+      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-07T15:58:00.000Z"
+    },
+    {
+      "id": "f7c1b6fdb8d57587",
+      "title": "Xiaomi Announces Foldable iPhone Rival",
+      "description": "Xiaomi today officially announced the 18 Fold, its first wide-format foldable, at a product event in China, two days before Apple is expected to unveil its own first foldable iPhone.\r\n\r\n\r\nThe Xiaomi 18 Fold uses a similar wide-folding design to the Samsung Z Fold8 and Apple's upcoming foldable iPhon",
+      "image": "https://images.macrumors.com/article-new/2026/09/Xiaomi-18-Fold-image.jpeg",
+      "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T15:26:23.000Z"
+    },
+    {
+      "id": "9e5f8feff5b8e318",
+      "title": "EcoFlow makes the miniature power station even smaller",
+      "description": "The River 260 Gen4 (on the table) powering a portable fridge, Starlink Mini, and charging a phone. | Image: EcoFlow\t\n\nIf you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. \nThe River 260 Gen4 fea",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-07T14:59:41.000Z"
+    },
+    {
+      "id": "52bff04fd72d8040",
+      "title": "A foldable Mac is years away, but Apple is still working on it",
+      "description": "There have long been reports and rumours about Apple working on a foldable clamshell device that is either an iPad, a Mac, one of each, or a hybrid of the two.\nA recent report said that although this was once a priority for new CEO John Ternus, the project had been cancelled – but I don’t think that",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/Folding-MacBook-would-be-along-the-lines-of-the-Lenovo-Yogabook.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/07/a-foldable-mac-is-years-away-but-apple-is-still-working-on-it/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T14:58:43.000Z"
+    },
+    {
+      "id": "f0b47d97ea9dc242",
+      "title": "iPhone 18 Pro Event Could Hit Apple Shares, KeyBanc Warns",
+      "description": "Apple's September 9 iPhone announcement event could become a negative catalyst for the stock, KeyBanc Capital Markets warns.  \r\n\r\n\r\nIn a research note seen by Investing.com, KeyBanc said the event could motivate investors to weigh pricing decisions against the impact of higher costs on demand and ma",
+      "image": "https://images.macrumors.com/article-new/2026/08/apple-surprise-and-shine-event.jpg",
+      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-event-could-hit-apple-shares/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T14:33:56.000Z"
+    },
+    {
+      "id": "40b8183d9f1069de",
+      "title": "iPhone 18 Pro appears to show new colors in a retail store, but likely fake",
+      "description": "A video shared by a leaker with some track record appears to show two of the new iPhone 18 Pro colors as part of a display at a retail store.\nThe brief video clip shows both the dark cherry and blue colors we’re expecting, but it is almost certainly fake …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-18-Pro-appears-to-show-new-colors-in-a-retail-store-but-likely-fake.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/09/07/iphone-18-pro-appears-to-show-new-colors-in-a-retail-store-but-likely-fake/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T13:30:52.000Z"
+    },
+    {
+      "id": "ce8e5b6dab00d8ed",
+      "title": "All of the best Apple Labor Day deals: AirPods, Mac, charging gear, accessories, more",
+      "description": "Labor Day 2026 has arrived and you have less than 24 hours left to get in on the massive Amazon and $20 each, AirPods Pro 3 are down at $50 off and you can now score the latest AirPods Max 2 at $100 off the list price. \nThose offers join the lowest prices anywhere on the brand new M6 Mac mini ahead ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Labor-Day-deals-2026.png?w=1600",
+      "url": "https://9to5mac.com/2026/09/07/best-apple-labor-day-deals/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T13:00:53.000Z"
+    },
+    {
+      "id": "548ee0c41b50fa52",
+      "title": "How do Apple Refurbished products compare with Amazon and Walmart?",
+      "description": "If you’re willing to exercise a little patience rather than rushing out to buy a shiny new Apple product on launch day, then Apple’s refurbished store has always been an excellent option. Typically, there will be around a three-month wait between a product launch and the first refurbished models app",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Refurbished-store.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/09/07/how-do-apple-refurbished-products-compare-with-amazon-and-walmart/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T12:50:03.000Z"
+    },
+    {
+      "id": "0c294c01426d847e",
+      "title": "Three new iPhones launch this week, here’s what’s coming",
+      "description": "Apple’s big September event is this Wednesday, and the company has three new iPhone models set to launch: iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Ultra. Here’s what to expect.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/07/three-new-iphones-launch-this-week-heres-whats-coming/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T12:23:31.000Z"
+    },
+    {
+      "id": "66a7457288a5c204",
+      "title": "iPhone 18 Pro: Nine Reasons Not to Upgrade This Year",
+      "description": "Apple is set to unveil new iPhone 18 Pro and iPhone 18 Pro Max models on Wednesday, September 9, and the devices are expected to feature a design that's largely similar to the iPhone 17 Pro models, with a peppering of enhancements inside. Major changes are not expected until next year, when Apple is",
+      "image": "https://images.macrumors.com/article-new/2026/03/All-Screen-iPhone-2030-Feature-Sans-Text.jpg",
+      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-reasons-not-to-upgrade-this-year/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T12:01:37.000Z"
+    },
+    {
+      "id": "203a9286990ec263",
+      "title": "The real reason your phone is getting more expensive",
+      "description": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight.\n",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-07T12:00:00.000Z"
+    },
+    {
+      "id": "78991b06d081f734",
+      "title": "Reports describe two ways for Apple to make more money; only one is good",
+      "description": "There were two reports in the last few days indicating different routes for Apple to make more money by boosting Services revenue. \nIn my view, it should absolutely do the first of these, but not the second – and it appears Phil Schiller may agree …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Reports-describe-two-ways-for-Apple-to-make-more-money.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/07/reports-describe-two-ways-for-apple-to-make-more-money-only-one-is-good/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T11:43:38.000Z"
+    },
+    {
+      "id": "f81778f22e8e4fbc",
+      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+      "description": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/BentleyTorcalEV5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-07T11:00:00.000Z"
+    },
+    {
+      "id": "fb703b89dffed4fc",
+      "title": "Apple Plans to Squeeze More Revenue From the App Store, Report Says",
+      "description": "Apple is looking at further ways to monetize the App Store and increase the company's recurring revenue from the platform, according to a new report.\r\n\r\n\r\nWriting in his latest Power On newsletter, Bloomberg's Mark Gurman said that newly appointed Apple CEO John Ternus and services chief Eddy Cue ar",
+      "image": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/09/07/apple-squeeze-more-revenue-from-app-store/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T10:19:14.000Z"
+    },
+    {
+      "id": "9d20771d94feb201",
+      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+      "description": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, m",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-07T10:09:42.000Z"
+    },
+    {
+      "id": "3a0bf9785f8a8ee3",
+      "title": "Tim Cook Won't Appear in Apple's September 9 Event Video",
+      "description": "Tim Cook will attend the screening for Apple's \"Surprise and Shine\" event this Wednesday, but he will not feature in the event video itself, according to sources cited by Bloomberg's Mark Gurman. Cook stepped down as Apple CEO on September 1 to become executive chairman of the company, paving the wa",
+      "image": "https://images.macrumors.com/article-new/2026/09/Tim-Cook-Executive-Chair-16x9-1.jpg",
+      "url": "https://www.macrumors.com/2026/09/07/tim-cook-wont-appear-apple-sept-9-event-video/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T09:27:45.000Z"
+    },
+    {
+      "id": "d59b578cbf3b5fcc",
+      "title": "Apple TV leads Emmys wins so far, with Widows Bay set for awards sweep",
+      "description": "The prestigious television Emmy Awards began this weekend, with the winners announced for Creative Arts categories. The Primetime award ceremony is coming up on September 14th, which will include the big categories like Best Drama and Best Comedy.\nSo far, though, Apple will be very happy with the re",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/widows-bay-cast-creepy.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/07/apple-tv-leads-emmys-awards-widows-bay/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T09:17:08.000Z"
     },
     {
       "id": "cedd7ddd7af4e8fa",
@@ -95,204 +294,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-09-06T16:08:00.000Z"
-    },
-    {
-      "id": "28baaab2926b4e77",
-      "title": "Apple might soon make App Store changes to raise revenue, increase margins: report",
-      "description": "According to the latest edition of the Power On newsletter from Mark Gurman, Apple is reportedly considering making some changes to its App Store. The goal? To increase the potential revenue it brings in.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/06/apple-might-soon-make-app-store-changes-to-raise-revenue-increase-margins-report/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-06T14:53:21.000Z"
-    },
-    {
-      "id": "d9c91a1cba9c7941",
-      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-      "description": "Repairability rules.\t\n\nThe Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled.\nThe mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themsel",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268725_Fairphone_6_Plus_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T13:00:00.000Z"
-    },
-    {
-      "id": "d03829244c566705",
-      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-      "description": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why.\nBattle simulator Pokémon Champions originally launched on the Swit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T13:00:00.000Z"
-    },
-    {
-      "id": "b591a6b737273adc",
-      "title": "DIY plug-in solar gains momentum in the US",
-      "description": "EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives i",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/banner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T12:00:00.000Z"
-    },
-    {
-      "id": "7ed622d5034e3941",
-      "title": "This new reveal suggests MacBook Ultra might cost more than we think",
-      "description": "As soon as next month, Apple is expected to introduce its next MacBook Pro redesign. We’ll be seeing OLED, the first touchscreen on a Mac, a thinner chassis, Dynamic Island, and much more. This upgrade was rumored to be called MacBook Ultra, though it wasn’t necessarily clear where that’d leave the ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/macbook-ultra-mockup-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/05/macbook-ultra-pricing-lineup-rumor/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-06T03:02:03.000Z"
-    },
-    {
-      "id": "e1f94270113190cd",
-      "title": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
-      "description": "Last year, Apple completely reinvented multitasking on the iPad, with the introduction of windowing in iPadOS 26. At first, this meant the removal of the simpler version of multitasking, Split View and Slide Over. Those features did eventually return, but at a cost – they required you to use the clu",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/m4-ipad-pro-hero-image.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/05/ipados-27-still-needs-simpler-multitasking-heres-what-id-like-to-see/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-06T00:26:17.000Z"
-    },
-    {
-      "id": "f535ea76d5017e3e",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T22:49:55.000Z"
-    },
-    {
-      "id": "6d108335d93d6d28",
-      "title": "Affordable iPhone accessories for CarPlay worth trying",
-      "description": "CarPlay can make any vehicle feel significantly more comfortable and family. Still, the experience is not always perfect out of the box.\nSome cars still require a wired connection, others lack CarPlay entirely, and what about keeping your iPhone charged and cooled on long trips?\nFortunately, improvi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/best-carplay-apps.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/05/affordable-iphone-accessories-for-carplay-worth-trying/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-05T22:00:00.000Z"
-    },
-    {
-      "id": "506eb170af255517",
-      "title": "Explore the globe in field recordings",
-      "description": "Around the world in 80 WAVs. | Screenshot: Terrence O’Brien / The Verge\t\n\nI love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T21:31:34.000Z"
-    },
-    {
-      "id": "fd75c548dd8a9645",
-      "title": "iPhone Handoff will seamlessly share one number between two phones",
-      "description": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up the feat",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T20:53:58.000Z"
-    },
-    {
-      "id": "85a48291181bc8b4",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T19:35:24.000Z"
-    },
-    {
-      "id": "a40a90fa3c9abea9",
-      "title": "Indie App Spotlight: ‘KeyAlarm’ turns your most important calendar events into alarms",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nCalendar events can often be missed, especially since they’re usually just a notification. If you’re in do",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/KeyAlarm.png?w=1600",
-      "url": "https://9to5mac.com/2026/09/05/indie-app-spotlight-keyalarm-calendar-events-into-alarms/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-05T19:30:00.000Z"
-    },
-    {
-      "id": "48cc0128e2987beb",
-      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
-      "description": "This month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. It’s going to feature a 5.5-inch outer display and 7.6-inch inner display. In July, Samsung introduced the new Galaxy Z Fold 8 – and it comes with those same screen sizes.\nWhether or not you believe Sa",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/05/iphone-ultra-form-factor-comparison/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-05T19:15:18.000Z"
-    },
-    {
-      "id": "82632f30970ede30",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T18:05:27.000Z"
-    },
-    {
-      "id": "d1c2b2195bf9c28a",
-      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-      "description": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T17:00:00.000Z"
-    },
-    {
-      "id": "d70448a1a3b5084c",
-      "title": "CD sales are booming as physical media continues its resurgence",
-      "description": "There’s some real gems in there. | Photo: Terrence O’Brien / The Verge\t\n\nAccording to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from jus",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSCF1155-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T16:49:33.000Z"
-    },
-    {
-      "id": "7bb3836af00ec344",
-      "title": "AirTag 2 4-Pack Drops to $79.99 on Amazon, Matching Record Low",
-      "description": "Apple's AirTag 2 is on sale for $79.99 this weekend on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a match of the record low price for the accessory, beating the previous low by about $5.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link",
-      "image": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
-      "url": "https://www.macrumors.com/2026/09/05/airtag-2-4-pack-on-sale/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-05T16:09:38.000Z"
-    },
-    {
-      "id": "9848c1f092aa62b5",
-      "title": "iPhone 18 Pro: Everything M6 Tells Us About the A20 Chip",
-      "description": "Apple announced the M6 chip last week, just ahead of its September iPhone event, providing the clearest indication yet of what the A20 will bring to the iPhone 18 lineup.\r\n\r\n\r\nApple silicon generations share much of their architecture across the A-series and the M-series, so a new A-series chip norm",
-      "image": "https://images.macrumors.com/article-new/2026/09/m6-a20-pro-chips.jpg",
-      "url": "https://www.macrumors.com/2026/09/05/what-m6-tells-us-about-a20/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-05T16:00:13.000Z"
-    },
-    {
-      "id": "3083e23f4bf7a71a",
-      "title": "Oura is going public, but these smart ring companies are coming for its crown",
-      "description": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
-      "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T15:00:00.000Z"
-    },
-    {
-      "id": "6b027aafd7b34781",
-      "title": "Apple @ Work: Capping bug bounty submissions is the wrong response in the AI era of security threats",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-05T13:01:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-07T06:03:16.589Z",
+  "lastUpdated": "2026-09-07T18:02:21.779Z",
   "sources": [
     "TechCrunch",
     "The Verge",
