@@ -1,6 +1,64 @@
 {
   "articles": [
     {
+      "id": "7436c5cc9bfe4c8d",
+      "title": "This AI-generated iPhone 18 Pro mock ad makes me actually love dark cherry color",
+      "description": "Can you believe it’s new iPhone week already?\nApple’s “Rise and Surprise” event is just a few days away on Wednesday, September 9, at 10 am PT. The company is set to unveil the foldable iPhone Ultra and new iPhone 18 Pro and iPhone 18 Pro Max, among other new hardware products. \nThe interesting new ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/dark-cherry-iphone-18-pro-mock-ad.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/06/this-ai-generated-iphone-18-pro-mock-ad-makes-me-actually-love-dark-cherry-color/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T05:01:31.000Z"
+    },
+    {
+      "id": "cedd7ddd7af4e8fa",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "description": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhot",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T23:36:04.000Z"
+    },
+    {
+      "id": "6e2930d6b6831b1f",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T21:41:06.000Z"
+    },
+    {
+      "id": "a722ed211e7a0ba7",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "description": "An Amazon cargo plane crashed at Miami International Airport on September 06, 2026. | Photo: Joe Raedle / Getty Images\t\n\nA plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T20:56:38.000Z"
+    },
+    {
+      "id": "410d40c2d778d33b",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T20:47:37.000Z"
+    },
+    {
+      "id": "0a071a2a0d13adae",
+      "title": "Europe has its first commercial orbital rocket",
+      "description": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-06T19:04:22.000Z"
+    },
+    {
       "id": "45244a2916ec33ac",
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
@@ -106,6 +164,16 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-09-05T22:49:55.000Z"
+    },
+    {
+      "id": "6d108335d93d6d28",
+      "title": "Affordable iPhone accessories for CarPlay worth trying",
+      "description": "CarPlay can make any vehicle feel significantly more comfortable and family. Still, the experience is not always perfect out of the box.\nSome cars still require a wired connection, others lack CarPlay entirely, and what about keeping your iPhone charged and cooled on long trips?\nFortunately, improvi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/best-carplay-apps.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/05/affordable-iphone-accessories-for-carplay-worth-trying/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-05T22:00:00.000Z"
     },
     {
       "id": "506eb170af255517",
@@ -214,26 +282,6 @@
       "publishedAt": "2026-09-05T15:00:00.000Z"
     },
     {
-      "id": "b6b2d95133b4c241",
-      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-      "description": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/andy.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T15:00:00.000Z"
-    },
-    {
-      "id": "6062c190cb0df96b",
-      "title": "Content creators drop the ball",
-      "description": "The USTA Billie Jean King National Tennis Center. | Getty Images\t\n\nDuring Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293089524.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T14:00:16.000Z"
-    },
-    {
       "id": "6b027aafd7b34781",
       "title": "Apple @ Work: Capping bug bounty submissions is the wrong response in the AI era of security threats",
       "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
@@ -242,57 +290,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-09-05T13:01:00.000Z"
-    },
-    {
-      "id": "079598c8b1ca7f6d",
-      "title": "Top Stories: 'Surprise and Shine' Apple Event Preview, John Ternus Takes Over, and More",
-      "description": "After years of rumors, the highly anticipated foldable iPhone is almost here, but that's not all we're expecting to see at next week's big event, and we've got full coverage of expectations for the \"Surprise and Shine\" event.\r\n\r\n\r\nBeyond the event, this week also saw John Ternus take over from Tim C",
-      "image": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-05.jpg",
-      "url": "https://www.macrumors.com/2026/09/05/top-stories-suprise-and-shine-preview/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-05T13:00:10.000Z"
-    },
-    {
-      "id": "09063b7f497319ee",
-      "title": "The weird and wonderful headphones of CanJam 2026",
-      "description": "A collection of headphone manufacturers and fans come together for their love of great sound. | Image: CanJam Global\t\n\nI've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uni",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canjam-socal-2026-show-floor.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-05T13:00:00.000Z"
-    },
-    {
-      "id": "f2ee1ce98a2d6de0",
-      "title": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more",
-      "description": "Update: 9/6: Amazon is now offering Apple’s AirPods Max 2 at $100 off. \nLabor Day weekend is here with massive sale events now live at both Amazon and AirTag from $20 a pop. \nMoving over to the Mac and the pre-order discounts on the new M6/M5 Pro Mac mini, we also have $150 off this 13-inch M5 MacBo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Labor-Day-weekend-Apple-deals.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/05/apple-labor-day-weekend-deals-airpods/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-05T12:12:36.000Z"
-    },
-    {
-      "id": "3c87235a95cd5564",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T23:36:14.000Z"
-    },
-    {
-      "id": "8fcfe2b9cc1b98fd",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-04T23:15:11.000Z"
     }
   ],
-  "lastUpdated": "2026-09-06T18:02:30.271Z",
+  "lastUpdated": "2026-09-07T06:03:16.589Z",
   "sources": [
     "TechCrunch",
     "The Verge",
