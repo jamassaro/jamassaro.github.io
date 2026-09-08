@@ -1,6 +1,93 @@
 {
   "articles": [
     {
+      "id": "7badf4964e481536",
+      "title": "9to5Mac Overtime 080: Six new Apple products",
+      "description": "Fernando connects from IFA in Berlin to discuss Apple’s forthcoming iPhone Ultra, alongside the five other products that will be announced at this Wednesday’s Surprise and Shine event.\nSponsored by Bitwarden: Register for the free, virtual Open Source Security Summit on September 17, featuring cyber",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-080.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/07/9to5mac-overtime-080-six-new-apple-products/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-08T02:38:32.000Z"
+    },
+    {
+      "id": "903a13e3e5ca9a3a",
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "description": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla ",
+      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-08T02:16:39.000Z"
+    },
+    {
+      "id": "b87d9c04c5281041",
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "description": "The Xiaomi 18 Fold and its Xring O3 chip.\t\n\nChina is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so spe",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&#038;strip=all&#038;crop=0,15.600243753809,62.2,75.399615618994",
+      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-08T02:00:00.000Z"
+    },
+    {
+      "id": "e333fd882f0bdbbe",
+      "title": "BASF subsidiary sues Apple over alleged Face ID patent infringement",
+      "description": "TrinamiX, a subsidiary of BASF, says Apple’s current implementation of Face ID is infringing on several of its patents. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/face-id-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/07/basf-subsidiary-sues-apple-over-alleged-face-id-patent-infringement/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-08T01:34:36.000Z"
+    },
+    {
+      "id": "d7b47632bbc2a5f8",
+      "title": "WhatsApp will soon let users chat with up to five third-party AI agents",
+      "description": "WhatsApp is working on a new feature that will let users connect third-party AI agents to the app, chat with them, and give them instructions to carry out tasks on their behalf. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/07/whatsapp-will-soon-let-users-chat-with-up-to-five-third-party-ai-agents/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T21:36:39.000Z"
+    },
+    {
+      "id": "1c0d6615e7898b65",
+      "title": "Apple invites developers to submit browser interoperability ideas for Interop 2027",
+      "description": "Apple’s WebKit team is inviting developers to submit their ideas for Interop 2027, the next edition of the cross-browser initiative aimed at improving web interoperability. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/07/apple-invites-developers-to-submit-browser-interoperability-ideas-for-interop-2027/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-07T20:31:22.000Z"
+    },
+    {
+      "id": "a63399fa9ca60bbf",
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "description": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to p",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A264389_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-07T20:03:41.000Z"
+    },
+    {
+      "id": "decc698f794e6a6a",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-07T19:24:00.000Z"
+    },
+    {
+      "id": "6fd9884f211dd510",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-07T18:02:29.000Z"
+    },
+    {
       "id": "874645ab272605d0",
       "title": "Report: Apple TV working on spin-off to its hit series Silo",
       "description": "Apple TV just wrapped up the third season of its hit sci-fi series Silo, with a fourth and final season already dated for summer next year.\nBut it seems the streamer has more ambitious plans yet. According to reliable Apple TV reporter Sigmund Judge, Apple is working on a spin-off show that could go",
@@ -208,95 +295,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-09-07T09:17:08.000Z"
-    },
-    {
-      "id": "cedd7ddd7af4e8fa",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "description": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhot",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T23:36:04.000Z"
-    },
-    {
-      "id": "6e2930d6b6831b1f",
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T21:41:06.000Z"
-    },
-    {
-      "id": "a722ed211e7a0ba7",
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "description": "An Amazon cargo plane crashed at Miami International Airport on September 06, 2026. | Photo: Joe Raedle / Getty Images\t\n\nA plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T20:56:38.000Z"
-    },
-    {
-      "id": "410d40c2d778d33b",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T20:47:37.000Z"
-    },
-    {
-      "id": "0a071a2a0d13adae",
-      "title": "Europe has its first commercial orbital rocket",
-      "description": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T19:04:22.000Z"
-    },
-    {
-      "id": "45244a2916ec33ac",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T16:45:00.000Z"
-    },
-    {
-      "id": "27b29fb4e6356390",
-      "title": "Netflix includes 80+ ad-free iPhone and iPad games, here’s every app",
-      "description": "Looking for new iPhone and iPad games to play? The App Store has plenty of games without ads and in-app purchases.\nApple Arcade is a great subscription option for families, though it’s not the only game in town. If you’re a Netflix subscriber, you’re also paying for a huge catalog of great iPhone an",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/netflix-games.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/06/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-06T16:41:03.000Z"
-    },
-    {
-      "id": "9c4402a486c199fe",
-      "title": "Boox’s tiny Picco e-reader should land in November",
-      "description": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a p",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T16:28:58.000Z"
-    },
-    {
-      "id": "7b018f03479181d2",
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-06T16:08:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-07T18:02:21.779Z",
+  "lastUpdated": "2026-09-08T06:02:42.028Z",
   "sources": [
     "TechCrunch",
     "The Verge",
