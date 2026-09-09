@@ -1,300 +1,304 @@
 {
   "articles": [
     {
-      "id": "c3feabb862449605",
-      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-      "description": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
-      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-09T06:00:00.000Z"
-    },
-    {
-      "id": "5e4d67ddb1791974",
-      "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-      "description": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests it will have a price starting at $2,000 for a model",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-09T05:26:53.000Z"
-    },
-    {
-      "id": "7682ad5621f6b75f",
-      "title": "Foldable iPhone Duo Will Start at $2,000, Won't Launch Until at Least October",
-      "description": "Following some recent speculation that Apple could release its foldable phone under the \"iPhone Duo\" name, it appears that will indeed be the case, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nFor months now, the foldable iPhone has generally been referred to as the \"iPhone Ultra,\" even internally, bu",
-      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-start-at-2000/",
+      "id": "bebfa5ae2e79a39b",
+      "title": "Apple Announces Apple Watch Ultra 4 With Two-Day Battery Life and Upgraded Health Tracking",
+      "description": "Apple today announced the Apple Watch Ultra 4, featuring a new S11 chip, a redesigned health sensing system, and a larger battery that Apple says delivers two days of battery life.\r\n\r\n\r\nWith improved power efficiency, Ultra 4 offers up to 18 hours of workout tracking with full GPS and heart rate mon",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-4.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-ultra-4-announced-battery-life/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-09T04:45:13.000Z"
+      "publishedAt": "2026-09-09T18:00:24.000Z"
     },
     {
-      "id": "418022722fb0a983",
-      "title": "iPhone Duo: Apple’s new foldable reportedly not named Ultra, plus price, colors, more",
-      "description": "Apple is officially set to unveil its first foldable iPhone in a few hours. On the eve of the event, Mark Gurman at Bloomberg has reported some last-minute details, including a spoiler for the foldable iPhone’s actual name: iPhone Duo.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/09/08/iphone-duo-apples-new-foldable-reportedly-not-named-ultra-plus-price-colors-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-09T04:43:16.000Z"
-    },
-    {
-      "id": "b61c7017fe7d3f58",
-      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-      "description": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
-      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "id": "3d23c891479af520",
+      "title": "Apple unveils its first foldable, the iPhone Duo",
+      "description": "Apple today introduced its first foldable device, named the iPhone Duo, at its “Surprise and Shine” iPhone event held in Cupertino. The phone is the first marquee device launched under the company’s new CEO, John Ternus. The company said that the new device was “Inspired by the versatility of iPad” ",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-09T04:01:00.000Z"
+      "publishedAt": "2026-09-09T17:58:14.000Z"
     },
     {
-      "id": "1f66928db1faa4da",
-      "title": "iPhone Ultra is coming, here’s what the final rumors say",
-      "description": "Apple is expected to announce its first-ever foldable iPhone tomorrow, which rumors say could be called the iPhone Ultra. Here are some last-minute rumors about what to expect.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/iphone-ultra-is-coming-heres-what-the-final-rumors-are-saying/",
+      "id": "7116d81ddc295bbb",
+      "title": "Apple unveils foldable iPhone Duo",
+      "description": "Apple has officially unveiled the highly anticipated foldable iPhone, and it’s called iPhone Duo. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.56.44.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/apple-unveils-foldable-iphone-duo/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-09T02:15:37.000Z"
+      "publishedAt": "2026-09-09T17:57:54.000Z"
     },
     {
-      "id": "9270ec9f09d676dc",
-      "title": "Crime thriller ‘Last Seen’ premieres on Apple TV",
-      "description": "Apple TV subscribers can now watch the first two episodes of “Last Seen,” an Australian kidnapping drama starring Patrick Brammall (Glitch). Watch the trailer below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/last-seen-Patrick-Brammall.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/crime-thriller-last-seen-premieres-on-apple-tv/",
+      "id": "e75ec3caf28f3c64",
+      "title": "watchOS 27 upgrade coming to Apple Watch this month",
+      "description": "watchOS 27 is coming this month, and now we have an official release date. Apple says we can expect the Apple Watch software update on Monday, September 14. The Apple Watch software update brings Siri AI, new ways to launch apps, and more changes to the device.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/09/watchos-27-upgrade-coming-to-apple-watch-this-month/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-09T01:30:13.000Z"
+      "publishedAt": "2026-09-09T17:57:40.000Z"
     },
     {
-      "id": "1aa962d12ee36d60",
-      "title": "WhatsApp doubles music clip length for status updates",
-      "description": "Users who post status updates on WhatsApp can now publish longer music clips, with the length limit doubled to 30 seconds. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/whatsapp-doubles-music-clip-length-for-status-updates/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-09T01:12:21.000Z"
-    },
-    {
-      "id": "a51bde434122a2ce",
-      "title": "9to5Mac Daily: September 8, 2026 – HomePod rumors, App Store changes",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/daily-september-8-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-09T00:25:34.000Z"
-    },
-    {
-      "id": "a28d5beaae63d949",
-      "title": "Apple adds 37 hardware identifiers ahead of ‘Surprise and Shine’ event",
-      "description": "Apple has added new hardware identifiers for iPhones, iPads, Macs, and other devices, some of which could be announced as soon as tomorrow at its “Surprise and Shine” event. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/apple-adds-37-hardware-identifiers-ahead-of-surprise-and-shine-event/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-08T23:27:28.000Z"
-    },
-    {
-      "id": "ca1c9f622b73d461",
-      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-      "description": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
-      "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T23:23:23.000Z"
-    },
-    {
-      "id": "0a49f81c883cbc91",
-      "title": "Sony isn’t phasing out discs quite as quickly as we thought",
-      "description": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717617/247361_PS5_Pro_VPavic_224.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T21:52:13.000Z"
-    },
-    {
-      "id": "6a9dbe25c43524cc",
-      "title": "Apple faces new UK rules over nude images on children’s iPhones",
-      "description": "Bloomberg reports that the UK intends to introduce legislation that would require Apple and Google to “stop children from taking, sharing or viewing nude images on their phones and tablets.” Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/apple-faces-new-uk-rules-over-nude-images-on-childrens-iphones/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-08T21:20:19.000Z"
-    },
-    {
-      "id": "f477d383c1582ebe",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T21:10:27.000Z"
-    },
-    {
-      "id": "cce1edfb2f8325e7",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "description": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T21:04:06.000Z"
-    },
-    {
-      "id": "af807aefd77b2ce7",
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "description": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid an",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T20:53:52.000Z"
-    },
-    {
-      "id": "50c74deb8375733d",
-      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-      "description": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
-      "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T20:47:34.000Z"
-    },
-    {
-      "id": "a2b7ae9cdc683b48",
-      "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
-      "description": "Rivian's futuristic e-bike is delayed, and customers are not happy. \nLast year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and software-control",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242247597.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T20:46:56.000Z"
-    },
-    {
-      "id": "4e8513a038d8394a",
-      "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-      "description": "Razer’s BlackShark V3 Pro are up to $100 off. | Image: Razer\t\n\nIt’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T20:39:49.000Z"
-    },
-    {
-      "id": "5c864e1c8d2b394b",
-      "title": "TrendForce: Apple produced 52 million iPhones in Q2 as global smartphone market declined",
-      "description": "A new TrendForce report shows that Apple saw a 14% year-over-year increase in smartphone production during Q2 2026, reaching a 19% share of global production, second only to Samsung. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-cosmic-orange-cameras-angle.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/trendforce-apple-produced-52-million-iphones-in-q2-as-global-smartphone-market-declined/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-08T20:39:34.000Z"
-    },
-    {
-      "id": "612aea291a4711ef",
-      "title": "Apple Releases Firmware Update for 140W USB-C Power Adapter",
-      "description": "Apple today released a firmware update (version 1.4.90) for its 140W USB-C Power Adapter.\r\n\r\nThis article, \"Apple Releases Firmware Update for 140W USB-C Power Adapter\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-      "image": "https://images.macrumors.com/article-new/2026/04/16-inch-MBP-and-140W-Charger-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/08/apple-releases-140w-usb-c-charger-firmware-update/",
+      "id": "fb7853d21659e9a5",
+      "title": "Apple Announces Foldable 'iPhone Duo'",
+      "description": "Apple today announced the \"iPhone Duo,\" a new kind of iPhone featuring two screens and a foldable inner display.\r\n\r\n\r\nThe iPhone Duo is the first iPhone with two screens, as well as the first Apple device with a flexible, foldable display. It also features an all-new wide-format design, similar to a",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/apple-announces-foldable-iphone-duo/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-08T20:35:03.000Z"
+      "publishedAt": "2026-09-09T17:56:28.000Z"
     },
     {
-      "id": "b0f17ff2ae021301",
-      "title": "iPhone 18 Pro set to become Apple’s new default model",
-      "description": "iPhone 18 Pro is about to be unveiled, and due to a lineup overhaul this year, it’s set to become Apple’s new default model like never before.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/iphone-18-pro-set-to-become-apples-new-default-model/",
+      "id": "2ead541c277da89d",
+      "title": "watchOS 27 will add new Siri Modular face for Apple Watch",
+      "description": "Today during its Apple Watch Series 12 and Ultra 4 announcements, Apple announced a new watch face coming to watchOS 27: Siri Modular.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/watchos-27-dynamic-app-grid-new-siri.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/watchos-27-will-add-new-siri-modular-face-for-apple-watch/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-08T20:22:18.000Z"
+      "publishedAt": "2026-09-09T17:56:11.000Z"
     },
     {
-      "id": "70b11cc39d9d7b27",
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "description": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t\n\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T20:16:09.000Z"
-    },
-    {
-      "id": "28eeb7052446d1c5",
-      "title": "Apple Likely to Announce Beats 360 This Month",
-      "description": "Apple today released a firmware update (4A203) for its upcoming Beats 360 headphones, suggesting that a launch is approaching. With the firmware now available, it seems likely that Apple will announce the Beats 360 at some point in September.\r\n\r\n\r\nBeats 360 have already leaked across multiple regula",
-      "image": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/08/apple-beats-360-coming-soon/",
+      "id": "302229b1c6bc8c6b",
+      "title": "Apple Extends Free Satellite Access for iPhone 14, 15, and 16 Users",
+      "description": "Apple today announced it is extending free access to satellite features for an additional year for existing iPhone 14, iPhone 15, and iPhone 16 users.\r\n\r\n\r\n\r\npress release for the new iPhone 18 Pro and ‌iPhone 18 Pro‌ Max.\r\n\r\n2025 and again this year. Free access for iPhone 15 users, whose trial was",
+      "image": "https://images.macrumors.com/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/apple-extends-free-satellite-access/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-08T19:48:37.000Z"
+      "publishedAt": "2026-09-09T17:51:06.000Z"
     },
     {
-      "id": "ee2aa0554dd661b2",
-      "title": "Report: Apple Watch shipments rise 14% in Q2 as overall market drops",
-      "description": "A new Counterpoint Research report shows Apple, Garmin, and Huawei bucking a market-wide decline in smartwatch shipments in Q2 2026, with Huawei reaching a record share of global shipments. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-watch-ultra-3-4-mountain.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/report-apple-watch-shipments-rise-14-in-q2-as-overall-market-drops/",
+      "id": "3de0228387dd5a96",
+      "title": "Apple confirms iOS 27 release date: September 14",
+      "description": "Apple today confirmed at its “Surprise and Shine” event that iOS 27 will be released in less than a week, on September 14. Here are the compatible devices.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/apple-confirms-ios-27-release-date-september-14/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-08T19:39:43.000Z"
+      "publishedAt": "2026-09-09T17:48:01.000Z"
     },
     {
-      "id": "2a0375249e82cf8e",
-      "title": "Meta AI launches Muse personal agent, including a new mobile app for iPhone",
-      "description": "Meta AI just launched a brand-new iPhone app called Muse from Meta. Similar to Grok Bot in presentation, Muse is a personal AI agent that handles tasks for you.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/muse-agent.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/08/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
+      "id": "c73a10974349f602",
+      "title": "Apple Announces iOS 27 Release Date",
+      "description": "At its event today unveiling the iPhone 18 Pro, AirPods 5, Apple Watch Series 12, and more, Apple announced that iOS 27 will be released later this month.\r\n\r\n\r\niOS 27 has already been available as a developer beta since June and as a public beta since July, and Apple today said that the update will ",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/apple-announces-ios-27-release-date/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:46:53.000Z"
+    },
+    {
+      "id": "9df4e5958ad4b130",
+      "title": "Apple Watch Series 12 and Ultra 4 unveiled with upgraded health tracking system",
+      "description": "Apple Watch Series 12 and Apple Watch Ultra 4 are official. Apple has announced its two new Apple Watch models as part of its product event today. An upgraded health tracking system is key to both models.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.37.43.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-08T19:17:21.000Z"
+      "publishedAt": "2026-09-09T17:44:50.000Z"
     },
     {
-      "id": "4cd4c0ba6b560a8d",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-08T19:00:00.000Z"
+      "id": "69f7f3dfe0acfc48",
+      "title": "iPhone 18 Pro Features Smaller Dynamic Island With Support for Three Live Activities",
+      "description": "The iPhone 18 Pro and ‌iPhone 18 Pro‌ Max feature a smaller Dynamic Island, with support for up to three simultaneous Live Activities.\r\n\r\n\r\n\r\nUntil now, the ‌Dynamic Island‌ has only supported a maximum of two simultaneous Live Activities. Here is how three Live Activities display at the same time:\r",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-dynamic-island.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-features-smaller-dynamic-island/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:44:00.000Z"
     },
     {
-      "id": "25cb07b28acd8649",
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "description": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI ra",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "id": "d93060d39ac2fade",
+      "title": "The Apple Watch Ultra 4 is ready for the new Siri",
+      "description": "Apple announced the next version of the rugged and durable Apple Watch Ultra at today's \"Surprise and shine\" event.\nThe new model follows the Apple Watch Ultra 3, which launched last year. That watch debuted with upgrades including improved battery life, support for 5G networks on the cellular model",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ultra4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/990290/apple-watch-ultra-4-smartwatch-wearable-availability-pricing",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-08T19:00:00.000Z"
+      "publishedAt": "2026-09-09T17:43:16.000Z"
     },
     {
-      "id": "39935bd2569c3da1",
-      "title": "Sonos just launched ‘Sonos 27’ app update, here’s what’s new",
-      "description": "Last week Sonos unveiled several new features coming to its app soon, and now the first of those upgrades are here in the ‘Sonos 27’ app update. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-27-app-update-screenshots.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/",
+      "id": "91d2bf154397b9aa",
+      "title": "visionOS 27 release date: Here’s when the new update launches",
+      "description": "Today Apple unveiled its latest hardware products during the “Surprise and shine” event, where we also learned the release date for visionOS 27, the new software update for Vision Pro.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/visionos-27-panorama-environment-m5-vision-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/visionos-27-release-date-heres-when-the-new-update-launches/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-08T18:59:07.000Z"
+      "publishedAt": "2026-09-09T17:42:40.000Z"
     },
     {
-      "id": "b49989aa74605bd9",
-      "title": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’",
-      "description": "In April, OpenAI released upgraded image generation technology with ChatGPT Images 2. Five months later, the company is releasing an enhanced version, ChatGPT Images 2.5. \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/",
+      "id": "dc1b5674756c7127",
+      "title": "Apple Announces Apple Watch Series 12 With S11 Chip, Upgraded Health Sensors and Ceramic Models",
+      "description": "Apple today announced the Apple Watch Series 12, featuring a new S11 chip, a redesigned health sensing system, and new aluminum, titanium, and ceramic finishes.\r\n\r\n\r\nSeries 12 comes in Space Gray, Black, Light Gold, and Dark Bronze aluminum finishes. The aluminum models gain Ceramic Shield, which Ap",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-announced-all-day-hr-sensor/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:42:20.000Z"
+    },
+    {
+      "id": "693feb122246f479",
+      "title": "iOS 27 launches on September 14th with Siri AI",
+      "description": "Apple is launching its next iOS 27 update on Monday September 14th. The headline feature is Siri AI, the delayed AI-powered overhaul of the Siri assistant. Siri AI is rolling out with iOS 27 as a beta, available initially for English-only devices. Apple says support for French, Japanese, Korean, Por",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/992408/ios-27-release-date-features",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-09T17:41:49.000Z"
+    },
+    {
+      "id": "b4b5db14b810f890",
+      "title": "Apple Watch Series 12 can listen in to create Siri AI recaps of your day",
+      "description": "Apple announced the Apple Watch Series 12 at its September 9th product launch event, coming one year after the Series 11, Ultra 3, and SE 3. The new watch is powered by a new S11 chip and comes in space gray, black, gold and bronze, as well as black and white ceramic. \nThe Series 12 features some he",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-275-10-37-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-09T17:37:55.000Z"
+    },
+    {
+      "id": "39890687b8a96b23",
+      "title": "Apple announces A20 Pro chip with 2nm design and major performance gains",
+      "description": "Apple today unveiled the A20 Pro, its first chip built on 2nm technology at its “Surprise and Shine” event, bringing major CPU, GPU, and AI upgrades to the iPhone 18 Pro lineup. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.15.01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/apple-announces-a20-pro-chip-with-2nm-design-and-major-performance-gains/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-08T18:50:50.000Z"
+      "publishedAt": "2026-09-09T17:37:32.000Z"
+    },
+    {
+      "id": "588bcc92f2bd9d24",
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "description": "The company also argued that its on-device models offer consumers more privacy.",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-09T17:36:05.000Z"
+    },
+    {
+      "id": "1dc729e89af4998c",
+      "title": "Apple unveils AirPods 5 with upgraded noise cancellation, more",
+      "description": "Today during its iPhone 18 Pro event, Apple announced the next generation AirPods 5 with improved active noise cancellation. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.31.50.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/apple-unveils-airpods-5-with-upgraded-noise-cancellation-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:34:06.000Z"
+    },
+    {
+      "id": "5504195739147fcf",
+      "title": "AirPods 5 Announced With Improved Noise Cancellation, Audio Quality, and More",
+      "description": "Apple today introduced AirPods 5, bringing Active Noise Cancellation to its entry-level wireless earbuds at a starting price of $129.\r\n\r\n \r\nApple says AirPods 5 remove up to 50% more external noise than AirPods 4 with Active Noise Cancellation. A redesigned acoustic architecture and updated Adaptive",
+      "image": "https://images.macrumors.com/article-new/2026/09/airpods-5.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/airpods-5-announced-improved-anc/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:33:23.000Z"
+    },
+    {
+      "id": "1890d679cc11943e",
+      "title": "iPhone 18 Pro Starts at $1,199, Pro Max at $1,299",
+      "description": "Apple today announced the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max, with pricing starting at $1,199 for the Pro model and $1,299 for the Pro Max, both with 256GB of storage as the base configuration.\r\n\r\n\r\nThe increase amounts to $100 over the equivalent iPhone 17 Pro and Pro Max pricing, matching what ",
+      "image": "https://images.macrumors.com/article-new/2026/09/glacier-blue-iphone-18-pro.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-pricing/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:32:58.000Z"
+    },
+    {
+      "id": "451736746075983b",
+      "title": "iPhone 18 Pro can authenticate that your photo wasn’t edited with AI",
+      "description": "Apple is introducing a new Reference Image feature as part of the new iPhone 18 Pro, which digitally authenticates that the image you took with the camera has not been altered later by AI. If edits have been made, users can see the ‘digital negative’ original and compare the differences.\nThis is App",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-can-authenticate-that-your-photo-wasnt-edited-with-ai/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:32:30.000Z"
+    },
+    {
+      "id": "90a0033c8c5937c5",
+      "title": "Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’",
+      "description": "Today, Apple announced the AirPods 5, updates to the AirPods 4 series that was first released in 2024. Apple says the new buds feature \"best-in-class open‑ear active noise cancellation.\"\nThe AirPods 5 are redesigned with a new acoustic architecture, upgrades to adaptive active noise cancellation (AN",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-245-10-31-51.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/988479/apple-airpods-5-announcement-september-2026-event",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-09T17:31:12.000Z"
+    },
+    {
+      "id": "e8ed854474bbcd42",
+      "title": "Both iPhone 18 Pro Models Feature Variable Aperture Camera",
+      "description": "Apple has revealed at its \"Surprise and Shine\" event that both iPhone 18 Pro models will be equipped with a variable aperture camera.\r\n\r\n\r\nPrior to this announcement, some rumours suggested that only the iPhone 18 Pro Max would feature a variable aperture lens, but it seems that both models will ben",
+      "image": "https://images.macrumors.com/article-new/2026/09/variable-aperture-iphone-18-pro.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/both-iphone-18-pro-models-variable-aperture-camera/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:26:42.000Z"
+    },
+    {
+      "id": "973e6b543b5d6732",
+      "title": "Apple launches iPhone 18 Pro with upgraded camera",
+      "description": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
+      "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-09T17:26:05.000Z"
+    },
+    {
+      "id": "323e8ba1e716d657",
+      "title": "iPhone 18 Pro offers three times the cooling performance",
+      "description": "Apple has announced that the iPhone 18 Pro offers three times the cooling performance of last year’s model.\nA new chip design puts the CPU closer to the “next generation” vapor chamber, for greatly improved cooling to support sustained high-performance use …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.18.06.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-offers-three-times-the-cooling-performance/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:23:48.000Z"
+    },
+    {
+      "id": "b303b38f52e86b92",
+      "title": "Apple Unveils A20 Pro as First 2nm Smartphone Chip",
+      "description": "Apple today revealed the A20 Pro chip in the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max, built on a brand new architecture using 2nm process technology.\r\n\r\n\r\nApple described the A20 Pro as \"an exceptional chip that sets a new bar for mobile computing.\" The chip has a 6-core CPU design with two new super ",
+      "image": "https://images.macrumors.com/article-new/2026/09/a20-pro-chip.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/apple-unveils-a20-pro-as-first-2nm-smartphone-chip/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:22:46.000Z"
+    },
+    {
+      "id": "d6fe87e7e5d95503",
+      "title": "Apple Reveals iPhone 18 Pro Models Will Be Available in Four New Colors",
+      "description": "Apple at its annual fall iPhone event has revealed that the new iPhone 18 Pro and iPhone 18 Pro Max models will be available in four new colors.\r\n\r\n\r\nApple describes the new colors as a Deep Black, a refined Silver, a new Glacier Blue, and Burgundy – calling the latter a \"sophisticated and unique ne",
+      "image": "https://images.macrumors.com/article-new/2026/09/burgundy-iphone-18-pro.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/apple-reveals-iphone-18-pro-four-new-colors/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:18:13.000Z"
+    },
+    {
+      "id": "bf1c4ea5d69a2cc8",
+      "title": "Apple Announces iPhone 18 Pro and iPhone 18 Pro Max",
+      "description": "Apple today unveiled the iPhone 18 Pro and iPhone 18 Pro Max, which look very similar to the iPhone 17 Pro models but have several upgrades.\r\n\r\n\r\niPhone 18 Pro still has a 6.3-inch display, while the iPhone 18 Pro Max sticks with a 6.9-inch display. As was widely rumored, both devices have a smaller",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
+      "url": "https://www.macrumors.com/2026/09/09/apple-announces-iphone-18-pro-and-iphone-18-pro-max/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:12:24.000Z"
+    },
+    {
+      "id": "ece4eeef5be08d29",
+      "title": "iPhone 18 Pro officially announced: Here’s what’s new",
+      "description": "iPhone 18 Pro is now official. Apple just kicked off its big event today, and the first new products include the iPhone 18 Pro and iPhone 18 Pro Max.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.09.14.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-officially-announced-heres-whats-new/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-09T17:11:22.000Z"
     }
   ],
-  "lastUpdated": "2026-09-09T06:02:34.707Z",
+  "lastUpdated": "2026-09-09T18:03:45.827Z",
   "sources": [
     "TechCrunch",
     "The Verge",
