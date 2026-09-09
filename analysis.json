@@ -1,42 +1,13 @@
 {
-  "executiveSummary": "Major trends in tech news include the rise of AI and its applications, significant hardware releases, and industry shifts towards sustainability and personalization. Apple's foldable iPhone Duo and iPhone 18 Pro set to become default models, while Meta's Muse AI agent aims to catch up in the AI race. Meanwhile, Sony's disc production and Apple's 140W USB-C Power Adapter firmware update also made headlines.",
-  "takeaways": [
-    {
-      "title": "AI and ML developments",
-      "description": "Meta's Muse AI agent and ChatGPT Images 2.5 demonstrate the growing importance of AI in technology, citing specific articles (9to5Mac, The Verge)."
-    },
-    {
-      "title": "Hardware releases",
-      "description": "Apple's foldable iPhone Duo and iPhone 18 Pro set to become default models, with significant pricing changes (9to5Mac, The Verge)."
-    },
-    {
-      "title": "Industry shifts",
-      "description": "Sony's disc production and Apple's 140W USB-C Power Adapter firmware update indicate a shift towards sustainability and efficiency, citing specific articles (The Verge, 9to5Mac)."
-    }
-  ],
-  "trends": [
-    "AI",
-    "Foldable iPhones",
-    "Sustainability",
-    "Personalization",
-    "Hardware Releases"
-  ],
-  "worthWatching": [
-    "The rise of AI and its applications, particularly in the context of Meta's Muse AI agent and ChatGPT Images 2.5.",
-    "The growing importance of sustainability and efficiency in the tech industry, as seen in Sony's disc production and Apple's 140W USB-C Power Adapter firmware update."
-  ],
-  "engineeringPerspective": [
-    "The technical implications of Meta's Muse AI agent, which aims to put AI in the hands of virtually anyone.",
-    "The potential for AI to revolutionize industries and transform the way we work and live."
-  ],
+  "generatedAt": "2026-09-09T18:06:46.434Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "Apple",
-      "AI",
-      "Foldable iPhones"
-    ]
-  },
-  "generatedAt": "2026-09-09T06:05:19.732Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
