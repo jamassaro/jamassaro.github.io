@@ -1,300 +1,299 @@
 {
   "articles": [
     {
-      "id": "c94c1389dbefcb61",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T17:54:44.000Z"
+      "id": "ed70a8039834d94e",
+      "title": "Apple extends free iPhone satellite access for another year",
+      "description": "Apple is extending free access to its satellite features for existing iPhone users for another year, the company revealed in a footnote to its iPhone 18 Pro press release. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/iPhone-satellite.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/10/apple-extends-free-iphone-satellite-access-for-another-year/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-11T01:38:07.000Z"
     },
     {
-      "id": "ec68288bd2fd3dc6",
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T17:45:00.000Z"
+      "id": "53b0d611bb7cd9e0",
+      "title": "9to5Mac Daily: September 10, 2026 – AirPods 5, iPhone price increases",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/10/daily-september-10-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-11T00:45:36.000Z"
     },
     {
-      "id": "dbd4dc67a2781a83",
-      "title": "Ceramic Apple Watch Series 12 Is Bigger and Heavier Than Other Models",
-      "description": "Apple Watch Series 12 models with a ceramic case are physically larger than the same model in aluminum or titanium, according to Apple's own tech specs.\r\n\r\n\r\nAt 46mm, Apple's tech specs page lists the aluminum and titanium case at 46mm by 40mm by 9.7mm, while the ceramic case sold under the same 46m",
+      "id": "ca620854a8af40b1",
+      "title": "T-Mobile will charge $5/month for Apple’s new iPhone Handoff feature",
+      "description": "Apple’s new iPhone Handoff feature, which lets users share a single phone number across two iPhones, will cost $5 per month on T-Mobile. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/IMG_0012.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-11T00:28:45.000Z"
+    },
+    {
+      "id": "bd941d0b3560909b",
+      "title": "Apple Explains What Happens to Conversations Siri Recap Hears",
+      "description": "The Apple Watch Series 12 and Ultra 4 have new Audio Intelligence features that include Sound Recognition, Music Recognition, Live Rewind, and Siri Recap. When these features are activated, the new Apple Watches are always listening to what's going on around the wearer.\r\n\r\n\r\nWith ‌Siri‌ Recap, the A",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-siri-recap.jpg",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-siri-recap/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T23:38:33.000Z"
+    },
+    {
+      "id": "c4c2788ecd2a1512",
+      "title": "Apple Watch Ultra 4 Drops GLONASS Support",
+      "description": "Apple removed GLONASS support from the Apple Watch Ultra 4, according to technical specifications listed for the device. The Ultra 4 supports GPS, Galileo, QZSS, and BeiDou, while the prior-generation Ultra 3 supported GPS, GLONASS, Galileo, QZSS, and BeiDou.\r\n\r\n\r\nGPS, Galileo, BeiDou, and QZSS use ",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-ultra-4-glonass/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T23:16:19.000Z"
+    },
+    {
+      "id": "8514fc99fd2e8fda",
+      "title": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff",
+      "description": "T-Mobile will charge customers $5 per month to use iPhone Handoff, an e-SIM feature that allows the same phone number to be used on two separate iPhones.\r\n\r\n\r\niPhone Handoff requires carrier support, and at launch, only T-Mobile users in the U.S. and Deutsche Telekom users in Germany will be able to",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+      "url": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T22:58:32.000Z"
+    },
+    {
+      "id": "2275226155d90302",
+      "title": "DOJ wins pause on order requiring documents from 14 agencies in Apple antitrust case",
+      "description": "The DOJ has won a temporary pause on an order requiring it to respond to Apple’s requests for documents from 14 federal agencies, while the government appeals the ruling in its ongoing antitrust case against the company. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/10/doj-wins-pause-on-order-requiring-documents-from-14-agencies-in-apple-antitrust-case/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T22:31:56.000Z"
+    },
+    {
+      "id": "14d7343e308ce4bd",
+      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "description": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+      "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-10T22:30:00.000Z"
+    },
+    {
+      "id": "5f84f48e61917e5e",
+      "title": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says",
+      "description": "With the Apple Watch Series 12 and Ultra 4, Apple is adding Live Rewind, which relies on an S11 processor and new continual listening features.\r\n\r\n\r\nLive Rewind listens to what's happening around the wearer, and when activated with a double press on the Digital Crown, offers a transcript of what was",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-4-live-rewind.jpg",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T22:11:55.000Z"
+    },
+    {
+      "id": "174f04508b865125",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-10T21:51:59.000Z"
+    },
+    {
+      "id": "0ffd3b65452bde26",
+      "title": "Apple now accepting App Store submissions built for iOS 27, macOS 27, more",
+      "description": "Developers can now submit apps built for iOS 27 and Apple’s other new operating system releases, ahead of their official rollout next Monday. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios27-app-submissions.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/10/apple-now-accepting-app-store-submissions-built-for-ios-27-macos-27-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T21:35:08.000Z"
+    },
+    {
+      "id": "878d8eef026182f0",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-10T21:35:00.000Z"
+    },
+    {
+      "id": "91cfeabd2aa536b6",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "description": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-10T21:25:21.000Z"
+    },
+    {
+      "id": "6c9033650038f769",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-10T20:59:51.000Z"
+    },
+    {
+      "id": "3e43de7ace5bf04c",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-10T20:57:30.000Z"
+    },
+    {
+      "id": "5383e78e6149318b",
+      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+      "description": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-10T20:48:00.000Z"
+    },
+    {
+      "id": "c4fb6d2a81319ef7",
+      "title": "Apple TV shares intense trailer for ‘The Last First: Winter K2’",
+      "description": "Premiering October 2, The Last First: Winter K2 promises “an unflinching look at the industry of extreme mountain climbing and its changing culture.” Watch the trailer below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/last-first-k2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/10/apple-tv-shares-intense-trailer-for-the-last-first-winter-k2/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T20:40:28.000Z"
+    },
+    {
+      "id": "5918ee834132f888",
+      "title": "Ceramic Series 12 is Pricier to Repair Than Apple Watch Ultra 4",
+      "description": "Apple reintroduced a ceramic case for the Apple Watch Series 12, but if you don't have AppleCare+, repairs are unusually expensive.\r\n\r\n\r\nIt costs $599 to fix \"other damage,\" which covers any repair besides a battery replacement. Battery service is priced at $99.\r\n\r\nApple Watch Ultra 4 repaired. That",
       "image": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
-      "url": "https://www.macrumors.com/2026/09/10/ceramic-apple-watch-series-12-is-bigger/",
+      "url": "https://www.macrumors.com/2026/09/10/ceramic-series-12-repair-costs/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-10T17:00:05.000Z"
+      "publishedAt": "2026-09-10T20:31:37.000Z"
     },
     {
-      "id": "0d6dcdbf1346988e",
-      "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
-      "description": "Amazon’s Fire TV Stick 4K is fast and capable. | Image: The Verge\t\n\nLooking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Amazon-Fire-TV-Stick-4K-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T16:58:44.000Z"
-    },
-    {
-      "id": "8724eeca84e9636a",
-      "title": "iPhone Air’s $200 premium disappears when you trade it in",
-      "description": "Following the iPhone 18 Pro and iPhone Duo announcement this week, Apple has started accepting iPhone Air and iPhone 17 trade-ins for credit. However, the iPhone Air offer is a bit of a sore spot, especially after this week’s price increases.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-air-falling.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/10/iphone-airs-200-premium-disappears-when-you-trade-it-in/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T16:53:51.000Z"
-    },
-    {
-      "id": "dfc6fac6420042e3",
-      "title": "Apple TV is about to kick off four weeks straight of big premieres",
-      "description": "Apple TV has a strong fall lineup coming up, including four weeks straight of big premieres that kick off next week with critical hit Slow Horses. Here’s what’s coming.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-logo-lg-stars.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/10/apple-tv-is-about-to-kick-off-four-weeks-of-big-premieres/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T16:53:48.000Z"
-    },
-    {
-      "id": "7aad7f9291ed4f37",
-      "title": "Skipping the iPhone 18 Pro? Redesigned 'iPhone 20' is Coming Next Year",
-      "description": "Apple unveiled the iPhone 18 Pro models just one day ago, but there are already rumors about a redesigned \"iPhone 20\" launching next September.\r\n\r\n\r\nBloomberg's Mark Gurman recently reported that Apple plans to release a special 20th-anniversary iPhone next year with the biggest design changes since",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-vs-iphone-20/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T16:49:32.000Z"
-    },
-    {
-      "id": "6fe8fe774414bfd9",
-      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-      "description": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
-      "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T16:31:25.000Z"
-    },
-    {
-      "id": "b7f908c4ca60de8a",
-      "title": "AirPods 5, Apple Watch Series 12, and Ultra 4 now available on Amazon",
-      "description": "Apple unveiled its new Apple Watch Ultra 4 and Apple Watch Series 12 lineup yesterday, plus the all-new AirPods 5. They hit shelves next Friday, September 18. \nAhead of that launch, Apple’s new lineup is now available to pre-order on Amazon. \nPre-order AirPods 5\nPre-order Apple Watch Series 12\nPre-o",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-airpods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/10/airpods-5-apple-watch-series-12-and-ultra-4-now-available-on-amazon/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T16:25:39.000Z"
-    },
-    {
-      "id": "1a37a77325da43e8",
-      "title": "iPhone Duo is no Apple Vision Pro",
-      "description": "Look, no offense to Apple Vision Pro. I’m sure Apple Vision Pro is a very nice person. But iPhone Duo and Apple Vision Pro are not the same.\nThere’s a take that the iPhone Duo may have the Apple Vision Pro problem. The idea is that due to its price and device-specific software, it may be a miss and ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-ios-27-fold.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/10/iphone-duo-is-no-apple-vision-pro/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T16:21:52.000Z"
-    },
-    {
-      "id": "561a457d2e833814",
-      "title": "Google is making it easier to switch between password managers on Android",
-      "description": "Google's new feature will transfer your passkeys as well.",
-      "url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "id": "f240eb8d751ee2c1",
-      "title": "Electric air taxis get the green light for test flights in Texas",
-      "description": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. \nEarlier this year, the Federal Aviation Administration's Advanced Air Mobility and Electric Vertica",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2273027720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "id": "02682f160174ac09",
-      "title": "Apple Watch Series 12 Has Smaller Screens and Bigger Cases",
-      "description": "The Apple Watch Series 12 pairs a smaller display with a wider case than Series 10 and Series 11, even though the pixel resolution hasn't changed, according to Apple's own tech specs.\r\n\r\n\r\nFor the 46mm Series 12, Apple's tech specs page lists the display area at 1,196 sq mm, down 2% from 1,220 sq mm",
-      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12.jpg",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-has-smaller-screens/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T15:52:18.000Z"
-    },
-    {
-      "id": "807d8d34e96dc747",
-      "title": "AirPods 5 and Apple Watch Series 12 Pre-Orders Open on Amazon, With Early Discount",
-      "description": "Apple yesterday announced the Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5 at its \"Surprise and Shine\" event, and today all of these devices are up for pre-order on Amazon. This also includes the first cash discount on the Apple Watch Series 12.\r\n\r\nNote: MacRumors is an affiliate partne",
-      "image": "https://images.macrumors.com/article-new/2026/09/airpods-apple-watch-pre-order.jpg",
-      "url": "https://www.macrumors.com/2026/09/10/amazon-pre-order-airpods-watch/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T15:42:19.000Z"
-    },
-    {
-      "id": "a645fcb1ff1111fd",
-      "title": "This might be iPhone 18 Pro’s best camera feature for most users",
-      "description": "iPhone 18 Pro packs lots of camera upgrades (great rundown here), with the tentpole addition being variable aperture. But there’s one other Main camera change that users like me might deem their favorite.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rear-camera.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/10/this-might-be-iphone-18-pros-best-camera-feature-for-most-users/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T15:40:51.000Z"
-    },
-    {
-      "id": "6f43ccca7b1732a4",
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "description": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T15:38:19.000Z"
-    },
-    {
-      "id": "eef4a35cfd92fb00",
-      "title": "Why iPhone Duo's Under-Screen Camera Isn't in the Corner",
-      "description": "If you're wondering why the under-screen camera on the iPhone Duo's inner display isn't placed in the top-right corner, Chinese leaker Instant Digital has provided an explanation.\r\n\r\nWeibo post this morning. \"The next generation will likely move it there, aligning it perfectly with the outer screen'",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-under-screen-camera-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-under-screen-camera-location/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T15:37:11.000Z"
-    },
-    {
-      "id": "a7d5f1269794a0e4",
-      "title": "Deals: AirPods, Apple Watch Series 12 and Ultra 4 up to $325 off, M5 MacBook Air $200 off, more",
-      "description": "Alongside the ongoing pre-order deals on the new M6 Mac mini, today we are highlighting pre-orders on the new AirPods 5 (just keep in mind you can still land AirPods Pro 3 for just $50 more). The new Apple Watch Series 12 and Ultra 4 are also now up for grabs (here’s some deals on how to land them a",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-5-Apple-Watch-Series-12-Ultra-4.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/10/deals-airpods-5-apple-watch-series-12-ultra-4/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T15:36:42.000Z"
-    },
-    {
-      "id": "760b8becf67df69b",
-      "title": "Here’s how the iPhone Duo stacks up against the Samsung Galaxy Z Fold8",
-      "description": "Now that the iPhone Duo is official, how do its hardware specifications compare with the similarly sized Samsung Galaxy Z Fold8? Let’s find out.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-galaxy-fold.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/10/heres-how-the-iphone-duo-stacks-up-against-the-samsung-galaxy-z-fold8/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T15:23:29.000Z"
-    },
-    {
-      "id": "9eb0ca09b3a49f02",
-      "title": "This is Apple’s new Wrist Strap accessory for iPhone",
-      "description": "This week alongside its iPhone 18 Pro and iPhone Duo unveilings, Apple launched a brand new Wrist Strap accessory for iPhone. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wrist-strap-iphone-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/10/this-is-apples-new-wrist-strap-accessory-for-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-10T15:13:33.000Z"
-    },
-    {
-      "id": "125a3c851b62c65f",
-      "title": "The race to build great iPhone Duo apps is about to begin",
-      "description": "When iPhone Duo arrives next month, many third-party apps might not work as well as Apple’s built-in apps. There’s a reason for that, at least initially, though the situation should improve over time.\nmore…",
+      "id": "5dd9496cd40d55c7",
+      "title": "Report: iPhone Duo could give Apple a 25% share of foldable market in 2026",
+      "description": "A new TrendForce report says the iPhone Duo is expected to capture 24,8% of the foldable smartphone market in 2026 alone, countering a 20% slump in the segment. Here are the details.\nmore…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-apps.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/10/the-race-to-build-great-iphone-duo-apps-is-about-to-begin/",
+      "url": "https://9to5mac.com/2026/09/10/report-iphone-duo-could-give-apple-a-25-share-of-foldable-market-in-2026/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-10T15:11:59.000Z"
+      "publishedAt": "2026-09-10T20:04:18.000Z"
     },
     {
-      "id": "a4f6b510b6c9b23e",
-      "title": "Shop the Best Cases for Your New iPhone 18 Pro or iPhone Duo",
-      "description": "It's iPhone pre-order week, which means anyone looking to get the new iPhone 18 Pro or iPhone 18 Pro Max will likely be looking for new cases and protection for the smartphones. Below we're tracking all of the best case and screen protector options from the most popular accessory brands, including Z",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
-      "url": "https://www.macrumors.com/2026/09/10/best-cases-iphone-18-pro-iphone-duo/",
+      "id": "10a8cd30dc441e87",
+      "title": "Mac's Edge Light Feature Rumored to Expand to iPhone",
+      "description": "macOS 26.2 added an Edge Light feature to Macs with the M1 chip or newer, and it has now been rumored that this feature will expand to the iPhone.\r\n\r\n\r\nAccording to pdfu, who has been digging through code in Apple's software updates in recent weeks, the iOS 27 Release Candidate contains evidence of ",
+      "image": "https://images.macrumors.com/article-new/2025/11/apple-edge-light-macos-tahoe-26-2.jpg",
+      "url": "https://www.macrumors.com/2026/09/10/mac-edge-light-feature-may-expand-to-iphone/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-10T15:11:58.000Z"
+      "publishedAt": "2026-09-10T19:59:43.000Z"
     },
     {
-      "id": "7639a6e9cefe3a10",
-      "title": "The Boring Company raises $3B in round led by UAE",
-      "description": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+      "id": "a91477d481f07284",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-10T15:07:27.000Z"
+      "publishedAt": "2026-09-10T19:50:04.000Z"
     },
     {
-      "id": "602486865cafd079",
-      "title": "Apple Isn't Revealing the iPhone Duo's Under-Screen Camera Resolution",
-      "description": "Hidden beneath the 7.6-inch inner screen of the foldable iPhone Duo is an under-display FaceTime camera. The long-rumored feature is a first for Apple, yet the company hasn't provided as much detail about it as the device's other cameras.\r\n\r\n\r\nFor example, unlike the 12-megapixel sensor on the outer",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-under-screen-camera-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-apple-under-display-camera-mystery/",
+      "id": "1e7b71380c4c35ba",
+      "title": "Apple Rates iPhone 18 Pro Slightly Easier to Repair Than 17 Pro",
+      "description": "Apple's repairability scores suggest the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max are slightly easier to repair than the iPhone 17 Pro and ‌iPhone 17 Pro‌ Max. Apple released the repairability data in a product information sheet required by EU energy labeling regulations [PDF].\r\n\r\n\r\nThe EU requires sma",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-17-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-eu-repair-rating/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-10T15:06:02.000Z"
+      "publishedAt": "2026-09-10T19:49:41.000Z"
     },
     {
-      "id": "e63ad410979af414",
-      "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
-      "description": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no update to the SE model for 2026, which isn't nece",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0035.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
+      "id": "2977eb5726f831dd",
+      "title": "Schools are catching on to Big Tech’s playbook",
+      "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono.\nThat's the narrative AI companies are pitching schoo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-10T15:00:00.000Z"
+      "publishedAt": "2026-09-10T19:44:20.000Z"
     },
     {
-      "id": "c3b0142bbac4748f",
-      "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
-      "description": "Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when you're (literally) slicing through enemies or thrust into a sequence pulled from a blockbuster movie, li",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/MW_ExtGameplay_WolverineHero_4k_2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/992937/wolverine-review-ps5",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T15:00:00.000Z"
+      "id": "a633b482a1249104",
+      "title": "Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications",
+      "description": "Some Apple Watch users who upgrade to the Series 12 or the Ultra 4 might temporarily lose access to hypertension notifications.\r\n\r\n\r\nOn the watchOS feature availability page, Apple says notifications might not be available on the Series 12 or Ultra 4 at launch because regulatory clearances are in pr",
+      "image": "https://images.macrumors.com/article-new/2025/09/watchos-26-hypertension-alert.jpg",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-hypertension-alerts/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T19:33:27.000Z"
     },
     {
-      "id": "aab81221678523f5",
-      "title": "Meta’s Muse AI works and creeps me out",
-      "description": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t\n\nMeta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, email",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T15:00:00.000Z"
+      "id": "7aa3a2940d3e3801",
+      "title": "Apple shares fun, 95-second recap of yesterday’s ‘Surprise and Shine’ event",
+      "description": "If you missed yesterday’s “Surprise and Shine” event and don’t feel like watching the entire hour-plus-long video, Apple’s YouTube Channel has got you covered. Watch the event recap below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-event-recap.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/10/apple-shares-fun-95-second-recap-of-yesterdays-surprise-and-shine-event/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T19:31:51.000Z"
     },
     {
-      "id": "f83380b39bfc548c",
-      "title": "AI agents are flooding public services with new requests",
-      "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "id": "098ed349bbf74890",
+      "title": "iOS 27 Apple Health App Redesign: Every New Feature Coming in 2026",
+      "description": "Apple is planning a major redesign of the Health app on iPhone and iPad, with a long list of new features set to be added. Apple announced the Health app changes at yesterday's iPhone event.\r\n\r\n\r\nThe Health app is getting an update because Apple overhauled the sensors in the Apple Watch Series 12 an",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
+      "url": "https://www.macrumors.com/guide/ios-27-health-app-new-features/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T19:25:14.000Z"
+    },
+    {
+      "id": "8f574de1daa0e151",
+      "title": "RIP, iPhone Ultra",
+      "description": "For many months, tech blogs like ours used the name iPhone Ultra to refer to Apple's rumored foldable iPhone, but the device ended up being named iPhone Duo.\r\n\r\n\r\nThe name iPhone Duo was not a complete surprise. Daring Fireball's John Gruber accurately guessed that the device would be named iPhone D",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
+      "url": "https://www.macrumors.com/2026/09/10/rip-iphone-ultra/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T19:13:14.000Z"
+    },
+    {
+      "id": "f1df9458a865b8c5",
+      "title": "Apple will launch 7+ new products in October, here’s what’s coming",
+      "description": "iPhone Duo was unveiled this week, but won’t ship until October. And Apple reportedly has many other new products set to debut in October too, here’s what’s coming.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/10/apple-will-launch-7-new-products-in-october-heres-whats-coming/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T18:52:24.000Z"
+    },
+    {
+      "id": "387bd8b9677f802c",
+      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "description": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
+      "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-10T14:53:50.000Z"
+      "publishedAt": "2026-09-10T18:38:00.000Z"
     },
     {
-      "id": "847714d99d73c478",
-      "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
-      "description": "Jimmy Kimmel will be interviewing Democratic Texas Senate candidate James Talarico \"under unusual circumstances,\" posting the interview directly to YouTube, rather than airing it on TV during Jimmy Kimmel Live.  In Wednesday night's episode, Kimmel said this was out of concern for retaliation from t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2277879774.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T14:34:36.000Z"
-    },
-    {
-      "id": "2dc44f7a3b21c6be",
-      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-      "description": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
-      "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-10T14:34:09.000Z"
+      "id": "c49fd89c9cd33e29",
+      "title": "Apple TV Remote app has hidden features that could be coming to iOS 27",
+      "description": "Apple is giving the Apple TV Remote app experience a lot of love in iOS 27. That’s as good a sign as any that a new Apple TV 4K box is on the way. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/remote.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/10/apple-tv-remote-app-has-hidden-features-that-could-be-coming-to-ios-27/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-10T18:13:28.000Z"
     }
   ],
-  "lastUpdated": "2026-09-10T18:03:45.881Z",
+  "lastUpdated": "2026-09-11T06:02:47.957Z",
   "sources": [
     "TechCrunch",
     "The Verge",
