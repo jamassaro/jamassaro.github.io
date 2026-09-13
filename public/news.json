@@ -1,6 +1,153 @@
 {
   "articles": [
     {
+      "id": "81e7c4519e73d7d2",
+      "title": "The Units’ Digital Stimulation is synthpunk perfection",
+      "description": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - p",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/a1818657383_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T17:36:10.000Z"
+    },
+    {
+      "id": "e5b62ab59d78c9ff",
+      "title": "Apple planning three major changes for its retail stores, per report",
+      "description": "Apple is preparing “major changes” to its retail stores, according to a new report from Bloomberg. Perhaps most notably, the changes include bringing back the iconic dedicated Genius Bars.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-oxmoor.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/13/apple-planning-three-major-changes-for-its-retail-stores-per-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-13T17:28:59.000Z"
+    },
+    {
+      "id": "e13b9f4c67e08438",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T16:30:00.000Z"
+    },
+    {
+      "id": "b87a490d43a7353c",
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T16:04:00.000Z"
+    },
+    {
+      "id": "2efa7431a0ce9724",
+      "title": "This unique retro dock adds a flip-up display, Thunderbolt 5, & 8TB storage to your Mac [Video]",
+      "description": "Amid all the craziness of this iPhone launch week, one of my favorite brands has released its brand-new retro-style dock for the Mac mini and the Mac Studio. Last year, they released their Retro Dock for the M4 Mac mini, and it was the perfect combination of functionality, form, and nostalgia that I",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wokyis_2x1_400kb.jpg?quality=82&#038;strip=all&#038;w=1086",
+      "url": "https://9to5mac.com/2026/09/13/this-unique-retro-dock-adds-a-flip-up-display-thunderbolt-5-8tb-storage-to-your-mac-wokyis-g5-g7-video/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-13T14:30:00.000Z"
+    },
+    {
+      "id": "017a9a7fcd5cc359",
+      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+      "description": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286668940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T14:28:12.000Z"
+    },
+    {
+      "id": "3d36aafb7feddc00",
+      "title": "Apple is designing its own game controllers for iPhone, could be Beats branded",
+      "description": "Bloomberg’s Mark Gurman has today corroborated references discovered in macOS beta code that indicated Apple is designing its own game controllers for iPhone. \nApple already sells some controllers like the Backbone One (pictured above) and SteelSeries Nimbus+ through the Apple Store, and now it want",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-game-controller-backbone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-13T14:26:11.000Z"
+    },
+    {
+      "id": "71e68be94b97a22b",
+      "title": "AirPods 5 Pre-Orders Go Live, While Older Models Reach Up to $100 Off This Weekend",
+      "description": "Apple just announced the new AirPods 5, and Amazon has them up for pre-order right now starting at $129.00. If you are looking for deals on other models, Amazon also has great prices on AirPods Max 2 at $100 off, AirPods Pro 3 at $50 off, and AirPods 4 at $30 off.\r\n\r\nNote: MacRumors is an affiliate ",
+      "image": "https://images.macrumors.com/article-new/2026/09/airpods-lineup-blue.jpeg",
+      "url": "https://www.macrumors.com/2026/09/13/airpods-5-older-models-100-off/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-13T14:21:23.000Z"
+    },
+    {
+      "id": "ba8595ddff67839a",
+      "title": "Fusion power startups find new partners in the defense world",
+      "description": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T13:15:00.000Z"
+    },
+    {
+      "id": "00c5b6691df48414",
+      "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+      "description": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospect, though, the disappointing demise of B",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/YMX3_03452_R_rgb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T13:00:00.000Z"
+    },
+    {
+      "id": "f667fdecd79961c7",
+      "title": "Craig Federighi addresses iPhone Duo and iPad overlap",
+      "description": "Craig Federighi, Apple’s senior vice president of Software Engineering, sat down with MKBHD this week to talk about the new iPhone Duo. In the interview, Federighi talked about the potential overlap between the iPhone Duo and an iPad.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/craig-federighi-mkbhd.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/13/craig-federighi-addresses-iphone-duo-and-ipad-overlap/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-13T12:47:33.000Z"
+    },
+    {
+      "id": "bb22755cc1b2ff1d",
+      "title": "Your car is selling your data",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nEarlier this ye",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T12:00:00.000Z"
+    },
+    {
+      "id": "56568a23abeafb18",
+      "title": "Apple’s new phones are here",
+      "description": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been devouring every iPhone Duo video I can find, clicki",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T12:00:00.000Z"
+    },
+    {
+      "id": "ee4940f189c8ab68",
+      "title": "Here's When iOS 27 Rolls Out in Every Time Zone",
+      "description": "Apple is about to release iOS 27, which will finally deliver more advanced Siri AI capabilities as well as a variety of other refinements, improvements, and new features to iPhones. It's Apple's biggest software update of the year, and Apple announced at Wednesday's iPhone event that it will be rele",
+      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Next-to-iPhone.jpg",
+      "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-13T10:00:11.000Z"
+    },
+    {
+      "id": "d2dd599e0eb72688",
+      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "description": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is out September 14 after a summe",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/13/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-13T08:00:00.000Z"
+    },
+    {
       "id": "950ff0c0c634f769",
       "title": "iPhone 18 Pro pre-orders: Here’s what still arrives on launch day",
       "description": "Apple’s new iPhone 18 Pro and iPhone 18 Pro Max lineup went up for pre-order today, ahead of the September 18 launch day.\nAs of Saturday evening, shipping estimates for some configurations have slipped to October — especially for the iPhone 18 Pro Max.\nmore…",
@@ -145,158 +292,9 @@
       "source": "MacRumors",
       "category": "Apple News",
       "publishedAt": "2026-09-12T16:00:12.000Z"
-    },
-    {
-      "id": "b27069c7b4f9aad2",
-      "title": "ESR’s iPhone accessory lineup is ready for Apple’s foldable era",
-      "description": "A new iPhone announcement always means a mad rush for accessories that will arrive when your new device arrives, and this year that includes an entirely new category with the iPhone Duo. ESR is a well-respected name in Apple accessories, and its iPhone 18 lineup covers the new iPhone Duo, the iPhone",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/1.-KV.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/12/esrs-iphone-accessory-lineup-ready-apples-foldable-era/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T16:00:00.000Z"
-    },
-    {
-      "id": "2c98567b59b63bb2",
-      "title": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
-      "description": "Blogger Nicolas Lellouche went digging in the iPhone Duo settings during his hands on time with the device. He found a curious new option in the display settings called ‘Shift Left Edge’. \nWhen enabled, this setting adds a bit of a black border to the left side, essentially adding fake bezel on the ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-shift-left-edge-setting.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T15:32:31.000Z"
-    },
-    {
-      "id": "bafc10c1af6394a3",
-      "title": "LG responds to TV spying allegations",
-      "description": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/LG-B4-Press-Image-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T15:19:44.000Z"
-    },
-    {
-      "id": "0e48c5031df7512d",
-      "title": "Trump is giving data centers a pass to pollute",
-      "description": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T14:41:27.000Z"
-    },
-    {
-      "id": "560eccf786118e70",
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T14:40:00.000Z"
-    },
-    {
-      "id": "dfec5597ae74d7e4",
-      "title": "Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now",
-      "description": "iPhone 18 Pro and iPhone 18 Pro Max pre-orders began today in the U.S. and many other countries. If you have yet to place a pre-order on Apple's online store, you might face a longer wait now, depending on your desired configuration.\r\n\r\n\r\nThe first customers who pre-ordered right when pre-orders beg",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
-      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T13:48:45.000Z"
-    },
-    {
-      "id": "cf129da05d6a2aa4",
-      "title": "Apple @ Work: The three prongs of software updates in the AI era",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/12/apple-work-the-three-prongs-of-software-updates-in-the-ai-era/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T13:33:00.000Z"
-    },
-    {
-      "id": "965d676c58dfbbba",
-      "title": "Weekend Apple deals: AirPods 5, Pro 3, Apple Watch Series 12, AirTag 2, Studio Display, MacBook, more",
-      "description": "It’s time for your 9to5Toys Lunch Break weekend edition to scope out all of this week’s best Apple deals. The all-new AirPods 5, Apple Watch Ultra 4, and Apple Watch Series 12 pre-orders are live, and we are already tracking some deals on them.\nWe also also have a $50 price drop on AirPods Pro 3 as ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-weekend-deals-AirPods-5-Series-12.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/12/weekend-apple-deals-airpods-5-apple-watch-series-12/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T13:29:05.000Z"
-    },
-    {
-      "id": "b90c52030c51d39e",
-      "title": "Best iPhone 18 Pro cases now available for purchase",
-      "description": "It is time to take a look at the best new iPhone 18 Pro cases. Pre-orders for Apple’s latest just went live this morning and many of the best brands are now ready. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solution",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/12/best-iphone-18-pro-cases-now-available/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T13:18:44.000Z"
-    },
-    {
-      "id": "5219ed22a29ea0ad",
-      "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-      "description": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year.\nEven if you don't know the name Laika, you probably k",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/img-260ce3af-8e70-4401-9a35-9eb971697f7b.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T13:00:00.000Z"
-    },
-    {
-      "id": "af22a8f7dd54575a",
-      "title": "You can now pre-order iPhone 18 Pro and iPhone 18 Pro Max",
-      "description": "The new iPhone 18 Pro and iPhone 18 Pro Max are now available to pre-order. Apple announced the new phones on Wednesday, highlighting a variable aperture camera system, a smaller Dynamic Island, four new color options, and more.\nPre-order iPhone 18 Pro from Apple\nPre-order iPhone 18 Pro Max from App",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-lineup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/12/you-can-now-pre-order-iphone-18-pro-and-iphone-18-pro-max/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T12:02:03.000Z"
-    },
-    {
-      "id": "100e31aa0f8ccaf1",
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max Now Available to Pre-Order",
-      "description": "Apple is now accepting pre-orders for the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max through its online storefront and the Apple Store app. If you don't see the option to order, make sure to refresh until the store comes up. The app is often a quicker way to get a pre-order in.\r\n\r\n\r\nPre-orders for the ‌i",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Pre-Orders-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-available-to-pre-order/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T12:01:24.000Z"
-    },
-    {
-      "id": "ad0d76b08acfe8e9",
-      "title": "Where to preorder the iPhone 18 Pro and Pro Max",
-      "description": "Which color suits you best? | Photo: Nilay Patel / The Verge\t\n\nThe iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T12:00:00.000Z"
-    },
-    {
-      "id": "2dbc2fccb653019b",
-      "title": "Here Are The Best Carrier Deals You Can Get When Pre-Ordering iPhone 18 Pro Today",
-      "description": "Apple today launched pre-orders for the iPhone 18 Pro and iPhone 18 Pro Max. If you're looking to place a pre-order on one of these models at a cellular carrier, we've rounded up all of the best deals and offers you can find from the major carriers in the United States.\r\n\r\nNote: MacRumors is an affi",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-burgundy-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/12/best-carrier-deals-iphone-18-pro/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T12:00:00.000Z"
-    },
-    {
-      "id": "236d9b6f4d9d15d9",
-      "title": "OpenAI just wants to win",
-      "description": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.\nIn",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T11:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-13T06:02:47.064Z",
+  "lastUpdated": "2026-09-13T18:02:37.755Z",
   "sources": [
     "TechCrunch",
     "The Verge",
