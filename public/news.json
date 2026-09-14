@@ -1,6 +1,92 @@
 {
   "articles": [
     {
+      "id": "77998d286fdfec88",
+      "title": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
+      "description": "Earlier this month, references to two unreleased Apple game controllers were allegedly spotted in macOS 26.7 beta code, and now Bloomberg's Mark Gurman has shared more details.\r\n\r\nPower On newsletter today, Gurman said the controllers have been in development for more than a year, are for the iPhone",
+      "image": "https://images.macrumors.com/article-new/2026/09/WWDC-2026-Game-Controller-Icon.jpg",
+      "url": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T03:06:30.000Z"
+    },
+    {
+      "id": "eb41aefa21ea7cda",
+      "title": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way",
+      "description": "As noted by Nicolas Lellouche, who writes for the French tech website Numerama, Apple has updated its tech specs pages for the iPhone 18 Pro and iPhone 18 Pro Max to clarify which models are equipped with its new C2 cellular modem and where.\r\n\r\n\r\nApple now says the iPhone 18 Pro has a C2 modem world",
+      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T03:00:20.000Z"
+    },
+    {
+      "id": "c7b0eb0cf37bc90a",
+      "title": "iOS 27 Available Tomorrow With These 8 New Features",
+      "description": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be released widely on Monday, September 14.\r\n\r\n\r\niOS 27 should be available around 10 a.m. Pacific Time / 1 p.m. Eastern Time tomorrow via the Settings app, under General → Software Update.\r\n\r\nBelow, we have hi",
+      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27-Icon-iPhone.jpeg",
+      "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-13T23:30:07.000Z"
+    },
+    {
+      "id": "0ffea13addd37a81",
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T21:30:00.000Z"
+    },
+    {
+      "id": "42cd36269ade3151",
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T20:49:38.000Z"
+    },
+    {
+      "id": "a3960fa84ce8cb33",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T20:28:00.000Z"
+    },
+    {
+      "id": "07ecb35c40b0ce23",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's prop",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T19:41:48.000Z"
+    },
+    {
+      "id": "b3e5fc5854b4958c",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T19:40:15.000Z"
+    },
+    {
+      "id": "3394613dd740b391",
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's cod",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-13T18:30:16.000Z"
+    },
+    {
       "id": "81e7c4519e73d7d2",
       "title": "The Units’ Digital Stimulation is synthpunk perfection",
       "description": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - p",
@@ -128,14 +214,14 @@
       "publishedAt": "2026-09-13T12:00:00.000Z"
     },
     {
-      "id": "ee4940f189c8ab68",
-      "title": "Here's When iOS 27 Rolls Out in Every Time Zone",
+      "id": "0e4a6cdd317ee2cc",
+      "title": "Here's When iOS 27 Rolls Out Around the World",
       "description": "Apple is about to release iOS 27, which will finally deliver more advanced Siri AI capabilities as well as a variety of other refinements, improvements, and new features to iPhones. It's Apple's biggest software update of the year, and Apple announced at Wednesday's iPhone event that it will be rele",
       "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Next-to-iPhone.jpg",
       "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-13T10:00:11.000Z"
+      "publishedAt": "2026-09-13T10:00:00.000Z"
     },
     {
       "id": "d2dd599e0eb72688",
@@ -177,16 +263,6 @@
       "publishedAt": "2026-09-12T23:25:38.000Z"
     },
     {
-      "id": "eb41aefa21ea7cda",
-      "title": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way",
-      "description": "As noted by Nicolas Lellouche, who writes for the French tech website Numerama, Apple has updated its tech specs pages for the iPhone 18 Pro and iPhone 18 Pro Max to clarify which models are equipped with its new C2 cellular modem and where.\r\n\r\n\r\nApple now says the iPhone 18 Pro has a C2 modem world",
-      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T22:27:26.000Z"
-    },
-    {
       "id": "ecae397b4a537983",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems ",
@@ -214,87 +290,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-09-12T20:19:16.000Z"
-    },
-    {
-      "id": "fbe1247befc30b89",
-      "title": "StarCraft returns in 2030 as an open-world shooter",
-      "description": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STC2026_GalleryIMG_0008_PT6120_rgba.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T20:08:09.000Z"
-    },
-    {
-      "id": "db549e6dcab70888",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T19:34:44.000Z"
-    },
-    {
-      "id": "3f392e784bf00432",
-      "title": "Indie App Spotlight: ‘Farwave’ lets you listen to radio stations around the world",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nFarwave takes an interesting new approach to audio player apps, by placing them around the globe. You can ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Farwave-app.png?w=1600",
-      "url": "https://9to5mac.com/2026/09/12/indie-app-spotlight-farwave-lets-you-listen-to-radio-stations-around-the-world/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T19:30:00.000Z"
-    },
-    {
-      "id": "9d3d222955fabbe3",
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "description": "Tesla’s halo sports car was first announced in November 2017.",
-      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T19:21:19.000Z"
-    },
-    {
-      "id": "b48df9789d3afe5a",
-      "title": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted",
-      "description": "Apple this week unveiled its new iPhone lineup, including the first ever foldable iPhone – the iPhone Duo. While the Duo itself is a fantastic device, it does leave me wishing that Apple did better for the iPad.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.16.28.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/12/apple-nailed-iphone-duo-split-screen-even-as-ipad-multitasking-feels-convoluted/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T16:47:34.000Z"
-    },
-    {
-      "id": "ec660ebf895eb3df",
-      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-      "description": "Sylvan Esso preparing to attend a frutiger aero renfaire.\t\n\nAmelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Sylvan_Esso_-_Ow__-_Photo_By_Tonje_Thilesen.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T16:35:00.000Z"
-    },
-    {
-      "id": "7935e15aa8e937b8",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "description": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-12T16:23:40.000Z"
-    },
-    {
-      "id": "affb85085402b993",
-      "title": "Top Stories: Apple Event Recap With iPhone Duo, iPhone 18 Pro, Apple Watch, and AirPods",
-      "description": "Apple's long-awaited foldable iPhone Duo is here, but that wasn't all we saw at this week's event, as Apple also took the wraps off of the iPhone 18 Pro and Pro Max, the Apple Watch Series 12 and Ultra 4, and the AirPods 5.\r\n\r\n\r\nWe'll have to wait a little over a month to get our hands on the foldab",
-      "image": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-12.jpg",
-      "url": "https://www.macrumors.com/2026/09/12/top-stories-apple-event-recap-iphone-duo/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-12T16:00:12.000Z"
     }
   ],
-  "lastUpdated": "2026-09-13T18:02:37.755Z",
+  "lastUpdated": "2026-09-14T06:03:37.728Z",
   "sources": [
     "TechCrunch",
     "The Verge",
