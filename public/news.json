@@ -1,298 +1,303 @@
 {
   "articles": [
     {
-      "id": "77998d286fdfec88",
-      "title": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
-      "description": "Earlier this month, references to two unreleased Apple game controllers were allegedly spotted in macOS 26.7 beta code, and now Bloomberg's Mark Gurman has shared more details.\r\n\r\nPower On newsletter today, Gurman said the controllers have been in development for more than a year, are for the iPhone",
-      "image": "https://images.macrumors.com/article-new/2026/09/WWDC-2026-Game-Controller-Icon.jpg",
-      "url": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
+      "id": "2feb153e379f7bb6",
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "description": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-14T17:41:20.000Z"
+    },
+    {
+      "id": "1f6092ea04327532",
+      "title": "Apple Releases macOS Tahoe 26.7 and macOS Sequoia 15.8",
+      "description": "Alongside macOS Golden Gate, Apple today released new versions of macOS Tahoe and macOS Sequoia. ‌macOS Tahoe‌ 26.7 and macOS Sequoia 15.8 are available for users with older Macs or those who don't yet want to update to Golden Gate. \r\n\r\n\r\nThe updates can be downloaded through the Software Update sec",
+      "image": "https://images.macrumors.com/article-new/2025/06/macos-tahoe.jpg",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-tahoe-26-7/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-14T03:06:30.000Z"
+      "publishedAt": "2026-09-14T17:40:04.000Z"
     },
     {
-      "id": "eb41aefa21ea7cda",
-      "title": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way",
-      "description": "As noted by Nicolas Lellouche, who writes for the French tech website Numerama, Apple has updated its tech specs pages for the iPhone 18 Pro and iPhone 18 Pro Max to clarify which models are equipped with its new C2 cellular modem and where.\r\n\r\n\r\nApple now says the iPhone 18 Pro has a C2 modem world",
-      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
+      "id": "b032477fd6ab39b4",
+      "title": "Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update",
+      "description": "Apple today released iOS 27 and iPadOS 27, the newest operating system updates for the iPhone and iPad. The software is available for free on all compatible devices, and can be downloaded over the air by going to Settings > General > Software Update.\r\n\r\n\r\nIt can take several minutes for the updates ",
+      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27-Out-Now-Thumb.jpg",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-14T03:00:20.000Z"
+      "publishedAt": "2026-09-14T17:39:00.000Z"
     },
     {
-      "id": "c7b0eb0cf37bc90a",
-      "title": "iOS 27 Available Tomorrow With These 8 New Features",
-      "description": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be released widely on Monday, September 14.\r\n\r\n\r\niOS 27 should be available around 10 a.m. Pacific Time / 1 p.m. Eastern Time tomorrow via the Settings app, under General → Software Update.\r\n\r\nBelow, we have hi",
-      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27-Icon-iPhone.jpeg",
-      "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
+      "id": "17e221245af5e2cc",
+      "title": "Apple Releases iOS 26.7 With Security Fixes",
+      "description": "Alongside iOS 27, Apple today released iOS 26.7, an update to the existing iOS 26 software. Users who check for new software will see iOS 26.7 as the default update, with ‌iOS 27‌ listed as an option at the bottom of the Software Update interface.\r\n\r\n\r\nAccording to Apple's release notes, iOS 26.7 in",
+      "image": "https://images.macrumors.com/article-new/2026/09/ios-26-7.jpg",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-13T23:30:07.000Z"
+      "publishedAt": "2026-09-14T17:32:14.000Z"
     },
     {
-      "id": "0ffea13addd37a81",
-      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
-      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T21:30:00.000Z"
-    },
-    {
-      "id": "42cd36269ade3151",
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T20:49:38.000Z"
-    },
-    {
-      "id": "a3960fa84ce8cb33",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T20:28:00.000Z"
-    },
-    {
-      "id": "07ecb35c40b0ce23",
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's prop",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "id": "7731bb79222affc8",
+      "title": "TIFF 2026: the latest movie reviews from Toronto",
+      "description": "If you want an idea of what’s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; the 2025 edition, for instance, included the likes",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/TOLPINY-STILL-Courtesy-of-Sony-Pictures-Classics-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-13T19:41:48.000Z"
+      "publishedAt": "2026-09-14T17:30:00.000Z"
     },
     {
-      "id": "b3e5fc5854b4958c",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T19:40:15.000Z"
-    },
-    {
-      "id": "3394613dd740b391",
-      "title": "Apple is reportedly working on iPhone game controllers",
-      "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's cod",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T18:30:16.000Z"
-    },
-    {
-      "id": "81e7c4519e73d7d2",
-      "title": "The Units’ Digital Stimulation is synthpunk perfection",
-      "description": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - p",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/a1818657383_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T17:36:10.000Z"
-    },
-    {
-      "id": "e5b62ab59d78c9ff",
-      "title": "Apple planning three major changes for its retail stores, per report",
-      "description": "Apple is preparing “major changes” to its retail stores, according to a new report from Bloomberg. Perhaps most notably, the changes include bringing back the iconic dedicated Genius Bars.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-oxmoor.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/13/apple-planning-three-major-changes-for-its-retail-stores-per-report/",
+      "id": "c22ec9bcd7a41f10",
+      "title": "Apple releases macOS Tahoe 26.7 and macOS Sequoia 15.8, here’s what’s new",
+      "description": "In addition to releasing macOS 27 Golden Gate, Apple is also rolling out macOS Tahoe 26.7 and macOS Sequoia 15.8. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/14/apple-releases-macos-tahoe-26-7-and-macos-sequoia-15-8-heres-whats-new/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-13T17:28:59.000Z"
+      "publishedAt": "2026-09-14T17:27:43.000Z"
     },
     {
-      "id": "e13b9f4c67e08438",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T16:30:00.000Z"
-    },
-    {
-      "id": "b87a490d43a7353c",
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T16:04:00.000Z"
-    },
-    {
-      "id": "2efa7431a0ce9724",
-      "title": "This unique retro dock adds a flip-up display, Thunderbolt 5, & 8TB storage to your Mac [Video]",
-      "description": "Amid all the craziness of this iPhone launch week, one of my favorite brands has released its brand-new retro-style dock for the Mac mini and the Mac Studio. Last year, they released their Retro Dock for the M4 Mac mini, and it was the perfect combination of functionality, form, and nostalgia that I",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wokyis_2x1_400kb.jpg?quality=82&#038;strip=all&#038;w=1086",
-      "url": "https://9to5mac.com/2026/09/13/this-unique-retro-dock-adds-a-flip-up-display-thunderbolt-5-8tb-storage-to-your-mac-wokyis-g5-g7-video/",
+      "id": "d517c35b93c641d4",
+      "title": "iOS 26.7 now available for iPhone, here’s what’s new",
+      "description": "Apple launched its major iOS 27 release today for iPhone. But for anyone not yet ready to install the new software version, Apple has also released a smaller iOS 26.7 update. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/14/ios-26-7-now-available-for-iphone-heres-whats-new/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-13T14:30:00.000Z"
+      "publishedAt": "2026-09-14T17:22:57.000Z"
     },
     {
-      "id": "017a9a7fcd5cc359",
-      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
-      "description": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286668940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+      "id": "ee628207c82e368f",
+      "title": "With iOS 27, I’m actually using Siri again",
+      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-14T17:10:30.000Z"
+    },
+    {
+      "id": "79b710dfcac82fa9",
+      "title": "watchOS 27 now available for Apple Watch, here’s what’s new",
+      "description": "Apple has released its next major update for Apple Watch users: watchOS 27 is rolling out now. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-tap-gesture-wrist.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/09/14/watchos-27-now-available-for-apple-watch-heres-whats-new/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T17:10:29.000Z"
+    },
+    {
+      "id": "364b70c9fa1297d0",
+      "title": "visionOS 27 is here for Apple Vision Pro with these new features",
+      "description": "Apple Vision Pro’s next major software update is here. visionOS 27 is rolling out now to all Vision Pro models, here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/visionOS-27-hero-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/14/visionos-27-is-here-for-apple-vision-pro-with-these-new-features/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T17:10:17.000Z"
+    },
+    {
+      "id": "1d73c198a1aa02e8",
+      "title": "macOS 27 is available now",
+      "description": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple released its final big update for Intel-based Macs last year with ma",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/061326_Siri_AI_MacBook_Pro_macOS_27_Golden_Gate_beta_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-13T14:28:12.000Z"
+      "publishedAt": "2026-09-14T17:10:13.000Z"
     },
     {
-      "id": "3d36aafb7feddc00",
-      "title": "Apple is designing its own game controllers for iPhone, could be Beats branded",
-      "description": "Bloomberg’s Mark Gurman has today corroborated references discovered in macOS beta code that indicated Apple is designing its own game controllers for iPhone. \nApple already sells some controllers like the Backbone One (pictured above) and SteelSeries Nimbus+ through the Apple Store, and now it want",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-game-controller-backbone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-13T14:26:11.000Z"
+      "id": "bd817d1f6752db6d",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "description": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-14T17:10:09.000Z"
     },
     {
-      "id": "71e68be94b97a22b",
-      "title": "AirPods 5 Pre-Orders Go Live, While Older Models Reach Up to $100 Off This Weekend",
-      "description": "Apple just announced the new AirPods 5, and Amazon has them up for pre-order right now starting at $129.00. If you are looking for deals on other models, Amazon also has great prices on AirPods Max 2 at $100 off, AirPods Pro 3 at $50 off, and AirPods 4 at $30 off.\r\n\r\nNote: MacRumors is an affiliate ",
-      "image": "https://images.macrumors.com/article-new/2026/09/airpods-lineup-blue.jpeg",
-      "url": "https://www.macrumors.com/2026/09/13/airpods-5-older-models-100-off/",
+      "id": "f5a86e906dc9ce8c",
+      "title": "Apple releases iOS 27 with Siri AI overhaul",
+      "description": "The iOS 27 update arrives just in time for the iPhone 18 Pro release. | Photo by Allison Johnson / The Verge\t\n\nApple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-14T17:08:49.000Z"
+    },
+    {
+      "id": "68c59fa6f3c2b196",
+      "title": "macOS Golden Gate Now Available With Siri AI, Visual Intelligence and More",
+      "description": "Apple today released macOS Golden Gate 27, the latest version of the macOS operating system that runs on the Mac. ‌macOS Golden Gate‌ is a free app that can be downloaded on all compatible Macs. The update requires a Mac with an Apple silicon chip, and it is not available on Intel Macs.\r\n\r\n\r\nMac use",
+      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-golden-gate/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-13T14:21:23.000Z"
+      "publishedAt": "2026-09-14T17:07:57.000Z"
     },
     {
-      "id": "ba8595ddff67839a",
-      "title": "Fusion power startups find new partners in the defense world",
-      "description": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
-      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T13:15:00.000Z"
-    },
-    {
-      "id": "00c5b6691df48414",
-      "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
-      "description": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospect, though, the disappointing demise of B",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/YMX3_03452_R_rgb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T13:00:00.000Z"
-    },
-    {
-      "id": "f667fdecd79961c7",
-      "title": "Craig Federighi addresses iPhone Duo and iPad overlap",
-      "description": "Craig Federighi, Apple’s senior vice president of Software Engineering, sat down with MKBHD this week to talk about the new iPhone Duo. In the interview, Federighi talked about the potential overlap between the iPhone Duo and an iPad.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/craig-federighi-mkbhd.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/13/craig-federighi-addresses-iphone-duo-and-ipad-overlap/",
+      "id": "d0888750890d7cbc",
+      "title": "Apple releases HomePod 27 with two new improvements",
+      "description": "Today Apple released iOS 27 and its companion updates, including new HomePod 27 software that adds two primary improvements.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-white-unsplash.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/14/apple-releases-homepod-27-with-two-new-improvements/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-13T12:47:33.000Z"
+      "publishedAt": "2026-09-14T17:07:03.000Z"
     },
     {
-      "id": "bb22755cc1b2ff1d",
-      "title": "Your car is selling your data",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nEarlier this ye",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T12:00:00.000Z"
+      "id": "79e4d67408e80007",
+      "title": "macOS 27 Golden Gate now available, here is everything new",
+      "description": "After months of beta testing, macOS 27 Golden Gate is now rolling out to everyone, bringing Apple’s new Siri AI, deeper Liquid Glass refinements, major Safari additions, and a long list of performance and quality-of-life improvements. Here’s everything new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/14/macos-27-golden-gate-now-available-here-is-everything-new/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T17:06:56.000Z"
     },
     {
-      "id": "56568a23abeafb18",
-      "title": "Apple’s new phones are here",
-      "description": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been devouring every iPhone Duo video I can find, clicki",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-13T12:00:00.000Z"
+      "id": "3f180c160e0e6ffc",
+      "title": "tvOS 27 available now for Apple TV 4K, here’s everything new",
+      "description": "tvOS 27 is the latest software update for Apple TV 4K, and it’s rolling out now to all users. Here’s what’s new in tvOS 27.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/14/tvos-27-available-now-for-apple-tv-4k-heres-everything-new/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T17:06:50.000Z"
     },
     {
-      "id": "0e4a6cdd317ee2cc",
-      "title": "Here's When iOS 27 Rolls Out Around the World",
-      "description": "Apple is about to release iOS 27, which will finally deliver more advanced Siri AI capabilities as well as a variety of other refinements, improvements, and new features to iPhones. It's Apple's biggest software update of the year, and Apple announced at Wednesday's iPhone event that it will be rele",
-      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Next-to-iPhone.jpg",
-      "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
+      "id": "7f308eae96cbd812",
+      "title": "Apple releases iPadOS 27, here’s what’s new for iPad",
+      "description": "Apple has just launched iPadOS 27, its next major software update for iPad users. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/14/apple-releases-ipados-27-heres-whats-new-for-ipad/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T17:05:29.000Z"
+    },
+    {
+      "id": "d43be86b2dfc1151",
+      "title": "Apple releases iOS 27 with Siri AI and these new iPhone features",
+      "description": "iOS 27 is officially here. After a summer of beta testing, the free software update has arrived for everyone. It brings Siri AI, new Apple Intelligence features, more control over Liquid Glass, and improvements throughout the system. Here’s what’s new, which iPhones support it, and how to update.\nmo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/14/ios-27-now-available-features-compatible-iphones/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T17:05:21.000Z"
+    },
+    {
+      "id": "f67bc86a109b61a0",
+      "title": "Apple Releases watchOS 27 With Siri AI, New Watch Face, Smart Stack Improvements and More",
+      "description": "Apple today released watchOS 27, the newest version of the operating system that runs on the Apple Watch. ‌watchOS 27‌ is compatible with the Apple Watch Series 9 and later, the Apple Watch Ultra 2 and later, and the Apple Watch SE 3.\r\n\r\n\r\n‌watchOS 27‌ can be downloaded for free on a compatible devi",
+      "image": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-watchos-27/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-13T10:00:00.000Z"
+      "publishedAt": "2026-09-14T17:03:00.000Z"
     },
     {
-      "id": "d2dd599e0eb72688",
-      "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-      "description": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is out September 14 after a summe",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/13/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-      "source": "9to5Mac",
+      "id": "cf90ea06a7edbca5",
+      "title": "Apple Releases visionOS 27 With Siri AI and New Spatial Experiences",
+      "description": "Apple today released visionOS 27, the newest version of the visionOS operating system that runs on the Apple Vision Pro. It is a free update available on both versions of the Vision Pro headset.\r\n\r\n\r\nvisionOS 27 can be downloaded by opening the Settings app, selecting the General section, and choosi",
+      "image": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-visionos-27/",
+      "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-13T08:00:00.000Z"
+      "publishedAt": "2026-09-14T17:02:00.000Z"
     },
     {
-      "id": "950ff0c0c634f769",
-      "title": "iPhone 18 Pro pre-orders: Here’s what still arrives on launch day",
-      "description": "Apple’s new iPhone 18 Pro and iPhone 18 Pro Max lineup went up for pre-order today, ahead of the September 18 launch day.\nAs of Saturday evening, shipping estimates for some configurations have slipped to October — especially for the iPhone 18 Pro Max.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/12/iphone-18-pro-pre-orders-heres-what-still-arrives-on-launch-day/",
-      "source": "9to5Mac",
+      "id": "3ce2764e3f62aa6a",
+      "title": "Apple Releases tvOS 27",
+      "description": "Apple today released tvOS 27 after several months of beta testing. tvOS 27 is available for free on the Apple TV 4K.\r\n\r\n\r\ntvOS 27 can be downloaded using the Settings app on the ‌‌‌Apple TV‌‌‌. Open up Settings and go to System > Software Update to get the new software. ‌‌‌Apple TV‌‌‌ owners who hav",
+      "image": "https://images.macrumors.com/article-new/2026/06/tvOS-27-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-tvos-27/",
+      "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-13T00:38:49.000Z"
+      "publishedAt": "2026-09-14T17:01:00.000Z"
     },
     {
-      "id": "54daebea1bba6668",
-      "title": "Here are my favorite fast charger recommendations for iPhone 18 Pro",
-      "description": "Over the past year, I’ve had the pleasure of testing out loads of chargers and MagSafe charging stands for Apple devices. If you just preordered a new iPhone 18 Pro and you’re looking for the best ways to take advantage of fast charging, these are my top picks.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.19.58.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/12/best-fast-chargers-for-iphone-18-pro/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-13T00:35:29.000Z"
-    },
-    {
-      "id": "8084f2c7bb15124c",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "id": "a0e6dee289f7929b",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-12T23:25:38.000Z"
+      "publishedAt": "2026-09-14T17:00:00.000Z"
     },
     {
-      "id": "ecae397b4a537983",
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "id": "ca65872c7a1ae9f5",
+      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
+      "description": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as similar-looki",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/994267/steam-frame-review",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-12T21:41:36.000Z"
+      "publishedAt": "2026-09-14T17:00:00.000Z"
     },
     {
-      "id": "c15ea423fb3779b6",
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "description": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was be",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "id": "ecadf33e973d361f",
+      "title": "Valve’s Steam Frame costs $1,059",
+      "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. \nEvery Steam Frame will come with a copy of Half-Life: Alyx, Va",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-12T21:16:28.000Z"
+      "publishedAt": "2026-09-14T17:00:00.000Z"
     },
     {
-      "id": "fde8a1784d6dc675",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch",
+      "id": "c9afb57df351f6c1",
+      "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
+      "description": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. \nEvery Steam Frame comes with a copy of 2020's",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23079447/half_life_alyx_vr_004.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
+      "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-12T20:19:16.000Z"
+      "publishedAt": "2026-09-14T17:00:00.000Z"
+    },
+    {
+      "id": "a08cb0d18a856bf6",
+      "title": "I reviewed Valve’s Steam Frame, ask me anything",
+      "description": "Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere. \nAt 4PM ET today (that's ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0047.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-14T17:00:00.000Z"
+    },
+    {
+      "id": "210887a1188a5bdc",
+      "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
+      "description": "Welcome back. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nDell's last XPS 13 was meant to be a farewell before the company sunset the entire XPS brand. But it was a bitter ending, and an overpriced one as well. Earlier this year, Dell resurrected the XPS name with the excellent (and very expensiv",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268732_Dell_XPS_13_2026_review_ADiBenedetto_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-14T17:00:00.000Z"
+    },
+    {
+      "id": "a7c341ca33f29d82",
+      "title": "Apple Releases HomePod Software 27 With AutoMix Support",
+      "description": "Alongside iOS 27, iPadOS 27, and macOS Golden Gate, Apple today released new software for the HomePod and HomePod mini.\r\n\r\n\r\n‌HomePod‌ Software 27 adds AirPlay improvements and support for AutoMix when listening to Apple Music.\r\nThis update introduces support for AutoMix with Apple Music, which tran",
+      "image": "https://images.macrumors.com/article-new/2023/11/homepods-red.jpg",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-homepod-software-27/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T17:00:00.000Z"
+    },
+    {
+      "id": "80dfb87bd9c4d94e",
+      "title": "iOS 27's iPhone Handoff Feature Expanding to More Carriers This Year",
+      "description": "Apple last week announced that Verizon and EE will support iOS 27's new iPhone Handoff feature later this year. The feature allows you to switch between any two iPhones running iOS 27 while using the same phone number on each device.\r\n\r\ncharging $5/month for it) and Deutsche Telekom. To learn more a",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-iphone-handoff-more-carriers-soon/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-14T16:55:50.000Z"
     }
   ],
-  "lastUpdated": "2026-09-14T06:03:37.728Z",
+  "lastUpdated": "2026-09-14T18:03:32.738Z",
   "sources": [
     "TechCrunch",
     "The Verge",
