@@ -1,304 +1,297 @@
 {
   "articles": [
     {
-      "id": "26054971989ff429",
-      "title": "50 New Things Your iPhone Can Do in iOS 27 - Out Now!",
-      "description": "Apple released iOS 27 this week, and despite the company's focus this year on refining its flagship operating system and nixing bugs, there are still many additional features to explore, not least of which is Apple's new context-aware Siri, re-tooled for the generative AI era. \r\n\r\n\r\n\nWhich iPhones S",
-      "image": "https://images.macrumors.com/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/15/50-new-things-iphone-can-do-ios-27/",
+      "id": "f3f95db8a3d0794f",
+      "title": "How Fast is Apple's M5 Ultra Chip? First Benchmark Result is Truly Wild",
+      "description": "The first unverified benchmark result for Apple's new M5 Ultra chip surfaced in the Geekbench 7 database today, offering a look at the chip's impressive performance gains. The new Mac Studio will be Apple's first device to be equipped with the M5 Ultra.\r\n\r\n\r\nHere is how the highest-end M5 Ultra chip",
+      "image": "https://images.macrumors.com/article-new/2026/09/M5-Ultra-Hero.jpeg",
+      "url": "https://www.macrumors.com/2026/09/15/apple-m5-ultra-chip-benchmark/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T05:48:03.000Z"
+      "publishedAt": "2026-09-15T18:00:55.000Z"
     },
     {
-      "id": "331f3d3f8d8ce0df",
-      "title": "Widow’s Bay sweeps 78th Primetime Emmy Awards as Apple TV scores 9 more wins",
-      "description": "After scoring 20 wins during the two-night Creative Arts Emmy Awards last week, Apple TV picked up another 9 wins tonight during the 78th Primetime Emmy Awards ceremony. Here’s the full list.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/widows-bay-matthew-rhys-rain.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/14/widows-bay-sweeps-78th-primetime-emmy-awards-as-apple-tv-scores-9-more-wins/",
+      "id": "33ff5f09e8932820",
+      "title": "iPhone Duo could be very hard to get at launch, per report",
+      "description": "iPhone Duo pre-orders open next month, and a new analyst report indicates the device could be in even shorter supply at launch than expected. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/15/iphone-duo-could-be-very-hard-to-get-at-launch-per-report/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T03:11:30.000Z"
+      "publishedAt": "2026-09-15T17:45:22.000Z"
     },
     {
-      "id": "77413812422a2c04",
-      "title": "Here’s what’s new with parental control features in iOS 27, iPadOS 27, and macOS 27",
-      "description": "Included in today’s 2027 system updates from Apple are several new Screen Time and parental control features aimed at giving parents more control over how their kids use their devices. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/parental-controls-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T02:43:51.000Z"
-    },
-    {
-      "id": "76bdd55a9c603d47",
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
-      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "id": "0ed18373c25e029b",
+      "title": "AI agents now have a place to snitch",
+      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-15T01:50:48.000Z"
+      "publishedAt": "2026-09-15T17:42:59.000Z"
     },
     {
-      "id": "99e50fd98770d480",
-      "title": "9to5Mac Daily: September 14, 2026 – Apple retail changes, iPhone 18 Pro pre-orders",
+      "id": "a893109d37dc3f5d",
+      "title": "AppZapper 3000: ‘The uninstaller Apple forgot’ returns for the modern Mac era",
+      "description": "AppZapper is one of the first Mac apps I bought when I switched from PC to Mac in 2009. Coming from Windows, OS X lacked an obvious solution for thoroughly uninstalling software. \nThe answer, of course, is dragging an app from the Applications folder to the Trash. But what about all the extra cruft ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/appzapper-3000.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/15/appzapper-3000-the-uninstaller-apple-forgot-returns-for-the-modern-mac-era/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T17:39:08.000Z"
+    },
+    {
+      "id": "bdeb1e3bc981975d",
+      "title": "OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
+      "description": "MacRumors has partnered with OWC to bring our readers big savings on the retailer's best Thunderbolt docks, USB-C cables, and external storage enclosures. These exclusive deals will run through Monday, September 21 at 12:00 a.m. CST, so you have the rest of this week to shop.\r\n\r\nNote: MacRumors is a",
+      "image": "https://images.macrumors.com/article-new/2026/09/owc-macrumors-september.jpeg",
+      "url": "https://www.macrumors.com/2026/09/15/owcs-mac-sale-macrumors/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T17:38:16.000Z"
+    },
+    {
+      "id": "e36d2360d01f5297",
+      "title": "US military confirms it launched space weapons into Earth’s orbit",
+      "description": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
+      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T17:09:06.000Z"
+    },
+    {
+      "id": "5174a2d65a188869",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T17:05:24.000Z"
+    },
+    {
+      "id": "430c1d8de8e73781",
+      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+      "description": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.",
+      "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T17:02:04.000Z"
+    },
+    {
+      "id": "d30d91b58ecd22c6",
+      "title": "watchOS 27: Siri app lets you continue existing chats, though it’s a bit hidden",
+      "description": "Apple Watch includes an all-new Siri app in watchOS 27. Unlike the iPhone and iPad versions, it’s a bit less intuitive to use in one way.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/15/watchos-27-siri-app-lets-you-continue-existing-chats-though-its-a-bit-hidden/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T17:00:11.000Z"
+    },
+    {
+      "id": "2c36920a7f745497",
+      "title": "Why watchOS 27 removes the useful multitasking feature on Apple Watch",
+      "description": "watchOS 27 removes a useful multitasking shortcut from Apple Watch. While we don’t know if it will make a return, we at least now know why the gesture was removed.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/15/why-watchos-27-removes-the-useful-multitasking-feature-on-apple-watch/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T16:42:06.000Z"
+    },
+    {
+      "id": "c9d3fa3833be26cb",
+      "title": "M6 Chip Benchmark Surfaces Ahead of New Mac Mini Launch Next Week",
+      "description": "The first unverified benchmark result for Apple's new M6 chip surfaced in the Geekbench 7 database today, offering a look at the chip's performance gains. The new Mac mini will be Apple's first device to be equipped with the M6 chip, which is 2nm.\r\n\r\n\r\nHere is how the M6 chip scored:\r\n\r\nSingle-core ",
+      "image": "https://images.macrumors.com/article-new/2026/09/Mac-mini-M6-chip.jpeg",
+      "url": "https://www.macrumors.com/2026/09/15/apple-m6-chip-benchmark/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T16:38:39.000Z"
+    },
+    {
+      "id": "71119e0923f3436f",
+      "title": "How The Oregon Trail became a generational icon",
+      "description": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail.\nOn the season 5 premiere of Version History, our fearless wagon leader David Pierce is joined by gaming journalist Chris Gran",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRH_Oregon_Trail_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T16:18:10.000Z"
+    },
+    {
+      "id": "b8b3ddffcc55f3d9",
+      "title": "9to5Mac Daily: September 15, 2026 – iOS 27 now available",
       "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/14/daily-september-14-2026/",
+      "url": "https://9to5mac.com/2026/09/15/daily-september-15-2026/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T00:53:36.000Z"
+      "publishedAt": "2026-09-15T16:07:39.000Z"
     },
     {
-      "id": "73d9244b362f5299",
-      "title": "iOS 27 Features: The Ultimate Mega Guide",
-      "description": "When iOS 27 first came out back in June, we started working on a series of in-depth feature guides and how tos that go through all of the updates in Apple's new software.\r\n\r\n\r\nOur ultimate guide aggregates all of our ‌iOS 27‌ coverage, and it is useful for iPhone and iPad users new to ‌iOS 27‌ or th",
-      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27-Ultimate-Mega-Guide-Feature.jpg",
-      "url": "https://www.macrumors.com/guide/ios-27-ultimate-mega-guide/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T00:34:12.000Z"
-    },
-    {
-      "id": "a4fec0fe86fee5a0",
-      "title": "New Apple CEO John Ternus attending Emmy Awards (and sporting iPhone Duo)",
-      "description": "It’s Emmy Awards night, and John Ternus is in attendance. The new Apple CEO officially took over for Tim Cook two weeks ago, and he’s already doing iPhone Duo product demos for the stars and press.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo/",
+      "id": "1ef7933429fc5d80",
+      "title": "New Apple gear gets pre-release discounts, including AirPods 5 for $125 and more",
+      "description": "Apple unveiled its new Apple Watch Ultra 4 and Apple Watch Series 12 lineup last week, plus the all-new AirPods 5. They hit shelves on Friday, September 18.\nAhead of that launch, Apple’s new lineup is now available to pre-order on Amazon — and you can already save. \nAirPods 5 $125 (Reg. $129)\nApple ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-airpods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/15/airpods-5-apple-watch-series-12-and-ultra-4-now-available-on-amazon/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T00:23:33.000Z"
+      "publishedAt": "2026-09-15T16:03:55.000Z"
     },
     {
-      "id": "b518f5b9dac6db4f",
-      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-      "description": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valv",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-15T00:13:47.000Z"
-    },
-    {
-      "id": "269ccfeafacc196a",
-      "title": "macOS Golden Gate: 10 Features to Try First",
-      "description": "Apple released macOS Golden Gate to the public today, which means anyone with a compatible Mac can download it. The new version of macOS requires an Apple chip, so if you have a Mac with an M1 or later or a MacBook Neo, you can upgrade.\r\n\r\n\r\n‌macOS Golden Gate‌ includes Siri AI, and the Mac is the o",
-      "image": "https://images.macrumors.com/article-new/2026/09/10-macOS-Features-to-Try-First-Feature.jpg",
-      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T00:02:40.000Z"
-    },
-    {
-      "id": "c9ebf9d467b423dd",
-      "title": "AppZapper Mac Uninstaller Returns as AppZapper 3000",
-      "description": "Popular Mac app AppZapper was today revamped with a new design, updated functionality, and a fresh name. AppZapper 3000 offers a quick way to delete Mac apps and their associated files.\r\n\r\n\r\nAppZapper requires Full Disk Access permission to find files on the Mac. Once installed, you can drag and dro",
-      "image": "https://images.macrumors.com/article-new/2026/09/appzapper3000.jpg",
-      "url": "https://www.macrumors.com/2026/09/14/appzapper-3000-for-mac/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T23:58:29.000Z"
-    },
-    {
-      "id": "1904499ee553ffb5",
-      "title": "Musk Drops Apple Lawsuit Over ChatGPT Siri Deal, Keeps Suing OpenAI",
-      "description": "Elon Musk's companies X Corp and SpaceXAI today asked the court to dismiss their claims in a lawsuit filed against Apple in 2025, reports Reuters. There was no explanation for the dismissal request or mention of a settlement. The filing also does not ask for the dismissal of claims against OpenAI.\r\n",
-      "image": "https://images.macrumors.com/article-new/2023/07/X-twitter-logo.jpg",
-      "url": "https://www.macrumors.com/2026/09/14/spacexai-drops-apple-lawsuit/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T23:52:00.000Z"
-    },
-    {
-      "id": "1a826f985183dfd3",
-      "title": "Apple Asks Supreme Court to Throw Out App Store Contempt Ruling",
-      "description": "Apple today filed its opening merits brief with the Supreme Court as it prepares to fight the contempt ruling that forced it to change its App Store rules. Apple is asking the Supreme Court to reverse or vacate the contempt order, which would return the ‌App Store‌ to its pre–2025 rules.\r\n\r\n\r\nThe Su",
-      "image": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/14/apple-supreme-court-contempt-ruling/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T23:28:16.000Z"
-    },
-    {
-      "id": "6cc6440a31a33658",
-      "title": "Gentler Streak and The Outsiders’ iOS 27 updates add Siri AI, onscreen awareness support, more",
-      "description": "The unstoppable team at Gentler Stories is out today with updates to both of its exercise-tracking apps, taking advantage of the new Siri AI and other capabilities introduced with iOS 27. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/gentler-ios27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/14/gentler-streak-and-the-outsiders-ios-27-updates-add-siri-ai-onscreen-awareness-support-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T23:04:24.000Z"
-    },
-    {
-      "id": "6cf01c4e19989817",
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "description": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-14T22:59:41.000Z"
-    },
-    {
-      "id": "5a592ef9cc4b405f",
-      "title": "XChat, X’s standalone messaging app, currently unavailable on App Store [U]",
-      "description": "XChat, X’s standalone messaging app for iPhone and iPad, is currently unavailable on the App Store.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/xchat.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/14/xchat-xs-standalone-messaging-app-currently-unavailable-on-app-store/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T22:30:42.000Z"
-    },
-    {
-      "id": "761dc25f4336bf46",
-      "title": "Apple Home’s new security camera features cost as much as $60 a month",
-      "description": "New Apple Intelligence features for HomeKit cameras start at $10 a month and go up to $60. | Image: The Verge\t\n\nWith the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it.\nApple Intelligence for Home brings AI-powered ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-14T22:28:52.000Z"
-    },
-    {
-      "id": "8519bd881bc1749d",
-      "title": "X's Standalone Messaging App XChat Disappears From App Store",
-      "description": "X's XChat app is no longer available from the App Store. The app does not come up when searching for it in the ‌App Store‌, and clicking a link to it on the web returns an unavailable error.\r\n\r\n\r\nXChat allows X users to communicate with one another using end-to-end encryption and disappearing messag",
-      "image": "https://images.macrumors.com/article-new/2023/07/X-twitter-logo.jpg",
-      "url": "https://www.macrumors.com/2026/09/14/xchat-app-disappears-from-app-store/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T22:25:34.000Z"
-    },
-    {
-      "id": "260c67fdba523c4b",
-      "title": "X and SpaceXAI move to drop Apple from antitrust lawsuit, keep claims against OpenAI",
-      "description": "X and SpaceXAI today filed a motion to voluntarily dismiss their claims against Apple in the antitrust lawsuit they brought against the company and OpenAI. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-logo-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/14/x-and-spacexai-move-to-drop-apple-from-antitrust-lawsuit-keep-claims-against-openai/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T22:03:53.000Z"
-    },
-    {
-      "id": "0f8a9eb6eda3f269",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "id": "f039906312e80ad9",
+      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+      "description": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
+      "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-14T21:51:02.000Z"
+      "publishedAt": "2026-09-15T16:00:00.000Z"
     },
     {
-      "id": "105afcb6d22c66ca",
-      "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five",
-      "description": "Apple is requiring a $9.99 iCloud+ plan to use the iOS 27 Apple Intelligence Home app features with a single HomeKit camera, and iPhone users aren't happy about it.\r\n\r\n\r\n‌iOS 27‌ includes text-based descriptions for motion alerts, a feature that uses ‌Apple Intelligence‌. It recognizes people, anima",
-      "image": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T21:46:37.000Z"
-    },
-    {
-      "id": "b631896115e0b6f6",
-      "title": "Here’s every security fix included in iOS 27 and iPadOS 27",
-      "description": "In addition to publishing the security content for macOS 27, macOS 26.7, and macOS 15.8, Apple has now detailed the fixes included in iOS 27 and iPadOS 27, also released today. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-security-malware-virus-code-9to5mac.png?w=1600",
-      "url": "https://9to5mac.com/2026/09/14/heres-every-security-fix-included-in-ios-27-and-ipados-27/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T21:26:18.000Z"
-    },
-    {
-      "id": "ae4499749f6c9619",
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "id": "09269485cc0f91c2",
+      "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
+      "description": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream. But the most chaotic to date might just be Vintage ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Vintage_Violence_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-14T21:21:42.000Z"
+      "publishedAt": "2026-09-15T16:00:00.000Z"
     },
     {
-      "id": "8e7dd42a3494bb91",
-      "title": "New Apple TV, HomePod Mini, and More on Track to Launch This Year",
-      "description": "The rumor that never ends: Bloomberg's Mark Gurman today reiterated that new Apple TV and HomePod mini models with Siri AI support remain on track to launch this year.\r\n\r\nRelated Roundups: Apple TV, HomePod mini\nTag: Mark Gurman\nBuyer's Guide: Apple TV (Don't Buy), HomePod Mini (Don't Buy)\nRelated F",
-      "image": "https://images.macrumors.com/article-new/2026/03/HomePod-mini-and-Apple-TV-Sage.jpg",
-      "url": "https://www.macrumors.com/2026/09/14/new-apple-tv-homepod-mini-on-track-for-2026/",
+      "id": "170a38059bde0df8",
+      "title": "Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up",
+      "description": "Apple this week released iOS 27 following around three months of beta testing. If you just installed the software update on your iPhone, you might be wondering where the new-and-improved Siri AI and dedicated Siri app are. In case you missed it, you must join Apple's waitlist in order to gain access",
+      "image": "https://images.macrumors.com/article-new/2026/06/Personalized-Siri-iOS-27.jpg",
+      "url": "https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-14T21:18:26.000Z"
+      "publishedAt": "2026-09-15T15:54:20.000Z"
     },
     {
-      "id": "5b2b426de81d2782",
-      "title": "MacBook Pro With OLED Touch Screen Running macOS 27.1 Inside Apple",
-      "description": "Apple's rumored 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays are currently being tested with macOS 27.1, which is scheduled for release in late October, according to the latest word from Bloomberg's Mark Gurman.\r\n\r\n\r\nWhile he previously said these high-end MacBook Pro mode",
-      "image": "https://images.macrumors.com/article-new/2024/10/Apple-MacBook-Pro-M4-hero.jpg",
-      "url": "https://www.macrumors.com/2026/09/14/oled-macbook-pro-macos-27-1-testing/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T21:16:54.000Z"
-    },
-    {
-      "id": "2f5b5337db55e988",
-      "title": "iOS 27 and iOS 26.7 Fix More Than 100 Security Bugs",
-      "description": "Today's iOS 27 update addresses over 100 security vulnerabilities, which is a good reason to install the new software.\r\n\r\n\r\nIf you don't want to update to ‌iOS 27‌ yet, Apple also released iOS 26.7 with over 80 security fixes. 75 of the fixes are shared across both updates, so iOS 26.7 addresses man",
-      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
-      "url": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T21:10:03.000Z"
-    },
-    {
-      "id": "68c59fa6f3c2b196",
-      "title": "macOS Golden Gate Now Available With Siri AI, Visual Intelligence and More",
-      "description": "Apple today released macOS Golden Gate 27, the latest version of the macOS operating system that runs on the Mac. ‌macOS Golden Gate‌ is a free app that can be downloaded on all compatible Macs. The update requires a Mac with an Apple silicon chip, and it is not available on Intel Macs.\r\n\r\n\r\nMac use",
-      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-golden-gate/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T21:08:13.000Z"
-    },
-    {
-      "id": "656f54615d0cec17",
-      "title": "macOS 27 Golden Gate, macOS Tahoe 26.7, and macOS Sequoia 15.8 fix 200+ vulnerabilities",
-      "description": "If you’re on the fence about installing macOS 27 Golden Gate, Apple’s lengthy list of security fixes might be enough to convince you. And if you’re sticking with an older version, you may want to install macOS Tahoe 26.7 or macOS Sequoia 15.8 sooner rather than later. Here’s why.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/14/macos-27-golden-gate-macos-tahoe-26-7-and-macos-sequoia-15-8-fix-200-vulnerabilities/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-14T20:54:46.000Z"
-    },
-    {
-      "id": "1bd00bc589c81b43",
-      "title": "Trump throws out power plant climate pollution rules",
-      "description": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a revival of domestic manufacturing drive up power ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-14T20:45:00.000Z"
-    },
-    {
-      "id": "41da04ec171973ff",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "id": "dbce52529bc17519",
+      "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+      "description": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
+      "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-14T20:44:14.000Z"
+      "publishedAt": "2026-09-15T15:49:18.000Z"
     },
     {
-      "id": "1637c88e715f6778",
-      "title": "Apple files Supreme Court brief challenging contempt ruling in Epic case [U]",
-      "description": "Apple today formalized its challenge to the contempt ruling in its long-running legal battle with Epic Games, filing its opening merits brief with the U.S. Supreme Court. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/14/apple-files-supreme-court-brief-challenging-contempt-ruling-in-epic-case/",
+      "id": "a74357118732aeea",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T15:47:03.000Z"
+    },
+    {
+      "id": "2c02e29778bc3330",
+      "title": "iOS 27 gives Camera app on iPhone three powerful new features",
+      "description": "iOS 27 brings powerful upgrades to the iPhone’s Camera app, especially for users who have AI-compatible models or the iPhone 18 Pro. Here’s what’s new for Camera in iOS 27.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/15/ios-27-gives-camera-app-on-iphone-three-powerful-new-features/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-14T20:38:10.000Z"
+      "publishedAt": "2026-09-15T15:40:19.000Z"
+    },
+    {
+      "id": "deb814c07f4e6a59",
+      "title": "Apple TV Shipping Delays Persist, HomePod Mini Unavailable in Orange",
+      "description": "Apple TV and HomePod mini orders continue to face extended shipping delays on Apple's online store in the U.S., amid endless rumors about new models coming later this year. These shortages have been occurring on and off for more than a year.\r\n\r\nRelated Roundups: Apple TV, HomePod mini\nBuyer's Guide:",
+      "image": "https://images.macrumors.com/article-new/2025/01/HomePod-mini-and-Apple-TV.jpg",
+      "url": "https://www.macrumors.com/2026/09/15/apple-tv-homepod-mini-shipping-delays/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T15:39:06.000Z"
+    },
+    {
+      "id": "74c229efd7720c42",
+      "title": "Deals: AirPods 5 $125, M5 MacBook Air $150 off, Apple Watch Series 12, 25W MagSafe car mount, more",
+      "description": "Amazon is now offering the lowest price anywhere on the new AirPods 5 with ANC pre-orders down at $125, just after launching its early fall Prime Day deals ($50 off and AirTag 2 at $20 each, but today’s 9to5Toys Lunch Break is headlined by a pair of M5 MacBook Air configs at $150 off via Amazon. We ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-5-MacBook-Air.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/15/deals-airpods-5-m5-macbook-air-apple-watch-series-12/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T15:29:57.000Z"
+    },
+    {
+      "id": "180f899f03100b7e",
+      "title": "Apple Watch Pre-Order Discounts Expand With Up to $20 In Savings",
+      "description": "Apple began pre-orders for its new Apple Watch Series 12 and Apple Watch Ultra 4 last week, and today Amazon has introduced a few more early discounts on these models.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a s",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
+      "url": "https://www.macrumors.com/2026/09/15/apple-watch-pre-order-discounts/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T15:27:27.000Z"
+    },
+    {
+      "id": "cff939f11d77d7ca",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T15:22:48.000Z"
+    },
+    {
+      "id": "c4f1ed728e31c5a7",
+      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+      "description": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
+      "url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T15:21:10.000Z"
+    },
+    {
+      "id": "7d4e2a650c4a3375",
+      "title": "Now Light’s minimalist phone can easily call an Uber",
+      "description": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the upcoming Light Flip, they can use it to find pick up / drop off ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Rideshare.jpg?quality=90&#038;strip=all&#038;crop=0,14.489770715844,100,52.97410776767",
+      "url": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T15:00:00.000Z"
+    },
+    {
+      "id": "e0343f18b6849cc7",
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "description": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T15:00:00.000Z"
+    },
+    {
+      "id": "1b56440832e1ddbb",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-15T14:42:37.000Z"
+    },
+    {
+      "id": "588f034b092a2609",
+      "title": "Apple Watch adds an all-new Readiness app, here’s how it works",
+      "description": "Apple Watch is gaining an all-new health-related app called Readiness. Here’s what you need to know about Apple’s new fitness-focused Readiness app.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Readiness-Score-1.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/15/apple-watch-adds-an-all-new-readiness-app-heres-how-it-works/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T14:38:05.000Z"
+    },
+    {
+      "id": "6d711ef02c047091",
+      "title": "Slow Horses is back tonight, and Apple just confirmed two more seasons",
+      "description": "Apple TV has one of its best shows, Slow Horses, returning tonight for season 6 (watch here). And the streamer has just announced that seasons 7 and 8 are both already in the works.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Apple-Originals-score-nine-Golden-Globe-nominations.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/15/slow-horses-is-back-tonight-and-apple-just-confirmed-two-more-seasons/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-15T14:35:47.000Z"
     }
   ],
-  "lastUpdated": "2026-09-15T06:02:31.395Z",
+  "lastUpdated": "2026-09-15T18:02:22.241Z",
   "sources": [
     "TechCrunch",
     "The Verge",
