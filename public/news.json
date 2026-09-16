@@ -1,300 +1,299 @@
 {
   "articles": [
     {
-      "id": "3094bab499fb00ed",
-      "title": "Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works",
-      "description": "A new post on Apple’s Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro’s new Reference Image camera mode. Here are the details\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-16T02:25:19.000Z"
-    },
-    {
-      "id": "4665d5693b40c25e",
-      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-      "description": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palm",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/palma3_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-16T02:00:00.000Z"
-    },
-    {
-      "id": "424bf23da40670cc",
-      "title": "Slow Horses season 6 debuts on Apple TV",
-      "description": "The wait is over. Apple TV subscribers can now stream the first episode of Slow Horses’ new season, just hours after the platform announced the show has been confirmed for two more seasons. Watch the trailer for the new season below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/slow-horses-s6-key-art.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/slow-horses-season-6-debuts-on-apple-tv/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-16T01:05:09.000Z"
-    },
-    {
-      "id": "5581e67cb82257c6",
-      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-      "description": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canon1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-16T01:00:00.000Z"
-    },
-    {
-      "id": "287f91c72c2f249c",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "id": "0732c77a9b989aca",
+      "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
+      "description": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
+      "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-16T00:20:39.000Z"
+      "publishedAt": "2026-09-16T18:00:54.000Z"
     },
     {
-      "id": "2d6074f044627c26",
-      "title": "India escalates Apple probe over alleged iOS 18 issues that incurred repair costs",
-      "description": "India’s Central Consumer Protection Authority (CCPA) has reportedly escalated its probe into whether Apple should be held responsible for an iOS 18 update that allegedly caused display and microphone issues on some iPhones. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/india-escalates-apple-probe-over-alleged-ios-18-issues-that-incurred-repair-costs/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T23:52:22.000Z"
-    },
-    {
-      "id": "f06e20dc6045c505",
-      "title": "Apple Details How Reference Image Proves a Photo is Real",
-      "description": "The iPhone 18 Pro models support Apple Reference Image, a way to verify that a photo was taken with an iPhone and hasn't been edited. Apple says it's a method to prove that something actually happened and wasn't AI-generated, likening the feature to a digital film negative.\r\n\r\n\r\nApple Reference Imag",
-      "image": "https://images.macrumors.com/article-new/2026/09/apple-reference-image-iphone-18-pro.jpg",
-      "url": "https://www.macrumors.com/2026/09/15/apple-reference-image-info/",
+      "id": "902ad8aea14b3236",
+      "title": "Here's Why Apple Just Released an iOS 27.2 Beta Instead of iOS 27.1",
+      "description": "Apple just seeded the first beta of iOS 27.2 to developers for testing. Yes, you read that correctly: iOS 27.2, not iOS 27.1.\r\n\r\n\r\nWhy no iOS 27.1 beta? The answer likely relates to the iPhone Duo.\r\n\r\niPhone Duo will ship with iOS 27.1, which means that software version will contain all sorts of ref",
+      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "url": "https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T23:46:29.000Z"
+      "publishedAt": "2026-09-16T17:53:15.000Z"
     },
     {
-      "id": "98013daf43a3bdfa",
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "id": "85ec811a5281b93f",
+      "title": "iOS 27.2 expands Siri AI to these new languages",
+      "description": "Today Apple released the first iOS 27.2 beta, a surprising move since there’s been no 27.1 release. And joining the all-new Health app, iOS 27.2 beta 1 also expands Siri AI support to five new languages.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-expands-siri-ai-to-these-new-languages/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T17:48:06.000Z"
+    },
+    {
+      "id": "43acd2ff7eb1c67c",
+      "title": "iOS 27.2 introduces Apple Health app overhaul, here’s what’s new",
+      "description": "Today Apple released iOS 27.2 beta 1, skipping over 27.1 entirely in the testing cycle. And among other changes, the new iOS 27.2 update includes the previously announced all-new Health app.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/health-app-ios-27-2-watchos-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-introduces-apple-health-app-overhaul-heres-whats-new/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T17:34:15.000Z"
+    },
+    {
+      "id": "f53f194d483e4450",
+      "title": "iOS 27.2 Beta Previews New Apple Intelligence Health App",
+      "description": "The first beta of iOS 27.2 includes Apple's redesigned Health app, giving developers a chance to try out the features ahead of launch later this year.\r\n\r\n\r\nApple's developer notes for the feature say the Health app is being tested in this beta, but it won't be in the launch version of iOS 27.2. It w",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-beta-health-app/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T17:32:30.000Z"
+    },
+    {
+      "id": "58d5db0a59c8062e",
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "description": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI indus",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-15T23:34:25.000Z"
+      "publishedAt": "2026-09-16T17:20:29.000Z"
     },
     {
-      "id": "915261ce5a758f30",
-      "title": "OmniFocus adds Siri AI support as Omni Group updates its apps for iOS 27, macOS 27, more",
-      "description": "Unsurprisingly, the Omni Group worked all summer to get its suite of apps ready for Apple’s 2027 system updates from day one. Here’s what’s new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/omnifocus-os27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/omnifocus-adds-siri-ai-support-as-omni-group-updates-its-apps-for-ios-27-macos-27-more/",
+      "id": "993873d3198ffb03",
+      "title": "Apple releases beta 1 for watchOS 27.2, tvOS 27.2, more",
+      "description": "Apple has just kicked off a new wave of beta updates, and it’s not the one we were expecting. Beta 1 is here for watchOS 27.2, tvOS 27.2, and more.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/16/apple-releases-beta-1-for-watchos-27-2-tvos-27-2-more/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T23:22:20.000Z"
+      "publishedAt": "2026-09-16T17:16:53.000Z"
     },
     {
-      "id": "27886b519213da33",
-      "title": "Apple Car Keys reportedly coming to three more automakers",
-      "description": "Apple is reportedly preparing to extend Car Key support in Apple Wallet to three more automakers. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/apple-car-keys-reportedly-coming-to-three-more-automakers/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T22:43:38.000Z"
-    },
-    {
-      "id": "853c0552f7cfe871",
-      "title": "What the iPhone Duo's Camera Can and Can't Do",
-      "description": "To take advantage of the iPhone Duo's dual-display design, Apple is introducing new Camera app features that are unique to the foldable iPhone.\r\n\r\n\r\nSmart Take\n\r\nSmart Take uses AI to determine when everyone (including the iPhone owner) is ready for a group shot, so no one has to use a timer or stay",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-cameras.jpg",
-      "url": "https://www.macrumors.com/guide/iphone-duo-camera/",
+      "id": "4084f84226f96c69",
+      "title": "Apple Seeds First macOS Golden Gate 27.2 Beta to Developers",
+      "description": "Apple is testing the next macOS Golden Gate update, and developers can download the ‌macOS Golden Gate‌ 27.2 beta as of today. The beta comes just two days after Apple launched ‌macOS Golden Gate‌ 27.0.\r\n\r\n\r\nRegistered developers can download ‌macOS Golden Gate‌ 27.2 by opening up the System Setting",
+      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "url": "https://www.macrumors.com/2026/09/16/apple-releases-macos-27-2-beta-1/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T22:11:01.000Z"
+      "publishedAt": "2026-09-16T17:15:56.000Z"
     },
     {
-      "id": "c5a8058936c8c8fa",
-      "title": "Ulysses gets Siri AI support, customizable toolbars, project templates, more",
-      "description": "Following the release of macOS 27 Golden Gate and iOS 27, Ulysses was updated with Siri AI support, a refreshed interface, customizable toolbars, project templates, and more. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ulysses.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/ulysses-gets-siri-ai-support-customizable-toolbars-project-templates-more/",
+      "id": "6c7aae7424abcd65",
+      "title": "Apple Releases First iOS 27.2 Beta",
+      "description": "Apple today seeded the first beta of an upcoming iOS 27.2 update to developers for testing purposes, with the update coming just two days after the iOS 27 launch. Apple also seeded an iPadOS 27.2 beta.\r\n\r\n\r\nRegistered developers can download the beta updates by opting in under Settings > General > S",
+      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "url": "https://www.macrumors.com/2026/09/16/apple-releases-first-ios-27-2-beta/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T17:14:12.000Z"
+    },
+    {
+      "id": "e5d4f717c94a38c4",
+      "title": "macOS 27.2 beta 1 now available to developers, here’s what’s new",
+      "description": "Now that macOS 27 Golden Gate is officially out, Apple is moving on to its next beta cycle, straight to macOS 27.2 beta 1. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/16/macos-27-2-beta-1-now-available-to-developers-heres-whats-new/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T22:01:17.000Z"
+      "publishedAt": "2026-09-16T17:13:39.000Z"
     },
     {
-      "id": "a82025d8c2e1b883",
-      "title": "dbrand has the iPhone Duo and iPhone 18 Pro covered – with a huge range of designs",
-      "description": "With the exciting new iPhone Duo and latest evolution of the iPhone 18 Pro now official, casemaker dbrand has wasted no time in announcing its latest cases, vinyl wraps, and screen protectors.\nWhether you’re looking for a minimalist, barely-there case or one that offers the ultimate in no-compromise",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/09-10-iPhone-18-Series-Hero-1.png?w=1500",
-      "url": "https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/",
+      "id": "a6d3229d9c58fec4",
+      "title": "iPadOS 27.2 beta 1 now available for iPad",
+      "description": "Apple has a new beta cycle beginning today, and it’s a surprising one: rather than the iPadOS 27.1 update we were expecting, iPadOS 27.2 beta 1 is now here.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPadOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/16/ipados-27-2-beta-1-now-available-for-ipad/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T22:00:00.000Z"
+      "publishedAt": "2026-09-16T17:13:01.000Z"
     },
     {
-      "id": "4746b1b98ea05d51",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "id": "ea1ad2c1984ab066",
+      "title": "Apple releases first iOS 27.2 developer beta for iPhone",
+      "description": "Apple has released the first iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to everyone on Monday. It also leaps over iOS 27.1, which Apple has shown as an iPhone Duo-focused release. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/16/apple-releases-first-ios-27-2-developer-beta-for-iphone/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T17:12:55.000Z"
+    },
+    {
+      "id": "84f8561205a3421a",
+      "title": "Apple Releases First watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
+      "description": "Alongside new betas of iOS 27.2, iPadOS 27.2, and macOS Golden Gate 27.2, Apple has released the first betas of watchOS 27.2, tvOS 27.2, and visionOS 27.2. The betas come two days after the 27.0 software updates were released.\r\n\r\n\r\nRegistered developers can download the betas through the Settings ap",
+      "image": "https://images.macrumors.com/article-new/2025/04/General-visionOS-watchOS-and-tvOS-Betas-Feature-Redux.jpg",
+      "url": "https://www.macrumors.com/2026/09/16/apple-releases-watchos-27-2/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T17:12:00.000Z"
+    },
+    {
+      "id": "6fe0767a754152ba",
+      "title": "iOS 27 to Offer New Way to Redeem Apple Gift Cards",
+      "description": "Last week, our team discovered code in the iOS 27 Release Candidate that revealed there will be a new NFC-based way to redeem Apple gift cards by tapping them on the back of a compatible iPhone, and now a demo of the feature has surfaced.\r\n\r\n\r\nWhile the functionality does not appear to be live yet, ",
+      "image": "https://images.macrumors.com/article-new/2026/09/Hold-iPhone-Here-Apple-Gift-Card.jpg",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-new-way-to-redeem-apple-gift-cards/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T17:08:46.000Z"
+    },
+    {
+      "id": "a2747974f9d3d372",
+      "title": "Your AI agents can now control your Google Home devices",
+      "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-15T21:47:38.000Z"
+      "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
-      "id": "ec39aef72850586b",
-      "title": "iOS 27 has a fun new animation when you call a contact on their birthday",
-      "description": "iOS 27 adds a small birthday-themed tidbit to the Phone app, with a new animation that appears when calling someone on their big day. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/birthday-ios27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/ios-27-has-a-fun-new-animation-when-you-call-a-contact-on-their-birthday/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T20:44:58.000Z"
-    },
-    {
-      "id": "72977f7b28ddc542",
-      "title": "Microsoft announces Windows and Surface event for October 7th",
-      "description": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the PC.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "id": "5aae97356608abd0",
+      "title": "Your ‘health age’ is fake",
+      "description": "My villain origin story is my Whoop age. How do you age at 0.9 times your age and end up four to five years older than you are? | Photo by Amelia Holowaty Krales / The Verge\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0175.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-15T20:36:59.000Z"
+      "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
-      "id": "9117af38424fb624",
-      "title": "What if social media isn’t hurting kids?",
-      "description": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+      "id": "e0adf5e202191920",
+      "title": "Google will now let any AI agent run your smart home",
+      "description": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data u",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-15T20:13:30.000Z"
+      "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
-      "id": "d5593b2c6bb9f363",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "id": "25de8597d9d95563",
+      "title": "Anthropic merging Claude Cowork with chat",
+      "description": "Anthropic announced today that Claude Cowork is being merged with chat. This means Claude will drop from three to two modes: Claude Chat and Claude Code.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/16/anthropic-merging-claude-cowork-with-chat/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T16:47:54.000Z"
+    },
+    {
+      "id": "45de1296e4f43061",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-15T20:12:53.000Z"
+      "publishedAt": "2026-09-16T16:30:00.000Z"
     },
     {
-      "id": "5d6a537414afdf4d",
-      "title": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
-      "description": "iOS 27 is here, and it adds a new Apple Calendar feature I’ve wanted for years: natural language support when creating events.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T20:06:34.000Z"
-    },
-    {
-      "id": "79beb4010586066a",
-      "title": "Another Intel iMac has joined Apple’s vintage products list",
-      "description": "After adding three MacBook models to its obsolete products list last month, Apple today updated its vintage products list to include the 2019 21.5-inch iMac with Retina 4K display. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/2019-imac.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/another-intel-imac-has-joined-apples-vintage-products-list/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T19:55:07.000Z"
-    },
-    {
-      "id": "29f89950a2032a23",
-      "title": "Apple's Last Intel 21.5-Inch iMac is Now Vintage",
-      "description": "Apple today added the 2019 4K iMac to its list of vintage products, which means repairs can only be done if Apple has the parts available.\r\n\r\n\r\nProducts are added to the vintage list five years after they were last distributed for sale, and they're moved to the obsolete list at the seven-year mark. ",
-      "image": "https://images.macrumors.com/article-new/2020/08/iMac-Blue-Isolated.jpg",
-      "url": "https://www.macrumors.com/2026/09/15/apple-last-intel-imac-vintage/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T19:53:26.000Z"
-    },
-    {
-      "id": "4ecdcf94eda480ec",
-      "title": "iPhone 16 Pro vs. iPhone 18 Pro Buyer's Guide: Worth Upgrading?",
-      "description": "Apple last week announced the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max, arriving two years after the iPhone 16 Pro and ‌iPhone 16‌ Pro Max. Skipping a generation means makes for a bigger upgrade, with more than 50 differences between the 2024 and 2026 models.\r\n\r\n\r\nMost of the visible change arrived in ",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-16-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
-      "url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T19:17:47.000Z"
-    },
-    {
-      "id": "90d84757031320d8",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-15T19:00:00.000Z"
-    },
-    {
-      "id": "829e845ba4aa57df",
-      "title": "HBO boss reacts to Apple TV winning more Emmy awards",
-      "description": "Apple TV won big at the Emmys last night, taking home more awards than any other competitor, including HBO. Here’s what HBO boss Casey Bloys said in response to Apple’s victory.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-hbo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/15/hbo-boss-reacts-to-apple-tv-winning-more-emmy-awards/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T18:47:47.000Z"
-    },
-    {
-      "id": "216dbfa3c612e6e4",
-      "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
-      "description": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its \"uncool\" stigma and finding new fans among an SUV-weary public. ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The-Kia-PV7-Cargo-and-Passenger.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
+      "id": "8cb55ba1339bba67",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "description": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users.\nAs part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and C",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-15T18:39:44.000Z"
+      "publishedAt": "2026-09-16T16:30:00.000Z"
     },
     {
-      "id": "f0a6336fec153ca0",
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "id": "00b5fa07fd8e9ee3",
+      "title": "Apple Weather adds two convenient new features in iOS 27",
+      "description": "Apple Weather adds two convenient features in iOS 27 that make it easier to track rain and wind forecasts. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-weather-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/16/apple-weather-adds-two-convenient-new-features-in-ios-27/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T16:09:39.000Z"
+    },
+    {
+      "id": "12574078f4a4bdc0",
+      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "description": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+      "url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-15T18:29:20.000Z"
+      "publishedAt": "2026-09-16T16:00:00.000Z"
     },
     {
-      "id": "1cca506d621af186",
-      "title": "AirPods 5 Hands-On: Better Noise Cancellation, Lower Price",
-      "description": "After Apple introduced the AirPods 5 last week, we got a set to take home and review. We've been testing the AirPods 5 for the last week and have some initial thoughts.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nThe ‌AirPods 5‌ have the same overall design and fit as the AirPod",
-      "url": "https://www.macrumors.com/2026/09/15/airpods-5-hands-on/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-15T18:19:59.000Z"
-    },
-    {
-      "id": "090917dba4d82334",
-      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-      "description": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
-      "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "id": "9d23ef1e7f7fdac5",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”  That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders",
+      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-15T18:16:07.000Z"
+      "publishedAt": "2026-09-16T16:00:00.000Z"
     },
     {
-      "id": "61a1de2bf99eb0be",
-      "title": "One of the best 3D printers for beginners is almost $100 off",
-      "description": "The Centauri Carbon 2 stores the filament on the outside to fit the bowden tube in the build space. | Image: The Verge\t\n\nIf the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, alm",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elegoo-Centauri-Carbon-2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-15T18:02:30.000Z"
-    },
-    {
-      "id": "a86e14187c4346ec",
-      "title": "M5 Ultra Chip's Impressive Performance Boost Revealed in First Benchmark Result",
-      "description": "The first unverified benchmark result for Apple's new M5 Ultra chip surfaced in the Geekbench 7 database today, offering a look at the chip's impressive performance gains. The new Mac Studio will be Apple's first device to be equipped with the M5 Ultra.\r\n\r\n\r\nHere is how the highest-end M5 Ultra chip",
-      "image": "https://images.macrumors.com/article-new/2026/09/M5-Ultra-Hero.jpeg",
-      "url": "https://www.macrumors.com/2026/09/15/apple-m5-ultra-chip-benchmark/",
+      "id": "ddbfd7ed32987fac",
+      "title": "Here's Why a New Apple Watch Charging Puck Was Just Released",
+      "description": "The new Apple Watch Series 12 and Apple Watch Ultra 4 have hardware changes that allow for faster charging, but you will need to use the new version of the Apple Watch Magnetic Fast Charger included in the box in order to achieve this boost. If you need extra ones for your own charging stands or tra",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-New-Charging-Puck.jpg",
+      "url": "https://www.macrumors.com/2026/09/16/new-apple-watch-charging-puck/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-15T18:00:47.000Z"
+      "publishedAt": "2026-09-16T15:54:00.000Z"
+    },
+    {
+      "id": "b05275804ce1c4cb",
+      "title": "Apple Watch Series 12 has subtle design change that Apple didn’t mention",
+      "description": "Apple Watch Series 12 arrives this Friday (pre-order here), but some upgraders might be surprised by a subtle design change that Apple didn’t mention in its announcement: larger bezels around the display.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-modular-face.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/16/apple-watch-series-12-has-subtle-design-change-that-apple-didnt-mention/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T15:34:14.000Z"
+    },
+    {
+      "id": "1cdb24be299130e9",
+      "title": "Deals: AirPods 5/Pro 3, Apple Watch Ultra 4, MacBook Pro $450 off, more",
+      "description": "While the early fall Prime Day deals are now live at Amazon, we are also tracking loads more Apple Watch Series 12 configurations and the new black Apple Watch Ultra 4 seeing early pre-order discounts ahead of delivery this week. The same goes for Amazon’s early price drop on the new AirPods 5 with ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-4-AirPods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/16/deals-airpods-5-pro-3-apple-watch-ultra-4/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T15:34:08.000Z"
+    },
+    {
+      "id": "3b887efebee6c15f",
+      "title": "May Mobility is going public in a $1.4B SPAC deal",
+      "description": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
+      "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-16T15:27:13.000Z"
+    },
+    {
+      "id": "7741ac7d55cd7e6e",
+      "title": "Apple Memory Supplier Explores U.S. Manufacturing With Intel",
+      "description": "Apple memory supplier SK Hynix is in exploratory talks with Intel about manufacturing memory chips in the United States for the first time, according to Reuters.\r\n\r\n\r\nOne option would see the South Korean chipmaker lease part of Intel's planned manufacturing complex in Ohio. Another would involve a ",
+      "image": "https://images.macrumors.com/article-new/2026/09/sk-hynix-intel.png",
+      "url": "https://www.macrumors.com/2026/09/16/apple-memory-supplier-explores-us-manufacturing/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-16T15:16:01.000Z"
+    },
+    {
+      "id": "be45681f16316fc0",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-16T15:00:00.000Z"
+    },
+    {
+      "id": "3951a037224bd6ba",
+      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+      "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
+      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-16T14:47:07.000Z"
     }
   ],
-  "lastUpdated": "2026-09-16T06:03:29.409Z",
+  "lastUpdated": "2026-09-16T18:03:45.858Z",
   "sources": [
     "TechCrunch",
     "The Verge",
