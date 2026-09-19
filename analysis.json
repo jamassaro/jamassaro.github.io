@@ -1,42 +1,13 @@
 {
-  "executiveSummary": "Major trends in AI and hardware development are emerging, with a focus on foldable displays, new chip technologies, and AI-powered applications. Apple is expanding its product lineup with the iPhone Duo and Apple Watch Series 12. Industry shifts are also underway, with a focus on sustainability and supply chain management.",
-  "takeaways": [
-    {
-      "title": "Foldable Displays",
-      "description": "Apple's iPhone Duo features a matte nano-texture display to minimize glare and crease visibility, a trend that will be worth watching in the future of smartphone design, as cited in MacRumors and 9to5Mac articles."
-    },
-    {
-      "title": "New Chip Technologies",
-      "description": "The Apple Watch Series 12 and new M5 Ultra and M6 chips demonstrate advancements in AI and machine learning processing, with implications for future device performance and power efficiency, as discussed in MacRumors and 9to5Mac articles."
-    },
-    {
-      "title": "AI-Powered Applications",
-      "description": "AI and machine learning technologies are being applied to various industries, including healthcare and finance, with examples such as UP.Labs and Angle Health, as mentioned in TechCrunch articles."
-    }
-  ],
-  "trends": [
-    "Foldable Displays",
-    "New Chip Technologies",
-    "AI-Powered Applications",
-    "Supply Chain Management",
-    "Sustainability"
-  ],
-  "worthWatching": [
-    "The increasing use of AI and machine learning in various industries, with potential applications in healthcare and finance, as mentioned in TechCrunch articles."
-  ],
-  "engineeringPerspective": [
-    "The importance of considering power efficiency and thermal management in the development of new chip technologies, as discussed in MacRumors articles."
-  ],
+  "generatedAt": "2026-09-19T18:04:59.642Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "Apple",
-      "AI",
-      "Machine Learning",
-      "Foldable Displays",
-      "Supply Chain"
-    ]
-  },
-  "generatedAt": "2026-09-19T06:04:53.771Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
