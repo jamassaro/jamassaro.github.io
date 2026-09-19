@@ -1,6 +1,265 @@
 {
   "articles": [
     {
+      "id": "89a6042de8df1e4e",
+      "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
+      "description": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo.\r\n\r\n\r\nThe ‌iPhone Duo‌ uses a matte nano-texture display, which is meant to cut down on glare and minimize the visibility of the crease. When asked if the ‌iPhone Duo‌'s cr",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
+      "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T04:51:11.000Z"
+    },
+    {
+      "id": "8194ec5959703c8e",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T01:00:00.000Z"
+    },
+    {
+      "id": "fd82e0251534ea08",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T00:12:07.000Z"
+    },
+    {
+      "id": "6a9e4c60011d73e8",
+      "title": "Gemini app for macOS adding send and read iMessage integration",
+      "description": "Google’s latest update to the Gemini app for macOS readies local iMessage integration. This follows the app coming to Windows last week.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Gemini-Mac-App-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T23:57:57.000Z"
+    },
+    {
+      "id": "db95702393ed7e66",
+      "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
+      "description": "The iPhone 18 Pro Max has a battery capacity over 20 watt-hours, which means there are additional shipping requirements. If an ‌iPhone 18 Pro‌ Max needs to be shipped somewhere, its maximum battery capacity has to be limited through firmware.\r\n\r\n\r\nAccording to Apple, the ‌iPhone 18 Pro‌ Max uses an ",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-max-prepare.jpg",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T23:28:05.000Z"
+    },
+    {
+      "id": "c76ebe7d9c152367",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T23:25:01.000Z"
+    },
+    {
+      "id": "108d6f60c5714c04",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T23:13:31.000Z"
+    },
+    {
+      "id": "d75dd611a7a5f513",
+      "title": "AI hallucination nearly triggers US military operation",
+      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T23:12:32.000Z"
+    },
+    {
+      "id": "04a7496f29daaee1",
+      "title": "The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor",
+      "description": "In a new video, The Quantified Scientist’s Rob ter Horst compares the new Apple Watch Series 12’s heart rate sensor against a Polar H10 ECG chest strap. Here’s what he found.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T23:08:18.000Z"
+    },
+    {
+      "id": "1e0735972fad84f1",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T21:44:33.000Z"
+    },
+    {
+      "id": "2d31118919c20924",
+      "title": "Hands-On With the Apple Watch Series 12",
+      "description": "The Apple Watch Series 12 came out today, and we picked one up to get a look at the new feature set. There are no major external changes, but Apple updated the device's internals and health sensors.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nThe Apple Watch Series 12 has the sa",
+      "url": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T21:26:09.000Z"
+    },
+    {
+      "id": "cb3a74ce111d7a23",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor i",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T21:07:24.000Z"
+    },
+    {
+      "id": "780385f6afc5e858",
+      "title": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
+      "description": "Apple today updated its iOS and iPadOS 27 Feature Availability page, confirming that more than 30 new languages and language variants are now supported across features such as Dictionary: Thesaurus, Activate with Siri, and Visual Look Up. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-keyboard.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/18/ios-27-and-ipados-27-expand-language-support-for-dictionary-quicktype-keyboard-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T20:31:30.000Z"
+    },
+    {
+      "id": "4228a546d5af386f",
+      "title": "Automattic names interim CFO after exec departures",
+      "description": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T20:25:22.000Z"
+    },
+    {
+      "id": "4b5f4b6b047459ee",
+      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+      "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T20:24:33.000Z"
+    },
+    {
+      "id": "25b2d59665690670",
+      "title": "World model companies are keeping a lot of secrets",
+      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T20:18:14.000Z"
+    },
+    {
+      "id": "e982cfbb5e53e687",
+      "title": "iPhone 18 Pro Max in U.S. Has Qualcomm's Snapdragon X80 Modem",
+      "description": "TechInsights has published an iPhone 18 Pro Max teardown that confirms the U.S. version of the device is equipped with Qualcomm's Snapdragon X80 modem.\r\n\r\n\r\nThe device's modem firmware had already pointed towards the Snapdragon X80 modem.\r\n\r\nis unique.\r\n\r\nhave the same Snapdragon X80 modem worldwide",
+      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-us-qualcomm-x80/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T20:18:07.000Z"
+    },
+    {
+      "id": "f5dc11583fbd737c",
+      "title": "Download the iPhone Duo’s official light and dark wallpapers here",
+      "description": "Although Apple did not include the iPhone Duo’s wallpapers in iOS 27, the company did include them in the iPhone simulator in Xcode 27.1 beta, released earlier today, which means now you can download them. Get them below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-wallpapers.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T20:05:43.000Z"
+    },
+    {
+      "id": "e032b8c2f3651706",
+      "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
+      "description": "The first GPU benchmark results for Apple's new M5 Ultra and M6 chips have surfaced, ahead of the new Mac Studio and Mac mini models launching on Tuesday. If you are interested in CPU results, we shared those earlier this week.\r\n\r\n\r\nSo far, the M5 Ultra has achieved up to a 59% higher Metal score (3",
+      "image": "https://images.macrumors.com/article-new/2026/09/M6-M5-Ultra-Chips.jpg",
+      "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T19:56:02.000Z"
+    },
+    {
+      "id": "be21c4823eb84e3c",
+      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "description": "AirPods just got a variety of new features in iOS 27, several of which are exclusive to AirPods Pro 3. Here’s everything new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/18/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T19:45:30.000Z"
+    },
+    {
+      "id": "313d53bf4b6122d9",
+      "title": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
+      "description": "iOS 27 is here, and many of its new features are powered by the next generation of Apple Intelligence. Here are 20+ new Apple Intelligence features in iOS 27.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T18:56:01.000Z"
+    },
+    {
+      "id": "3c204661dd01b4e5",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T18:49:30.000Z"
+    },
+    {
+      "id": "b0e2ccff4641cb71",
+      "title": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
+      "description": "Firmware updates have been the weakest link for a decade with smart homes. Every sensor, light bulb, and smart lock in your house runs software that should be updated regularly. This is on top of even if they have software updates. Homey just announced a fix for a big piece of that, and the way it h",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Homey-Pro-2026-—-Interior-5-2.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T18:33:00.000Z"
+    },
+    {
+      "id": "084ce876d45a20bb",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "description": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world.\nExecutive Order 22 bans executive branch o",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T18:29:17.000Z"
+    },
+    {
+      "id": "6a25a4621fab1cb3",
+      "title": "Disney’s first CTO is Character.AI’s former CEO",
+      "description": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. \nToday, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will rep",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK080_VRG_Illo_N_Barclay_9_disney_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-18T18:27:04.000Z"
+    },
+    {
+      "id": "141addeb4866c790",
+      "title": "Apple Releases Xcode 27.1 Beta With iPhone Duo Support",
+      "description": "Apple today released the first Xcode 27.1 beta. The latest version of the tool adds support for iPhone Duo app development.\r\n\r\nRelated Roundup: iPhone Duo\nTag: Xcode\nBuyer's Guide: iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"Apple Releases Xcode 27.1 Beta With iPhone Duo Support\" f",
+      "image": "https://images.macrumors.com/article-new/2026/02/macOS-26-Xcode.jpg",
+      "url": "https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T18:06:21.000Z"
+    },
+    {
+      "id": "02b1fc60351c590c",
+      "title": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide",
+      "description": "The Apple Watch Series 12 and Apple Watch Ultra 4 bring new health sensors, a new chip, and more detailed recovery insights to Apple's smartwatch lineup, so how do they compare?\r\n\r\n\r\nBoth models feature the S11 chip, 4GB of RAM, 64GB of storage, and the new Health Sensing System, which measures hear",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-vs-apple-watch-ultra-4.jpg",
+      "url": "https://www.macrumors.com/guide/apple-watch-series-12-vs-ultra-4/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-18T18:03:14.000Z"
+    },
+    {
       "id": "2c5b3cc529600300",
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
       "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
@@ -10,283 +269,27 @@
       "publishedAt": "2026-09-18T17:59:53.000Z"
     },
     {
-      "id": "23274b31955c626b",
-      "title": "MacRumors Giveaway: Win an iPhone Duo From iMazing",
-      "description": "For this week's giveaway we've teamed up with iMazing to offer MacRumors readers a chance to win an iPhone Duo and a copy of the iMazing software to go along with it.\r\n\r\n\r\nIf you're unfamiliar with iMazing, it's Mac and PC software that offers a speedy, simple way to manage all of the data on your i",
-      "image": "https://images.macrumors.com/article-new/2026/09/imazing-giveaway-iphone-duo.jpg",
-      "url": "https://www.macrumors.com/2026/09/18/macrumors-giveaway-imazing-iphone-duo/",
-      "source": "MacRumors",
+      "id": "a94f5b79fd18c02c",
+      "title": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
+      "description": "Apple’s new Vice President of Hardware Engineering, Tom Marieb, sat down with TechRadar for an interview all about iPhone Duo. Here’s what he said about iPhone Duo’s durability, the hinge, display crease, and more.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
+      "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-18T17:50:33.000Z"
+      "publishedAt": "2026-09-18T17:52:15.000Z"
     },
     {
-      "id": "cc10a1f8c72703d4",
-      "title": "In India, the new iPhone can arrive faster than a pizza",
-      "description": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
-      "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T17:45:00.000Z"
-    },
-    {
-      "id": "95b57761f69da005",
-      "title": "'Shop Different': Apple Retail Pioneer Ron Johnson Shares the Inside Story",
-      "description": "Back in 1999, unhappy at how Macs were being positioned in traditional computer retail stores, Steve Jobs decided that Apple needed to make its own push into retail. The man he brought on to lead the initiative was Ron Johnson, previously the vice president of merchandising at Target.\r\n\r\n\r\nJohnson a",
-      "image": "https://images.macrumors.com/article-new/2026/09/shop-different-ron-johnson.jpg",
-      "url": "https://www.macrumors.com/2026/09/18/shop-different-ron-johnson-apple-retail-book/",
-      "source": "MacRumors",
+      "id": "9e40f7f217ca776c",
+      "title": "Apple releases Xcode 27.1 beta, enabling iPhone Duo app development",
+      "description": "Apple has released Xcode 27.1 beta 1 for developers. This version specifically enables app development that targets the new foldable iPhone Duo.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/18/apple-releases-xcode-27-1-beta-enabling-iphone-duo-app-development/",
+      "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-18T17:37:28.000Z"
-    },
-    {
-      "id": "59451c2273196344",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T17:33:50.000Z"
-    },
-    {
-      "id": "37fcf30dac374ed2",
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "description": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T17:26:41.000Z"
-    },
-    {
-      "id": "7350d57d3f8b7d53",
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "description": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already ",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T17:09:56.000Z"
-    },
-    {
-      "id": "70ea791c3fb5e171",
-      "title": "The real story of the iPhone 18 Pro&#8217;s camera",
-      "description": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in group phot",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_091826_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T17:06:37.000Z"
-    },
-    {
-      "id": "0c40273a541df2e6",
-      "title": "Gavin Newsom is pushing for an AI kill switch",
-      "description": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. \nNewsom's order directs the state to convene a group of experts that will deliver recommendati",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292819671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T17:04:51.000Z"
-    },
-    {
-      "id": "573ddf6f0c459cef",
-      "title": "Apple Teams Up With ROSÉ for iPhone 18 Pro Camera Ad",
-      "description": "Apple is promoting the iPhone 18 Pro with a new Shot on iPhone ad featuring Blackpink member ROSÉ's latest music video. The video for the song \"new trick\" was filmed using the ‌iPhone 18 Pro‌.\r\n\r\n\n\r\nApple's video shows some of the footage as well as a behind-the-scenes look at some of the filming eq",
-      "url": "https://www.macrumors.com/2026/09/18/apple-iphone-18-pro-camera-ad/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T16:36:35.000Z"
-    },
-    {
-      "id": "1d0127c5b1bb96ed",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "description": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T16:35:49.000Z"
-    },
-    {
-      "id": "39174f518a657b4e",
-      "title": "What Hollywood thinks about existential AI warnings",
-      "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups foc",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T16:35:19.000Z"
-    },
-    {
-      "id": "151c9737c77169db",
-      "title": "The MacRumors Show: Is the iPhone Duo Actually Worth It?",
-      "description": "On this week's episode of The MacRumors Show, we revisit the iPhone Duo debate, early impressions of the AirPods 5, and the merits of Apple's latest iPhone and Apple Watch upgrades.\r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\nApple's first foldable iPhone continues to divide",
-      "url": "https://www.macrumors.com/2026/09/18/the-macrumors-show-is-iphone-duo-worth-it/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T16:15:51.000Z"
-    },
-    {
-      "id": "e49fbcd319506cfe",
-      "title": "Apple Designers Explain the Thinking Behind iPhone Duo",
-      "description": "Apple's design team reveals how notebooks helped inspire the iPhone Duo, along with interface principles and expectations for future features, in a new interview with GQ.\r\n\r\n\r\nThe interview features Apple CEO John Ternus, Vice President of Industrial Design Molly Anderson, and Vice President of Huma",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png",
-      "url": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T16:11:02.000Z"
-    },
-    {
-      "id": "66b14c679b5c2070",
-      "title": "Family offices are clamoring for AI investments",
-      "description": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
-      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T16:00:00.000Z"
-    },
-    {
-      "id": "808d565d6b05cd08",
-      "title": "Are iPhone 17 Pro Cases Compatible With iPhone 18 Pro? Here's What Apple Says",
-      "description": "Can you use iPhone 17 Pro and iPhone 17 Pro Max cases with the iPhone 18 Pro and iPhone 18 Pro Max, and vice versa?\r\n\r\n\r\nApple's official answer is no, according to Daring Fireball's John Gruber. Apple said the camera plateau on the iPhone 18 Pro models is ever so slightly thicker this year. Gruber ",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Case-3200x1800-1-scaled.jpeg",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-17-pro-vs-iphone-18-pro-case-compatibility/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T15:54:48.000Z"
-    },
-    {
-      "id": "6772ccab17ff413c",
-      "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
-      "description": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
-      "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T15:44:09.000Z"
-    },
-    {
-      "id": "e266c4c6eff16a0c",
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "description": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reported",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T15:30:16.000Z"
-    },
-    {
-      "id": "f9ba63b245be786b",
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T15:30:00.000Z"
-    },
-    {
-      "id": "9180b94c5aedd891",
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T15:22:48.000Z"
-    },
-    {
-      "id": "3b0a6ce68e141702",
-      "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
-      "description": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your  entire bed is the cool side.",
-      "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T15:22:16.000Z"
-    },
-    {
-      "id": "d1cdedbfde0fbe16",
-      "title": "Apple Launch Day Deals on iPhone 18 Pro, AirPods 5, Apple Watch Series 12, and More",
-      "description": "Apple's newest products launch today, including the iPhone 18 Pro, iPhone 18 Pro Max, AirPods 5, Apple Watch Series 12, and Apple Watch Ultra 4. Many of these devices have launch discounts available at various retailers, all of which you can find below.\r\n\r\nNote: MacRumors is an affiliate partner wit",
-      "image": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
-      "url": "https://www.macrumors.com/2026/09/18/best-apple-deals-of-the-week-9-18-26/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T15:15:18.000Z"
-    },
-    {
-      "id": "ab535ec136f0dd60",
-      "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
-      "description": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company. \nDuring Brendan Carr's tenure, ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2262365040.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T15:12:41.000Z"
-    },
-    {
-      "id": "02ea5f17eecb814d",
-      "title": "Apple Supplier Subsidiary Considering U.S. Flash Memory Factory",
-      "description": "Apple supplier SK Hynix's subsidiary Solidigm is considering a U.S. NAND flash memory factory, with upstate New York emerging as a leading candidate, according to Reuters. The move would reduce Solidigm's reliance on its NAND factory in China. Yesterday, it emerged that the Apple supplier is in manu",
-      "image": "https://images.macrumors.com/article-new/2026/09/sk-hynix.jpg",
-      "url": "https://www.macrumors.com/2026/09/18/apple-supplier-subsidiary-considering-us-factory/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T15:01:37.000Z"
-    },
-    {
-      "id": "da3bae22106cabcb",
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T15:00:00.000Z"
-    },
-    {
-      "id": "5cc10b0ef009045b",
-      "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
-      "description": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lenovodeals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T14:51:26.000Z"
-    },
-    {
-      "id": "4b3a76491b56139c",
-      "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
-      "description": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't as capable as the Analogue Pocket that's also compat",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/funny1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T14:41:18.000Z"
-    },
-    {
-      "id": "0387b8cf15ade4cc",
-      "title": "iPhone 18 Pro Teardown Reveals How Apple Shrunk the Dynamic Island",
-      "description": "YouTube channel REWA Technology today shared one of the first iPhone 18 Pro teardown videos, offering a look inside the new device.\r\n\r\n\r\niPhone 18 Pro and iPhone 18 Pro Max feature a smaller Dynamic Island, which Apple achieved by moving Face ID's infrared camera under the display in the top-left co",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Dynamic-Island-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-teardown/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T14:35:02.000Z"
-    },
-    {
-      "id": "c7cde05f06811e30",
-      "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
-      "description": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
-      "url": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T14:30:00.000Z"
-    },
-    {
-      "id": "c60bf9265c752435",
-      "title": "iPhone 18 Pro Demand Stronger Than Expected",
-      "description": "Apple's latest iPhone upgrade cycle is showing stronger-than-expected demand, with buyers favoring more expensive models and storage configurations, according to an Evercore ISI consumer survey seen by Investing.com.\r\n\r\n\r\nEvercore surveyed nearly 4,000 consumers in the United States. Among responden",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-and-iphone-18-pro-max.jpg",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-demand-stronger-than-expected/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T14:01:25.000Z"
+      "publishedAt": "2026-09-18T17:50:45.000Z"
     }
   ],
-  "lastUpdated": "2026-09-18T18:02:36.171Z",
+  "lastUpdated": "2026-09-19T06:02:19.432Z",
   "sources": [
     "TechCrunch",
     "The Verge",
