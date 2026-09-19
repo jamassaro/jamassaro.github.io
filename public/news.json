@@ -1,6 +1,220 @@
 {
   "articles": [
     {
+      "id": "e9174bbd0f9c791a",
+      "title": "M6 Pro Chip Result on Geekbench is Likely Fake",
+      "description": "A supposed Geekbench result for an unreleased M6 Pro chip surfaced this week, but it is likely fake.\r\n\r\nMacRumors that he uncovered \"internal inconsistencies\" that lead him to believe that the M6 Pro result might not be legitimate. Bloomberg's Mark Gurman previously reported that Apple plans to skip",
+      "image": "https://images.macrumors.com/article-new/2023/11/apple-silicon-1-feature.jpg",
+      "url": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T17:59:10.000Z"
+    },
+    {
+      "id": "825be6246f9026c4",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T17:30:00.000Z"
+    },
+    {
+      "id": "17ba1d758397d6c6",
+      "title": "Trump treads further on free speech with new journalist bans",
+      "description": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images\t\n\nOn Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever drea",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294614323.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T17:10:21.000Z"
+    },
+    {
+      "id": "911bc0138f060bc4",
+      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "description": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T17:00:00.000Z"
+    },
+    {
+      "id": "0c603ccffd0111c0",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in sim",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T15:25:03.000Z"
+    },
+    {
+      "id": "742fffbac0626b07",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T15:00:00.000Z"
+    },
+    {
+      "id": "aeb788758b3cef12",
+      "title": "AI safety conversations have gotten unbelievable",
+      "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T15:00:00.000Z"
+    },
+    {
+      "id": "e9400c0cf9d26421",
+      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+      "description": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn\t\n\nAnamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anamanaguchi-2026-Credit-Joshua-Tarn-hires.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T15:00:00.000Z"
+    },
+    {
+      "id": "52e6d0291030465d",
+      "title": "The colorful, unique Hyte X50 PC case is $50 off",
+      "description": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are up",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Hyte-X50-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T15:00:00.000Z"
+    },
+    {
+      "id": "253d7c763a3a5f9f",
+      "title": "Apple Watch Ultra 4 Sees First Discount After Launch, Now $779.99 on Amazon",
+      "description": "The new Apple Watch Ultra 4 just launched yesterday, and Amazon is offering the first cash discounts on select models for the first time since their launch. You can get the Apple Watch Ultra 4 in Natural with Translucent Gray Ocean Band for $779.99, down from $799.00.\r\n\r\nNote: MacRumors is an affili",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/09/19/apple-watch-ultra-4-launch-discounts/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T14:46:30.000Z"
+    },
+    {
+      "id": "7cceb2152c9ad8d2",
+      "title": "Apple Watch Series 12 might finally convince me to switch away from WHOOP",
+      "description": "Earlier this year, I picked up a WHOOP for the very first time. As a longtime Apple Watch user I was looking forward to having a new way of tracking my health stats in a cleaner interface that the Apple Watch wasn’t offering. Now, with Apple Watch Series 12, I’m very convinced to switch back to the ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-health-sensing-system.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/19/heres-why-apple-watch-series-12-may-get-me-to-ditch-whoop/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T14:09:00.000Z"
+    },
+    {
+      "id": "f1cbd95a176a3ef0",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T14:00:00.000Z"
+    },
+    {
+      "id": "1df882cafe3c64fa",
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T14:00:00.000Z"
+    },
+    {
+      "id": "8bcae3c26e947b57",
+      "title": "Our top iPhone 18 Pro accessories to upgrade your setup [Updated]",
+      "description": "We are taking look at some of the iPhone 18 Pro accessories we are picking up for ourselves this year before Friday’s delivery day. If you ask me Apple’s AirTag 2 and a fresh set of AirPods Pro 3 (or AirPods 5) are the best accessories you can buy for your new iPhone 18 Pro, never mind the world’s g",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/19/best-iphone-18-pro-accessories/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T13:57:00.000Z"
+    },
+    {
+      "id": "91eb6daad55cad12",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "id": "46e217eef3a865f8",
+      "title": "It’s not just LG. Every TV company is spying on you",
+      "description": "The TV in your living room knows more about you than you realize. | Photo by John Higgins / The Verge\t\n\nThe TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio e",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "id": "6e9cefa67c798146",
+      "title": "The AI regulation smackdown isn’t over",
+      "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "id": "a4bc420a7aed4978",
+      "title": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
+      "description": "All of Apple's products introduced at last week's event with the exception of the iPhone Duo are now available, with the iPhone 18 Pro and Pro Max, Apple Watch Series 12 and Ultra 4, and AirPods 5 all launching on Friday.\r\n\r\n\r\nWhile new hardware is always a welcome arrival, users of existing hardwar",
+      "image": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-19.jpg",
+      "url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "id": "6811c4b588eadcc8",
+      "title": "Apple @ Work: Enterprise oassword management is still hard, and Dashlane’s new Vault Enforcement aims to fix it",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/19/apple-work-password-management-is-still-hard-and-dashlanes-new-vault-enforcement-admits-it/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "id": "94dc7228ec380dcf",
+      "title": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
+      "description": "Your weekend Apple deals have arrived, much like the first wave of iPhone 18 Pro orders and all of the discounts we are tracking on cases and accessories as part of Amazon’s early fall Prime Day deals. Those offers join a $50 price drop on AirPods Pro 3, and the $100 discount AirPods Max 2. \nAlongsi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Weekend-deals-AirPods-Series-12-MacBook.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/19/apple-weekend-deals-airpods-apple-watch/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T12:01:56.000Z"
+    },
+    {
+      "id": "7d60a4c4b796bdf0",
+      "title": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
+      "description": "TechInsights has published one of the first in-depth iPhone 18 Pro Max teardowns. Most notably, the teardown confirms that the iPhone 18 Pro Max sold in the United States still uses a Qualcomm modem.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-41.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T11:45:46.000Z"
+    },
+    {
+      "id": "9f47efda3cde98be",
+      "title": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
+      "description": "The iPhone 18 Pro Max offers a huge jump in battery life, partly because the battery itself is physically larger.\nIn a new support document published today, Apple says the iPhone 18 Pro Max has such a big battery that it has additional shipping requirements.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-max-ship.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-19T11:10:57.000Z"
+    },
+    {
       "id": "89a6042de8df1e4e",
       "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
       "description": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo.\r\n\r\n\r\nThe ‌iPhone Duo‌ uses a matte nano-texture display, which is meant to cut down on glare and minimize the visibility of the crease. When asked if the ‌iPhone Duo‌'s cr",
@@ -74,222 +288,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-09-18T23:12:32.000Z"
-    },
-    {
-      "id": "04a7496f29daaee1",
-      "title": "The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor",
-      "description": "In a new video, The Quantified Scientist’s Rob ter Horst compares the new Apple Watch Series 12’s heart rate sensor against a Polar H10 ECG chest strap. Here’s what he found.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T23:08:18.000Z"
-    },
-    {
-      "id": "1e0735972fad84f1",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T21:44:33.000Z"
-    },
-    {
-      "id": "2d31118919c20924",
-      "title": "Hands-On With the Apple Watch Series 12",
-      "description": "The Apple Watch Series 12 came out today, and we picked one up to get a look at the new feature set. There are no major external changes, but Apple updated the device's internals and health sensors.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nThe Apple Watch Series 12 has the sa",
-      "url": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T21:26:09.000Z"
-    },
-    {
-      "id": "cb3a74ce111d7a23",
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor i",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T21:07:24.000Z"
-    },
-    {
-      "id": "780385f6afc5e858",
-      "title": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
-      "description": "Apple today updated its iOS and iPadOS 27 Feature Availability page, confirming that more than 30 new languages and language variants are now supported across features such as Dictionary: Thesaurus, Activate with Siri, and Visual Look Up. Here’s what’s new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-keyboard.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/18/ios-27-and-ipados-27-expand-language-support-for-dictionary-quicktype-keyboard-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T20:31:30.000Z"
-    },
-    {
-      "id": "4228a546d5af386f",
-      "title": "Automattic names interim CFO after exec departures",
-      "description": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
-      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T20:25:22.000Z"
-    },
-    {
-      "id": "4b5f4b6b047459ee",
-      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-      "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T20:24:33.000Z"
-    },
-    {
-      "id": "25b2d59665690670",
-      "title": "World model companies are keeping a lot of secrets",
-      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T20:18:14.000Z"
-    },
-    {
-      "id": "e982cfbb5e53e687",
-      "title": "iPhone 18 Pro Max in U.S. Has Qualcomm's Snapdragon X80 Modem",
-      "description": "TechInsights has published an iPhone 18 Pro Max teardown that confirms the U.S. version of the device is equipped with Qualcomm's Snapdragon X80 modem.\r\n\r\n\r\nThe device's modem firmware had already pointed towards the Snapdragon X80 modem.\r\n\r\nis unique.\r\n\r\nhave the same Snapdragon X80 modem worldwide",
-      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-us-qualcomm-x80/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T20:18:07.000Z"
-    },
-    {
-      "id": "f5dc11583fbd737c",
-      "title": "Download the iPhone Duo’s official light and dark wallpapers here",
-      "description": "Although Apple did not include the iPhone Duo’s wallpapers in iOS 27, the company did include them in the iPhone simulator in Xcode 27.1 beta, released earlier today, which means now you can download them. Get them below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-wallpapers.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T20:05:43.000Z"
-    },
-    {
-      "id": "e032b8c2f3651706",
-      "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
-      "description": "The first GPU benchmark results for Apple's new M5 Ultra and M6 chips have surfaced, ahead of the new Mac Studio and Mac mini models launching on Tuesday. If you are interested in CPU results, we shared those earlier this week.\r\n\r\n\r\nSo far, the M5 Ultra has achieved up to a 59% higher Metal score (3",
-      "image": "https://images.macrumors.com/article-new/2026/09/M6-M5-Ultra-Chips.jpg",
-      "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T19:56:02.000Z"
-    },
-    {
-      "id": "be21c4823eb84e3c",
-      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
-      "description": "AirPods just got a variety of new features in iOS 27, several of which are exclusive to AirPods Pro 3. Here’s everything new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/18/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T19:45:30.000Z"
-    },
-    {
-      "id": "313d53bf4b6122d9",
-      "title": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
-      "description": "iOS 27 is here, and many of its new features are powered by the next generation of Apple Intelligence. Here are 20+ new Apple Intelligence features in iOS 27.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T18:56:01.000Z"
-    },
-    {
-      "id": "3c204661dd01b4e5",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T18:49:30.000Z"
-    },
-    {
-      "id": "b0e2ccff4641cb71",
-      "title": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
-      "description": "Firmware updates have been the weakest link for a decade with smart homes. Every sensor, light bulb, and smart lock in your house runs software that should be updated regularly. This is on top of even if they have software updates. Homey just announced a fix for a big piece of that, and the way it h",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Homey-Pro-2026-—-Interior-5-2.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T18:33:00.000Z"
-    },
-    {
-      "id": "084ce876d45a20bb",
-      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "description": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world.\nExecutive Order 22 bans executive branch o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T18:29:17.000Z"
-    },
-    {
-      "id": "6a25a4621fab1cb3",
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "description": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. \nToday, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will rep",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK080_VRG_Illo_N_Barclay_9_disney_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T18:27:04.000Z"
-    },
-    {
-      "id": "141addeb4866c790",
-      "title": "Apple Releases Xcode 27.1 Beta With iPhone Duo Support",
-      "description": "Apple today released the first Xcode 27.1 beta. The latest version of the tool adds support for iPhone Duo app development.\r\n\r\nRelated Roundup: iPhone Duo\nTag: Xcode\nBuyer's Guide: iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"Apple Releases Xcode 27.1 Beta With iPhone Duo Support\" f",
-      "image": "https://images.macrumors.com/article-new/2026/02/macOS-26-Xcode.jpg",
-      "url": "https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T18:06:21.000Z"
-    },
-    {
-      "id": "02b1fc60351c590c",
-      "title": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide",
-      "description": "The Apple Watch Series 12 and Apple Watch Ultra 4 bring new health sensors, a new chip, and more detailed recovery insights to Apple's smartwatch lineup, so how do they compare?\r\n\r\n\r\nBoth models feature the S11 chip, 4GB of RAM, 64GB of storage, and the new Health Sensing System, which measures hear",
-      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-vs-apple-watch-ultra-4.jpg",
-      "url": "https://www.macrumors.com/guide/apple-watch-series-12-vs-ultra-4/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T18:03:14.000Z"
-    },
-    {
-      "id": "2c5b3cc529600300",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-18T17:59:53.000Z"
-    },
-    {
-      "id": "a94f5b79fd18c02c",
-      "title": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
-      "description": "Apple’s new Vice President of Hardware Engineering, Tom Marieb, sat down with TechRadar for an interview all about iPhone Duo. Here’s what he said about iPhone Duo’s durability, the hinge, display crease, and more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T17:52:15.000Z"
-    },
-    {
-      "id": "9e40f7f217ca776c",
-      "title": "Apple releases Xcode 27.1 beta, enabling iPhone Duo app development",
-      "description": "Apple has released Xcode 27.1 beta 1 for developers. This version specifically enables app development that targets the new foldable iPhone Duo.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/18/apple-releases-xcode-27-1-beta-enabling-iphone-duo-app-development/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-18T17:50:45.000Z"
     }
   ],
-  "lastUpdated": "2026-09-19T06:02:19.432Z",
+  "lastUpdated": "2026-09-19T18:02:10.530Z",
   "sources": [
     "TechCrunch",
     "The Verge",
