@@ -1,6 +1,121 @@
 {
   "articles": [
     {
+      "id": "5487421c34353340",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T18:00:00.000Z"
+    },
+    {
+      "id": "b49fd59af5ed46d7",
+      "title": "New California law will penalize influencers who don’t disclose political ads",
+      "description": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+      "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T16:30:00.000Z"
+    },
+    {
+      "id": "d9cfa8ccc5d28c4d",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T16:02:00.000Z"
+    },
+    {
+      "id": "cb4ffcdf91618c32",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "description": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any w",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T15:39:22.000Z"
+    },
+    {
+      "id": "08f52dff2a4b859c",
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "description": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon fo",
+      "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T15:00:00.000Z"
+    },
+    {
+      "id": "19fb37a09cb4d092",
+      "title": "Here’s why Apple scrapped its shorter Apple Pencil designed for iPhone Duo: report",
+      "description": "Leading into the iPhone Duo launch, we heard from Bloomberg’s Mark Gurman that Apple was considering a new Apple Pencil for iPhone Duo, though it was unlikely that the company would go forward with it. Of course, the iPhone Duo keynote came, and Apple did announce support for the USB-C Apple Pencil.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-side-angle-unfolded.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/20/heres-why-apple-scrapped-its-shorter-apple-pencil-designed-for-iphone-duo-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-20T14:38:43.000Z"
+    },
+    {
+      "id": "41ae403add6b4f29",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T14:00:00.000Z"
+    },
+    {
+      "id": "a2177f2fff39551f",
+      "title": "A24’s reputation is on the line with the SCP Foundation movie",
+      "description": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the backlash started, and V/H/S: SCP already appears to be on s",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A24-SCP-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T12:45:48.000Z"
+    },
+    {
+      "id": "26826fb2e4a29e98",
+      "title": "A great new video game movie",
+      "description": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) \nThis week, I flew out to Los Angeles to try on and write about Snap's Sp",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T12:00:00.000Z"
+    },
+    {
+      "id": "a8faa8ae6dc13277",
+      "title": "The hidden monopoly behind your TI graphing calculator",
+      "description": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. \nIn the next episode of Version History, David Pierce is joined by The Verge's Nilay Patel and Victoria Song to tell the ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRH_TI84_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T12:00:00.000Z"
+    },
+    {
+      "id": "7041e05dc8f9f0ba",
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "description": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \n\"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T12:00:00.000Z"
+    },
+    {
+      "id": "326a2600fbaa97f2",
+      "title": "All roads lead to cable",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T12:00:00.000Z"
+    },
+    {
       "id": "9e842bf8f2a1faa8",
       "title": "iOS 27 makes your iPhone faster in these 30+ ways",
       "description": "iOS 27 is now available to everyone, and one of the big changes is that it makes your iPhone a lot faster. In fact, Apple has outlined more than 30 ways in which your iPhone will be faster after you update.\nmore…",
@@ -145,24 +260,14 @@
       "publishedAt": "2026-09-19T15:00:00.000Z"
     },
     {
-      "id": "52e6d0291030465d",
-      "title": "The colorful, unique Hyte X50 PC case is $50 off",
-      "description": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are up",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Hyte-X50-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T15:00:00.000Z"
-    },
-    {
       "id": "253d7c763a3a5f9f",
       "title": "Apple Watch Ultra 4 Sees First Discount After Launch, Now $779.99 on Amazon",
-      "description": "The new Apple Watch Ultra 4 just launched yesterday, and Amazon is offering the first cash discounts on select models for the first time since their launch. You can get the Apple Watch Ultra 4 in Natural with Translucent Gray Ocean Band for $779.99, down from $799.00.\r\n\r\nNote: MacRumors is an affili",
+      "description": "The new Apple Watch Ultra 4 just launched yesterday, and Amazon is offering the first cash discounts on select models for the first time since their launch. You can get the Apple Watch Ultra 4 for $779.99, down from $799.00.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When",
       "image": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
       "url": "https://www.macrumors.com/2026/09/19/apple-watch-ultra-4-launch-discounts/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-19T14:46:30.000Z"
+      "publishedAt": "2026-09-19T14:46:21.000Z"
     },
     {
       "id": "7cceb2152c9ad8d2",
@@ -177,123 +282,14 @@
     {
       "id": "f1cbd95a176a3ef0",
       "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
       "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "id": "1df882cafe3c64fa",
-      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-      "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "id": "8bcae3c26e947b57",
-      "title": "Our top iPhone 18 Pro accessories to upgrade your setup [Updated]",
-      "description": "We are taking look at some of the iPhone 18 Pro accessories we are picking up for ourselves this year before Friday’s delivery day. If you ask me Apple’s AirTag 2 and a fresh set of AirPods Pro 3 (or AirPods 5) are the best accessories you can buy for your new iPhone 18 Pro, never mind the world’s g",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/19/best-iphone-18-pro-accessories/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T13:57:00.000Z"
-    },
-    {
-      "id": "91eb6daad55cad12",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
-    },
-    {
-      "id": "46e217eef3a865f8",
-      "title": "It’s not just LG. Every TV company is spying on you",
-      "description": "The TV in your living room knows more about you than you realize. | Photo by John Higgins / The Verge\t\n\nThe TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio e",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
-    },
-    {
-      "id": "6e9cefa67c798146",
-      "title": "The AI regulation smackdown isn’t over",
-      "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
-    },
-    {
-      "id": "a4bc420a7aed4978",
-      "title": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
-      "description": "All of Apple's products introduced at last week's event with the exception of the iPhone Duo are now available, with the iPhone 18 Pro and Pro Max, Apple Watch Series 12 and Ultra 4, and AirPods 5 all launching on Friday.\r\n\r\n\r\nWhile new hardware is always a welcome arrival, users of existing hardwar",
-      "image": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-19.jpg",
-      "url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
-    },
-    {
-      "id": "6811c4b588eadcc8",
-      "title": "Apple @ Work: Enterprise oassword management is still hard, and Dashlane’s new Vault Enforcement aims to fix it",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/19/apple-work-password-management-is-still-hard-and-dashlanes-new-vault-enforcement-admits-it/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
-    },
-    {
-      "id": "94dc7228ec380dcf",
-      "title": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
-      "description": "Your weekend Apple deals have arrived, much like the first wave of iPhone 18 Pro orders and all of the discounts we are tracking on cases and accessories as part of Amazon’s early fall Prime Day deals. Those offers join a $50 price drop on AirPods Pro 3, and the $100 discount AirPods Max 2. \nAlongsi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Weekend-deals-AirPods-Series-12-MacBook.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/19/apple-weekend-deals-airpods-apple-watch/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T12:01:56.000Z"
-    },
-    {
-      "id": "7d60a4c4b796bdf0",
-      "title": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
-      "description": "TechInsights has published one of the first in-depth iPhone 18 Pro Max teardowns. Most notably, the teardown confirms that the iPhone 18 Pro Max sold in the United States still uses a Qualcomm modem.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-41.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T11:45:46.000Z"
-    },
-    {
-      "id": "9f47efda3cde98be",
-      "title": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
-      "description": "The iPhone 18 Pro Max offers a huge jump in battery life, partly because the battery itself is physically larger.\nIn a new support document published today, Apple says the iPhone 18 Pro Max has such a big battery that it has additional shipping requirements.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-max-ship.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T11:10:57.000Z"
-    },
-    {
-      "id": "89a6042de8df1e4e",
-      "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
-      "description": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo.\r\n\r\n\r\nThe ‌iPhone Duo‌ uses a matte nano-texture display, which is meant to cut down on glare and minimize the visibility of the crease. When asked if the ‌iPhone Duo‌'s cr",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
-      "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T04:51:11.000Z"
     }
   ],
-  "lastUpdated": "2026-09-20T06:03:03.809Z",
+  "lastUpdated": "2026-09-20T18:03:05.163Z",
   "sources": [
     "TechCrunch",
     "The Verge",
