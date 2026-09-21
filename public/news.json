@@ -1,6 +1,161 @@
 {
   "articles": [
     {
+      "id": "ffe773061043704c",
+      "title": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
+      "description": "iFixit today published an iPhone 18 Pro and iPhone 18 Pro Max teardown in both article and video formats, providing a closer look inside the new devices.\r\n\r\n\r\nThe teardown confirms the battery capacities for the eSIM-only models:\r\n\r\niPhone 18 Pro: 4,288 mAh (+0.8% vs. 4,252 mAh for iPhone 17 Pro) \r\n",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Battery.jpg",
+      "url": "https://www.macrumors.com/2026/09/20/ifixit-iphone-18-pro-teardown/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T03:44:59.000Z"
+    },
+    {
+      "id": "1fb5b1661194afb5",
+      "title": "Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes",
+      "description": "Apple laid off a \"handful\" of Apple Fitness+ employees last week, according to Bloomberg's Mark Gurman.\r\n\r\nTags: Apple Fitness Plus, Mark Gurman\nThis article, \"Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "image": "https://images.macrumors.com/article-new/2022/05/apple-fitness-plus-feature-magenta.jpg",
+      "url": "https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T03:00:03.000Z"
+    },
+    {
+      "id": "8047de5828fa923a",
+      "title": "A Shorter Apple Pencil Was Supposed to Launch Alongside iPhone Duo",
+      "description": "A shorter Apple Pencil for the iPhone Duo was in development, but Apple scrapped it due to \"technical problems ahead of mass production,\" according to Bloomberg's Mark Gurman.\r\n\r\ngain support for the existing USB-C version of the Apple Pencil later this year.\nRelated Roundup: iPhone Duo\nTags: Apple ",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
+      "url": "https://www.macrumors.com/2026/09/20/iphone-duo-lacks-shorter-apple-pencil/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T02:47:43.000Z"
+    },
+    {
+      "id": "067c13b354948749",
+      "title": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners",
+      "description": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and the settlement website is now live.\r\n\r\n\r\nApple will pay an estimated $25 per eligible iPhone to eligible customers, who can submit a claim via the settlement website between September 21",
+      "image": "https://images.macrumors.com/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg",
+      "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T02:24:32.000Z"
+    },
+    {
+      "id": "8cd21ce245e7cf2f",
+      "title": "Delayed Apple TV series ‘The Savant’ may finally air next year",
+      "description": "If you cast your mind back to almost a year ago from today, Apple TV was about to launch a new series called The Savant starring Jessica Chastain … until it was pulled from the schedule at the last moment, in the wake of the assassination of political activist Charlie Kirk. \nApple never gave an exac",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/the-savant-coming-later-date.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/20/apple-tv-the-savant-another-release-date/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-20T22:52:35.000Z"
+    },
+    {
+      "id": "dffe45b208ddeacc",
+      "title": "Review: Satechi’s Thunderbolt 5 CubeDock pairs perfectly with the new M6 Mac mini",
+      "description": "Apple just released a new Mac mini late last month, equipped with the new M6 and M5 Pro chips. If you’re looking for a perfect Thunderbolt 5 dock to pair with your new Mac mini (or your current M4/M4 Pro model) – Satechi has a great offering for you.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC01978.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/20/satechi-thunderbolt-5-cubedock-mac-mini-review/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-20T22:29:43.000Z"
+    },
+    {
+      "id": "30820079e631dc9c",
+      "title": "iFixit tears down iPhone 18 Pro, explores variable aperture, finds concerning repair issue",
+      "description": "iFixit has published its traditional teardown of the iPhone 18 Pro, which shows the variable aperture mechanism up close and explores a potential issue involving display repairs. Watch it below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ifixit-18-pro-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/20/ifixit-tears-down-iphone-18-pro-explores-variable-aperture-finds-concerning-repair-issue/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-20T22:02:17.000Z"
+    },
+    {
+      "id": "408486c10f331b5a",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T21:41:08.000Z"
+    },
+    {
+      "id": "1118623e26904513",
+      "title": "No Dogs in Space is back to feed your need for obsessive music history",
+      "description": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0. The fi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/810731213_18454823458185562_8102974567602315903_n.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T20:51:57.000Z"
+    },
+    {
+      "id": "0c6a81aef70c2734",
+      "title": "World model companies are keeping a lot of secrets",
+      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T20:29:07.000Z"
+    },
+    {
+      "id": "ea483776f4db4789",
+      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+      "description": "Many of The Boring Company's announced project have not materialized.",
+      "url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T19:38:48.000Z"
+    },
+    {
+      "id": "4361d680917ccd72",
+      "title": "Is the AI industry really ready to slow down?",
+      "description": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T18:56:04.000Z"
+    },
+    {
+      "id": "fee41b953bce5111",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "description": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also sa",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T18:50:18.000Z"
+    },
+    {
+      "id": "afd0382c697c84ea",
+      "title": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users",
+      "description": "The new version of Siri, Siri AI, launched to the masses this month as part of iOS 27. The new Siri is rolling out gradually to users via a waitlist, and is labelled as a ‘beta’ indicating that Apple still has some work to do in follow-up releases.\nThe new Siri is much better at answering questions ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-20T18:35:12.000Z"
+    },
+    {
+      "id": "747e0164c2b7c846",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "description": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T18:32:52.000Z"
+    },
+    {
+      "id": "8e256fb7bde212e6",
+      "title": "Kojima Productions disputes reports the studio is in trouble",
+      "description": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was driven by a number of factors, including missed de",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25145145/1831287900.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-20T18:15:10.000Z"
+    },
+    {
       "id": "5487421c34353340",
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
@@ -40,7 +195,7 @@
     {
       "id": "08f52dff2a4b859c",
       "title": "A small but growing number of founders are betting on bringing people together offline",
-      "description": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon fo",
+      "description": "On the surface, a game console and a leathercraft school don't appear to have much in common. But both founders think there's money in fostering the kind of connection that technology has eroded over the last couple of decades.",
       "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
       "source": "TechCrunch",
       "category": "Tech News",
@@ -55,15 +210,6 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-09-20T14:38:43.000Z"
-    },
-    {
-      "id": "41ae403add6b4f29",
-      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
-      "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-20T14:00:00.000Z"
     },
     {
       "id": "a2177f2fff39551f",
@@ -144,152 +290,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-09-19T20:46:00.000Z"
-    },
-    {
-      "id": "8b7c870bdb004e31",
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "description": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazin",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T20:44:40.000Z"
-    },
-    {
-      "id": "b3e4f065edc4809d",
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T20:39:13.000Z"
-    },
-    {
-      "id": "57c92b5eda13672b",
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T19:57:47.000Z"
-    },
-    {
-      "id": "bedc976bb3f71fee",
-      "title": "Indie App Spotlight: ‘GasPulse’ lets you keep an eye on gas price trends around you",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIn this day and age, gas prices fluctuate quite a lot. If you want to have a better idea of how things are",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/GasPulse-app.png?w=1600",
-      "url": "https://9to5mac.com/2026/09/19/indie-app-spotlight-gaspulse-lets-you-keep-an-eye-on-gas-price-trends-around-you/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T19:30:00.000Z"
-    },
-    {
-      "id": "e9174bbd0f9c791a",
-      "title": "M6 Pro Chip Result on Geekbench is Likely Fake",
-      "description": "A supposed Geekbench result for an unreleased M6 Pro chip surfaced this week, but it is likely fake.\r\n\r\nMacRumors that he uncovered \"internal inconsistencies\" that lead him to believe that the M6 Pro result might not be legitimate. Bloomberg's Mark Gurman previously reported that Apple plans to skip",
-      "image": "https://images.macrumors.com/article-new/2023/11/apple-silicon-1-feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T17:59:10.000Z"
-    },
-    {
-      "id": "825be6246f9026c4",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T17:30:00.000Z"
-    },
-    {
-      "id": "17ba1d758397d6c6",
-      "title": "Trump treads further on free speech with new journalist bans",
-      "description": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images\t\n\nOn Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever drea",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294614323.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T17:10:21.000Z"
-    },
-    {
-      "id": "1d6a6bd2069ce01d",
-      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
-      "description": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
-      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T17:00:00.000Z"
-    },
-    {
-      "id": "0c603ccffd0111c0",
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in sim",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T15:25:03.000Z"
-    },
-    {
-      "id": "742fffbac0626b07",
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "id": "aeb788758b3cef12",
-      "title": "AI safety conversations have gotten unbelievable",
-      "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "id": "e9400c0cf9d26421",
-      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-      "description": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn\t\n\nAnamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anamanaguchi-2026-Credit-Joshua-Tarn-hires.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "id": "253d7c763a3a5f9f",
-      "title": "Apple Watch Ultra 4 Sees First Discount After Launch, Now $779.99 on Amazon",
-      "description": "The new Apple Watch Ultra 4 just launched yesterday, and Amazon is offering the first cash discounts on select models for the first time since their launch. You can get the Apple Watch Ultra 4 for $779.99, down from $799.00.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/09/19/apple-watch-ultra-4-launch-discounts/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T14:46:21.000Z"
-    },
-    {
-      "id": "7cceb2152c9ad8d2",
-      "title": "Apple Watch Series 12 might finally convince me to switch away from WHOOP",
-      "description": "Earlier this year, I picked up a WHOOP for the very first time. As a longtime Apple Watch user I was looking forward to having a new way of tracking my health stats in a cleaner interface that the Apple Watch wasn’t offering. Now, with Apple Watch Series 12, I’m very convinced to switch back to the ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-health-sensing-system.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/19/heres-why-apple-watch-series-12-may-get-me-to-ditch-whoop/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-19T14:09:00.000Z"
-    },
-    {
-      "id": "f1cbd95a176a3ef0",
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-19T14:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-20T18:03:05.163Z",
+  "lastUpdated": "2026-09-21T06:03:03.344Z",
   "sources": [
     "TechCrunch",
     "The Verge",
