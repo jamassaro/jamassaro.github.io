@@ -1,9 +1,282 @@
 {
   "articles": [
     {
+      "id": "654eb0118e0e4639",
+      "title": "Morphotonics raises €40M to expand its display tech into data centers",
+      "description": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-22T06:00:00.000Z"
+    },
+    {
+      "id": "0a1aa7e5ce843415",
+      "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
+      "description": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 27.2 beta 2. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T02:07:14.000Z"
+    },
+    {
+      "id": "82d3e04c373f33e3",
+      "title": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
+      "description": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used in the case, while also seeking documents related to parts of OpenAI’s hardware R&D. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T01:37:18.000Z"
+    },
+    {
+      "id": "926072d659b8dc2c",
+      "title": "A cut cable disrupted hundreds of flights across the US",
+      "description": "A JetBlue airplane past an FAA air traffic control tower at Philadelphia International Airport (PHL) in Philadelphia, Pennsylvania, US, on Friday, Oct. 24, 2025. JetBlue Airways Corp. is expected to release earnings figures on October 28. Photographer: Ryan Collerd/Bloomberg via Getty Images | Bloom",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242804026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-21T23:48:56.000Z"
+    },
+    {
+      "id": "e505610ed3cfa38a",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-21T23:44:28.000Z"
+    },
+    {
+      "id": "9d4d298c9a62966a",
+      "title": "Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof)",
+      "description": "Despite headlines to the contrary, GM isn’t changing its position on CarPlay and Android Auto support. The automaker is not bringing phone projection support back to any cars from which it has already been removed. Here’s what’s really happening. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/carplay-ios-27-apple-official-site.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/09/21/heres-whats-really-going-on-with-gms-carplay-strategy-or-lack-thereof/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T23:18:47.000Z"
+    },
+    {
+      "id": "f83eb4911d705f8b",
+      "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+      "description": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. \nThe initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-21T23:15:32.000Z"
+    },
+    {
+      "id": "0f7b39b1902438e5",
+      "title": "Apple CEO John Ternus Talks iPhone Duo Design, Siri AI, and Becoming CEO",
+      "description": "Apple CEO John Ternus did an interview with Canal+ talk show Clique following Apple's September event. He discussed the iPhone Duo's design, difficulties Apple ran into when developing it, his plans for Apple, and more.\r\n\r\n\n\r\nOn the design of the ‌iPhone Duo‌, Ternus explained why Apple went with an",
+      "url": "https://www.macrumors.com/2026/09/21/john-ternus-interview-iphone-duo/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T23:12:27.000Z"
+    },
+    {
+      "id": "4e9fe154535b029c",
+      "title": "iPhone users running iOS 27 can no longer downgrade to iOS 26",
+      "description": "Apple today stopped signing iOS 26.6.2, which means iPhone users can no longer downgrade to non-iOS 27 system versions. Here’s why.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/iphone-users-running-ios-27-can-no-longer-downgrade-to-ios-26/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T23:12:03.000Z"
+    },
+    {
+      "id": "c62835b3b825d2b9",
+      "title": "You Can No Longer Downgrade From iOS 27 to iOS 26",
+      "description": "Apple is no longer signing iOS 26.6.2, so if you've upgraded to iOS 27, there is no option to downgrade to a version of iOS 26. ‌iOS 27‌ came out a week ago.\r\n\r\n\r\nSoftware that is \"signed\" can pass a server-side verification check that Apple performs when a new version of iOS is downloaded. If an up",
+      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Warm.jpg",
+      "url": "https://www.macrumors.com/2026/09/21/ios-27-downgrading-impossible/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T22:25:36.000Z"
+    },
+    {
+      "id": "01e6647473149b82",
+      "title": "WhatsApp now lets Apple Watch users react with any emoji",
+      "description": "Following WhatsApp’s initial limited rollout of emoji reactions on the Apple Watch, the app is now rolling out support for the full set of emojis available on watchOS. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/whatsapp-now-lets-apple-watch-users-react-with-any-emoji/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T22:07:49.000Z"
+    },
+    {
+      "id": "d5814ce3e10bfabc",
+      "title": "macOS 27.2 Beta Brings New Volume and Brightness Sliders",
+      "description": "With the second beta of macOS Golden Gate 27.2, Apple updated the look of the volume and brightness sliders when you adjust them with the keyboard.\r\n\r\n\r\nThe new sliders have a segmented bar instead of a plain line, making it clearer how much each key press adjusts volume or brightness. Apple used a ",
+      "image": "https://images.macrumors.com/article-new/2026/09/macos-27-2-new-sliders.jpg",
+      "url": "https://www.macrumors.com/2026/09/21/macos-27-2-slider-design/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T22:04:48.000Z"
+    },
+    {
+      "id": "853225d2763216b2",
+      "title": "iOS 27.2 beta 2 reveals new details about unnanounced iPhone anti-snatching feature",
+      "description": "Apple continues to work on a feature that automatically locks an iPhone when it detects that the device has been snatched from its owner’s hand. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted-locked-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/ios-27-2-beta-2-reveals-new-details-about-unnanounced-iphone-anti-snatching-feature/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T21:53:37.000Z"
+    },
+    {
+      "id": "37435bd4c7e4e9a1",
+      "title": "AI coding platform Bitrig adds iPhone Duo support with interactive 3D simulator",
+      "description": "Following the release of Xcode 27.1 beta 1 last week, Bitrig has added support for building and testing iPhone Duo apps, complete with an interactive 3D simulator that lets developers fold, tilt, rotate, and position the device however they want. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/bitrig-iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/ai-coding-platform-bitrig-adds-iphone-duo-support-with-interactive-3d-simulator/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T21:01:08.000Z"
+    },
+    {
+      "id": "d479c04bebdb1f3c",
+      "title": "9to5Mac Daily: September 21, 2026 – More iPhone 18 Pro, iOS 27.2 news",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/daily-september-21-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T20:59:43.000Z"
+    },
+    {
+      "id": "d44b2355faea4ed3",
+      "title": "California tightens rules on AI data center energy and water use",
+      "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data cen",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-21T20:29:45.000Z"
+    },
+    {
+      "id": "cc1f47595155ec1c",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-21T20:15:58.000Z"
+    },
+    {
+      "id": "9685986fe0023021",
+      "title": "Apple Notes adds a power user feature in iOS 27 that’s rare in other apps",
+      "description": "Apple Notes in iOS 27 adds a variety of new features, including one that power users are sure to appreciate: section links.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T20:13:30.000Z"
+    },
+    {
+      "id": "afa2260cd236c66e",
+      "title": "Our favorite accessories to elevate your new M6 Mac mini and Mac Studio rig",
+      "description": "Apple’s all-new M6 Mac mini, M5 Pro mini, and Mac Studio officially release tomorrow and, alongside the early pre-order deals on most of them, we are taking a look at some of our favorite Mac accessories here today. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Mac-mini-Mac-Studio-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/our-favorite-accessories-new-mac-mini-studio/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T20:06:28.000Z"
+    },
+    {
+      "id": "9debf64eb165a30e",
+      "title": "GM Wants You to Know It Still Plans to Ditch Apple CarPlay in Future EVs",
+      "description": "Recent reports claiming that General Motors is reversing course on its controversial plans to ditch CarPlay in its future EVs appear to be incorrect.\r\n\r\n\r\nAs noted by Joanna Stern, host of the YouTube channel New Things, a GM spokesperson has confirmed that its new software interface that shows CarP",
+      "image": "https://images.macrumors.com/article-new/2026/05/Rivian-Explains-Why-CarPlay-Debate-Will-Become-Completely-Obsolete-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/09/21/gm-stance-on-apple-carplay/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T19:56:49.000Z"
+    },
+    {
+      "id": "13f82839808635cd",
+      "title": "Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
+      "description": "Counterpoint Research says global AI glasses shipments surged 263% during the first half of 2026, with Meta comfortably leading the display-less segment amid growing privacy concerns. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?w=1500",
+      "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T19:55:41.000Z"
+    },
+    {
+      "id": "725515773c19e11f",
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-21T19:25:00.000Z"
+    },
+    {
+      "id": "f509b6e7c50da56d",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-21T19:19:21.000Z"
+    },
+    {
+      "id": "be74e80519a4c1ad",
+      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
+      "description": "Apple released iOS 27 to everyone last week, including a ton of new Siri and Apple Intelligence features. One of the biggest changes here is the addition of an all-new Siri app. This marks the first time that Siri has been pre-installed as a standalone app for iPhone users …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T19:14:24.000Z"
+    },
+    {
+      "id": "06bde1402652f902",
+      "title": "iOS 27.2 reveals new features coming to Apple Music, CarPlay, more",
+      "description": "iOS 27.2 beta 2 arrived today, and so far seems to have minimal user-facing changes. But code for iOS 27.2’s beta releases points to new features in the works for Apple Music, CarPlay Ultra, and more.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-lock-screen-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/ios-27-2-reveals-new-features-coming-to-apple-music-carplay-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T19:01:12.000Z"
+    },
+    {
+      "id": "d05fb810acd687ed",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-21T18:23:05.000Z"
+    },
+    {
+      "id": "2f17841b298d0ebe",
+      "title": "MagSafe Monday: BLAVOR’s solar power bank is built for fall camping trips",
+      "description": "The weather is turning cooler, and it’s time for camping and football tailgates. BLAVOR’s 20000mAh Solar Power Bank is built for this time of year. It has four built-in cables so you can leave your bag at home, a solar panel for recharging, and a wireless pad on top for your iPhone and Apple Watch. ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/solar-batter.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/21/bllavors-solar-power-bank-is-built-for-fall-camping-trips/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T18:11:00.000Z"
+    },
+    {
+      "id": "07e4aedd6e0f6360",
+      "title": "iPhone 14 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
+      "description": "Apple announced the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max earlier this month, arriving four years after the iPhone 14 Pro and iPhone 14 Pro Max. \r\n\r\n\r\nFour generations of changes make for a substantial upgrade, bringing larger displays, an all-new design, improvements to every camera, significantly ",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-14-pro-vs-iphone-18-pro.jpg",
+      "url": "https://www.macrumors.com/guide/iphone-14-pro-vs-18-pro/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-21T18:05:23.000Z"
+    },
+    {
       "id": "fd1ffaab37fcf1ed",
       "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "description": "Muse isn't welcome as a shopper anymore.",
+      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
       "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
       "source": "TechCrunch",
       "category": "Tech News",
@@ -18,285 +291,9 @@
       "source": "MacRumors",
       "category": "Apple News",
       "publishedAt": "2026-09-21T17:48:52.000Z"
-    },
-    {
-      "id": "536b9d44ebb18c15",
-      "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
-      "description": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing from its electric vehicles in 2023. \nNaturally, thi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple_CarPlay_Split_Home_View_Screen_Projections_Trailering_dd9a21.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T17:47:54.000Z"
-    },
-    {
-      "id": "3dda6258a2fd7169",
-      "title": "X will now tell users when governments have forced it to limit their posts",
-      "description": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
-      "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T17:45:35.000Z"
-    },
-    {
-      "id": "7237ef94996bd008",
-      "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-      "description": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger.\nAccording to the proposed consent decree filed with ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T17:42:15.000Z"
-    },
-    {
-      "id": "bd426d9ed259b1bd",
-      "title": "Apple rolls out second Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
-      "description": "Less than a week after releasing macOS 26.7.1 and macOS 15.8.1 RC 1, Apple is now rolling out the second release candidates ahead of their official release. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:30:14.000Z"
-    },
-    {
-      "id": "c578a8aac698f883",
-      "title": "Beta 2 now available for iPadOS 27.2, watchOS 27.2, more",
-      "description": "Last week Apple kicked off a new beta wave for its 27.2 software releases, and today beta 2 is rolling out just five days later for iPadOS 27.2 and more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/beta-2-now-available-for-ipados-27-2-watchos-27-2-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:25:48.000Z"
-    },
-    {
-      "id": "421156843fe73e81",
-      "title": "Apple Seeds Second macOS Golden Gate 27.2 Beta to Developers",
-      "description": "Apple is testing the next macOS Golden Gate update, and developers can download the second ‌macOS Golden Gate‌ 27.2 beta. The second beta comes a week after Apple released the first beta. \r\n\r\n\r\nRegistered developers can download ‌macOS Golden Gate‌ 27.2 by opening up the System Settings app, clickin",
-      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "url": "https://www.macrumors.com/2026/09/21/apple-seeds-macos-27-2-beta-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:23:13.000Z"
-    },
-    {
-      "id": "38e413afc1c93700",
-      "title": "macOS 27.2 Golden Gate beta 2 now available, here’s what to expect",
-      "description": "Developers can now install macOS 27.2 Golden Gate beta 2, ahead of the upcoming official release in a few weeks. Here’s what’s coming.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/macos-27-2-golden-gate-beta-2-now-available-heres-what-to-expect/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:22:29.000Z"
-    },
-    {
-      "id": "e0e1e56e00d50b9a",
-      "title": "Apple Releases Second iOS 27.2 Beta",
-      "description": "Apple today seeded the second beta of an upcoming iOS 27.2 update to developers for testing purposes, with the update coming a week after Apple released the first iOS 27.2 beta. Apple also seeded an iPadOS 27.2 beta.\r\n\r\n\r\nRegistered developers can download the beta updates by opting in under Setting",
-      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "url": "https://www.macrumors.com/2026/09/21/apple-releases-second-ios-27-2-beta/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:21:17.000Z"
-    },
-    {
-      "id": "5b159f0d7eeefedf",
-      "title": "Apple releases second iOS 27.2 developer beta for iPhone",
-      "description": "Apple has released the second iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to everyone. It also leaps over iOS 27.1, which Apple has shown as an iPhone Duo-focused release.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/apple-releases-second-ios-27-2-developer-beta-for-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:20:07.000Z"
-    },
-    {
-      "id": "9049a94060a77e30",
-      "title": "Apple Releases Second watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
-      "description": "Alongside new betas of iOS 27.2, iPadOS 27.2, and macOS Golden Gate 27.2, Apple has released the second betas of watchOS 27.2, tvOS 27.2, and visionOS 27.2. The betas come week after Apple released the first betas. \r\n\r\n\r\nRegistered developers can download the betas through the Settings app on each d",
-      "image": "https://images.macrumors.com/article-new/2025/04/General-visionOS-watchOS-and-tvOS-Betas-Feature-Redux.jpg",
-      "url": "https://www.macrumors.com/2026/09/21/apple-releases-watchos-27-2-beta-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:20:00.000Z"
-    },
-    {
-      "id": "7d26fed6ab2f49ec",
-      "title": "New Mac Mini Reviews: A Good But No Longer 'Insanely Great' Deal",
-      "description": "The first reviews of the new Mac mini with M6 and M5 Pro chip options have been published ahead of the computer launching this Tuesday.\r\n\r\n\r\nWhile the Mac mini now starts at $899 in the U.S., up from just $599 for the previous model when it first launched, WIRED's Luke Larsen said it is \"still a goo",
-      "image": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
-      "url": "https://www.macrumors.com/2026/09/21/mac-mini-m6-m5-pro-reviews/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:08:52.000Z"
-    },
-    {
-      "id": "7697ddd4b7478e3f",
-      "title": "Shopify just released a brand-new Apple TV app with a dashboard for businesses",
-      "description": "It’s not every day that a new Apple TV app arrives for tvOS. Shopify just released Shopcast, bringing a dashboard for businesses to the big screen.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/shopify-just-released-a-brand-new-apple-tv-app-with-a-dashboard-for-businesses/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:05:39.000Z"
-    },
-    {
-      "id": "40d1087c0f86d1a8",
-      "title": "Apple Watch Series 12 and Ultra 4 introduce a new Theater Mode setting",
-      "description": "Apple Watch Series 12 and Ultra 4 include a new Health Sensing System that dramatically improves heart rate data. The new system also includes a new Theater Mode setting that you may want to enable.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-heart-health-sensing.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/21/apple-watch-series-12-and-ultra-4-introduce-a-new-theater-mode-setting/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T16:49:15.000Z"
-    },
-    {
-      "id": "c4b8f26d4a75f080",
-      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-      "description": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
-      "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T16:45:47.000Z"
-    },
-    {
-      "id": "c9343523d4238564",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T16:38:51.000Z"
-    },
-    {
-      "id": "95d47277af048188",
-      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
-      "description": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that p",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ghaul_08cropped.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T16:35:59.000Z"
-    },
-    {
-      "id": "ad6b2a18bb025ed0",
-      "title": "Some iPhone 18 Pro Users Experiencing Face ID Issues",
-      "description": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max began arriving to customers on Friday, and unfortunately some early adopters are experiencing Face ID issues.\r\n\r\n\r\nAccording to a Reddit post spotted by 9to5Mac, Face ID authentication for specific actions such as unlocking a locked app sometimes fails",
-      "image": "https://images.macrumors.com/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
-      "url": "https://www.macrumors.com/2026/09/21/iphone-18-pro-face-id-issues/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T16:23:07.000Z"
-    },
-    {
-      "id": "5b6a4639ab8bed1f",
-      "title": "John Ternus talks CEO offer, AI potential, more in new interview",
-      "description": "In a lengthy new interview with Clique TV, Apple CEO John Ternus answered a range of questions covering what excites him about the future, how technology is used in his family, the offer to become CEO, his views on Vision Pro, and more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/john-ternus-talks-ceo-offer-ai-potential-more-in-new-interview/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T16:17:24.000Z"
-    },
-    {
-      "id": "2b8f249acab6bc7a",
-      "title": "CardPointers updated for iOS 27 with Siri AI, automatic offer syncing, and much more",
-      "description": "I’ve covered CardPointers before at 9to5Mac, highlighting how helpful it is for maximizing credit card rewards and offers. Now, CardPointers 8 has been released with Siri AI integration, new widgets, and much more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Screenshot-2026-09-21-at-12.00.09-PM.png?w=1600",
-      "url": "https://9to5mac.com/2026/09/21/cardpointers-updated-for-ios-27-with-siri-ai-automatic-offer-syncing-and-much-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T16:03:37.000Z"
-    },
-    {
-      "id": "0fa7988a0c8867ad",
-      "title": "Pin Music to the Top of Your Apple Watch Music Library",
-      "description": "If you have an Apple Watch running watchOS 27 and you're an Apple Music subscriber, you can pin music to the top of your library to make it easier to find and play – great for those times when you're in the mood for a specific track, artist, album, or playlist.\r\n\r\nPin [item]. You can also do this fr",
-      "image": "https://images.macrumors.com/article-new/2026/09/pin-music-library.jpeg",
-      "url": "https://www.macrumors.com/how-to/pin-music-apple-watch/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T16:03:12.000Z"
-    },
-    {
-      "id": "1d96fce127dceb07",
-      "title": "John Ternus just gave the best defense yet for Vision Pro",
-      "description": "Apple’s new CEO John Ternus recently sat down for a lengthy, in-depth interview with French outlet Clique TV, and in it he gave the best defense yet for Apple Vision Pro.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Which-new-Apple-products-will-launch-this-year-–-and-which-wont.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/john-ternus-just-gave-the-best-defense-yet-for-vision-pro/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T15:41:46.000Z"
-    },
-    {
-      "id": "50d5e9943cce38d6",
-      "title": "Deals: Apple Watch Ultra 4, AirPods Pro 3, entry Studio Display $240 off, 2026 Mac Studio, more",
-      "description": "Alongside the early fall Prime Day deals at Amazon and the ongoing $50 price drop on AirPods Pro 3, we have another selection of early launch week deals on Apple Watch Ultra 4 to scope out. Those offers also join the Apple refurb store with the most affordable 2026 Studio Display at $240 off, some e",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-4-AirPods-Pro-3-Studio-Display.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/deals-apple-watch-ultra-4-airpods-pro-3-studio-display/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T15:32:22.000Z"
-    },
-    {
-      "id": "a7fcc05280f61290",
-      "title": "Apple Smart Home Display Coming as Soon as Next Month",
-      "description": "Apple could unveil its long-rumored smart home display as soon as October, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nIn the latest edition of his \"Power On\" newsletter, Gurman narrows Apple's launch window after he said in August that the smart home display remained on track to arrive before the en",
-      "image": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T15:30:37.000Z"
-    },
-    {
-      "id": "3ff9edd80fab84cf",
-      "title": "iPhone 18 Pro Face ID bug causing system to crash and reboot for some users",
-      "description": "The iPhone 18 Pro and Pro Max introduces a new smaller Face ID system, with the Infrared camera now hidden behind the screen, near where the time is shown in the status bar.\nIt appears there may be a software glitch with that component in the shipping release of iOS 27. A number of reports from 18 P",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mayo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/iphone-18-pro-face-id-bug-system-reboot/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T15:20:20.000Z"
-    },
-    {
-      "id": "173707c369ab3e83",
-      "title": "Security Bite: iOS 27 now lets apps ask your iPhone if you’re being scammed",
-      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "url": "https://9to5mac.com/2026/09/21/security-bite-ios-27-now-lets-apps-ask-your-iphone-if-youre-being-scammed/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T15:19:16.000Z"
-    },
-    {
-      "id": "64e810be4b99a662",
-      "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-      "description": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since it essentially knocks its price down to ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T15:13:32.000Z"
-    },
-    {
-      "id": "0add5b2da1029ee3",
-      "title": "New Apple Watch Series 12 and Ultra 4 fitness feature is surprisingly motivating",
-      "description": "Apple Watch Series 12 and Ultra 4 include a new fitness-tracking feature: live step tracking on the watch face. Alongside live heart rate data, it’s a surprisingly welcome and motivating change to the new hardware that I’m loving so far.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-step-tracking.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/21/this-new-apple-watch-series-12-and-ultra-4-feature-is-surprisingly-motivating/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T15:07:24.000Z"
-    },
-    {
-      "id": "fa089621092905f6",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "description": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T15:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-21T18:03:44.769Z",
+  "lastUpdated": "2026-09-22T06:02:25.241Z",
   "sources": [
     "TechCrunch",
     "The Verge",
