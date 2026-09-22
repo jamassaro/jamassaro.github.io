@@ -1,299 +1,300 @@
 {
   "articles": [
     {
-      "id": "654eb0118e0e4639",
-      "title": "Morphotonics raises €40M to expand its display tech into data centers",
-      "description": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
-      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "id": "66a55aa3cfce8b97",
+      "title": "OpenAI upgrading ChatGPT and Codex with two more GPT-6 models",
+      "description": "Earlier this month, OpenAI released the first GPT-6 model with Astra. Now GPT-6 is expanding with new GPT-6 Sol and GPT-6 Luna models.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/22/openai-upgrading-chatgpt-and-codex-with-two-more-gpt-6-models/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T18:02:45.000Z"
+    },
+    {
+      "id": "48296459530a4a84",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-22T06:00:00.000Z"
+      "publishedAt": "2026-09-22T18:00:00.000Z"
     },
     {
-      "id": "0a1aa7e5ce843415",
-      "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
-      "description": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 27.2 beta 2. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T02:07:14.000Z"
-    },
-    {
-      "id": "82d3e04c373f33e3",
-      "title": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
-      "description": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used in the case, while also seeking documents related to parts of OpenAI’s hardware R&D. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T01:37:18.000Z"
-    },
-    {
-      "id": "926072d659b8dc2c",
-      "title": "A cut cable disrupted hundreds of flights across the US",
-      "description": "A JetBlue airplane past an FAA air traffic control tower at Philadelphia International Airport (PHL) in Philadelphia, Pennsylvania, US, on Friday, Oct. 24, 2025. JetBlue Airways Corp. is expected to release earnings figures on October 28. Photographer: Ryan Collerd/Bloomberg via Getty Images | Bloom",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242804026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "id": "81f19d71905b5119",
+      "title": "San Francisco sues Trump Media for selling early access to Trump posts",
+      "description": "San Francisco is suing the Trump Media & Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a \"corrupt business scheme\" t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13102391/1032340378.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-21T23:48:56.000Z"
+      "publishedAt": "2026-09-22T17:43:50.000Z"
     },
     {
-      "id": "e505610ed3cfa38a",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "id": "3b9d149b1ef8c656",
+      "title": "Beats 360 Pre-Orders Open at Amazon With Cushion Kits on Sale, Plus More Beats Deals",
+      "description": "The new Beats 360 headphones were announced today, and can be pre-ordered on Amazon ahead of their launch on Thursday. They're available in Black, Cloud, plus a bundle where you can style the headphones however you'd like thanks to interchangeable ear cushions and headbands.\r\n\r\nNote: MacRumors is an",
+      "image": "https://images.macrumors.com/article-new/2026/09/beats-360-brown.jpeg",
+      "url": "https://www.macrumors.com/2026/09/22/beats-360-pre-orders-open-amazon/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T17:40:24.000Z"
+    },
+    {
+      "id": "133070866c54e151",
+      "title": "iPhone 18 Pro’s best Dynamic Island feature is one Apple barely mentioned",
+      "description": "iPhone 18 Pro is here (read our review), and its Dynamic Island is better than ever. My personal favorite change is something Apple barely mentioned: an improved dual Live Activity mode.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-front-dynamic-island.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/22/iphone-18-pros-best-dynamic-island-feature-is-one-apple-barely-mentioned/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T17:40:08.000Z"
+    },
+    {
+      "id": "9af328664a4c1cc0",
+      "title": "Waymo’s latest expansion strategy: teenagers",
+      "description": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city the offer rides to minors.",
+      "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-21T23:44:28.000Z"
+      "publishedAt": "2026-09-22T17:36:06.000Z"
     },
     {
-      "id": "9d4d298c9a62966a",
-      "title": "Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof)",
-      "description": "Despite headlines to the contrary, GM isn’t changing its position on CarPlay and Android Auto support. The automaker is not bringing phone projection support back to any cars from which it has already been removed. Here’s what’s really happening. \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/carplay-ios-27-apple-official-site.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/09/21/heres-whats-really-going-on-with-gms-carplay-strategy-or-lack-thereof/",
-      "source": "9to5Mac",
+      "id": "6cf45706c1ad223d",
+      "title": "Apple Puts AirTag-Sized AI Pin on Hold",
+      "description": "Apple has paused development on a camera-equipped AI wearable, reports Bloomberg. The device was described as a pin or pendant that could be attached to clothing or worn around the neck.\r\n\r\n\r\nA camera would relay information about the wearer's surroundings to Siri, like the rumored AirPods with came",
+      "image": "https://images.macrumors.com/article-new/2025/07/airtag-prime-day-2.jpeg",
+      "url": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development/",
+      "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-21T23:18:47.000Z"
+      "publishedAt": "2026-09-22T17:23:42.000Z"
     },
     {
-      "id": "f83eb4911d705f8b",
-      "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
-      "description": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. \nThe initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+      "id": "dfe2213f7d6cc373",
+      "title": "Beats 360 Ear Cushion Kits Just $9.99 Each Until the End of October",
+      "description": "Apple today unveiled new Beats 360 over-ear headphones, and it is offering introductory pricing on extra ear cushions.\r\n\r\nPerformance Knit and UltraPlush ear cushions with matching headbands in a variety of colors are available on Apple's online store in the U.S. for just $9.99 each, with customers ",
+      "image": "https://images.macrumors.com/article-new/2026/09/Beats-360-Ear-Cushions.jpg",
+      "url": "https://www.macrumors.com/2026/09/22/beats-360-ear-cushions-special-pricing/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T17:11:31.000Z"
+    },
+    {
+      "id": "e31c94eda748b4af",
+      "title": "Apple is reportedly working on a Whoop-like fitness tracker",
+      "description": "The Whoop MG fitness band. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped c",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/257818_Whoop_5_AKrales_0109.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-21T23:15:32.000Z"
+      "publishedAt": "2026-09-22T17:04:52.000Z"
     },
     {
-      "id": "0f7b39b1902438e5",
-      "title": "Apple CEO John Ternus Talks iPhone Duo Design, Siri AI, and Becoming CEO",
-      "description": "Apple CEO John Ternus did an interview with Canal+ talk show Clique following Apple's September event. He discussed the iPhone Duo's design, difficulties Apple ran into when developing it, his plans for Apple, and more.\r\n\r\n\n\r\nOn the design of the ‌iPhone Duo‌, Ternus explained why Apple went with an",
-      "url": "https://www.macrumors.com/2026/09/21/john-ternus-interview-iphone-duo/",
+      "id": "17d49f27c71b0ada",
+      "title": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
+      "description": "Apple is working on an activity tracker that doesn't have a screen, reports Bloomberg. The screen-free health and fitness device is said to be similar to Whoop's line of bands. Whoop makes wrist-worn trackers with 24/7 monitoring, but without a display.\r\n\r\n\r\nApple has apparently been \"exploring\" the",
+      "image": "https://images.macrumors.com/article-new/2026/09/whoop-band.jpg",
+      "url": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-21T23:12:27.000Z"
+      "publishedAt": "2026-09-22T16:48:45.000Z"
     },
     {
-      "id": "4e9fe154535b029c",
-      "title": "iPhone users running iOS 27 can no longer downgrade to iOS 26",
-      "description": "Apple today stopped signing iOS 26.6.2, which means iPhone users can no longer downgrade to non-iOS 27 system versions. Here’s why.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/iphone-users-running-ios-27-can-no-longer-downgrade-to-ios-26/",
+      "id": "971182299fde901e",
+      "title": "Apple working on Whoop-style screenless fitness tracker, per report",
+      "description": "Apple is developing a screenless health and fitness tracker to compete with Whoop, according to a new report from Bloomberg. The company is reportedly “developing prototypes,” but has yet to decide whether to ultimately release the product.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/AW-vs-WHOOP-6.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/09/22/apple-working-on-whoop-style-screenless-fitness-tracker-per-report/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-21T23:12:03.000Z"
+      "publishedAt": "2026-09-22T16:46:27.000Z"
     },
     {
-      "id": "c62835b3b825d2b9",
-      "title": "You Can No Longer Downgrade From iOS 27 to iOS 26",
-      "description": "Apple is no longer signing iOS 26.6.2, so if you've upgraded to iOS 27, there is no option to downgrade to a version of iOS 26. ‌iOS 27‌ came out a week ago.\r\n\r\n\r\nSoftware that is \"signed\" can pass a server-side verification check that Apple performs when a new version of iOS is downloaded. If an up",
-      "image": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Warm.jpg",
-      "url": "https://www.macrumors.com/2026/09/21/ios-27-downgrading-impossible/",
+      "id": "0232da19256172df",
+      "title": "Anthropic upgrades Claude with new Opus 5.5 model, details here",
+      "description": "Anthropic has released its latest AI model with Claude Opus 5.5. The new version arrives about two months after the previous Opus model upgrade, matching Anthropic’s previous upgrade cadence.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/22/anthropic-upgrades-claude-with-new-opus-5-5-model-details-here/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T16:38:01.000Z"
+    },
+    {
+      "id": "c1d7b242d0668d7c",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-22T16:34:08.000Z"
+    },
+    {
+      "id": "1096bfc02508158b",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-22T16:30:07.000Z"
+    },
+    {
+      "id": "54cfea73f55b52ba",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "description": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox.\nIt's th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-22T16:30:00.000Z"
+    },
+    {
+      "id": "82842c3c15cb024e",
+      "title": "Apple Will Soon Announce an All-New Operating System",
+      "description": "Apple is developing an all-new operating system that is essentially a mix of tvOS, watchOS, and iOS, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nIn his latest Power On newsletter, Gurman reiterated that the operating system will feature a grid of app icons, widgets, and customizable clock faces.\r\n\r\nA",
+      "image": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/09/22/apple-working-on-an-all-new-operating-system/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-21T22:25:36.000Z"
+      "publishedAt": "2026-09-22T16:19:57.000Z"
     },
     {
-      "id": "01e6647473149b82",
-      "title": "WhatsApp now lets Apple Watch users react with any emoji",
-      "description": "Following WhatsApp’s initial limited rollout of emoji reactions on the Apple Watch, the app is now rolling out support for the full set of emojis available on watchOS. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/whatsapp-now-lets-apple-watch-users-react-with-any-emoji/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T22:07:49.000Z"
-    },
-    {
-      "id": "d5814ce3e10bfabc",
-      "title": "macOS 27.2 Beta Brings New Volume and Brightness Sliders",
-      "description": "With the second beta of macOS Golden Gate 27.2, Apple updated the look of the volume and brightness sliders when you adjust them with the keyboard.\r\n\r\n\r\nThe new sliders have a segmented bar instead of a plain line, making it clearer how much each key press adjusts volume or brightness. Apple used a ",
-      "image": "https://images.macrumors.com/article-new/2026/09/macos-27-2-new-sliders.jpg",
-      "url": "https://www.macrumors.com/2026/09/21/macos-27-2-slider-design/",
+      "id": "80642536dbf3f612",
+      "title": "Apple Watch Series 10 vs. Series 12 Buyer's Guide: Should You Upgrade?",
+      "description": "The Apple Watch Series 12 is now available, two years after the Series 10 introduced the current thinner design. But is it worth upgrading?\r\n\r\n\r\nWhile last year's Series 11 brought just four changes, the Series 12 is a much more substantial update, with a new chip, twice as much RAM, redesigned heal",
+      "image": "https://images.macrumors.com/article-new/2023/08/apple-watch-series-10-gold-titanium.jpg",
+      "url": "https://www.macrumors.com/guide/apple-watch-series-10-vs-12/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-21T22:04:48.000Z"
+      "publishedAt": "2026-09-22T16:13:36.000Z"
     },
     {
-      "id": "853225d2763216b2",
-      "title": "iOS 27.2 beta 2 reveals new details about unnanounced iPhone anti-snatching feature",
-      "description": "Apple continues to work on a feature that automatically locks an iPhone when it detects that the device has been snatched from its owner’s hand. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted-locked-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/ios-27-2-beta-2-reveals-new-details-about-unnanounced-iphone-anti-snatching-feature/",
+      "id": "ebb23382b209e25f",
+      "title": "Rivian’s R2 beat its own climate goals four years early",
+      "description": "Rivian always planned for its all-important R2 vehicle to be less expensive than its pricey R1 predecessors, but also less polluting. The production process for the R2 would rely on more renewable energy, and the vehicle itself would feature more recycled and biodegradable materials than the models ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0022.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/998762/rivian-r2-climate-impact-carbon-lifecycle-half",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-22T16:03:45.000Z"
+    },
+    {
+      "id": "8eb685c3101e150b",
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "description": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the po",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-22T16:01:10.000Z"
+    },
+    {
+      "id": "1c2c909f2bec7a5f",
+      "title": "Apple's Smart Glasses to Enter a Rapidly Growing Market",
+      "description": "Apple's first smart glasses could arrive in a rapidly expanding market, with worldwide AI glasses shipments increasing 263% year-over-year during the first half of 2026, according to Counterpoint Research.\r\n\r\n\r\nThe figures are particularly relevant for Apple because display-less products accounted f",
+      "image": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/09/22/apple-smart-glasses-to-enter-growing-market/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T15:54:20.000Z"
+    },
+    {
+      "id": "e7bffc267cd30964",
+      "title": "Stolen passwords are exposing America’s water providers to hackers",
+      "description": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+      "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-22T15:50:58.000Z"
+    },
+    {
+      "id": "25d51c9ea954b014",
+      "title": "Apple Event This October? These 7 New Products Expected Next Month",
+      "description": "As usual, September has been a very busy month for Apple, with the company unveiling the iPhone 18 Pro, iPhone Duo, AirPods 5, Apple Watch Series 12, Apple Watch Ultra 4, Beats 360, and more. Nevertheless, Apple reportedly still has many more products to release later this year, including a new iPad",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Event-This-October.jpeg",
+      "url": "https://www.macrumors.com/2026/09/22/apple-event-october-2026-what-to-expect/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T15:40:38.000Z"
+    },
+    {
+      "id": "e63927626c7bb032",
+      "title": "Deals: M5 MacBook Air up to $300 off, M4 iPad Air $100+ off, AirPods Pro 3, Studio Display, more",
+      "description": "Joining the ongoing $50 price drop on AirPods Pro and the all-new Beats 360 headphones now available for purchase, today’s 9to5Toys Lunch Break is headlined by some solid M5 MacBook Air deals. Amazon has select mid-range 13-inch M5 MacBook Air models at $150 off and the early Amazon fall Prime Day d",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Macbook-Air-M5-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/22/deals-macbook-air-ipad-air-airpods-pro-3-studio-display/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-21T21:53:37.000Z"
+      "publishedAt": "2026-09-22T15:28:49.000Z"
     },
     {
-      "id": "37435bd4c7e4e9a1",
-      "title": "AI coding platform Bitrig adds iPhone Duo support with interactive 3D simulator",
-      "description": "Following the release of Xcode 27.1 beta 1 last week, Bitrig has added support for building and testing iPhone Duo apps, complete with an interactive 3D simulator that lets developers fold, tilt, rotate, and position the device however they want. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/bitrig-iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/ai-coding-platform-bitrig-adds-iphone-duo-support-with-interactive-3d-simulator/",
+      "id": "7360f4141eee6340",
+      "title": "Here’s how iPhone Duo and iPad mini compare in size",
+      "description": "iPhone Duo is just a few weeks away, and as a longtime fan of the iPad mini I’m excited to see how it replicates the iPad experience when unfolded. Here’s how iPhone Duo’s folding screen compares to the size of the iPad mini.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-ipad-mini-comparison.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/22/heres-how-iphone-duo-and-ipad-mini-compare-in-size/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-21T21:01:08.000Z"
+      "publishedAt": "2026-09-22T15:28:35.000Z"
     },
     {
-      "id": "d479c04bebdb1f3c",
-      "title": "9to5Mac Daily: September 21, 2026 – More iPhone 18 Pro, iOS 27.2 news",
+      "id": "eb853b265eea5c83",
+      "title": "Massive Discounts Hit 2026 MacBook Pro, Save Up to $600 on Amazon",
+      "description": "Amazon has big discounts on the M5 Pro and M5 Max MacBook Pro this week, with up to $600 off select models. This time around, the best deals can be found on the 16-inch MacBook Pro models, although you'll find a few notable markdowns on 14-inch devices as well.\r\n\r\nNote: MacRumors is an affiliate par",
+      "image": "https://images.macrumors.com/article-new/2026/05/macbook-pro-m5-pro-pink.jpeg",
+      "url": "https://www.macrumors.com/2026/09/22/2026-macbook-pro-600-off/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T15:22:25.000Z"
+    },
+    {
+      "id": "66296f2ab229593a",
+      "title": "9to5Mac Daily: September 22, 2026 – M6 Mac mini tidbits, Apple Fitness+ future",
       "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/daily-september-21-2026/",
+      "url": "https://9to5mac.com/2026/09/22/daily-september-22-2026/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-21T20:59:43.000Z"
+      "publishedAt": "2026-09-22T15:19:03.000Z"
     },
     {
-      "id": "d44b2355faea4ed3",
-      "title": "California tightens rules on AI data center energy and water use",
-      "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data cen",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T20:29:45.000Z"
+      "id": "7399d1b83dce8964",
+      "title": "Brazil court tells Apple to add age checks for casino app purchases",
+      "description": "A Brazilian court has ordered Apple to tighten age controls around a casino-style app on the App Store, including requiring age verification before making in-app purchases. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/brazil-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/22/brazil-court-tells-apple-to-add-age-checks-for-casino-app-purchases/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-22T15:09:20.000Z"
     },
     {
-      "id": "cc1f47595155ec1c",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "id": "5e88954423d941d3",
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+      "description": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+      "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-21T20:15:58.000Z"
+      "publishedAt": "2026-09-22T15:00:00.000Z"
     },
     {
-      "id": "9685986fe0023021",
-      "title": "Apple Notes adds a power user feature in iOS 27 that’s rare in other apps",
-      "description": "Apple Notes in iOS 27 adds a variety of new features, including one that power users are sure to appreciate: section links.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T20:13:30.000Z"
-    },
-    {
-      "id": "afa2260cd236c66e",
-      "title": "Our favorite accessories to elevate your new M6 Mac mini and Mac Studio rig",
-      "description": "Apple’s all-new M6 Mac mini, M5 Pro mini, and Mac Studio officially release tomorrow and, alongside the early pre-order deals on most of them, we are taking a look at some of our favorite Mac accessories here today. \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Mac-mini-Mac-Studio-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/our-favorite-accessories-new-mac-mini-studio/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T20:06:28.000Z"
-    },
-    {
-      "id": "9debf64eb165a30e",
-      "title": "GM Wants You to Know It Still Plans to Ditch Apple CarPlay in Future EVs",
-      "description": "Recent reports claiming that General Motors is reversing course on its controversial plans to ditch CarPlay in its future EVs appear to be incorrect.\r\n\r\n\r\nAs noted by Joanna Stern, host of the YouTube channel New Things, a GM spokesperson has confirmed that its new software interface that shows CarP",
-      "image": "https://images.macrumors.com/article-new/2026/05/Rivian-Explains-Why-CarPlay-Debate-Will-Become-Completely-Obsolete-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/21/gm-stance-on-apple-carplay/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T19:56:49.000Z"
-    },
-    {
-      "id": "13f82839808635cd",
-      "title": "Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
-      "description": "Counterpoint Research says global AI glasses shipments surged 263% during the first half of 2026, with Meta comfortably leading the display-less segment amid growing privacy concerns. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?w=1500",
-      "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T19:55:41.000Z"
-    },
-    {
-      "id": "725515773c19e11f",
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "id": "bfdf68d38203f64d",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-21T19:25:00.000Z"
+      "publishedAt": "2026-09-22T15:00:00.000Z"
     },
     {
-      "id": "f509b6e7c50da56d",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "id": "b3976cef5c070111",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-21T19:19:21.000Z"
-    },
-    {
-      "id": "be74e80519a4c1ad",
-      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
-      "description": "Apple released iOS 27 to everyone last week, including a ton of new Siri and Apple Intelligence features. One of the biggest changes here is the addition of an all-new Siri app. This marks the first time that Siri has been pre-installed as a standalone app for iPhone users …\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T19:14:24.000Z"
-    },
-    {
-      "id": "06bde1402652f902",
-      "title": "iOS 27.2 reveals new features coming to Apple Music, CarPlay, more",
-      "description": "iOS 27.2 beta 2 arrived today, and so far seems to have minimal user-facing changes. But code for iOS 27.2’s beta releases points to new features in the works for Apple Music, CarPlay Ultra, and more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-lock-screen-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/ios-27-2-reveals-new-features-coming-to-apple-music-carplay-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T19:01:12.000Z"
-    },
-    {
-      "id": "d05fb810acd687ed",
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
-      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T18:23:05.000Z"
-    },
-    {
-      "id": "2f17841b298d0ebe",
-      "title": "MagSafe Monday: BLAVOR’s solar power bank is built for fall camping trips",
-      "description": "The weather is turning cooler, and it’s time for camping and football tailgates. BLAVOR’s 20000mAh Solar Power Bank is built for this time of year. It has four built-in cables so you can leave your bag at home, a solar panel for recharging, and a wireless pad on top for your iPhone and Apple Watch. ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/solar-batter.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/21/bllavors-solar-power-bank-is-built-for-fall-camping-trips/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T18:11:00.000Z"
-    },
-    {
-      "id": "07e4aedd6e0f6360",
-      "title": "iPhone 14 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
-      "description": "Apple announced the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max earlier this month, arriving four years after the iPhone 14 Pro and iPhone 14 Pro Max. \r\n\r\n\r\nFour generations of changes make for a substantial upgrade, bringing larger displays, an all-new design, improvements to every camera, significantly ",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-14-pro-vs-iphone-18-pro.jpg",
-      "url": "https://www.macrumors.com/guide/iphone-14-pro-vs-18-pro/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T18:05:23.000Z"
-    },
-    {
-      "id": "fd1ffaab37fcf1ed",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-21T17:55:18.000Z"
-    },
-    {
-      "id": "94a767c4c454f353",
-      "title": "M4 iPad Air Now Starting at $649 on Amazon, Save Up to $149",
-      "description": "Amazon this week has multiple discounts on the M4 iPad Air, providing up to $149 off these 2026 models. These remain the best prices we've seen in the wake of Apple's summer price hikes, and many deals are being matched at Best Buy.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you cl",
-      "image": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
-      "url": "https://www.macrumors.com/2026/09/21/m4-ipad-air-149-off/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-21T17:48:52.000Z"
+      "publishedAt": "2026-09-22T15:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-22T06:02:25.241Z",
+  "lastUpdated": "2026-09-22T18:03:07.722Z",
   "sources": [
     "TechCrunch",
     "The Verge",
