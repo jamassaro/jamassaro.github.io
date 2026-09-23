@@ -1,43 +1,13 @@
 {
-  "executiveSummary": "Recent tech news highlights significant advancements in AI and ML, with notable releases of new Apple products and emerging trends in smart glasses and autonomous systems. Notable industry shifts and supply chain issues also make headlines.",
-  "takeaways": [
-    {
-      "title": "AI model upgrades",
-      "description": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance, according to TechCrunch."
-    },
-    {
-      "title": "Apple hardware releases",
-      "description": "Apple is developing an all-new operating system and a screenless fitness tracker, with the latter reportedly similar to Whoop's line of bands."
-    },
-    {
-      "title": "Smart glasses and autonomous systems",
-      "description": "Apple's first smart glasses could arrive in a rapidly growing market, with worldwide AI glasses shipments increasing 263% year-over-year."
-    }
-  ],
-  "trends": [
-    "AI model upgrades",
-    "Apple hardware releases",
-    "Smart glasses and autonomous systems",
-    "Industry shifts",
-    "Supply chain issues"
-  ],
-  "worthWatching": [
-    "The development of AI models with stricter safeguards for cybersecurity, as seen in Anthropic's Claude Opus 5.5 model."
-  ],
-  "engineeringPerspective": [
-    "The potential for AI-powered smart glasses to revolutionize the way we interact with technology, with Apple's development of a screenless fitness tracker.",
-    "The importance of securing AI systems against rogue hacking incidents, as highlighted by Anthropic's efforts in improving the security of their models."
-  ],
+  "generatedAt": "2026-09-23T06:05:29.046Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "Apple",
-      "AI",
-      "ML",
-      "Smart glasses",
-      "Autonomous systems"
-    ]
-  },
-  "generatedAt": "2026-09-22T18:05:40.227Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
