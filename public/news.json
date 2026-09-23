@@ -1,302 +1,294 @@
 {
   "articles": [
     {
-      "id": "ef834906b35a561a",
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "id": "8527c09c863d8360",
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. \n",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T18:00:00.000Z"
+    },
+    {
+      "id": "dec836358e20cce2",
+      "title": "The old cybersecurity model is breaking",
+      "description": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies lik",
+      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-23T04:59:08.000Z"
+      "publishedAt": "2026-09-23T17:44:02.000Z"
     },
     {
-      "id": "abaa32cba48359a0",
-      "title": "Discord’s age verification era is upon us, despite community backlash",
-      "description": "According to Discord, 90% of users will not have to verify their age.",
-      "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+      "id": "c995a963cd33a0a5",
+      "title": "iOS 27.2: New features, release date, more",
+      "description": "Apple has kicked off beta testing of iOS 27.2, and the update brings several notable changes and new features. Here’s everything you need to know about iOS 27.2, which will likely be released to iPhone users as soon as next month.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27.2-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/23/ios-27-2-new-features-release-date/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-23T17:41:42.000Z"
+    },
+    {
+      "id": "74f469fef566ea2e",
+      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "description": "The Amazon-owned company launched an investigation after a worker submitted an OSHA complaint.",
+      "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-23T03:31:12.000Z"
+      "publishedAt": "2026-09-23T17:28:38.000Z"
     },
     {
-      "id": "4343e6caa8ce828d",
-      "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
-      "description": "As confirmed by the website \"Expand Mac mini,\" NAND storage in the new Mac mini models with the M6 and M5 Pro chips is soldered to the logic board, whereas the previous models with the M4 and M4 Pro chips have removable storage that can be upgraded.\r\n\r\n\r\nIn other words, the new Mac mini does not sup",
-      "image": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
-      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
+      "id": "7c6dcbde4f5eb145",
+      "title": "OpenAI just upgraded ChatGPT Voice in three ways",
+      "description": "Talking to ChatGPT is getting better in three ways starting today. OpenAI is rolling out a collection of improvements to how ChatGPT Voice mode works. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/23/openai-just-upgraded-chatgpt-voice-in-three-ways/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-23T17:24:11.000Z"
+    },
+    {
+      "id": "1bc384210b1e6b63",
+      "title": "Here’s what Siri AI looks like on HomePod, per leak",
+      "description": "All signs point to Siri AI coming to HomePod soon via new hardware, and leaker pdfu today shared evidence of what the new Siri could look like on a HomePod.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-23T17:17:24.000Z"
+    },
+    {
+      "id": "ab46708f9b608101",
+      "title": "AirTag 2 4-Pack Hits $79.99 on Amazon, Matching Record Low",
+      "description": "Apple's AirTag 2 has returned to $79.99 this week on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a match of the record low price for the accessory.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a s",
+      "image": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
+      "url": "https://www.macrumors.com/2026/09/23/airtag-2-4-pack-hits-79-99/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-23T03:23:19.000Z"
+      "publishedAt": "2026-09-23T17:13:12.000Z"
     },
     {
-      "id": "ad78afe91bf4b74a",
-      "title": "Apple Card Savings Account's Interest Rate Just Went Up",
-      "description": "The annual percentage yield (APY) for the Apple Card's savings account increased from 3.4% to 3.5% today.\r\n\r\nIf you deposited $1,000 and made no withdrawals for one year, you would earn $35 in interest at the current APY.\r\n\r\nTag: Apple Card\nThis article, \"Apple Card Savings Account's Interest Rate J",
-      "image": "https://images.macrumors.com/article-new/2024/12/apple-card-savings-account-feature-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/22/apple-card-savings-interest-rate-increase/",
+      "id": "fb4e95003ffd51af",
+      "title": "Siri AI Coming to HomePod",
+      "description": "Apple's smarter, more capable version of Siri is expanding to the HomePod, according to details found by code sleuth pdfu. According to pdfu, ‌HomePod‌ Software 27 includes the system behind ‌Siri‌ AI, called \"Linwood,\" along with new status lights in the ‌Siri‌ AI colors.\r\n\r\n\r\nSince ‌HomePod‌ Softw",
+      "image": "https://images.macrumors.com/article-new/2026/06/Siri-AI.jpg",
+      "url": "https://www.macrumors.com/2026/09/23/siri-ai-coming-to-homepod/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-23T02:47:01.000Z"
+      "publishedAt": "2026-09-23T17:04:48.000Z"
     },
     {
-      "id": "ebe03818fb7124c0",
-      "title": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
-      "description": "The first two episodes of “Brothers,” Apple TV’s new comedy series starring Woody Harrelson (Natural Born Killers) and Matthew McConaughey (Interstellar), are now available to subscribers. Watch the trailer below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-woody-harrelson-hug.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/brothers-starring-matthew-mcconaughey-and-woody-harrelson-premieres-on-apple-tv/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-23T01:01:41.000Z"
-    },
-    {
-      "id": "2e2892930540c805",
-      "title": "Public beta debuts for iPadOS 27.2 and more, here’s what’s new",
-      "description": "Apple has a round of new public beta updates rolling out today, including iPadOS 27.2, watchOS 27.2, and more. Here’s what’s new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/public-beta-debuts-for-ipados-27-2-and-more-heres-whats-new/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-23T00:32:42.000Z"
-    },
-    {
-      "id": "1e0de3024098af16",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "description": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\nOn Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI compa",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-23T00:17:17.000Z"
-    },
-    {
-      "id": "a47a5b95cab7e374",
-      "title": "Apple Pay just got even better with four new features and more",
-      "description": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now. \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/apple-pay-is-getting-even-better-with-four-new-features/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T23:57:57.000Z"
-    },
-    {
-      "id": "a8dd91977d26a258",
-      "title": "U.S. government urges Supreme Court to reverse Apple contempt ruling over App Store commission",
-      "description": "Several legal and business groups, in addition to the U.S. government, filed briefs with the Supreme Court this week in the Apple vs. Epic Games lawsuit, urging the justices to reverse at least part of the contempt ruling against Apple. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/u-s-government-urges-supreme-court-to-reverse-apple-contempt-ruling-over-app-store-commission/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T23:43:00.000Z"
-    },
-    {
-      "id": "74ec292e2bc29ebb",
-      "title": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
-      "description": "Apple today seeded the first betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, tvOS 27.2, and watchOS 27.2. The software comes a day after Apple provided the second betas to developers.\r\n\r\n\r\nTo get the new betas, you can sign up on Apple's beta testing website. After you're signed up, the beta",
-      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "url": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T23:32:52.000Z"
-    },
-    {
-      "id": "6f0584eed2ec64d2",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "id": "89f14916a1cc514e",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-22T23:21:49.000Z"
+      "publishedAt": "2026-09-23T17:00:00.000Z"
     },
     {
-      "id": "f52a49558c53b553",
-      "title": "Apple releases first iOS 27.2 public beta with new iPhone Health app",
-      "description": "Six days ago, Apple released iOS 27.2 developer beta 1, skipping over iOS 27.1 beta. Following yesterday’s developer beta 2 release, Apple has now issued the first iOS 27.2 public beta version, with the new iPhone Health app included. Apple has also turned on the ability to schedule and purchase lab",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/apple-releases-first-ios-27-2-public-beta-with-new-iphone-health-app/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T23:06:29.000Z"
-    },
-    {
-      "id": "cb647f66bc023499",
-      "title": "Apple rolls out second RCs for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U: Public]",
-      "description": "Update September 22, 7:04 p.m.: Apple has now rolled out the corresponding public Release Candidates, with the same builds as the second developer RCs.\nLess than a week after releasing macOS 26.7.1 and macOS 15.8.1 RC 1, Apple is now rolling out the second release candidates ahead of their official ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T23:05:25.000Z"
-    },
-    {
-      "id": "e1dbf933deb7afbd",
-      "title": "Apple releases macOS 27.2 Golden Gate public beta 1",
-      "description": "After releasing the second developer beta for macOS 27.2 Golden Gate yesterday, Apple is now rolling out the public beta as well. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/apple-releases-macos-27-2-golden-gate-public-beta-1/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T23:01:35.000Z"
-    },
-    {
-      "id": "4c23e5bb620adb3f",
-      "title": "macOS 27 gives you more control over Liquid Glass",
-      "description": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more.\nmacOS 27 Golden Gate is a huge upgrade over macOS 26 Tahoe, and not just because of t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27-Golden-Gate-Liquid-Glass-Comparison.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/22/macos-27-gives-you-more-control-over-liquid-glass/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T22:47:12.000Z"
-    },
-    {
-      "id": "e96dc9ec5d93a83c",
-      "title": "Paramount will need to release way more movies to make this merger work",
-      "description": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV pro",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB385_PARAMOUNT_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-22T22:26:07.000Z"
-    },
-    {
-      "id": "f30c295f0c4b69ee",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "id": "0d2928f7f4534e8c",
+      "title": "Even Americans who use AI every day are worried about it",
+      "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-22T21:56:43.000Z"
+      "publishedAt": "2026-09-23T16:49:58.000Z"
     },
     {
-      "id": "80d93418e103a9a6",
-      "title": "Apple expands Tap to Pay on iPhone across eight Latin American markets",
-      "description": "Apple today announced that Tap to Pay on iPhone is now available in eight additional Latin American countries, with support from six payment platforms across the region. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tap-to-pay-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/apple-expands-tap-to-pay-on-iphone-across-eight-latin-american-markets/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T21:50:44.000Z"
+      "id": "0eb34987565fed88",
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "description": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294931488.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T16:23:05.000Z"
     },
     {
-      "id": "2e343949980f0c81",
-      "title": "Apple adds RAW support for 11 digital cameras across iPhone, iPad, Mac, and Vision Pro",
-      "description": "Apple today updated its official list of digital camera RAW formats supported across its platforms, adding support for 11 models from several manufacturers. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/200MP-iPhone-camera-rumors-align-on-2028-release.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/apple-adds-raw-support-for-11-digital-cameras-across-iphone-ipad-mac-and-vision-pro/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T21:19:53.000Z"
-    },
-    {
-      "id": "8f0e7f3cbf71a04d",
-      "title": "OpenAI's New GPT-6 Sol and Luna Models Bring Astra Improvements to Cheaper Tiers",
-      "description": "OpenAI today launched GPT–6 Sol and GPT–6 Luna, two new models that follow GPT–6 Astra. OpenAI says the new models were developed using methods similar to Astra's for improvements in professional work, factuality, coding, computer use, and alignment.\r\n\r\n\r\nGPT–6 Sol is for everyday work, and it costs",
-      "image": "https://images.macrumors.com/article-new/2025/12/openai-logo-teal.jpg",
-      "url": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
+      "id": "17df1c2ebae566eb",
+      "title": "Apple Watch Ultra 3 Drops to Record Low $599.97 on Amazon [Updated]",
+      "description": "Amazon has knocked the price of the previous generation Apple Watch Ultra 3 to $599.97, down from $799.00. This $199 markdown is available in the Natural color with Anchor Blue Ocean Band, and as of writing this is the only model we're tracking at this new all-time low price.\r\n\r\nNote: MacRumors is a",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-3-new.jpeg",
+      "url": "https://www.macrumors.com/2026/09/23/apple-watch-ultra-3-599/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-22T20:58:32.000Z"
+      "publishedAt": "2026-09-23T16:09:36.000Z"
     },
     {
-      "id": "d21be011a89f297c",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "description": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices.\nA",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-22T20:52:40.000Z"
-    },
-    {
-      "id": "b578e6f211863b51",
-      "title": "Tim Cook meets EU chief Ursula von der Leyen as bloc pushes new child safety rules",
-      "description": "Keeping with Apple’s pledge that Tim Cook would remain involved in Apple’s government relations around the world after stepping down as CEO, he met this week with Ursula von der Leyen, President of the European Commission. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/tim-cook-meets-eu-chief-ursula-von-der-leyen-as-bloc-pushes-new-child-safety-rules/",
-      "source": "9to5Mac",
+      "id": "c92e1c8365da226b",
+      "title": "iPhone Air vs. iPhone 18 Pro Buyer's Guide: Which Should You Buy?",
+      "description": "The iPhone Air and iPhone 18 Pro are just $100 apart at Apple's current prices, but they offer different advantages. The Air puts a 6.5-inch display in an exceptionally thin, light body. The newer Pro adds a more versatile camera system, longer battery life, and faster performance.\r\n\r\n\r\nThe iPhone A",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-vs-iphone-air.jpg",
+      "url": "https://www.macrumors.com/guide/iphone-air-vs-18-pro/",
+      "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-22T20:40:44.000Z"
+      "publishedAt": "2026-09-23T16:06:28.000Z"
     },
     {
-      "id": "228a4782e7f8c989",
-      "title": "Apple retires the Apple Park Visitor Center’s unique AR experience",
-      "description": "Earlier this summer, Apple closed a portion of the Apple Park Visitor Center as it worked to “improve our store.”\nThat space has now reopened, and the big change is that Apple has removed the augmented reality experience that let visitors use custom iPads to view Apple Park.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/applepark_visitorcenter_opening_ar_crowd_demo_20171117.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/apple-retires-the-apple-park-visitor-centers-unique-ar-experience/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-22T20:27:07.000Z"
-    },
-    {
-      "id": "644aaa7a861548cb",
-      "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
-      "description": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SHOWCAR-SUVSEDAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-22T20:14:54.000Z"
-    },
-    {
-      "id": "9c883760e158c236",
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "id": "bf5f46fc49de02a9",
+      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+      "description": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-22T20:00:00.000Z"
+      "publishedAt": "2026-09-23T16:03:44.000Z"
     },
     {
-      "id": "030d7261a848b932",
-      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-      "description": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs in common. | Image: Qualcomm\t\n\nQualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relativel",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+      "id": "06cf09883e20159c",
+      "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
+      "description": "The LED control display includes a Yeti mascot, because of course it does. | Image: Logitech G\t\n\nThe original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Blue-Yeti-2-USB-mic-hero-black.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-22T20:00:00.000Z"
+      "publishedAt": "2026-09-23T16:01:45.000Z"
     },
     {
-      "id": "24913b13ef9ea412",
-      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-      "description": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola\t\n\nMotorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiti",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/motorola-signature-27-green-hand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+      "id": "6b893e37df2cd05f",
+      "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
+      "description": "The X3 also comes in black. “Lunar eclipse” remains an option for the $179.99 X2. | Image: Logitech\t\n\nThe G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decre",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-22T20:00:00.000Z"
+      "publishedAt": "2026-09-23T16:00:00.000Z"
     },
     {
-      "id": "de718a9a21042aa8",
-      "title": "Apple TV: ‘The Sisters Grimm’ gets season 2 trailer ahead of October premiere",
-      "description": "Apple TV today unveiled the trailer for the upcoming second season of its animated adventure series “The Sisters Grimm.” Watch it below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sisters-grimm.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/22/apple-tv-the-sisters-grimm-gets-season-2-trailer-ahead-of-october-premiere/",
+      "id": "3097d1ad3c1e6edc",
+      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+      "description": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T15:46:57.000Z"
+    },
+    {
+      "id": "b9aa28282bf7b376",
+      "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
+      "description": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the Achievements in a game.\nMythic Achievements appear on screen with a ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T15:45:11.000Z"
+    },
+    {
+      "id": "d6549eabe37fcc6c",
+      "title": "Deals: Apple Watch Ultra 2 clearance $200 off, AirPods, Beats 360 launch discount, iPhone 18 Pro cases, more",
+      "description": "The AirPods Pro 3 deal at $50 off rolls on, Amazon has now brought back its M6 Mac mini and Mac Studio launch deals, and the early fall Prime Day sale has been updated with new discounts. Today’s 9to5Toys Lunch Break also features some deep Amazon all-time low clearance deals on Apple Watch Ultra 3 ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-clearance-Beats-360-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/23/deals-apple-watch-ultra-2-clearance-beats-360/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-22T19:55:56.000Z"
+      "publishedAt": "2026-09-23T15:27:43.000Z"
     },
     {
-      "id": "9c3d0bab555a5ec6",
-      "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
-      "description": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. \nA confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older dev",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/iphone18pro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+      "id": "16510822a48e79da",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T15:19:30.000Z"
+    },
+    {
+      "id": "947091ef317926aa",
+      "title": "Disney+ and Hulu just increased prices, here’s how much",
+      "description": "Disney+ and Hulu have just rolled out price increases for most subscription plans, here are the details on new pricing.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/disney-plus-hulu-app-icons.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/23/disney-and-hulu-just-increased-prices-heres-how-much/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-23T15:04:21.000Z"
+    },
+    {
+      "id": "936864581d351780",
+      "title": "One of the best Metroid games for the Switch is 30 percent off",
+      "description": "Nintendo’s “Customer Appreciation” sale continues through September 26th. It includes discounts on Switch games and accessories, and I thought I’d call out one of my favorite games that’s cheaper than ever. Metroid Prime Remastered is down to $27.99 in digital format for the Switch and Switch 2, and",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/thevergedealsautomaticfeeder.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-22T19:48:08.000Z"
+      "publishedAt": "2026-09-23T15:01:50.000Z"
     },
     {
-      "id": "9f2f16863368d80a",
-      "title": "Apple Park Visitor Center Just Lost an Attraction Offered Since 2017",
-      "description": "Following renovations, the Apple Park Visitor Center in Cupertino, California no longer features a 3D augmented reality model of the Apple Park campus.\r\n\r\n\r\nThe area that housed the 3D model, which was called the Exhibition Space, now has wall-mounted shelves known as \"Avenues\" and new, rounder tabl",
-      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
-      "url": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
-      "source": "MacRumors",
+      "id": "ca72fd94bda9b04f",
+      "title": "This $199 GPS sports watch is repairable, modular, and open-source",
+      "description": "The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP LCD display and up to 10 days of battery life, similar to the Garmin Forerunner ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/UNA-takes-on-Apple-and-Garmin-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T15:01:16.000Z"
+    },
+    {
+      "id": "501f6b83d3570638",
+      "title": "iOS 27.2 makes FaceTime’s best new feature even better",
+      "description": "iOS 27 introduced Dual Capture support for FaceTime, letting you show your front and rear camera views at the same time. And in iOS 27.2, that upgrade is expanding to now support Group FaceTime calls.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/23/ios-27-2-makes-facetimes-best-new-feature-even-better/",
+      "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-22T19:42:26.000Z"
+      "publishedAt": "2026-09-23T14:45:32.000Z"
+    },
+    {
+      "id": "616e7fd42c581e06",
+      "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+      "description": "Eight Sleep said the new pod is 20% faster than the previous generation.",
+      "url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T14:45:00.000Z"
+    },
+    {
+      "id": "6e2f5264a6e27be0",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T14:30:00.000Z"
+    },
+    {
+      "id": "fdff62c983be3a42",
+      "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
+      "description": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
+      "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T14:30:00.000Z"
+    },
+    {
+      "id": "6dc2764b59ba03bf",
+      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+      "description": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T14:30:00.000Z"
+    },
+    {
+      "id": "1e13ae57d0c1119e",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "description": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T14:30:00.000Z"
+    },
+    {
+      "id": "aa185c18b0d98549",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "description": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-23T14:30:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-23T06:02:45.676Z",
+  "lastUpdated": "2026-09-23T18:03:30.281Z",
   "sources": [
     "TechCrunch",
     "The Verge",
