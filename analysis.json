@@ -1,13 +1,33 @@
 {
-  "generatedAt": "2026-09-24T06:05:51.678Z",
-  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
-  "takeaways": [],
-  "trends": [],
-  "worthWatching": [],
-  "engineeringPerspective": [],
+  "executiveSummary": "AI continues to advance, with new products and features emerging across various industries. Apple's latest updates, including iOS 27 and the Apple Watch Ultra 4, showcase the company's focus on AI-powered innovations. Meanwhile, Meta's Muse AI agent and Google's Gemini demonstrate the growing importance of AI in consumer-facing applications.",
+  "takeaways": [
+    {
+      "title": "AI advancements",
+      "description": "AI continues to play a crucial role in various industries, with new products and features emerging. Meta's Muse AI agent and Google's Gemini are examples of AI-powered innovations that are changing the way we interact with technology."
+    }
+  ],
+  "trends": [
+    "AI",
+    "IoT",
+    "Smart Home",
+    "Healthcare",
+    "Gaming"
+  ],
+  "worthWatching": [
+    "The integration of AI in consumer-facing applications is a key trend to watch, as companies like Meta and Google continue to develop and refine their AI-powered technologies."
+  ],
+  "engineeringPerspective": [
+    "The use of machine learning in Apple's iOS 27 parental controls is a notable example of how AI can be applied to improve user experience.",
+    "The development of AI-powered virtual assistants, such as Meta's Muse and Google's Gemini, requires significant expertise in natural language processing and computer vision."
+  ],
   "statistics": {
-    "totalArticles": 0,
-    "totalSources": 0,
-    "mostMentionedTopics": []
-  }
+    "totalArticles": 30,
+    "totalSources": 4,
+    "mostMentionedTopics": [
+      "Apple",
+      "Meta",
+      "Google"
+    ]
+  },
+  "generatedAt": "2026-09-24T18:05:06.944Z"
 }
