@@ -1,6 +1,217 @@
 {
   "articles": [
     {
+      "id": "907541e7a17ce703",
+      "title": "OpenAI accuses Apple of improperly adding new evidence to trade secrets case",
+      "description": "OpenAI and the other defendants in Apple’s trade secret misappropriation lawsuit made a new filing, asking the court to strike two expert declarations and disregard other evidence Apple recently submitted. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/25/openai-accuses-apple-of-improperly-adding-new-evidence-to-trade-secrets-case/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-26T01:14:20.000Z"
+    },
+    {
+      "id": "8fd2c0dba158328e",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-26T01:08:57.000Z"
+    },
+    {
+      "id": "a658ebacd67ba6cc",
+      "title": "macOS 27 adds new Apple Intelligence features to your favorite apps",
+      "description": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more.\nApple has released macOS 27 Golden Gate to the public after several months of beta te",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T23:24:55.000Z"
+    },
+    {
+      "id": "973579986c888d5c",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T23:11:10.000Z"
+    },
+    {
+      "id": "e151a668f40852f9",
+      "title": "Apple’s dimensional drawings offer a fascinating look at its product designs",
+      "description": "Not everyone knows this (and I won’t even pretend that I did), but Apple publishes remarkably detailed dimensional drawings for dozens of its devices to help accessory makers design products around them. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-dimensional-drawings.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T23:07:09.000Z"
+    },
+    {
+      "id": "4e9e5a7fb2443503",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "description": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T23:04:34.000Z"
+    },
+    {
+      "id": "e39f117632b66aaa",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T22:20:47.000Z"
+    },
+    {
+      "id": "1d5d65f36a1e2987",
+      "title": "TestFlight now works in landscape as Apple prepares for iPhone Duo",
+      "description": "Apple updated TestFlight this week with support for landscape orientation, and for macOS 27 Golden Gate’s new resizable iPhone Mirroring window. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/testflight-app.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T22:19:53.000Z"
+    },
+    {
+      "id": "8a22dd6e1455422d",
+      "title": "Apple faces class action over Apple Pay fees charged to card issuers",
+      "description": "U.S. District Judge Jeffrey S. White has certified a class-action lawsuit accusing Apple of charging payment card issuers inflated fees for Apple Pay transactions. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/walmart-apple-pay.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T21:01:42.000Z"
+    },
+    {
+      "id": "bb1dd6e77ee554f2",
+      "title": "Meta opens early access program for new Muse features",
+      "description": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T20:34:53.000Z"
+    },
+    {
+      "id": "4483948f39239614",
+      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+      "description": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T20:33:58.000Z"
+    },
+    {
+      "id": "4e56e453eb18e810",
+      "title": "Apple Music Hall confirms first eight shows, starting with Elton John",
+      "description": "Apple today revealed the first eight shows coming to its new Apple Music Hall in London, with Elton John set to kick things off next week. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/25/apple-music-hall-confirms-first-eight-shows-starting-with-elton-john/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T20:08:16.000Z"
+    },
+    {
+      "id": "7b2c47669431cdaf",
+      "title": "9to5Mac Overtime 083: iPod Shuffle vibes",
+      "description": "The Overtime team discusses Apple’s rumored screenless fitness tracker and explores why it’s so compelling. Fernando also shares his hands-on experience with the iPhone 18 Pro, the new Apple Watch Series 12, and the Apple Watch Ultra 4. Plus, they cover some disappointing news regarding aftermarket ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-083-iPod-Shuffle-vibes.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/25/9to5mac-overtime-083-ipod-shuffle-vibes/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T20:00:00.000Z"
+    },
+    {
+      "id": "6780779cc7d60384",
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "description": "An antitrust lawsuit accusing Apple of blocking tap-to-pay competition is moving forward and will see banks and credit unions able to band together to sue Apple.\r\n\r\n\r\nU.S. District Judge Jeffrey White this week certified a class in the lawsuit. It will include any U.S. entities that issued any payme",
+      "image": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T19:22:29.000Z"
+    },
+    {
+      "id": "ec735eb268656e51",
+      "title": "Apple Card adds new feature in iOS 27 that every card should have",
+      "description": "iOS 27 brings a variety of new features to Apple Wallet, including one exclusive to Apple Card that I wish every card offered: a hub for all recurring transactions.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T19:19:06.000Z"
+    },
+    {
+      "id": "7a913597e136852c",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T19:13:38.000Z"
+    },
+    {
+      "id": "cb9287374cf7c831",
+      "title": "Apple TV has too many good shows on now and I can’t keep up",
+      "description": "Apple TV has been called “the new HBO” for its focus on quality over quantity. But recently, the streamer has starting ramping its lineup of shows I want to watch, and I can’t keep up.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-tv-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/25/apple-tv-has-too-many-good-shows-on-now-and-i-cant-keep-up/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T19:07:36.000Z"
+    },
+    {
+      "id": "362f59223f8bb97a",
+      "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features",
+      "description": "Apple today finally shared release notes for tvOS 27, nearly two weeks after releasing the software update. Many of the new features and changes listed were already known, but we are sharing the notes for the sake of completeness.\r\n\r\n\r\ntvOS 27 was released on Monday, September 14, but the Apple TV d",
+      "image": "https://images.macrumors.com/article-new/2022/10/Apple-TV-2022-Feature-Blue.jpg",
+      "url": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T19:07:10.000Z"
+    },
+    {
+      "id": "d356a5636fa1b301",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T18:48:33.000Z"
+    },
+    {
+      "id": "4cd30b2cc6b7bf8c",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "description": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T18:33:59.000Z"
+    },
+    {
+      "id": "a5ea2b7921342b7d",
+      "title": "Amazon's $199 Discount on Apple Watch Ultra 3 Returns to Help Clear Stock",
+      "description": "Earlier this week, Amazon knocked the price of the previous generation Apple Watch Ultra 3 down to $599.97, from $799.00. This $199 markdown quickly disappeared, but now we're seeing a new Ultra 3 model (Black with Black Ocean Band) hit this new all-time low price.\r\n\r\nNote: MacRumors is an affiliate",
+      "image": "https://images.macrumors.com/article-new/2026/06/apple-watch-ultra-3-prime-day.jpeg",
+      "url": "https://www.macrumors.com/2026/09/25/apple-watch-ultra-3-returns/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-25T18:28:59.000Z"
+    },
+    {
+      "id": "c4af0f56b013c1c9",
+      "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+      "description": "Roku’s new OLED TVs are already marked down. | Image: The Verge\t\n\nRoku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roku-Pro-Series-2026-oled-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T18:18:57.000Z"
+    },
+    {
       "id": "19cf0a0cdf42c8c5",
       "title": "Apple Code Confirms iPad 12 Specs: A19, 8GB RAM, N1, C1X Modem",
       "description": "The next low-cost iPad will be equipped with an A19 chip, C1X modem, N1 networking chip, and 8GB RAM, according to details found in Apple's code by MacRumors contributor Aaron Perris.\r\n\r\n\r\nWe've heard some of these same specifications in prior rumors, so this is more of a confirmation than a new lea",
@@ -21,8 +232,18 @@
       "publishedAt": "2026-09-25T17:56:23.000Z"
     },
     {
-      "id": "da2f1b837c05ffd4",
-      "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+      "id": "bb6c2b1f7149f757",
+      "title": "Phones don’t have lights",
+      "description": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones d",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_0925_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-25T17:42:59.000Z"
+    },
+    {
+      "id": "c1e008f149445aec",
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
       "description": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
       "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
       "source": "TechCrunch",
@@ -66,232 +287,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-09-25T17:24:36.000Z"
-    },
-    {
-      "id": "a13ff8fe6de8502e",
-      "title": "Some iPhone 18 Pro Max Users Experiencing AT&T Cellular Issues",
-      "description": "A subset of iPhone 18 Pro Max users in the U.S. are experiencing issues with AT&T cellular connectivity and/or eSIM provisioning, according to complains across the MacRumors Forums, Reddit, and the Apple Support Community.\r\n\r\n\r\nAffected users are unable to connect to the AT&T network for phone calls",
-      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "url": "https://www.macrumors.com/2026/09/25/iphone-18-pro-max-att-cellular-issues/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T17:07:24.000Z"
-    },
-    {
-      "id": "4d13f8a9d6fac0de",
-      "title": "9to5Mac Daily: September 25, 2026 – New AirPods features, iOS 27.2 tidbits",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/daily-september-25-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T17:06:46.000Z"
-    },
-    {
-      "id": "f30ad41665886b5a",
-      "title": "watchOS 27 upgrades popular Apple Watch face with new options",
-      "description": "Apple Watch offers lots of custom faces to personalize your Watch, and the popular Modular face gets even more versatile in watchOS 27.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-modular-face-s10-12.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/watchos-27-upgrades-popular-apple-watch-face-with-new-options/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T17:05:14.000Z"
-    },
-    {
-      "id": "543fd7b94cf43ef5",
-      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
-      "description": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discov",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22025413/dseifert_201107_4281_0006.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T16:22:05.000Z"
-    },
-    {
-      "id": "3f02ccc4020b6c4b",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T16:16:52.000Z"
-    },
-    {
-      "id": "b29e0863176cea2a",
-      "title": "The MacRumors Show: Tyler Stalman Talks iPhone 18 Pro's Camera",
-      "description": "Photographer and videographer Tyler Stalman joins us on this week's episode of The MacRumors Show to examine whether the iPhone 18 Pro's camera is a compelling reason to upgrade, how its new features affect everyday shooting, and what photographers gain or give up with the iPhone Duo.\r\n\r\nSubscribe t",
-      "url": "https://www.macrumors.com/2026/09/25/the-macrumors-show-tyler-stalman-iphone-18-pro-camera/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T15:58:50.000Z"
-    },
-    {
-      "id": "69993864dd212b4e",
-      "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-      "description": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
-      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T15:52:13.000Z"
-    },
-    {
-      "id": "d1ff070271433187",
-      "title": "Sony and UMG are suing Suno again",
-      "description": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\t\n\nSony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs fr",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T15:51:56.000Z"
-    },
-    {
-      "id": "32b5d44d8331060b",
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "description": "The latest unauthorized agent swarms were discovered by researchers.",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T15:48:14.000Z"
-    },
-    {
-      "id": "4ecd128441a6d4b4",
-      "title": "New iPad mini details revealed in latest leak",
-      "description": "We’ve heard a lot about what to expect from Apple’s next-generation iPad mini, including an OLED display and a more water-resistant design.\nA new leak today says the upcoming iPad mini will also pack some serious power: the new A20 Pro chip.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/new-ipad-mini-details-revealed-in-latest-leak/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T15:40:06.000Z"
-    },
-    {
-      "id": "540d2b515918e734",
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "description": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T15:40:03.000Z"
-    },
-    {
-      "id": "9ed3a6bda8e10741",
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "description": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T15:39:48.000Z"
-    },
-    {
-      "id": "78e82b2bda4404da",
-      "title": "Leaked images reveal new Apple TV 4K, HomePod mini",
-      "description": "Apple is expected to launch new Home products in October, and today via leaked images discovered by MacRumors contributor Aaron Perris, we get our first glimpse at what’s coming.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/leaked-images-reveal-new-apple-tv-4k-homepod-mini/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T15:30:57.000Z"
-    },
-    {
-      "id": "4de53dde9f28369c",
-      "title": "Deals: Mac Studio, AirPods Pro 3, Powerbeats Pro 2, 2-pack Beats cables $14, smart doorbell 60% off, more",
-      "description": "Amazon has now updated the early fall Prime Day sale with new deals, and we are still tracking a solid $50 off AirPods Pro 3, but we are kicking things off today with a $50 discount on the brand new M5 Max Mac Studio. Joining the launch discounts on the new Beats 360 over-ears, we also have Powerbea",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-Pro-Mac-Studio-Beats.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/deals-mac-studio-airpods-pro-3-powerbeats/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T15:28:21.000Z"
-    },
-    {
-      "id": "a098906d286ac6ab",
-      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
-      "description": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
-      "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T15:24:50.000Z"
-    },
-    {
-      "id": "bf09dd09ec4052bf",
-      "title": "iPad Mini With A20 Pro, New HomePod Mini Colors, and New Apple TV 4K All Just Leaked",
-      "description": "MacRumors has just leaked the next iPad mini, HomePod mini, and Apple TV 4K models, all of which are likely to be announced this October. The leaks are based on images from Apple uncovered by MacRumors contributor Aaron Perris.\r\n\r\n\r\nThe most notable iPad mini details revealed in the leaks include an",
-      "image": "https://images.macrumors.com/article-new/2026/09/HomePod-minis-Apple-TV-and-iPad-mini-Leak-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/25/new-ipad-mini-homepod-mini-apple-tv-leaked/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T15:18:34.000Z"
-    },
-    {
-      "id": "30f5f6ba5f71c267",
-      "title": "iPad Mini 8 Leaked: A20 Pro Chip, Landscape Camera, and More",
-      "description": "Apple's next-generation iPad mini will feature the A20 Pro chip, a rearranged front-facing camera, and a new speaker system, leaked code reveals. \r\n\r\n\r\nThe information originates from Apple's own code (spotted by MacRumors contributor Aaron Perris) and also shows clear product images of the new ‌iPa",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPad-mini-7-feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/25/ipad-mini-8-leaked/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T15:18:06.000Z"
-    },
-    {
-      "id": "225369e196c02019",
-      "title": "Exclusive: First Look at HomePod Mini 2 in Three New Colors",
-      "description": "Apple's new HomePod mini will share the same design as the original model and come in five colors, MacRumors has found.\r\n\r\n\r\nThe information originates from Apple's own code (spotted by MacRumors contributor Aaron Perris) and shows clear product images of the new models in all of their colors. The a",
-      "image": "https://images.macrumors.com/article-new/2026/09/HomePod-minis-on-gradient-feature-1-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/25/first-look-at-homepod-mini-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T15:17:25.000Z"
-    },
-    {
-      "id": "ce7563896c1f24f5",
-      "title": "New Apple TV 4K Leaked",
-      "description": "MacRumors contributor Aaron Perris has uncovered an image file from Apple for an unreleased Apple TV 4K, suggesting that a new model will finally be released soon. The image is specifically for an \"Apple TV 4K (4th generation)\" model.\r\n\r\nApple TV 4K (4th generation) image (on a gradient)\n\r\nThe image",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/25/new-apple-tv-4k-leaked/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T15:16:44.000Z"
-    },
-    {
-      "id": "2b38e187da06b57c",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "description": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T15:00:00.000Z"
-    },
-    {
-      "id": "ad5ebd07d874b1f9",
-      "title": "HomeKit Weekly: ULTRALOQ releases its first UWB smart lock that works with Apple Home",
-      "description": "Hands-free smart lock unlocks/entry has always been a bit ahead, marketing-wise, compared to what the technology offers. Location-based auto-unlocks work until they fail for no specific reason, and using a key seems much easier. ULTRALOQ’s new Bolt Mission takes a different approach than most smart ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Bolt-Mission-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/ultraloq-bolt-mission/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T15:00:00.000Z"
-    },
-    {
-      "id": "35d74c509ba40004",
-      "title": "Apple has big October coming for new hardware and software, here’s the lineup",
-      "description": "Apple has a big October ahead, with several major hardware and software launches coming. Here’s everything to expect from Apple in October.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/apple-has-big-october-coming-for-new-hardware-and-software-heres-the-lineup/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T14:44:02.000Z"
-    },
-    {
-      "id": "720107226b51b74a",
-      "title": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
-      "description": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company'",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/cricut1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T14:21:25.000Z"
     }
   ],
-  "lastUpdated": "2026-09-25T18:02:45.171Z",
+  "lastUpdated": "2026-09-26T06:04:37.325Z",
   "sources": [
     "TechCrunch",
     "The Verge",
