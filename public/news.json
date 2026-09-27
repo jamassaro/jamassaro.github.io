@@ -1,6 +1,113 @@
 {
   "articles": [
     {
+      "id": "f52d1610ef57d8a9",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "description": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T17:21:07.000Z"
+    },
+    {
+      "id": "f67d1ab378f2af80",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "description": "\"AI is the devil and I its maker.\"",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T16:30:00.000Z"
+    },
+    {
+      "id": "69910b50a3a4a6dd",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T16:02:00.000Z"
+    },
+    {
+      "id": "4e787e8d209f5031",
+      "title": "Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro",
+      "description": "Amazon has introduced a major discount on the 16-inch MacBook Pro with the M5 Max chip, 32-Core GPU, 36GB RAM, and 2TB SSD, now available for $3,499.00, down from $4,399.00. This is a massive $900 markdown on the high-end MacBook Pro, and it's joining a few other MacBook Pro discounts on Amazon this",
+      "image": "https://images.macrumors.com/article-new/2026/03/m5-pro-macbook-pro-launch-day.jpeg",
+      "url": "https://www.macrumors.com/2026/09/27/2026-macbook-pro-900-off/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-27T15:30:35.000Z"
+    },
+    {
+      "id": "d932774b4a9c60c9",
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T15:00:00.000Z"
+    },
+    {
+      "id": "3e3b50eca0f9894b",
+      "title": "Report: Apple working on new Vision Pro, with different form factors on the table",
+      "description": "After the release of Vision Pro, everyone wanted to know how long it would be before the company could release a lighter version that isn’t so bulky on your face. For the longest time, we had been looking forward to a so-called Vision Air, codenamed N100. That project was shelved last year, though t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/vision-pro-m50001.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-27T14:47:05.000Z"
+    },
+    {
+      "id": "46dc6320f52afcf7",
+      "title": "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement",
+      "description": "Apple must pay $5.7 billion for infringing on patents held by Taction Technology, a US jury ruled on Friday. The patents relate to Apple’s Taptic Engine, which is the hardware Apple uses to provide haptic feedback for notifications, button presses, and other interactions.\nTaction first filed the law",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/27/apple-hit-with-5-7-billion-verdict-over-taptic-engine-patent-infringement/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-27T12:49:53.000Z"
+    },
+    {
+      "id": "7fb6cca24676a961",
+      "title": "Why OLPC’s $100 laptop never stood a chance",
+      "description": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, were ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VRH_Site_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T12:25:00.000Z"
+    },
+    {
+      "id": "bd8857efb37fa601",
+      "title": "Googlebooks might be the real deal",
+      "description": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) \nThis week, I flew to San Francisco to try out Meta's ne",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T12:00:00.000Z"
+    },
+    {
+      "id": "3bdd3489a6d40ca0",
+      "title": "The smart home graveyard is getting crowded",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. \nHow it starte",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_190131_3100_0022.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T12:00:00.000Z"
+    },
+    {
+      "id": "9128c27f6f0ddb5d",
+      "title": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+      "description": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions we have been using for years. From built-in stands in new burgundy colorways, ultra grippy customiz",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-27T08:24:00.000Z"
+    },
+    {
       "id": "ce4155010249dbbd",
       "title": "These are the best MacBook deals right now: September 2026 Buyer’s Guide",
       "description": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market.\nUnfortunately, Apple just drastically increased its",
@@ -182,115 +289,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-09-26T13:00:00.000Z"
-    },
-    {
-      "id": "0dc37a34ee6b183e",
-      "title": "Weekend Apple deals: Beats 360, AirPods Pro 3, Mac Studio, MacBook Air, more",
-      "description": "Alongside the updated early fall Prime Day sale at Amazon and the ongoing launch deal on the brand new Beats 360 Over-Ear Headphones with the modular Cushion Kit at 80% off, this weekend’s best Apple deals are headlined by the ongoing $50 price drop on AirPods Pro 3. \nJoining the early discounts on ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Apple-deals-of-week.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/26/apple-deals-this-week-best/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-26T12:42:34.000Z"
-    },
-    {
-      "id": "33c24cb645c9c8f9",
-      "title": "Pokémon card resellers have turned collecting into an online blood sport",
-      "description": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not to b",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268781_Pokemon_PARKIN_v3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T12:00:00.000Z"
-    },
-    {
-      "id": "1944d76305954f0d",
-      "title": "watchOS 27: 12 New Things To Check Out on Your Apple Watch",
-      "description": "Apple released watchOS 27 on September 14. The features and changes aren't limited to owners of new Apple Watch Series 12 and Apple Watch Ultra 4 models. If you have an Apple Watch model that supports the latest update, here are 12 features and changes to check out after installation.\r\n\r\n\r\nTo do so,",
-      "image": "https://images.macrumors.com/article-new/2026/06/watchOS-27-Hands-On-Thumb.jpg",
-      "url": "https://www.macrumors.com/guide/watchos-27-new-things-apple-watch/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-26T07:30:06.000Z"
-    },
-    {
-      "id": "ba7d29cf4f9e01e6",
-      "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
-      "description": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessor",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4650.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T07:00:00.000Z"
-    },
-    {
-      "id": "907541e7a17ce703",
-      "title": "OpenAI accuses Apple of improperly adding new evidence to trade secrets case",
-      "description": "OpenAI and the other defendants in Apple’s trade secret misappropriation lawsuit made a new filing, asking the court to strike two expert declarations and disregard other evidence Apple recently submitted. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/openai-accuses-apple-of-improperly-adding-new-evidence-to-trade-secrets-case/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-26T01:14:20.000Z"
-    },
-    {
-      "id": "8fd2c0dba158328e",
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T01:08:57.000Z"
-    },
-    {
-      "id": "a658ebacd67ba6cc",
-      "title": "macOS 27 adds new Apple Intelligence features to your favorite apps",
-      "description": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more.\nApple has released macOS 27 Golden Gate to the public after several months of beta te",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T23:24:55.000Z"
-    },
-    {
-      "id": "973579986c888d5c",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T23:11:10.000Z"
-    },
-    {
-      "id": "e151a668f40852f9",
-      "title": "Apple’s dimensional drawings offer a fascinating look at its product designs",
-      "description": "Not everyone knows this (and I won’t even pretend that I did), but Apple publishes remarkably detailed dimensional drawings for dozens of its devices to help accessory makers design products around them. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-dimensional-drawings.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T23:07:09.000Z"
-    },
-    {
-      "id": "4e9e5a7fb2443503",
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "description": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T23:04:34.000Z"
-    },
-    {
-      "id": "e39f117632b66aaa",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T22:20:47.000Z"
     }
   ],
-  "lastUpdated": "2026-09-27T06:03:10.731Z",
+  "lastUpdated": "2026-09-27T18:02:58.541Z",
   "sources": [
     "TechCrunch",
     "The Verge",
