@@ -1,9 +1,85 @@
 {
   "articles": [
     {
-      "id": "ac65801351288ccb",
-      "title": "Meta says it will run ads for ‘Musk’ documentary after all",
-      "description": "At least one social media company seems to be reversing its stance on whether it will accept advertising for Alex Gibney’s upcoming documentary about Elon Musk.",
+      "id": "ce4155010249dbbd",
+      "title": "These are the best MacBook deals right now: September 2026 Buyer’s Guide",
+      "description": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market.\nUnfortunately, Apple just drastically increased its",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/26/these-are-the-best-macbook-deals/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-27T02:47:28.000Z"
+    },
+    {
+      "id": "08026c78a332dcf2",
+      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T01:40:30.000Z"
+    },
+    {
+      "id": "5f76c8e2f04e12cf",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T01:30:00.000Z"
+    },
+    {
+      "id": "de78f08dc0df3bb1",
+      "title": "Apple hit with $5.7 billion in damages over haptic patents",
+      "description": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based,",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-26T21:30:01.000Z"
+    },
+    {
+      "id": "03c56febe11a257b",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-26T21:02:06.000Z"
+    },
+    {
+      "id": "57052b21e1ac50c4",
+      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "description": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-26T20:24:45.000Z"
+    },
+    {
+      "id": "48266cc16e02be30",
+      "title": "Decap is the man behind the drums behind your favorite song",
+      "description": "Drums on film. | Image: Decap\t\n\nI don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs,",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-26T19:30:00.000Z"
+    },
+    {
+      "id": "1eafbc941eb0fe7c",
+      "title": "Indie App Spotlight: ‘QuillCue’ levels up your Siri AI experience with stored prompts",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\niOS 27 debuted to the public almost two weeks ago, with the flagship feature being Siri AI. While Siri AI ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/QuillCue-app.png?w=1600",
+      "url": "https://9to5mac.com/2026/09/26/indie-app-spotlight-quillcue-siri-ai-prompts/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-26T19:30:00.000Z"
+    },
+    {
+      "id": "2aabb51bfaead4fd",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
       "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
       "source": "TechCrunch",
       "category": "Tech News",
@@ -212,87 +288,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-09-25T22:20:47.000Z"
-    },
-    {
-      "id": "1d5d65f36a1e2987",
-      "title": "TestFlight now works in landscape as Apple prepares for iPhone Duo",
-      "description": "Apple updated TestFlight this week with support for landscape orientation, and for macOS 27 Golden Gate’s new resizable iPhone Mirroring window. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/testflight-app.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T22:19:53.000Z"
-    },
-    {
-      "id": "8a22dd6e1455422d",
-      "title": "Apple faces class action over Apple Pay fees charged to card issuers",
-      "description": "U.S. District Judge Jeffrey S. White has certified a class-action lawsuit accusing Apple of charging payment card issuers inflated fees for Apple Pay transactions. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/walmart-apple-pay.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T21:01:42.000Z"
-    },
-    {
-      "id": "bb1dd6e77ee554f2",
-      "title": "Meta opens early access program for new Muse features",
-      "description": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T20:34:53.000Z"
-    },
-    {
-      "id": "4483948f39239614",
-      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-      "description": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
-      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-25T20:33:58.000Z"
-    },
-    {
-      "id": "4e56e453eb18e810",
-      "title": "Apple Music Hall confirms first eight shows, starting with Elton John",
-      "description": "Apple today revealed the first eight shows coming to its new Apple Music Hall in London, with Elton John set to kick things off next week. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/apple-music-hall-confirms-first-eight-shows-starting-with-elton-john/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T20:08:16.000Z"
-    },
-    {
-      "id": "7b2c47669431cdaf",
-      "title": "9to5Mac Overtime 083: iPod Shuffle vibes",
-      "description": "The Overtime team discusses Apple’s rumored screenless fitness tracker and explores why it’s so compelling. Fernando also shares his hands-on experience with the iPhone 18 Pro, the new Apple Watch Series 12, and the Apple Watch Ultra 4. Plus, they cover some disappointing news regarding aftermarket ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-083-iPod-Shuffle-vibes.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/9to5mac-overtime-083-ipod-shuffle-vibes/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T20:00:00.000Z"
-    },
-    {
-      "id": "6780779cc7d60384",
-      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-      "description": "An antitrust lawsuit accusing Apple of blocking tap-to-pay competition is moving forward and will see banks and credit unions able to band together to sue Apple.\r\n\r\n\r\nU.S. District Judge Jeffrey White this week certified a class in the lawsuit. It will include any U.S. entities that issued any payme",
-      "image": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
-      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T19:22:29.000Z"
-    },
-    {
-      "id": "ec735eb268656e51",
-      "title": "Apple Card adds new feature in iOS 27 that every card should have",
-      "description": "iOS 27 brings a variety of new features to Apple Wallet, including one exclusive to Apple Card that I wish every card offered: a hub for all recurring transactions.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-25T19:19:06.000Z"
     }
   ],
-  "lastUpdated": "2026-09-26T18:03:05.880Z",
+  "lastUpdated": "2026-09-27T06:03:10.731Z",
   "sources": [
     "TechCrunch",
     "The Verge",
