@@ -1,6 +1,93 @@
 {
   "articles": [
     {
+      "id": "ae455e512d673401",
+      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "description": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+      "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T04:30:00.000Z"
+    },
+    {
+      "id": "6c3a71b359caa90c",
+      "title": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on]",
+      "description": "If you’re rocking an iPhone 16 or newer, you might be interested in a Qi2.2 charger to take full advantage of the 25W MagSafe charging speeds that your phone can support. Anker’s new 25W Prime MagSafe 3-in-1 is one of many great options, and it comes in an excellent portable design.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/IMG_1339.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/27/anker-magsafe-travel-sized-3-in-1-charger-qi2/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-28T00:16:20.000Z"
+    },
+    {
+      "id": "31c90a1c633895a8",
+      "title": "iOS 27 makes a great change to Apple Pay on iPhone",
+      "description": "Apple has redesigned the Apple Pay checkout flow in iOS 27 for apps and websites. The changes make it easier to switch between different payment cards and see key details about the order you’re placing.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-pay-ios-27.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/27/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-27T23:46:10.000Z"
+    },
+    {
+      "id": "5193deeacfcacfcf",
+      "title": "Here’s what I’d like to see Apple do right in a screenless fitness tracker",
+      "description": "Last week, Bloomberg reported that Apple is working on a screenless fitness tracker, akin to a WHOOP or Fitbit Air. As someone who’s used the WHOOP for the past 6 months, I do think its a great concept, though there are a few things I’d like to see Apple do better.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/AW-vs-WHOOP-6.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/09/27/apple-rumored-screenless-fitness-tracker-whoop-competitor/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-27T23:01:18.000Z"
+    },
+    {
+      "id": "324f865d21a6679c",
+      "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+      "description": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not graphicall",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T21:59:57.000Z"
+    },
+    {
+      "id": "f2c3142e4235206a",
+      "title": "This is my top feature request for the upcoming A20 Pro iPad mini",
+      "description": "For the past year, we’ve been looking forward to a new iPad mini refresh, and it’s sounding like its just around the corner. A new leak last week from Aaron Perris unveiled that the product should feature an A20 Pro chip and thinner bezels, and we already know it’ll feature OLED and a water resistan",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iPad-mini-7-1.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/09/27/apple-next-ipad-mini-feature-request/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-27T21:38:44.000Z"
+    },
+    {
+      "id": "aba64679e2f122e0",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "description": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T20:46:36.000Z"
+    },
+    {
+      "id": "73304d0b757a0740",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T20:34:28.000Z"
+    },
+    {
+      "id": "231880c33e95b2e2",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-27T19:57:30.000Z"
+    },
+    {
       "id": "f52d1610ef57d8a9",
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
       "description": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden",
@@ -201,97 +288,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-09-26T17:32:35.000Z"
-    },
-    {
-      "id": "86a3f43e19ff5128",
-      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-      "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T17:00:00.000Z"
-    },
-    {
-      "id": "d7b5d8c8bdbb6f9c",
-      "title": "Apple Watch Series 12 one week later: There’s so much more than meets the eye",
-      "description": "When Apple unveiled the Apple Watch Series 12, two features stood out: the new Siri Recap feature, as well as the much improved heart rate monitor. While those two features were part of the reason I was compelled to buy the new Apple Watch, I’ve found myself delighted by much more than just those tw",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC03046.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-26T16:59:27.000Z"
-    },
-    {
-      "id": "6f0359c2f571841c",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "description": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet ac",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T16:34:59.000Z"
-    },
-    {
-      "id": "0cdb23ffe952ccdf",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T14:00:00.000Z"
-    },
-    {
-      "id": "2bc050fc3b4c8e55",
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "description": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.\nMatthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T14:00:00.000Z"
-    },
-    {
-      "id": "29ad027bba2d5665",
-      "title": "These are my favorite iPhone 18 Pro & Pro Max cases so far [Video]",
-      "description": "The new iPhone 18 Pro and 18 Pro Max have been out for a week, and they have been amazing devices to use and test. While the actual footprint and visual design remain unchanged, Apple spiced things up with new colors like Glacier, Burgundy, and a true Deep Black version. These colors are a nice new ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Cases.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/26/these-are-my-favorite-iphone-18-pro-pro-max-cases-so-far-video/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-26T14:00:00.000Z"
-    },
-    {
-      "id": "dbaad94fa53ad800",
-      "title": "Top Stories: Apple Leaks, Siri AI Settlement, and More",
-      "description": "The Apple rumor mill never stops, and this week MacRumors was able to break the news of details on several upcoming products.\r\n\r\n\r\nWe're also still learning more about the just-released iPhone 18 Pro and Pro Max plus the upcoming iPhone Duo, while this week saw the debut of new Beats 360 headphones ",
-      "image": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-26.jpg",
-      "url": "https://www.macrumors.com/2026/09/26/top-stories-apple-leaks-siri-ai-settlement/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-26T13:00:12.000Z"
-    },
-    {
-      "id": "991e5bbca5248bcd",
-      "title": "Control Resonant is a great game — it’s even better when you read everything",
-      "description": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optional in Resonant, but it's where some of the game's",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Story_04.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T13:00:00.000Z"
-    },
-    {
-      "id": "691335d430da8062",
-      "title": "Apple @ Work: The enterprise needs to kill the SSO tax, and it’s an opportunity for Apple",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/26/apple-work-the-enterprise-needs-to-kill-the-sso-tax-and-its-an-opportunity-for-apple/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-26T13:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-27T18:02:58.541Z",
+  "lastUpdated": "2026-09-28T06:03:24.524Z",
   "sources": [
     "TechCrunch",
     "The Verge",
