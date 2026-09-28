@@ -1,296 +1,295 @@
 {
   "articles": [
     {
-      "id": "ae455e512d673401",
-      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-      "description": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
-      "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+      "id": "6b5e5375054f0cb3",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-28T04:30:00.000Z"
+      "publishedAt": "2026-09-28T18:00:00.000Z"
     },
     {
-      "id": "6c3a71b359caa90c",
-      "title": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on]",
-      "description": "If you’re rocking an iPhone 16 or newer, you might be interested in a Qi2.2 charger to take full advantage of the 25W MagSafe charging speeds that your phone can support. Anker’s new 25W Prime MagSafe 3-in-1 is one of many great options, and it comes in an excellent portable design.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/IMG_1339.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/27/anker-magsafe-travel-sized-3-in-1-charger-qi2/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-28T00:16:20.000Z"
-    },
-    {
-      "id": "31c90a1c633895a8",
-      "title": "iOS 27 makes a great change to Apple Pay on iPhone",
-      "description": "Apple has redesigned the Apple Pay checkout flow in iOS 27 for apps and websites. The changes make it easier to switch between different payment cards and see key details about the order you’re placing.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-pay-ios-27.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/27/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-27T23:46:10.000Z"
-    },
-    {
-      "id": "5193deeacfcacfcf",
-      "title": "Here’s what I’d like to see Apple do right in a screenless fitness tracker",
-      "description": "Last week, Bloomberg reported that Apple is working on a screenless fitness tracker, akin to a WHOOP or Fitbit Air. As someone who’s used the WHOOP for the past 6 months, I do think its a great concept, though there are a few things I’d like to see Apple do better.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/AW-vs-WHOOP-6.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/09/27/apple-rumored-screenless-fitness-tracker-whoop-competitor/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-27T23:01:18.000Z"
-    },
-    {
-      "id": "324f865d21a6679c",
-      "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
-      "description": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not graphicall",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-27T21:59:57.000Z"
-    },
-    {
-      "id": "f2c3142e4235206a",
-      "title": "This is my top feature request for the upcoming A20 Pro iPad mini",
-      "description": "For the past year, we’ve been looking forward to a new iPad mini refresh, and it’s sounding like its just around the corner. A new leak last week from Aaron Perris unveiled that the product should feature an A20 Pro chip and thinner bezels, and we already know it’ll feature OLED and a water resistan",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iPad-mini-7-1.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/09/27/apple-next-ipad-mini-feature-request/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-27T21:38:44.000Z"
-    },
-    {
-      "id": "aba64679e2f122e0",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "description": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-27T20:46:36.000Z"
-    },
-    {
-      "id": "73304d0b757a0740",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-27T20:34:28.000Z"
-    },
-    {
-      "id": "231880c33e95b2e2",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-27T19:57:30.000Z"
-    },
-    {
-      "id": "f52d1610ef57d8a9",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "description": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-27T17:21:07.000Z"
-    },
-    {
-      "id": "f67d1ab378f2af80",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "description": "\"AI is the devil and I its maker.\"",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-27T16:30:00.000Z"
-    },
-    {
-      "id": "69910b50a3a4a6dd",
-      "title": "TechCrunch Mobility: AV companies pick their lanes",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-27T16:02:00.000Z"
-    },
-    {
-      "id": "4e787e8d209f5031",
-      "title": "Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro",
-      "description": "Amazon has introduced a major discount on the 16-inch MacBook Pro with the M5 Max chip, 32-Core GPU, 36GB RAM, and 2TB SSD, now available for $3,499.00, down from $4,399.00. This is a massive $900 markdown on the high-end MacBook Pro, and it's joining a few other MacBook Pro discounts on Amazon this",
-      "image": "https://images.macrumors.com/article-new/2026/03/m5-pro-macbook-pro-launch-day.jpeg",
-      "url": "https://www.macrumors.com/2026/09/27/2026-macbook-pro-900-off/",
+      "id": "6f0408254692b05b",
+      "title": "Early Prime Day Deals Offer Up to 65% Off Anker and Jackery Power Stations",
+      "description": "Anker and Jackery have introduced big discounts across their most popular portable power stations, both of which are in preparation for Prime Big Deal Days next week. We're tracking Anker's best deals at both its own website and on Amazon, while Jackery's discounts can be found on the retailer's web",
+      "image": "https://images.macrumors.com/article-new/2026/02/new-anker-solix.jpeg",
+      "url": "https://www.macrumors.com/2026/09/28/anker-and-jackery-early-prime-day/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-27T15:30:35.000Z"
+      "publishedAt": "2026-09-28T17:42:46.000Z"
     },
     {
-      "id": "d932774b4a9c60c9",
-      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
-      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "id": "3c4589abe3ebe68b",
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-27T15:00:00.000Z"
+      "publishedAt": "2026-09-28T17:29:50.000Z"
     },
     {
-      "id": "3e3b50eca0f9894b",
-      "title": "Report: Apple working on new Vision Pro, with different form factors on the table",
-      "description": "After the release of Vision Pro, everyone wanted to know how long it would be before the company could release a lighter version that isn’t so bulky on your face. For the longest time, we had been looking forward to a so-called Vision Air, codenamed N100. That project was shelved last year, though t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/vision-pro-m50001.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/",
+      "id": "c9f87dcdb64be5e4",
+      "title": "iOS 26.7.1 available now for iPhone with security fixes",
+      "description": "Apple released a variety of software updates today focused on bug fixes and security updates, including iOS 26.7.1 for iPhone. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/ios-26-7-1-available-now-for-iphone-with-security-fixes/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-27T14:47:05.000Z"
+      "publishedAt": "2026-09-28T17:29:47.000Z"
     },
     {
-      "id": "46dc6320f52afcf7",
-      "title": "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement",
-      "description": "Apple must pay $5.7 billion for infringing on patents held by Taction Technology, a US jury ruled on Friday. The patents relate to Apple’s Taptic Engine, which is the hardware Apple uses to provide haptic feedback for notifications, button presses, and other interactions.\nTaction first filed the law",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/27/apple-hit-with-5-7-billion-verdict-over-taptic-engine-patent-infringement/",
+      "id": "94dcd43f8d0ba172",
+      "title": "Apple releases macOS 27.0.1 Golden Gate, plus macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U]",
+      "description": "Following two release candidates, Apple today released macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1, as well as macOS 27.0.1. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27-Golden-Gate-Liquid-Glass-Comparison.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/28/apple-releases-macos-27-0-1-golden-gate-plus-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-27T12:49:53.000Z"
+      "publishedAt": "2026-09-28T17:15:11.000Z"
     },
     {
-      "id": "7fb6cca24676a961",
-      "title": "Why OLPC’s $100 laptop never stood a chance",
-      "description": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, were ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VRH_Site_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
-      "source": "The Verge",
+      "id": "aa6dcded0ace0569",
+      "title": "Apple Releases macOS Golden Gate 27.0.1 With Bug Fixes",
+      "description": "Apple today released macOS 27.0.1, the first update to the macOS Golden Gate operating system that came out in mid-September. \r\n\r\n\r\nMac users can download the new ‌macOS Golden Gate‌ software by using the Software Update section in System Settings. \r\n\r\nRelated Roundup: macOS Golden Gate\nRelated Foru",
+      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "url": "https://www.macrumors.com/2026/09/28/apple-releases-macos-27-0-1/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-28T17:13:46.000Z"
+    },
+    {
+      "id": "87b65a4a0ca78623",
+      "title": "Apple Releases iOS 27.0.1 With Face ID Bug Fix",
+      "description": "Apple today released iOS 27.0.1, the first update for the iOS 27 update that came out two weeks ago. \r\n\r\n\r\niOS 27.0.1 can be downloaded over the air by going to Settings > General > Software Update. Apple has also released iPadOS 27.0.1 and visionOS 27.0.1 updates, as well as iOS and iPadOS 26.7.1 u",
+      "image": "https://images.macrumors.com/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
+      "url": "https://www.macrumors.com/2026/09/28/apple-releases-ios-27-0-1/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-28T17:09:47.000Z"
+    },
+    {
+      "id": "b534090006bf4f84",
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-27T12:25:00.000Z"
+      "publishedAt": "2026-09-28T17:09:02.000Z"
     },
     {
-      "id": "bd8857efb37fa601",
-      "title": "Googlebooks might be the real deal",
-      "description": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) \nThis week, I flew to San Francisco to try out Meta's ne",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-27T12:00:00.000Z"
-    },
-    {
-      "id": "3bdd3489a6d40ca0",
-      "title": "The smart home graveyard is getting crowded",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. \nHow it starte",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_190131_3100_0022.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-27T12:00:00.000Z"
-    },
-    {
-      "id": "9128c27f6f0ddb5d",
-      "title": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
-      "description": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions we have been using for years. From built-in stands in new burgundy colorways, ultra grippy customiz",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
+      "id": "4c64236e09f93471",
+      "title": "Apple releases iOS 27.0.1 for iPhone, here’s what’s new",
+      "description": "Apple has just released iOS 27.0.1, a new iPhone software update with key bug fixes for issues introduced in iOS 27. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-200-changes-and-features.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/apple-releases-ios-27-0-1-for-iphone-heres-whats-new/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-27T08:24:00.000Z"
+      "publishedAt": "2026-09-28T17:08:19.000Z"
     },
     {
-      "id": "ce4155010249dbbd",
-      "title": "These are the best MacBook deals right now: September 2026 Buyer’s Guide",
-      "description": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market.\nUnfortunately, Apple just drastically increased its",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/26/these-are-the-best-macbook-deals/",
+      "id": "c8112c7a603ecf98",
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "description": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T17:00:23.000Z"
+    },
+    {
+      "id": "9347556bf21cfb47",
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. \nOpenAI's latest attempt to repair fractured",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T17:00:00.000Z"
+    },
+    {
+      "id": "4ce2b347825d50b9",
+      "title": "9to5Mac Daily: September 28, 2026 – New HomePod and Apple TV leaks, more",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/daily-september-28-2026/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-27T02:47:28.000Z"
+      "publishedAt": "2026-09-28T16:53:13.000Z"
     },
     {
-      "id": "08026c78a332dcf2",
-      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
-      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "id": "5fc2b23de54d21b8",
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-27T01:40:30.000Z"
+      "publishedAt": "2026-09-28T16:52:38.000Z"
     },
     {
-      "id": "5f76c8e2f04e12cf",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "id": "546f691f5e1e2c0b",
+      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+      "description": "An indie developer's upcoming app for the iPhone Duo is going viral for turning the new foldable into a virtual Walkman.",
+      "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-27T01:30:00.000Z"
+      "publishedAt": "2026-09-28T16:47:49.000Z"
     },
     {
-      "id": "de78f08dc0df3bb1",
-      "title": "Apple hit with $5.7 billion in damages over haptic patents",
-      "description": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based,",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "id": "23cc1d70c76b8aab",
+      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+      "description": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rather",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2289554785.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-26T21:30:01.000Z"
+      "publishedAt": "2026-09-28T16:44:57.000Z"
     },
     {
-      "id": "03c56febe11a257b",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T21:02:06.000Z"
-    },
-    {
-      "id": "57052b21e1ac50c4",
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "description": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T20:24:45.000Z"
-    },
-    {
-      "id": "48266cc16e02be30",
-      "title": "Decap is the man behind the drums behind your favorite song",
-      "description": "Drums on film. | Image: Decap\t\n\nI don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs,",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T19:30:00.000Z"
-    },
-    {
-      "id": "1eafbc941eb0fe7c",
-      "title": "Indie App Spotlight: ‘QuillCue’ levels up your Siri AI experience with stored prompts",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\niOS 27 debuted to the public almost two weeks ago, with the flagship feature being Siri AI. While Siri AI ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/QuillCue-app.png?w=1600",
-      "url": "https://9to5mac.com/2026/09/26/indie-app-spotlight-quillcue-siri-ai-prompts/",
+      "id": "b78bb9955cb8fc2b",
+      "title": "MacBook Pro redesign is coming, with three features we’ve waited years for",
+      "description": "Apple has a big MacBook Pro redesign in the works (possibly called MacBook Ultra) that’s expected to launch in October. Here are three rumored new features that we’ve waited a long time for.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/m5-pro-macbook-pro-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/macbook-pro-redesign-is-coming-with-three-features-weve-waited-years-for/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-26T19:30:00.000Z"
+      "publishedAt": "2026-09-28T15:55:51.000Z"
     },
     {
-      "id": "2aabb51bfaead4fd",
-      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-      "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
-      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-26T17:44:00.000Z"
-    },
-    {
-      "id": "a05dd36356f96c93",
-      "title": "Kids turned the comment section of an NPR podcast into a group chat",
-      "description": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boil",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+      "id": "88be067797bf83e6",
+      "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
+      "description": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recognizable nameplates like Tiguan are likely an easier sell with consumers, especiall",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20113-db2026au00714.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-26T17:32:35.000Z"
+      "publishedAt": "2026-09-28T15:43:09.000Z"
+    },
+    {
+      "id": "19518acf22176179",
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T15:30:00.000Z"
+    },
+    {
+      "id": "635b06950578a24a",
+      "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+      "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T15:29:21.000Z"
+    },
+    {
+      "id": "99a3dbd19aec0cc8",
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "description": "Accounting staffing company MAVI emerges from stealth with $4million in funding.",
+      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T15:26:46.000Z"
+    },
+    {
+      "id": "415a3448681cff48",
+      "title": "Deals: M5 Pro MacBook Pro $500 off, M5 MacBook Air $150 off, 2026 Studio Display $300 off, more",
+      "description": "Amazon has once again updated its early fall Prime Day sale with new deals, but today’s 9to5Toys Lunch Break is headlined by a giant $500 price drop on this 2TB M5 Pro MacBook Pro, alongside a series of M5 MacBook Air models at up to $150 off. We also have the return of M6 Mac mini and Mac Studio la",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-MacBook-Pro-Studio-Display.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/deals-m5-pro-macbook-pro-macbook-air-studio-display/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-28T15:25:46.000Z"
+    },
+    {
+      "id": "1d80685b343e0a81",
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T15:00:00.000Z"
+    },
+    {
+      "id": "4e95334be371fd9f",
+      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+      "description": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second o",
+      "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T15:00:00.000Z"
+    },
+    {
+      "id": "bc77d5bdb9fb0ecb",
+      "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+      "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/dreamex50ultra.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T14:55:12.000Z"
+    },
+    {
+      "id": "176a374591ad24d5",
+      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T14:50:30.000Z"
+    },
+    {
+      "id": "4caf1f5864e57e42",
+      "title": "Leak reveals new iPhone Duo features not yet announced",
+      "description": "iPhone Duo is coming October 23, but there are several unannounced features coming to its StandBy mode that were just discovered hidden in Apple code.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-iPhone-Duo-is-Apple-at-its-absolute-best.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/leak-reveals-new-iphone-duo-features-not-yet-announced/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-28T14:41:27.000Z"
+    },
+    {
+      "id": "a03631caa63e3026",
+      "title": "Last Chance: OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
+      "description": "MacRumors has partnered with OWC to bring our readers big savings on the retailer's best Thunderbolt docks, USB-C cables, and external storage enclosures. These exclusive deals will run through this Wednesday, September 30 at 12:00 a.m. CST, so you have just a few more days to shop.\r\n\r\nNote: MacRumo",
+      "image": "https://images.macrumors.com/article-new/2026/09/thunderbolt-owc-sale-dock.jpeg",
+      "url": "https://www.macrumors.com/2026/09/28/last-chance-owcs-sale/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-28T14:32:47.000Z"
+    },
+    {
+      "id": "0d387ccc63277d97",
+      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+      "description": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
+      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T14:30:00.000Z"
+    },
+    {
+      "id": "dc7eb2802a855548",
+      "title": "12 New Things to Expect From Apple This October",
+      "description": "October will be an especially busy month for Apple this year, with the company set to release the iPhone Duo, both iOS 27.1 and iOS 27.2, and a new Mac Studio configuration with 512GB of RAM. In addition, up to six more Apple products may be unveiled next month, such as new iPad mini, HomePod mini, ",
+      "image": "https://images.macrumors.com/article-new/2026/09/12-New-Things-Apple.jpg",
+      "url": "https://www.macrumors.com/2026/09/28/12-new-things-from-apple-this-october/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-28T14:13:01.000Z"
+    },
+    {
+      "id": "4dbf2db6c33fdeeb",
+      "title": "Bose’s first wired earbuds in 11 years add noise canceling",
+      "description": "Everything old is new again as today Bose announced its first pair of wired earbuds since discontinuing the option in 2015. The new tethered earbuds, which are simply called the Bose Noise Cancelling Wired Earbuds, do away with battery anxiety and the need to remember to charge them every few days. ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bosebud1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T14:09:44.000Z"
     }
   ],
-  "lastUpdated": "2026-09-28T06:03:24.524Z",
+  "lastUpdated": "2026-09-28T18:03:19.467Z",
   "sources": [
     "TechCrunch",
     "The Verge",
