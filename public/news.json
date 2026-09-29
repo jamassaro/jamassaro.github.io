@@ -1,295 +1,297 @@
 {
   "articles": [
     {
-      "id": "6b5e5375054f0cb3",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "id": "4989042efa5d49d3",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "description": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-28T18:00:00.000Z"
+      "publishedAt": "2026-09-29T05:13:43.000Z"
     },
     {
-      "id": "6f0408254692b05b",
-      "title": "Early Prime Day Deals Offer Up to 65% Off Anker and Jackery Power Stations",
-      "description": "Anker and Jackery have introduced big discounts across their most popular portable power stations, both of which are in preparation for Prime Big Deal Days next week. We're tracking Anker's best deals at both its own website and on Amazon, while Jackery's discounts can be found on the retailer's web",
-      "image": "https://images.macrumors.com/article-new/2026/02/new-anker-solix.jpeg",
-      "url": "https://www.macrumors.com/2026/09/28/anker-and-jackery-early-prime-day/",
+      "id": "c446009b04076954",
+      "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
+      "description": "Deadline reports that Apple TV recently recorded its biggest week ever for viewership, fueled by its 29 Emmy wins and recent releases such as Ted Lasso and Mayday. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-intro-vibrant.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-29T01:44:04.000Z"
+    },
+    {
+      "id": "cf09048fbc03d236",
+      "title": "Apple and Amazon face renewed UK antitrust lawsuit",
+      "description": "A UK tribunal has allowed part of a renewed antitrust lawsuit against Apple and Amazon to move forward, over allegations that the companies restricted competition for Apple and Beats products sold on Amazon. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/amazon-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-29T01:21:23.000Z"
+    },
+    {
+      "id": "7495c81ea8161ad7",
+      "title": "This website lets you explore nearly 30 years of Apple product colors",
+      "description": "The folks at sheets.works are back at it again, this time with an interactive archive of 341 Apple product colors spanning nearly three decades. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-in-colour.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/this-website-lets-you-explore-nearly-30-years-of-apple-product-colors/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-29T01:01:54.000Z"
+    },
+    {
+      "id": "8e2c80477ea9a14b",
+      "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+      "description": "The Headphone 1 Pro flagship headphones keep Nothing’s aesthetic while adding some surprises. | Photo: John Higgins / The Verge\t\n\nNothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-29T01:00:00.000Z"
+    },
+    {
+      "id": "da8f475942c7b383",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-29T00:30:00.000Z"
+    },
+    {
+      "id": "ebc4c2e7fa6442d1",
+      "title": "iPhone Duo StandBy Leak Reveals Five Unannounced Faces",
+      "description": "We've seen previews of iOS 27 running on the iPhone Duo, including a new StandBy mode that activates even when the iPhone isn't charging. Apple showed the mode in press materials, but leaker pdfu today shared a more in-depth look at some of the options.\r\n\r\n\r\nThere are multiple StandBy faces availabl",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
+      "url": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-28T17:42:46.000Z"
+      "publishedAt": "2026-09-29T00:04:54.000Z"
     },
     {
-      "id": "3c4589abe3ebe68b",
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "id": "7da3894619de4ef0",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-28T17:29:50.000Z"
+      "publishedAt": "2026-09-28T23:39:20.000Z"
     },
     {
-      "id": "c9f87dcdb64be5e4",
-      "title": "iOS 26.7.1 available now for iPhone with security fixes",
-      "description": "Apple released a variety of software updates today focused on bug fixes and security updates, including iOS 26.7.1 for iPhone. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/28/ios-26-7-1-available-now-for-iphone-with-security-fixes/",
+      "id": "04f54f3664491d28",
+      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+      "description": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+      "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T22:58:35.000Z"
+    },
+    {
+      "id": "fea3b5c0aa72688d",
+      "title": "macOS 27: How to use the new ‘Notify Me’ feature in Safari",
+      "description": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more.\nOne of the many new features included in macOS 27 Golden Gate is Safari’s new “Notify",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/safari-notify-me-alert.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/macos-27-how-to-use-the-new-notify-me-feature-in-safari/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-28T17:29:47.000Z"
+      "publishedAt": "2026-09-28T22:53:05.000Z"
     },
     {
-      "id": "94dcd43f8d0ba172",
-      "title": "Apple releases macOS 27.0.1 Golden Gate, plus macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U]",
-      "description": "Following two release candidates, Apple today released macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1, as well as macOS 27.0.1. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27-Golden-Gate-Liquid-Glass-Comparison.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/28/apple-releases-macos-27-0-1-golden-gate-plus-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+      "id": "6ca9ecf331b43984",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "description": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T21:31:35.000Z"
+    },
+    {
+      "id": "fab1c72a0716b97b",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T21:29:18.000Z"
+    },
+    {
+      "id": "c6c05a95d96ccb46",
+      "title": "watchOS 27.0.1 is now available for all compatible Apple Watch models",
+      "description": "Apple today expanded the availability of watchOS 27.0.1 to more Apple Watch models, following last week’s initial release for Apple Watch Series 12 and Apple Watch Ultra 4. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchOS-27-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/watchos-27-0-1-is-now-available-for-all-compatible-apple-watch-models/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-28T17:15:11.000Z"
+      "publishedAt": "2026-09-28T21:10:42.000Z"
     },
     {
-      "id": "aa6dcded0ace0569",
-      "title": "Apple Releases macOS Golden Gate 27.0.1 With Bug Fixes",
-      "description": "Apple today released macOS 27.0.1, the first update to the macOS Golden Gate operating system that came out in mid-September. \r\n\r\n\r\nMac users can download the new ‌macOS Golden Gate‌ software by using the Software Update section in System Settings. \r\n\r\nRelated Roundup: macOS Golden Gate\nRelated Foru",
-      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "url": "https://www.macrumors.com/2026/09/28/apple-releases-macos-27-0-1/",
+      "id": "607fca18f12d1cce",
+      "title": "Apple Releases watchOS 27.0.1 for Additional Models",
+      "description": "After releasing watchOS 27.0.1 for the Apple Watch Series 12 and Apple Watch Ultra 4 last week to address a bug that was causing devices to restart unexpectedly, Apple has now released the update for all eligible watches, which includes Series 9 and later.\r\n\r\nRelated Roundups: watchOS 26, watchOS 27",
+      "image": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "url": "https://www.macrumors.com/2026/09/28/watchos-27-0-1-additional-models/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-28T17:13:46.000Z"
+      "publishedAt": "2026-09-28T21:08:51.000Z"
     },
     {
-      "id": "87b65a4a0ca78623",
-      "title": "Apple Releases iOS 27.0.1 With Face ID Bug Fix",
-      "description": "Apple today released iOS 27.0.1, the first update for the iOS 27 update that came out two weeks ago. \r\n\r\n\r\niOS 27.0.1 can be downloaded over the air by going to Settings > General > Software Update. Apple has also released iPadOS 27.0.1 and visionOS 27.0.1 updates, as well as iOS and iPadOS 26.7.1 u",
-      "image": "https://images.macrumors.com/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
-      "url": "https://www.macrumors.com/2026/09/28/apple-releases-ios-27-0-1/",
+      "id": "ac03ed2ecc5d83bc",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T20:39:33.000Z"
+    },
+    {
+      "id": "330993d2a8b3b25a",
+      "title": "Apple’s Taptic Engine patent defeat sends litigation funder’s shares up 9%",
+      "description": "Shares in litigation funder Burford Capital jumped more than 9% today as a result of Apple’s $5.7 billion verdict over Taptic Engine patent infringement. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/apples-taptic-engine-patent-defeat-sends-litigation-funders-shares-up-9/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-28T20:21:14.000Z"
+    },
+    {
+      "id": "9ff8ab71acfc019c",
+      "title": "iPhone 18 Pro First Impressions: What Do You Think So Far?",
+      "description": "It's been a little over a week since the iPhone 18 Pro models launched, and we want to hear from MacRumors readers. What do you think of Apple's newest iPhones?\r\n\r\n\r\nIf you upgraded from an older phone, was it worth it? What about upgrading from an iPhone 17 Pro? What problems are you running into? ",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-color-lineup-16x9-1.jpg",
+      "url": "https://www.macrumors.com/2026/09/28/iphone-18-pro-first-impressions/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-28T17:09:47.000Z"
+      "publishedAt": "2026-09-28T19:47:09.000Z"
     },
     {
-      "id": "b534090006bf4f84",
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T17:09:02.000Z"
-    },
-    {
-      "id": "4c64236e09f93471",
-      "title": "Apple releases iOS 27.0.1 for iPhone, here’s what’s new",
-      "description": "Apple has just released iOS 27.0.1, a new iPhone software update with key bug fixes for issues introduced in iOS 27. Here’s what’s new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-200-changes-and-features.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/28/apple-releases-ios-27-0-1-for-iphone-heres-whats-new/",
+      "id": "62cc6f2a5d989719",
+      "title": "Siri AI is available on newer Apple devices only, here’s the full list",
+      "description": "Siri AI is a major upgrade and highlight of iOS 27 and more. But only newer Apple devices support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-28T17:08:19.000Z"
+      "publishedAt": "2026-09-28T19:43:11.000Z"
     },
     {
-      "id": "c8112c7a603ecf98",
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "description": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "id": "6ae845d492b554f8",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T19:33:57.000Z"
+    },
+    {
+      "id": "82f266be384156a3",
+      "title": "Bose starts adding Auracast to its headphones",
+      "description": "The flagship Bose headphones will now be able to connect to Auracast broadcasts for better accessibility. | Image: The Verge\t\n\nA new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24844791/BoseQCUltra.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-28T17:00:23.000Z"
+      "publishedAt": "2026-09-28T19:31:24.000Z"
     },
     {
-      "id": "9347556bf21cfb47",
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. \nOpenAI's latest attempt to repair fractured",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "source": "The Verge",
+      "id": "e031fe6ddef2f754",
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-28T17:00:00.000Z"
+      "publishedAt": "2026-09-28T19:27:27.000Z"
     },
     {
-      "id": "4ce2b347825d50b9",
-      "title": "9to5Mac Daily: September 28, 2026 – New HomePod and Apple TV leaks, more",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/28/daily-september-28-2026/",
+      "id": "c83850e9a4eefd61",
+      "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
+      "description": "iPhone Duo will be here soon, so if you want to get a head start on accessories for Apple’s new model, here are our top recommendations.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-28T16:53:13.000Z"
+      "publishedAt": "2026-09-28T19:24:26.000Z"
     },
     {
-      "id": "5fc2b23de54d21b8",
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "id": "955fc74b5ccd6bca",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "description": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-28T16:52:38.000Z"
+      "publishedAt": "2026-09-28T19:21:59.000Z"
     },
     {
-      "id": "546f691f5e1e2c0b",
-      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
-      "description": "An indie developer's upcoming app for the iPhone Duo is going viral for turning the new foldable into a virtual Walkman.",
-      "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T16:47:49.000Z"
-    },
-    {
-      "id": "23cc1d70c76b8aab",
-      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-      "description": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rather",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2289554785.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T16:44:57.000Z"
-    },
-    {
-      "id": "b78bb9955cb8fc2b",
-      "title": "MacBook Pro redesign is coming, with three features we’ve waited years for",
-      "description": "Apple has a big MacBook Pro redesign in the works (possibly called MacBook Ultra) that’s expected to launch in October. Here are three rumored new features that we’ve waited a long time for.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/m5-pro-macbook-pro-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/28/macbook-pro-redesign-is-coming-with-three-features-weve-waited-years-for/",
+      "id": "ecbc85b881ef6f9f",
+      "title": "Watch Elton John give the first-ever performance at Apple Music Hall",
+      "description": "Elton John took the stage today for the inaugural concert at Apple Music Hall in London, with Apple Music subscribers able to watch the performance live.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/elton-john-apple-music-hall.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/watch-elton-john-give-the-first-ever-performance-at-apple-music-hall/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-28T15:55:51.000Z"
+      "publishedAt": "2026-09-28T19:17:47.000Z"
     },
     {
-      "id": "88be067797bf83e6",
-      "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
-      "description": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recognizable nameplates like Tiguan are likely an easier sell with consumers, especiall",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20113-db2026au00714.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T15:43:09.000Z"
-    },
-    {
-      "id": "19518acf22176179",
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T15:30:00.000Z"
-    },
-    {
-      "id": "635b06950578a24a",
-      "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
-      "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
-      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T15:29:21.000Z"
-    },
-    {
-      "id": "99a3dbd19aec0cc8",
-      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-      "description": "Accounting staffing company MAVI emerges from stealth with $4million in funding.",
-      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T15:26:46.000Z"
-    },
-    {
-      "id": "415a3448681cff48",
-      "title": "Deals: M5 Pro MacBook Pro $500 off, M5 MacBook Air $150 off, 2026 Studio Display $300 off, more",
-      "description": "Amazon has once again updated its early fall Prime Day sale with new deals, but today’s 9to5Toys Lunch Break is headlined by a giant $500 price drop on this 2TB M5 Pro MacBook Pro, alongside a series of M5 MacBook Air models at up to $150 off. We also have the return of M6 Mac mini and Mac Studio la",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-MacBook-Pro-Studio-Display.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/28/deals-m5-pro-macbook-pro-macbook-air-studio-display/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-28T15:25:46.000Z"
-    },
-    {
-      "id": "1d80685b343e0a81",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield",
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T15:00:00.000Z"
-    },
-    {
-      "id": "4e95334be371fd9f",
-      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-      "description": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second o",
-      "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T15:00:00.000Z"
-    },
-    {
-      "id": "bc77d5bdb9fb0ecb",
-      "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-      "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/dreamex50ultra.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T14:55:12.000Z"
-    },
-    {
-      "id": "176a374591ad24d5",
-      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-      "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
-      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T14:50:30.000Z"
-    },
-    {
-      "id": "4caf1f5864e57e42",
-      "title": "Leak reveals new iPhone Duo features not yet announced",
-      "description": "iPhone Duo is coming October 23, but there are several unannounced features coming to its StandBy mode that were just discovered hidden in Apple code.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-iPhone-Duo-is-Apple-at-its-absolute-best.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/28/leak-reveals-new-iphone-duo-features-not-yet-announced/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-28T14:41:27.000Z"
-    },
-    {
-      "id": "a03631caa63e3026",
-      "title": "Last Chance: OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
-      "description": "MacRumors has partnered with OWC to bring our readers big savings on the retailer's best Thunderbolt docks, USB-C cables, and external storage enclosures. These exclusive deals will run through this Wednesday, September 30 at 12:00 a.m. CST, so you have just a few more days to shop.\r\n\r\nNote: MacRumo",
-      "image": "https://images.macrumors.com/article-new/2026/09/thunderbolt-owc-sale-dock.jpeg",
-      "url": "https://www.macrumors.com/2026/09/28/last-chance-owcs-sale/",
+      "id": "4abf8d15060d0487",
+      "title": "iOS 26.7.1 Fixes Vulnerability Used in Targeted Attacks",
+      "description": "iOS 26.7.1, iPadOS 26.7.1, macOS Tahoe 26.7.1, and macOS Sequoia 15.8.1 address a major vulnerability that Apple believes was used against a small number of people.\r\n\r\n\r\nApple's security support pages say there was a CoreGraphics out-of-bounds write issue that could be exploited with a maliciously c",
+      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "url": "https://www.macrumors.com/2026/09/28/ios-26-7-1-active-exploit-fixed/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-28T14:32:47.000Z"
+      "publishedAt": "2026-09-28T18:46:03.000Z"
     },
     {
-      "id": "0d387ccc63277d97",
-      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-      "description": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-28T14:30:00.000Z"
-    },
-    {
-      "id": "dc7eb2802a855548",
-      "title": "12 New Things to Expect From Apple This October",
-      "description": "October will be an especially busy month for Apple this year, with the company set to release the iPhone Duo, both iOS 27.1 and iOS 27.2, and a new Mac Studio configuration with 512GB of RAM. In addition, up to six more Apple products may be unveiled next month, such as new iPad mini, HomePod mini, ",
-      "image": "https://images.macrumors.com/article-new/2026/09/12-New-Things-Apple.jpg",
-      "url": "https://www.macrumors.com/2026/09/28/12-new-things-from-apple-this-october/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-28T14:13:01.000Z"
-    },
-    {
-      "id": "4dbf2db6c33fdeeb",
-      "title": "Bose’s first wired earbuds in 11 years add noise canceling",
-      "description": "Everything old is new again as today Bose announced its first pair of wired earbuds since discontinuing the option in 2015. The new tethered earbuds, which are simply called the Bose Noise Cancelling Wired Earbuds, do away with battery anxiety and the need to remember to charge them every few days. ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bosebud1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
+      "id": "4dee566fd1644096",
+      "title": "OpenAI’s AI agents need to catch up",
+      "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI wi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-28T14:09:44.000Z"
+      "publishedAt": "2026-09-28T18:45:00.000Z"
+    },
+    {
+      "id": "c9f812d0cc18ef51",
+      "title": "Trump finalizes rule to make cars less fuel efficient",
+      "description": "President Donald Trump announces plans to weaken fuel efficiency and emissions rules for cars and trucks in the Oval Office at the White House in Washington, DC, on December 3rd, 2025. | Photo: Getty Images\t\n\nThe US Department of Transportation finalized its plans today to weaken fuel efficiency sta",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T18:39:50.000Z"
+    },
+    {
+      "id": "51eaf0e5ad9e8704",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T18:31:23.000Z"
+    },
+    {
+      "id": "bdc3126d309c52b4",
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contac",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-28T18:30:00.000Z"
+    },
+    {
+      "id": "aee548bf1e5067de",
+      "title": "MagSafe Monday: Pioneer joins the MagSafe accessory market with the SDA-SC600",
+      "description": "The Pioneer brand is one I’ve trusted for car accessories since Y2K was a concern. I loved their audio gear in my younger days. Pioneer’s SDA-SC600 aims to bring that kind of trusted quality to a MagSafe car mount, bringing Qi2 wireless charging and a built-in fan.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Pioneer-SDA-SC600.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/28/pioneer-sda-sc600/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-28T18:29:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-28T18:03:19.467Z",
+  "lastUpdated": "2026-09-29T06:02:42.895Z",
   "sources": [
     "TechCrunch",
     "The Verge",
