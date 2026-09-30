@@ -1,299 +1,297 @@
 {
   "articles": [
     {
-      "id": "9382e2adb2d3f53d",
-      "title": "Apple Creator Studio and Final Cut Camera Get New Features",
-      "description": "Apple today updated Apple Creator Studio and Final Cut Camera for iOS to add new features.\r\n\r\n\r\nFinal Cut Camera, Apple's professional iPhone filming app, now supports the variable aperture feature on the iPhone 18 Pro. Users can tweak aperture and select between aperture priority and shutter priori",
-      "image": "https://images.macrumors.com/article-new/2026/09/apple-creator-studio-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/apple-creator-studio-new-features/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T17:57:56.000Z"
-    },
-    {
-      "id": "2631146b929e1890",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "description": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "id": "0dd3f8c5901ea59d",
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T17:45:51.000Z"
+      "publishedAt": "2026-09-30T04:08:00.000Z"
     },
     {
-      "id": "37771d48349e1b9f",
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "description": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, w",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T17:35:03.000Z"
-    },
-    {
-      "id": "8c0fc0aac8aeafe5",
-      "title": "Apple Explains Why It Removed ICE Tracking Apps Last Year",
-      "description": "In a July 2026 letter addressed to U.S. Representative Jamie Raskin (D-MD), Apple said its decision to remove ICEBlock and similar apps that crowdsourced the real-time locations of U.S. Immigration and Customs Enforcement (ICE) agents from the App Store was \"prompted by concerns\" about \"agent safety",
-      "image": "https://images.macrumors.com/article-new/2025/12/Apple-App-Store-Awards-2025.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/apple-explains-why-it-removed-ice-tracking-apps/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T17:33:49.000Z"
-    },
-    {
-      "id": "83c6a7477e523e8a",
-      "title": "Apple releases guide to help families ‘build healthy digital habits’",
-      "description": "Apple has teamed up with the American Academy of Pediatrics (AAP) to launch a new guide to “help families create healthy digital habits.” \nThe new guide follows Apple’s launch of a range of new child safety features in iOS 27. \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-child-account-hero-260608.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/apple-releases-guide-to-help-families-build-healthy-digital-habits/",
+      "id": "f518ba1225f4311f",
+      "title": "Apple Pay now rolling out to Axis Bank customers in India [U]",
+      "description": "Update, 10:13 p.m. ET: Apple has now confirmed the launch for “customers with Axis Bank-issued Visa and Mastercard credit cards.” The original story follows below.\nNearly twelve years to the day after Apple first announced Apple Pay, the feature is now rolling out in India, one of the few major mark",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/More-great-wallpaper-in-the-run-up-to-two-more-Apple-Stores-in-India.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T17:31:25.000Z"
+      "publishedAt": "2026-09-30T01:19:30.000Z"
     },
     {
-      "id": "d40d9eb4b8b16ada",
-      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
-      "description": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
-      "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T17:27:09.000Z"
-    },
-    {
-      "id": "f097de10fab88f05",
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
-      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T17:20:00.000Z"
-    },
-    {
-      "id": "cf50eeb0aea51b4c",
-      "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
-      "description": "Razer’s DeathStalker V2 Pro is discounted in both black and white. | Image: The Verge\t\n\nWoot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Deathstalker-v2-pro-tkl-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T17:19:07.000Z"
-    },
-    {
-      "id": "992d5168e4b6e144",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T17:17:15.000Z"
-    },
-    {
-      "id": "b2a9955adc16c81d",
-      "title": "Pages, Keynote, Numbers, and Pixelmator Pro just got new features",
-      "description": "Today alongside a big update to Final Cut Camera, Apple announced that it’s rolling out updated versions of Pages, Keynote, Numbers, Pixelmator Pro, and Freeform. Here’s what’s new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iwork-2026-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/pages-keynote-numbers-and-pixelmator-pro-just-got-new-features/",
+      "id": "bb9ad6b5c88e420d",
+      "title": "Bank of America says Meta’s Muse highlights a new risk for Apple’s services revenue",
+      "description": "In a new investor note issued today, Bank of America says Meta’s new Muse AI agent highlights how third-party AI agents could increasingly bypass Apple’s ecosystem and threaten its services revenue. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/29/bank-of-america-says-metas-muse-highlights-a-new-risk-for-apples-services-revenue/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T17:15:52.000Z"
+      "publishedAt": "2026-09-30T00:41:46.000Z"
     },
     {
-      "id": "eabbba750012ff38",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "id": "b43c69141a08921f",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and w",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T00:19:13.000Z"
+    },
+    {
+      "id": "7552f11d24652dda",
+      "title": "Apple Pay Now Available in India With Axis Bank Cards",
+      "description": "Apple Pay is now available in India, which means customers with an eligible card can add it to the Wallet app on iPhone and Apple Watch for contactless and online payments.\r\n\r\n\r\nTo use Apple Pay in India, users will need an Axis Bank credit card on the Visa or Mastercard network. Earlier today, Tech",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Pay-India.jpg",
+      "url": "https://www.macrumors.com/2026/09/29/apple-pay-india/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-30T00:01:50.000Z"
+    },
+    {
+      "id": "111a5c96c34cdc56",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T17:15:00.000Z"
+      "publishedAt": "2026-09-29T23:30:55.000Z"
     },
     {
-      "id": "e5d29b9575081073",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "id": "76757d49cba4b0ab",
+      "title": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse",
+      "description": "OpenAI today announced the launch of \"Dots\" to compete with Meta's popular Muse agent. OpenAI describes Dots as always-on agents \"built to handle everything.\"\r\n\r\n\r\nDots use the GPT–6 Astra model and have a cloud computer with a web browser, much like Muse. The agents learn from feedback over time, a",
+      "image": "https://images.macrumors.com/article-new/2026/09/openai-dots.jpg",
+      "url": "https://www.macrumors.com/2026/09/29/openai-launches-dots/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-29T22:45:10.000Z"
+    },
+    {
+      "id": "4ae9bf7166cf973f",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "description": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new exe",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-29T22:25:45.000Z"
+    },
+    {
+      "id": "904e8468fc6d550f",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T17:15:00.000Z"
+      "publishedAt": "2026-09-29T22:20:59.000Z"
     },
     {
-      "id": "16247846a174951b",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "description": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "id": "da563165f5acfcec",
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "description": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T17:15:00.000Z"
+      "publishedAt": "2026-09-29T22:18:35.000Z"
     },
     {
-      "id": "3a0f3ff244da042e",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "description": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly any",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "id": "679361bd88660d81",
+      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
+      "description": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. \nLet's start with",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T17:15:00.000Z"
+      "publishedAt": "2026-09-29T22:01:00.000Z"
     },
     {
-      "id": "075fbecf16826848",
-      "title": "Amazon Expands $779.99 Apple Watch Ultra 4 Deal to More Models",
-      "description": "The new Apple Watch Ultra 4 just launched this month, and Amazon is offering the first cash discounts on select models. You can get the Apple Watch Ultra 4 for $779.99, down from $799.00.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase",
-      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-4-pink.jpeg",
-      "url": "https://www.macrumors.com/2026/09/29/amazon-779-99-apple-watch-ultra-4/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T17:13:30.000Z"
-    },
-    {
-      "id": "d3d28d7896d6932c",
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "description": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" \nMore than a dozen organizations came together to s",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T17:12:27.000Z"
-    },
-    {
-      "id": "8808adfd7475c683",
-      "title": "Switch Siri AI for ChatGPT on Your Mac",
-      "description": "In macOS 27 Golden Gate, Siri AI is a lot smarter than before, so it doesn't always flail and attempt to hand your questions over to ChatGPT. However, if you still prefer OpenAI's chatbot for certain queries, you can still ask for it explicitly. \r\n\r\n\r\nIn macOS Tahoe, Siri would suggest passing a req",
-      "image": "https://images.macrumors.com/article-new/2026/03/macos-27-siri-spotlight.jpg",
-      "url": "https://www.macrumors.com/how-to/make-chatgpt-answer-siri-mac/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T17:08:53.000Z"
-    },
-    {
-      "id": "a24ea27cc9dbd560",
-      "title": "Final Cut Camera updated with support for iPhone 18 Pro features, more",
-      "description": "Apple is rolling out a big update to Final Cut Camera today, the pro video app it first released for iPhone back in 2024. The update introduces a new design along with support for variable aperture on iPhone 18 Pro.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/final-cut-camera.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/final-cut-camera-iphone-18-pro-features/",
+      "id": "05ee9c67cc9406c1",
+      "title": "Apple TV renews French drama ‘Carême’ for season two",
+      "description": "Apple TV today announced that French-language drama “Carême” has been renewed for a second season. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/careme.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/29/apple-tv-renews-french-drama-careme-for-season-two/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T17:00:40.000Z"
+      "publishedAt": "2026-09-29T21:55:56.000Z"
     },
     {
-      "id": "d44a6d3cecbc49f2",
-      "title": "Apple Says Emergency SOS via Satellite Now Available in Norway",
-      "description": "Emergency SOS via satellite is now available in Norway, according to an Apple support document updated today.\r\n\r\nTags: Emergency SOS via Satellite, iPhone Satellite Features\nThis article, \"Apple Says Emergency SOS via Satellite Now Available in Norway\" first appeared on MacRumors.com\nDiscuss this ar",
-      "image": "https://images.macrumors.com/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/emergency-sos-via-satellite-in-norway/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T16:57:05.000Z"
-    },
-    {
-      "id": "e17b35fb6982a965",
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "description": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "id": "db11b7a1da7becf5",
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "description": "EliseAI raises $350M, doubles valuation in a year.",
+      "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T16:55:56.000Z"
+      "publishedAt": "2026-09-29T21:51:36.000Z"
     },
     {
-      "id": "5614f6fcd8bca249",
-      "title": "AppleCare Guide: Is it Worth Paying For?",
-      "description": "Most Apple products come with a one-year limited warranty that covers hardware failures and manufacturing defects, and up to 90 days of complimentary technical support. To extend your coverage further, Apple offers AppleCare+ and AppleCare One, with theft and loss coverage available for eligible dev",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Care-Feature-26.jpg",
-      "url": "https://www.macrumors.com/guide/applecare/",
+      "id": "d799d4b4e796ddfa",
+      "title": "Suspected ShinyHunters leader arrested in the Netherlands",
+      "description": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch authorities state that they arrested the suspect o",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220209_4977_0226.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-29T21:50:31.000Z"
+    },
+    {
+      "id": "ecc066665af2b2a2",
+      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+      "description": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live update",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-29T21:49:09.000Z"
+    },
+    {
+      "id": "f8e40999a86e2e4b",
+      "title": "AirPods 5 Teardown: Batteries Removable, Case Still Tough",
+      "description": "Repair site iFixit today took apart Apple's AirPods 5 for one of its traditional teardown videos. It turns out the new AirPods are slightly more repairable than prior models, but it's still not a simple home fix.\r\n\r\n\n\r\nThe ‌AirPods 5‌ use pronged batteries that Apple previously used in the AirPods 3",
+      "url": "https://www.macrumors.com/2026/09/29/ifixit-airpods-5-teardown/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T16:29:33.000Z"
+      "publishedAt": "2026-09-29T21:38:41.000Z"
     },
     {
-      "id": "118f9ebbef851741",
-      "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
-      "description": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game.\n\"Mythic Achievements",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Toast-Gears-E-Day-1e689e713ada7e9b3d37.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
-      "source": "The Verge",
+      "id": "d61f2e420563ef6e",
+      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+      "description": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
+      "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+      "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T16:17:01.000Z"
+      "publishedAt": "2026-09-29T21:20:12.000Z"
     },
     {
-      "id": "dacdf3754240c2a6",
-      "title": "Apple Reportedly Planned to Replace 5,000 Support Employees With AI",
-      "description": "Apple recently considered laying off about 5,000 support employees, but it has put those plans on hold indefinitely, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nThe report said that Apple believed that AI-powered phone and web agents could take over some of the responsibilities performed by the emplo",
-      "image": "https://images.macrumors.com/article-new/2023/08/Apple-Support-App-General-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/apple-reportedly-planned-5000-applecare-layoffs/",
+      "id": "c400a4b745aa7b8f",
+      "title": "iPhone 18 Pro Owners Complain of Speaker Crackling or Popping",
+      "description": "Some iPhone 18 Pro owners have noticed an unusual crackling sound coming from the speaker of the device, leading to complaints on the MacRumors forums and Reddit.\r\n\r\n\r\nUsers have called it a crackle, a faint tick or pop, or random clicking. Many say the problem is with the earpiece speaker, and both",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-2up-16x9-1.jpg",
+      "url": "https://www.macrumors.com/2026/09/29/iphone-18-pro-speaker-crackling/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T16:11:17.000Z"
+      "publishedAt": "2026-09-29T21:03:14.000Z"
     },
     {
-      "id": "d792a61c3dff0825",
-      "title": "Apple&#8217;s new CEO could change when it launches phones and laptops",
-      "description": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company.\nApple regularly holds iPhone launch events in September and often announces pro",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/JohnTernus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T16:09:44.000Z"
-    },
-    {
-      "id": "d54d85fa06d4f324",
-      "title": "OpenAI makes 20+ announcements at DevDay event including always-on agents called dots, watch live",
-      "description": "OpenAI has teased 20+ announcements as part of its DevDay 2026 event. The event will be streamed live. You can see everything announced today below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/openai-devday.webp?w=1600",
-      "url": "https://9to5mac.com/2026/09/29/openai-teases-20-announcements-at-devday-watch-live/",
+      "id": "bc079dcf7786bd3d",
+      "title": "9to5Mac Daily: September 29, 2026 – iOS 27.0.1, iPhone Duo features",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/29/daily-september-29-2026/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T16:03:40.000Z"
+      "publishedAt": "2026-09-29T21:01:25.000Z"
     },
     {
-      "id": "50111a4cc1675040",
-      "title": "Here’s how many iPhone Duo units Apple is reportedly making",
-      "description": "A recent report from Chinese outlet Jiemian News offers an update on iPhone Duo production, including how many units are being made, assembly troubles, and more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/heres-how-many-iphone-duo-units-apple-is-reportedly-making/",
+      "id": "422b7c3a6140299b",
+      "title": "iFixit teardown of the new AirPods 5 reveals first real repairability improvement",
+      "description": "iFixit’s teardown of the new AirPods 5 is now up, revealing an important, albeit tiny, repairability improvement. Watch it below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods-5-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T16:02:53.000Z"
+      "publishedAt": "2026-09-29T20:54:37.000Z"
     },
     {
-      "id": "ca0146f7a062a21e",
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "description": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing “20+ launches” with Altman saying that “we have found a new thing,”, and rumors suggest it c",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T16:00:00.000Z"
-    },
-    {
-      "id": "8b192937eda792cc",
-      "title": "This might be our first look at Google’s Pixel 11A",
-      "description": "The only noticable difference is that the camera oval is shorter. | Image: Android Headlines\t\n\nGoogle isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our first look ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pixel-11a-leaks-Android-Headlines.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T15:57:10.000Z"
-    },
-    {
-      "id": "05ea184da53dfa99",
-      "title": "Apple Planning to Launch Products Faster and More Often",
-      "description": "Apple CEO John Ternus is undertaking efforts to restructure the company to accelerate product development and introduce new products more frequently, according to Bloomberg's Mark Gurman. \r\n\r\n\r\nTernus apparently wants Apple to \"broaden its range of devices and create a leaner organization with a gre",
-      "image": "https://images.macrumors.com/article-new/2023/09/Apple-Logo-Spotlight.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/apple-to-launch-products-faster-and-more-often/",
+      "id": "5c8657d40aed6ebf",
+      "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12",
+      "description": "People who plan to purchase an iPhone Duo can go through the \"Get Ready\" process starting on Monday, October 12. The new detail was added to the iPhone Duo product page yesterday, according to Reddit.\r\n\r\n\r\nGet Ready lets users select a preferred color and capacity, confirm their carrier status, choo",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-get-ready.jpg",
+      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T15:55:40.000Z"
+      "publishedAt": "2026-09-29T20:44:06.000Z"
     },
     {
-      "id": "1dc0c8bb6a55dc62",
-      "title": "John Ternus has big plans to make Apple ‘leaner’ and release more products",
-      "description": "New CEO John Ternus has plans to “overhaul” Apple in an attempt to make it “run faster and leaner,” according to a new report from Bloomberg. This includes introducing more products, eliminating “middle-management positions,” and much more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC02665.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/john-ternus-apple-new-products-leaner/",
+      "id": "e46073ef058a0537",
+      "title": "Apple faces renewed scrutiny over removal of ICEBlock from the App Store",
+      "description": "CNN reports that Rep. Jamie Raskin sent a letter to Apple this week challenging the company’s explanation for removing ICEBlock from the App Store last year. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/Former-veteran-Apple-marketing-exec-challenges-Tim-Cook-on-human-rights-over-ICEBlock.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/29/apple-faces-renewed-scrutiny-over-removal-of-iceblock-from-the-app-store/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T15:39:23.000Z"
+      "publishedAt": "2026-09-29T20:18:24.000Z"
+    },
+    {
+      "id": "95d469f3283ec076",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-29T20:15:47.000Z"
+    },
+    {
+      "id": "e3d36029c8ac863c",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-29T19:52:37.000Z"
+    },
+    {
+      "id": "bb7b7b919a339625",
+      "title": "Apple Pay Reportedly Launching in India Today",
+      "description": "Apple Pay is set to launch in India later today (Wednesday local time), starting with Axis Bank credit cards on the Visa and Mastercard networks, according to TechCrunch.\r\n\r\nRelated Roundup: Apple Pay\nTags: India, TechCrunch\nRelated Forum: Apple Music, Apple Pay/Card, iCloud, Fitness+\nThis article, ",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Pay-India.jpg",
+      "url": "https://www.macrumors.com/2026/09/29/apple-pay-reportedly-launching-in-india-today/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-29T19:52:35.000Z"
+    },
+    {
+      "id": "159e903a7c268077",
+      "title": "Apple announces when you can start the iPhone Duo pre-order process",
+      "description": "iPhone Duo pre-orders start on Friday, October 16, but Apple just announced when you can get an early start on the process. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-29T19:33:20.000Z"
+    },
+    {
+      "id": "b667acc383d9837c",
+      "title": "Early fall Prime Day deals now live: MacBook, AirTag 2, MagSafe gear, TVs, smart speakers, more",
+      "description": "Amazon’s early fall Prime Day sale is in full swing with thousands of price drops already up for grabs. While there will be plenty more Apple gear dropping in price come next week, we are already seeing AirTag 2 at the lowest price yet, $500 off this M5 Pro MacBook Pro, up to $150 off MacBook Air mo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Early-fall-Prime-Day-deals-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/29/early-fall-prime-day-deals-now-live/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-29T19:05:02.000Z"
+    },
+    {
+      "id": "bf64e62b2444d43d",
+      "title": "iOS 27.2: Three new features coming soon to your iPhone",
+      "description": "iOS 27.0.1 just launched yesterday, but Apple is already well on its way to preparing iOS 27.2 as a forthcoming iPhone update (with 27.1 likely iPhone Duo-only). Here are three new features coming with iOS 27.2.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/29/ios-27-2-three-new-features-coming-soon-to-your-iphone/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-29T18:53:52.000Z"
+    },
+    {
+      "id": "dfacc88f2611988e",
+      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "description": "Disrupt doesn’t end when you leave Moscone West. 👀\n\nFounder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week.\n\nSee what’s happening, find your people, and start building your calendar.",
+      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-29T18:48:03.000Z"
+    },
+    {
+      "id": "a2931b43011403c1",
+      "title": "Apple Releases New AirPods Beta Firmware",
+      "description": "Apple today released new beta firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5, and AirPods Max 2. The firmware has a build number of 9B5042a and is rolling out for developers and public beta testers.\r\n\r\n\r\nThere's no word on what's included in the firmware update because Apple doe",
+      "image": "https://images.macrumors.com/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg",
+      "url": "https://www.macrumors.com/2026/09/29/apple-releases-new-airpods-beta-firmware-september/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-29T18:38:03.000Z"
     }
   ],
-  "lastUpdated": "2026-09-29T18:02:29.224Z",
+  "lastUpdated": "2026-09-30T06:04:28.883Z",
   "sources": [
     "TechCrunch",
     "The Verge",
