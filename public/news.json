@@ -1,297 +1,296 @@
 {
   "articles": [
     {
-      "id": "0dd3f8c5901ea59d",
-      "title": "Apple Pay finally launches in India after years on the sidelines",
-      "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
-      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "id": "15897bca9cadd16d",
+      "title": "Leak reveals new design details about Apple’s upcoming smart display",
+      "description": "Apple is less than two weeks away from launching its new smart display, according to a new Bloomberg report. The report also adds details about the design of Apple’s long-awaited smart home hub.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/30/leak-reveals-new-design-details-about-apples-upcoming-smart-display/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-30T17:56:06.000Z"
+    },
+    {
+      "id": "e792e0ed4e82c91a",
+      "title": "Apple Event on October 13?",
+      "description": "Earlier this week, Daring Fireball's John Gruber floated Tuesday, October 13 as a potential date for Apple to hand out iPhone Duo review units to selected reviewers in person, and it appears that he might have been on to something.\r\n\r\n\r\nBloomberg's Mark Gurman today reported that Apple plans to unve",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-October-13.jpeg",
+      "url": "https://www.macrumors.com/2026/09/30/apple-event-on-october-13/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-30T17:53:35.000Z"
+    },
+    {
+      "id": "925b435c58ae73e4",
+      "title": "Apple Music 7.0 beta brings Liquid Glass redesign to Android",
+      "description": "Apple Music for Android is getting a big Liquid Glass-inspired redesign with the latest 7.0 beta.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Music-7-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5google.com/2026/09/30/apple-music-7-0-redesign-liquid-glass/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-30T17:47:57.000Z"
+    },
+    {
+      "id": "e13d1900dfa76622",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-30T04:08:00.000Z"
+      "publishedAt": "2026-09-30T17:45:00.000Z"
     },
     {
-      "id": "f518ba1225f4311f",
-      "title": "Apple Pay now rolling out to Axis Bank customers in India [U]",
-      "description": "Update, 10:13 p.m. ET: Apple has now confirmed the launch for “customers with Axis Bank-issued Visa and Mastercard credit cards.” The original story follows below.\nNearly twelve years to the day after Apple first announced Apple Pay, the feature is now rolling out in India, one of the few major mark",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/More-great-wallpaper-in-the-run-up-to-two-more-Apple-Stores-in-India.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-30T01:19:30.000Z"
-    },
-    {
-      "id": "bb9ad6b5c88e420d",
-      "title": "Bank of America says Meta’s Muse highlights a new risk for Apple’s services revenue",
-      "description": "In a new investor note issued today, Bank of America says Meta’s new Muse AI agent highlights how third-party AI agents could increasingly bypass Apple’s ecosystem and threaten its services revenue. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/bank-of-america-says-metas-muse-highlights-a-new-risk-for-apples-services-revenue/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-30T00:41:46.000Z"
-    },
-    {
-      "id": "b43c69141a08921f",
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and w",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "id": "dd9fe5c7733fa06e",
+      "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+      "description": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the company says that you'll have to be logged in and have u",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-30T00:19:13.000Z"
+      "publishedAt": "2026-09-30T17:45:00.000Z"
     },
     {
-      "id": "7552f11d24652dda",
-      "title": "Apple Pay Now Available in India With Axis Bank Cards",
-      "description": "Apple Pay is now available in India, which means customers with an eligible card can add it to the Wallet app on iPhone and Apple Watch for contactless and online payments.\r\n\r\n\r\nTo use Apple Pay in India, users will need an Axis Bank credit card on the Visa or Mastercard network. Earlier today, Tech",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Pay-India.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/apple-pay-india/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-30T00:01:50.000Z"
-    },
-    {
-      "id": "111a5c96c34cdc56",
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "id": "285603f9c4e53240",
+      "title": "The ugly economics of consumer AI",
+      "description": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T23:30:55.000Z"
+      "publishedAt": "2026-09-30T17:24:45.000Z"
     },
     {
-      "id": "76757d49cba4b0ab",
-      "title": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse",
-      "description": "OpenAI today announced the launch of \"Dots\" to compete with Meta's popular Muse agent. OpenAI describes Dots as always-on agents \"built to handle everything.\"\r\n\r\n\r\nDots use the GPT–6 Astra model and have a cloud computer with a web browser, much like Muse. The agents learn from feedback over time, a",
-      "image": "https://images.macrumors.com/article-new/2026/09/openai-dots.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/openai-launches-dots/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T22:45:10.000Z"
-    },
-    {
-      "id": "4ae9bf7166cf973f",
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "description": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new exe",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "id": "ea2b8e526a2ee6e8",
+      "title": "Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;",
+      "description": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several thousand captures in a single driver's typical shif",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T22:25:45.000Z"
+      "publishedAt": "2026-09-30T17:21:29.000Z"
     },
     {
-      "id": "904e8468fc6d550f",
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T22:20:59.000Z"
-    },
-    {
-      "id": "da563165f5acfcec",
-      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-      "description": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
-      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T22:18:35.000Z"
-    },
-    {
-      "id": "679361bd88660d81",
-      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-      "description": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. \nLet's start with",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+      "id": "239b94bca2615b6e",
+      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+      "description": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images\t\n\nAfter hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligenc",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T22:01:00.000Z"
+      "publishedAt": "2026-09-30T17:15:49.000Z"
     },
     {
-      "id": "05ee9c67cc9406c1",
-      "title": "Apple TV renews French drama ‘Carême’ for season two",
-      "description": "Apple TV today announced that French-language drama “Carême” has been renewed for a second season. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/careme.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/apple-tv-renews-french-drama-careme-for-season-two/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T21:55:56.000Z"
-    },
-    {
-      "id": "db11b7a1da7becf5",
-      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-      "description": "EliseAI raises $350M, doubles valuation in a year.",
-      "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-09-29T21:51:36.000Z"
-    },
-    {
-      "id": "d799d4b4e796ddfa",
-      "title": "Suspected ShinyHunters leader arrested in the Netherlands",
-      "description": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch authorities state that they arrested the suspect o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220209_4977_0226.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+      "id": "0f67ff811166d526",
+      "title": "This blog could help you poop better",
+      "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\n\"I will explode your butthole with this poopmaxxer pesto,\" a calm Gen Z voice announ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23891834/VRG_Illo_K_Radtke_226084_Poop_Emoji.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T21:50:31.000Z"
+      "publishedAt": "2026-09-30T17:00:00.000Z"
     },
     {
-      "id": "ecc066665af2b2a2",
-      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-      "description": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live update",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "id": "1f92b7ff3c9352d7",
+      "title": "Asus won’t say how it escaped the US router ban",
+      "description": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a detailed, time-bound plan to establish or expand manufacturing in t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/4023838/vs09-02_1250cxs.0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T21:49:09.000Z"
+      "publishedAt": "2026-09-30T16:44:20.000Z"
     },
     {
-      "id": "f8e40999a86e2e4b",
-      "title": "AirPods 5 Teardown: Batteries Removable, Case Still Tough",
-      "description": "Repair site iFixit today took apart Apple's AirPods 5 for one of its traditional teardown videos. It turns out the new AirPods are slightly more repairable than prior models, but it's still not a simple home fix.\r\n\r\n\n\r\nThe ‌AirPods 5‌ use pronged batteries that Apple previously used in the AirPods 3",
-      "url": "https://www.macrumors.com/2026/09/29/ifixit-airpods-5-teardown/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T21:38:41.000Z"
+      "id": "89217971e73f557f",
+      "title": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
+      "description": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nXbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox entirely, and then reported earl",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T16:24:30.000Z"
     },
     {
-      "id": "d61f2e420563ef6e",
-      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-      "description": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
-      "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+      "id": "0f15e4da0af2f638",
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T21:20:12.000Z"
+      "publishedAt": "2026-09-30T16:24:23.000Z"
     },
     {
-      "id": "c400a4b745aa7b8f",
-      "title": "iPhone 18 Pro Owners Complain of Speaker Crackling or Popping",
-      "description": "Some iPhone 18 Pro owners have noticed an unusual crackling sound coming from the speaker of the device, leading to complaints on the MacRumors forums and Reddit.\r\n\r\n\r\nUsers have called it a crackle, a faint tick or pop, or random clicking. Many say the problem is with the earpiece speaker, and both",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-2up-16x9-1.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/iphone-18-pro-speaker-crackling/",
+      "id": "a0439e56a34b8074",
+      "title": "Apple Watch Series 12, Ultra 4 adding two new features soon",
+      "description": "Apple Watch Series 12 and Apple Watch Ultra 4 have arrived, and later this year they’ll get even more powerful with two new features: Siri Recap and Live Rewind. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-fi-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/30/apple-watch-series-12-ultra-4-adding-two-new-features-soon/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-30T16:13:02.000Z"
+    },
+    {
+      "id": "d3b8909301353605",
+      "title": "Apple Watch SE 3 vs. Series 12 Buyer's Guide: Which Should You Buy?",
+      "description": "The Apple Watch SE 3 starts at $249, while the Apple Watch Series 12 starts at $399. The $150 difference buys a more advanced health sensing system, a larger display, longer battery life, and more options for tracking training and recovery.\r\n\r\n\r\nThe two watches still share many features, including a",
+      "image": "https://images.macrumors.com/article-new/2024/10/Apple-Watch-Series-SE-vs-Series-10-Buyers-Guide.jpg",
+      "url": "https://www.macrumors.com/guide/apple-watch-se-3-vs-series-12/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T21:03:14.000Z"
+      "publishedAt": "2026-09-30T16:05:19.000Z"
     },
     {
-      "id": "bc079dcf7786bd3d",
-      "title": "9to5Mac Daily: September 29, 2026 – iOS 27.0.1, iPhone Duo features",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/daily-september-29-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T21:01:25.000Z"
-    },
-    {
-      "id": "422b7c3a6140299b",
-      "title": "iFixit teardown of the new AirPods 5 reveals first real repairability improvement",
-      "description": "iFixit’s teardown of the new AirPods 5 is now up, revealing an important, albeit tiny, repairability improvement. Watch it below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods-5-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T20:54:37.000Z"
-    },
-    {
-      "id": "5c8657d40aed6ebf",
-      "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12",
-      "description": "People who plan to purchase an iPhone Duo can go through the \"Get Ready\" process starting on Monday, October 12. The new detail was added to the iPhone Duo product page yesterday, according to Reddit.\r\n\r\n\r\nGet Ready lets users select a preferred color and capacity, confirm their carrier status, choo",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-get-ready.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T20:44:06.000Z"
-    },
-    {
-      "id": "e46073ef058a0537",
-      "title": "Apple faces renewed scrutiny over removal of ICEBlock from the App Store",
-      "description": "CNN reports that Rep. Jamie Raskin sent a letter to Apple this week challenging the company’s explanation for removing ICEBlock from the App Store last year. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/Former-veteran-Apple-marketing-exec-challenges-Tim-Cook-on-human-rights-over-ICEBlock.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/apple-faces-renewed-scrutiny-over-removal-of-iceblock-from-the-app-store/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T20:18:24.000Z"
-    },
-    {
-      "id": "95d469f3283ec076",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "id": "5ebb10cd37215dff",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T20:15:47.000Z"
+      "publishedAt": "2026-09-30T16:00:24.000Z"
     },
     {
-      "id": "e3d36029c8ac863c",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "id": "7cdbfa784582e12a",
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T19:52:37.000Z"
+      "publishedAt": "2026-09-30T16:00:00.000Z"
     },
     {
-      "id": "bb7b7b919a339625",
-      "title": "Apple Pay Reportedly Launching in India Today",
-      "description": "Apple Pay is set to launch in India later today (Wednesday local time), starting with Axis Bank credit cards on the Visa and Mastercard networks, according to TechCrunch.\r\n\r\nRelated Roundup: Apple Pay\nTags: India, TechCrunch\nRelated Forum: Apple Music, Apple Pay/Card, iCloud, Fitness+\nThis article, ",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Pay-India.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/apple-pay-reportedly-launching-in-india-today/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T19:52:35.000Z"
+      "id": "732685e90cf73b99",
+      "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
+      "description": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but it",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/halide.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T16:00:00.000Z"
     },
     {
-      "id": "159e903a7c268077",
-      "title": "Apple announces when you can start the iPhone Duo pre-order process",
-      "description": "iPhone Duo pre-orders start on Friday, October 16, but Apple just announced when you can get an early start on the process. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
+      "id": "52a1073e11274e84",
+      "title": "Halide 3.2 pro camera arrives with iPhone 18 Pro aperture feature and two new looks",
+      "description": "In May, Lux Optics launched the all-new Halide Mark III pro camera app for iPhone. Today, Halide is back with its first update for iPhone 18 Pro, plus new features for all iPhone photographers.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/halide-32.webp?w=1600",
+      "url": "https://9to5mac.com/2026/09/30/halide-3-2-pro-camera-arrives-with-iphone-18-pro-aperture-feature-and-two-new-looks/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T19:33:20.000Z"
+      "publishedAt": "2026-09-30T16:00:00.000Z"
     },
     {
-      "id": "b667acc383d9837c",
-      "title": "Early fall Prime Day deals now live: MacBook, AirTag 2, MagSafe gear, TVs, smart speakers, more",
-      "description": "Amazon’s early fall Prime Day sale is in full swing with thousands of price drops already up for grabs. While there will be plenty more Apple gear dropping in price come next week, we are already seeing AirTag 2 at the lowest price yet, $500 off this M5 Pro MacBook Pro, up to $150 off MacBook Air mo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Early-fall-Prime-Day-deals-01.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/early-fall-prime-day-deals-now-live/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T19:05:02.000Z"
-    },
-    {
-      "id": "bf64e62b2444d43d",
-      "title": "iOS 27.2: Three new features coming soon to your iPhone",
-      "description": "iOS 27.0.1 just launched yesterday, but Apple is already well on its way to preparing iOS 27.2 as a forthcoming iPhone update (with 27.1 likely iPhone Duo-only). Here are three new features coming with iOS 27.2.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/09/29/ios-27-2-three-new-features-coming-soon-to-your-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-09-29T18:53:52.000Z"
-    },
-    {
-      "id": "dfacc88f2611988e",
-      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-      "description": "Disrupt doesn’t end when you leave Moscone West. 👀\n\nFounder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week.\n\nSee what’s happening, find your people, and start building your calendar.",
-      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "id": "0275051d38f5538a",
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "description": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-09-29T18:48:03.000Z"
+      "publishedAt": "2026-09-30T15:56:28.000Z"
     },
     {
-      "id": "a2931b43011403c1",
-      "title": "Apple Releases New AirPods Beta Firmware",
-      "description": "Apple today released new beta firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5, and AirPods Max 2. The firmware has a build number of 9B5042a and is rolling out for developers and public beta testers.\r\n\r\n\r\nThere's no word on what's included in the firmware update because Apple doe",
-      "image": "https://images.macrumors.com/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg",
-      "url": "https://www.macrumors.com/2026/09/29/apple-releases-new-airpods-beta-firmware-september/",
+      "id": "e9d523ec5c06c936",
+      "title": "iPad Mini 8 to Offer These 10 New Features",
+      "description": "Last week, our exclusive leak revealed that the next-generation iPad mini will feature Apple's latest A20 Pro chip, a landscape front camera, and a redesigned speaker system, but that is not all, as plenty of other upgrades have been rumored.\r\n\r\n\r\nHere are 10 new features and changes expected for th",
+      "image": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg",
+      "url": "https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-09-29T18:38:03.000Z"
+      "publishedAt": "2026-09-30T15:54:43.000Z"
+    },
+    {
+      "id": "05a0797dfc53ce86",
+      "title": "Deals: iPhone 17 Pro Max, MacBook Pro, HomeKit Prime Day discounts, Apple Watch bands from $7, more",
+      "description": "Joining the updated early fall Prime Day sale at Amazon and the giant ongoing $500 price drop on this M5 Pro MacBook Pro, today’s 9to5Toys Lunch Break is headlined by official MagSafe Battery at 40% off. You’ll also find loads of charger deals, TVs, smart speakers, and more waiting down below. \nmore",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-iPhone-17-Pro-Max-MAcBook.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/30/deals-iphone-17-pro-max-macbook-pro-prime-day-bands/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-30T15:28:09.000Z"
+    },
+    {
+      "id": "2046ea33fdf43408",
+      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+      "description": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
+      "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T15:26:02.000Z"
+    },
+    {
+      "id": "ad470ce8756550b3",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "description": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also an",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T15:18:49.000Z"
+    },
+    {
+      "id": "294295f50f92bdc2",
+      "title": "New Apple TV comedy has 100% Rotten Tomatoes, here’s the trailer",
+      "description": "Apple TV currently has a packed lineup of new shows airing, and it’s about to add another. Small Prophets is a British comedy premiering next week that has a 100% Rotten Tomatoes score. Here’s the trailer.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/small-prophets-quigley.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/09/30/new-apple-tv-comedy-has-100-rotten-tomatoes-heres-the-trailer/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-09-30T15:03:02.000Z"
+    },
+    {
+      "id": "ca069ce1935e261c",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "description": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web tra",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T14:51:49.000Z"
+    },
+    {
+      "id": "93061af404a1ae4a",
+      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+      "description": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.",
+      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T14:50:55.000Z"
+    },
+    {
+      "id": "51ebca5c0b02b974",
+      "title": "Amazon Takes Up to $150 Off Select M5 MacBook Air Models",
+      "description": "Amazon today is taking up to $150 off the M5 MacBook Air, with discounts on both 13-inch and 15-inch models. These remain the best prices we've seen on the M5 MacBook Air in the wake of Apple's summertime price hikes.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and ",
+      "image": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
+      "url": "https://www.macrumors.com/2026/09/30/amazon-m5-macbook-air/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-09-30T14:49:09.000Z"
+    },
+    {
+      "id": "9564f178ec259a01",
+      "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
+      "description": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
+      "url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T14:32:03.000Z"
+    },
+    {
+      "id": "620e7793392351b6",
+      "title": "Instagram rolls out an AI video assistant for creators",
+      "description": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+      "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T14:30:00.000Z"
+    },
+    {
+      "id": "910fef21429bf97b",
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "description": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-09-30T14:30:00.000Z"
     }
   ],
-  "lastUpdated": "2026-09-30T06:04:28.883Z",
+  "lastUpdated": "2026-09-30T18:03:40.395Z",
   "sources": [
     "TechCrunch",
     "The Verge",
