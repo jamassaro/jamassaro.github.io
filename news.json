@@ -1,297 +1,298 @@
 {
   "articles": [
     {
-      "id": "15dcc989528537ad",
-      "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
-      "description": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on its network are experiencing cellular issues.\r\n\r\n\r\nAT&T said that customers should immediately update to iOS 27.0.1, despite the fact that many affected users have said that the update does not resolv",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
-      "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T03:42:44.000Z"
-    },
-    {
-      "id": "857156f1c4dc4bdd",
-      "title": "Apple TV’s acclaimed ‘The Last First: Winter K2’ documentary now streaming",
-      "description": "Sporting a 100% Rotten Tomatoes score, the extreme mountain climbing documentary “The Last First: Winter K2” is now available to Apple TV subscribers. Watch the trailer below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/last-first-k2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T01:00:20.000Z"
-    },
-    {
-      "id": "17413ec652705728",
-      "title": "Robotaxi operators will face fines for blocking first responders",
-      "description": "A new California law places new rules on autonomous vehicles operators",
-      "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T00:57:57.000Z"
-    },
-    {
-      "id": "02e0a2ea43da38b1",
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T00:03:23.000Z"
-    },
-    {
-      "id": "87806b2f72e148dd",
-      "title": "Apple commissions photographers for new ‘Shot on iPhone Duo’ campaign",
-      "description": "Today, Apple’s Instagram account published a carousel featuring photos commissioned from photographers Jake Michaels and Jason Nocito to highlight the new iPhone Duo’s cameras. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-camera.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-01T22:52:42.000Z"
-    },
-    {
-      "id": "3dbb3db9fa0a031e",
-      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-      "description": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside App",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+      "id": "94c0796e724ca591",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "description": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\t\n\nIt's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. \nBut unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-01T22:51:36.000Z"
+      "publishedAt": "2026-10-02T18:00:00.000Z"
     },
     {
-      "id": "68f9414e71617519",
-      "title": "Apple among biggest corporate lobbyists in Brussels, per report",
-      "description": "A new analysis by The Financial Times shows that Apple has met with EU policymakers 257 times since June 2024 and has spent between €8 million and €9 million per year on lobbying. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/apple-among-biggest-corporate-lobbyists-in-brussels-per-report/",
+      "id": "33d4f47e06a96ed3",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intell",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T17:48:16.000Z"
+    },
+    {
+      "id": "9ed175d96dbde438",
+      "title": "Breaking up (with Elon Musk) is hard to do",
+      "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X.\nTo do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing e",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T17:37:36.000Z"
+    },
+    {
+      "id": "88dd482b4c237f7f",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T17:32:05.000Z"
+    },
+    {
+      "id": "68f3187b7de7d426",
+      "title": "Apple’s new ‘homeOS’ will launch this month, here’s what’s coming",
+      "description": "Apple reportedly plans to launch new Home products on October 13 alongside an all-new operating system rumored to be called ‘homeOS.’ Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-home-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-01T22:21:27.000Z"
+      "publishedAt": "2026-10-02T17:22:19.000Z"
     },
     {
-      "id": "c3e99c9d43433101",
-      "title": "9to5Mac Daily: October 1, 2026 – iPhone Duo production, AirPods 5 tidbits",
+      "id": "634d64fbe3c0c4f4",
+      "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
+      "description": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. \nThe company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year-over-year increase in",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T17:15:03.000Z"
+    },
+    {
+      "id": "ab176747aa6f0cdf",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "description": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T17:00:00.000Z"
+    },
+    {
+      "id": "2997dec266626ae7",
+      "title": "Beehiiv creators are buzzing about a new price increase",
+      "description": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says it will allow the company to \"continue investing in our core platform experienc",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/beehiiv-logo.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T16:51:49.000Z"
+    },
+    {
+      "id": "f764093b29531873",
+      "title": "Apple now sells Aqara Adaptive Temperature thermostat and seven more accessories",
+      "description": "This week Apple refreshed its third-party accessories lineup to include eight additional products. This includes the Aqara Thermostat Hub W200 and more.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-store.webp?w=1600",
+      "url": "https://9to5mac.com/2026/10/02/apple-now-sells-aqara-adaptive-temperature-thermostat-and-seven-more-accessories/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T16:43:34.000Z"
+    },
+    {
+      "id": "75eac0c23390c5ce",
+      "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
+      "description": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimited's screen can also be used to mix audio from mul",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T16:35:13.000Z"
+    },
+    {
+      "id": "75c2b2f3057257c9",
+      "title": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple'",
+      "description": "In a statement shared with MacRumors today, AT&T said it is \"working with Apple\" to resolve iPhone 18 Pro Max cellular issues.\r\n\r\n\r\n\"Apple has released a software update to address an issue that may affect calls, data, texts, and 911 calls on a small number of Apple iPhone 18 Pro Max phones,\" an AT&",
+      "image": "https://images.macrumors.com/article-new/2026/10/ATT-Apple.jpg",
+      "url": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T16:18:55.000Z"
+    },
+    {
+      "id": "212568749ff9c70f",
+      "title": "Beats 360 Cushion Kits and Apple Accessories See Early Prime Day Price Drops",
+      "description": "We're just a few days out from Prime Big Deal Days on October 6, and Amazon is already offering some savings on accessories including Anker chargers, Samsung monitors, and 4K TVs. We're also tracking deals on the new Mac mini, Mac Studio, and Apple Watch Ultra 4 this week.\r\n\r\nNote: MacRumors is an a",
+      "image": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
+      "url": "https://www.macrumors.com/2026/10/02/best-apple-deals-of-the-week-10-2-26/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T16:05:03.000Z"
+    },
+    {
+      "id": "800634fa88aa6c18",
+      "title": "Using an iPad mini to preview the iPhone Duo experience",
+      "description": "Alongside using the iPhone 18 Pro, I’ve also been carrying out a little experiment as we await the launch of the iPhone Duo.\nTo get a sense of what it might be like to use the large screen of the upcoming device, I’ve been using my iPad mini as a substitute phone some of the time. Given that the scr",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Using-an-iPad-mini-to-preview-the-iPhone-Duo-experience.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/using-an-ipad-mini-to-preview-the-iphone-duo-experience/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T16:00:00.000Z"
+    },
+    {
+      "id": "1ed3820ab18e1860",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance",
+      "description": "The roughly $110 billion deal is expected to close October 6.",
+      "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T15:53:50.000Z"
+    },
+    {
+      "id": "460c08722203704d",
+      "title": "Dots get up in Muse’s business",
+      "description": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character, just like you can make a cute little Muse charac",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_100227_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T15:47:05.000Z"
+    },
+    {
+      "id": "7d5ce9b65cfee37c",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T15:39:41.000Z"
+    },
+    {
+      "id": "f2579ddcd644ba6f",
+      "title": "iOS 27.2 gives Apple Podcasts the big fix I’ve wanted for years",
+      "description": "Apple Podcasts is my podcast app of choice, but I’ve long had major issues with its central Up Next queue feature. I’m happy to report that iOS 27.2 introduces the solution.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-podcasts.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/ios-27-2-gives-apple-podcasts-the-big-fix-ive-wanted-for-years/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T15:37:56.000Z"
+    },
+    {
+      "id": "1a19694f7826a199",
+      "title": "Deals: M5 MacBook Air, MacBook Pro, AirTag 2, smart display power bank, early Prime Day deals, more",
+      "description": "Alongside the launch of the all-new Twelve South Airfly Drive wireless CarPlay adapter at $40, Amazon has once again updated its early fall Prime Day sale with fresh deals. Today’s 9to5Toys Lunch Break is headlined by Apple AirTag 2 down at Amazon all-time low pricing. We also have Sharge’s metal 30",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-MacBook-chargers-AirTag-2-iPhone-18-Pro-cases.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/deals-m5-macbook-air-pro-airtag-2-iphone-18-cases/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T15:36:11.000Z"
+    },
+    {
+      "id": "70acbb6dbda45068",
+      "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+      "description": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
+      "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T15:31:20.000Z"
+    },
+    {
+      "id": "2f0d00283da742fa",
+      "title": "9to5Mac Daily: October 2, 2026 – MacBook Pro rumors, iPhone Duo display",
       "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/daily-october-1-2026/",
+      "url": "https://9to5mac.com/2026/10/02/daily-october-2-2026/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-01T22:16:36.000Z"
+      "publishedAt": "2026-10-02T15:25:52.000Z"
     },
     {
-      "id": "b96619e605ae5376",
-      "title": "New 'AirFly Drive' Accessory Turns Wired CarPlay Into Wireless CarPlay",
-      "description": "Twelve South, a well-known accessory maker for Apple products, has released a new AirFly Drive accessory that turns wired CarPlay into wireless CarPlay.\r\n\r\n\r\nAirFly Drive uses Wi-Fi to establish a connection between your iPhone and vehicle, eliminating the need to use a USB-C cable for CarPlay.\r\n\r\nP",
-      "image": "https://images.macrumors.com/article-new/2026/10/Twelve-South-AirFly-Drive.jpg",
-      "url": "https://www.macrumors.com/2026/10/01/twelve-south-airfly-drive/",
+      "id": "62f30ad2cc4b77f0",
+      "title": "Upgrading From an Older Apple Watch? Here's How the New Features Stack Up",
+      "description": "The Apple Watch has received some incremental updates in recent years, with significant upgrades becoming fewer and farther between as the device has progressed. Since the Apple Watch's generation-over-generation enhancements are relatively small, it is all the more important to consider when an upg",
+      "image": "https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-9-Buyers-Guide-Feature.jpg",
+      "url": "https://www.macrumors.com/guide/upgrading-from-older-apple-watch/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-01T22:08:42.000Z"
+      "publishedAt": "2026-10-02T15:20:39.000Z"
     },
     {
-      "id": "0a84d8804389016f",
-      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-      "description": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
-      "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-01T21:57:08.000Z"
-    },
-    {
-      "id": "499bdfc580600d74",
-      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-      "description": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-01T21:55:22.000Z"
-    },
-    {
-      "id": "1912d3d68201102a",
-      "title": "GrayKey maker can reportedly bypass the iPhone’s ‘Inactivity Reboot’ security feature",
-      "description": "As reported by 404 Media, Magnet Forensics says it has found a way to bypass the iPhone security feature that automatically reboots devices if they haven’t been unlocked for 72 hours. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/how-to-get-imessage-quantum-security-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/graykey-maker-can-reportedly-bypass-the-iphones-inactivity-reboot-security-feature/",
+      "id": "811cc6e0f223069e",
+      "title": "Texas school district ditches Chromebooks, approves $11M iPad and MacBook Neo deal",
+      "description": "A Texas school district is going all-in on the iPad and MacBook Neo as part of a new $11 million deal. The Beaumont Independent School District is ditching its Chromebook fleet and opting for Apple gear going forward, citing better reliability, lower costs, and performance.\nAs reported by the Beaumo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-citrus-0000-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/texas-school-district-ditches-chromebooks-approves-11m-ipad-and-macbook-neo-deal/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-01T21:36:16.000Z"
+      "publishedAt": "2026-10-02T15:03:40.000Z"
     },
     {
-      "id": "a61b84b592cd33e7",
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-      "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "id": "58010f82cf719597",
+      "title": "HBO Max and Paramount+ set to merge under ‘Skydance’ brand",
+      "description": "Paramount Skydance will complete its acquisition of Warner Bros. next week, and CEO David Ellison just revealed ‘Skydance’ as the new company name ahead of a planned merging of HBO Max and Paramount+ streaming services.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/hbo-max-and-paramount-set-to-merge-under-skydance-brand/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T14:53:19.000Z"
+    },
+    {
+      "id": "a0a1df8a8becf501",
+      "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
+      "description": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
+      "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-01T21:08:11.000Z"
+      "publishedAt": "2026-10-02T14:47:46.000Z"
     },
     {
-      "id": "67d994865710b0e0",
-      "title": "Apple Shares Photos Shot on iPhone Duo",
-      "description": "Apple on Instagram today shared a curated gallery of six photos shot on the iPhone Duo. The photos were shot by American photographers Jake Michaels and Jason Nocito, as part of a project commissioned by Apple.\r\n\r\n\r\niPhone Duo is equipped with four cameras:\nA rear 48-megapixel Fusion Main camera\n\r\nA",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
-      "url": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-01T20:56:29.000Z"
-    },
-    {
-      "id": "75e515849ee556c7",
-      "title": "Apple Arcade adds five new games, including Terraria+ and Pusheen’s Place",
-      "description": "Apple Arcade subscribers got access to five new games today, as Apple had promised in early September. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-arcade.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/apple-arcade-adds-five-new-games-including-terraria-and-pusheens-place/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-01T20:44:52.000Z"
-    },
-    {
-      "id": "ecb41443810dc75d",
-      "title": "Audible announces AI-powered character guides, interactive stories, more",
-      "description": "Audible today announced three features coming to “deepen customers’ connections to their favorite stories.” Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/audible.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/audible-announces-ai-powered-character-guides-interactive-stories-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-01T20:06:47.000Z"
-    },
-    {
-      "id": "83b4c27dee1510bf",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "description": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroun",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "id": "64f8c9ff446685e0",
+      "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
+      "description": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people wounded and four dead. \nWhen a Tesla vehicle is charging, the plug is locked to the charging port and d",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2092455612.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-01T19:47:51.000Z"
+      "publishedAt": "2026-10-02T14:34:14.000Z"
     },
     {
-      "id": "630be752204ac920",
-      "title": "Apple Says iPhone Duo Has Replaceable 'Cover Layer'",
-      "description": "In a recent interview with content creator Angelica Siciliani Fendi, Apple's vice president of hardware engineering Kate Bergeron revealed that the iPhone Duo's nano-texture cover layer above the inner display can be removed and replaced.\r\n\r\n\r\n\"It's actually replaceable, which is a really nice thing",
-      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/01/iphone-duo-cover-layer-is-replaceable/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-01T19:32:13.000Z"
-    },
-    {
-      "id": "10b24a5a2fd7118f",
-      "title": "HomePad launch nears, Apple Watch Readiness score, Ternus wants to make Apple more nimble",
-      "description": "Benjamin and Chance discuss the final Apple smart display rumors with a release for the ‘HomePad’ rumored for October 13, although the small square screen form factor remains puzzling. Also, leaked photos of the iPad mini and HomePod mini suggest those long-awaited updates are also imminent, John Te",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/happy-hour-610/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-01T19:30:28.000Z"
-    },
-    {
-      "id": "c04532b55e77bd16",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "id": "1a5a3bcffeed2efd",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-01T19:21:53.000Z"
+      "publishedAt": "2026-10-02T14:30:00.000Z"
     },
     {
-      "id": "294892c53cad53df",
-      "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
-      "description": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing.\nYesterday, four of the six staffers on Android Central's staff page posted publicly about the layoffs, including Shruti Shekar, Derre",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-01-at-12.18.47-PM.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1003735/android-central-layoffs",
+      "id": "3859f22109a39f03",
+      "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
+      "description": "Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first showed off its Keurig Alta machine two years ago while introducing the puck-shaped pod replacements ca",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/keurig1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-01T19:20:29.000Z"
+      "publishedAt": "2026-10-02T14:29:05.000Z"
     },
     {
-      "id": "90fd86108279d821",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "description": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-01T19:18:03.000Z"
-    },
-    {
-      "id": "fd0fe10565a4bac9",
-      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-      "description": "The Steam Deck LCD’s “Aerith” APU. | Photo by Fritzchens Fritz\t\n\nThe Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the seq",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-01T18:52:58.000Z"
-    },
-    {
-      "id": "52d941e82910db8a",
-      "title": "Apple says iPhone Duo has ‘replaceable’ folding display layer to minimize crease",
-      "description": "Foldable displays tend to show a more visible crease over time, but Apple‘s Kate Bergeron says iPhone Duo has a replaceable cover layer on its folding screen to help mitigate that issue.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/",
+      "id": "42db99209c2755fe",
+      "title": "iPhone Duo can be just $9/month with trade-in using Apple Upgrade",
+      "description": "iPhone Duo pre-orders start soon, and while the foldable is Apple’s most expensive iPhone ever, the new Apple Upgrade program can get you a leased model at a lower monthly cost than I expected.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/iphone-duo-can-be-just-9-month-with-trade-in-using-apple-upgrade/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-01T18:44:27.000Z"
+      "publishedAt": "2026-10-02T14:21:34.000Z"
     },
     {
-      "id": "244d5d1b9f5ead4c",
-      "title": "World’s first enhanced geothermal power plant completed in just 23 months",
-      "description": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
-      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-01T18:35:55.000Z"
-    },
-    {
-      "id": "9e1668f922e214f1",
-      "title": "SpaceXAI releases a separate Grok iOS app for enterprise users",
-      "description": "Back in May, OpenAI released a dedicated version of their mobile app for enterprise. Now SpaceXAI is doing the same thing for Grok.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/grok-intune.webp?w=1600",
-      "url": "https://9to5mac.com/2026/10/01/spacexai-releases-a-separate-grok-ios-app-for-enterprise-users/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-01T18:16:46.000Z"
-    },
-    {
-      "id": "f690677f602e6865",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-01T18:14:42.000Z"
-    },
-    {
-      "id": "cdcf9c45935544e8",
-      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-      "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-01T17:50:19.000Z"
-    },
-    {
-      "id": "7d901d1130a1c8cb",
-      "title": "Apple's Smart Home Camera Will Apparently Have 'No Video Recording'",
-      "description": "On his new Power On podcast, Bloomberg's Mark Gurman said Apple's smart home camera will have \"no video recording.\"\r\n\r\nTag: Apple Smart Home Camera\nThis article, \"Apple's Smart Home Camera Will Apparently Have 'No Video Recording'\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Camera-App-Icon.jpeg",
-      "url": "https://www.macrumors.com/2026/10/01/apple-smart-home-camera-no-video-recording/",
+      "id": "39365b8844ce2396",
+      "title": "Apple Store in UK Reopening on iPhone Duo Launch Day",
+      "description": "Following more than three months of renovations, the Apple SouthGate store in Bath, England will be reopening on Friday, October 23, just in time for iPhone Duo launch day.\r\n\r\npermanently closed its store in the heart of nearby Bristol, but Apple Cribbs Causeway remains open inside a shopping center",
+      "image": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg",
+      "url": "https://www.macrumors.com/2026/10/02/apple-store-in-uk-reopens-on-iphone-duo-launch-day/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-01T17:44:21.000Z"
+      "publishedAt": "2026-10-02T14:17:47.000Z"
     },
     {
-      "id": "b89d14dbe412d617",
-      "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter",
-      "description": "Twelve South, the company behind a range of premium Apple accessories, has launched a notable expansion of its Airfly brand. The company today unveiled Airfly Drive, a dongle that turns wired CarPlay into wireless CarPlay. It’s available to order starting today for $39.99. Here’s how it works. \nmore",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/01/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-01T17:20:45.000Z"
+      "id": "c2f532e1c43fa192",
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "description": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your",
+      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T14:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-10-02T06:03:28.177Z",
+  "lastUpdated": "2026-10-02T18:02:56.099Z",
   "sources": [
     "TechCrunch",
     "The Verge",
