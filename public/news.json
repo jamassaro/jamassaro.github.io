@@ -1,6 +1,211 @@
 {
   "articles": [
     {
+      "id": "d3cd88f8a6da2d5c",
+      "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
+      "description": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have experienced an issue that causes the device to lose cellular service, thereby preventing phone calls, text messages, and data from working. Thousands of users complained about the issue across the Apple S",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg",
+      "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-03T03:21:12.000Z"
+    },
+    {
+      "id": "6022049e029ab8c6",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-03T00:45:39.000Z"
+    },
+    {
+      "id": "071759ce05146dbd",
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "description": "The proposed legislation would extend to all automotica license plate readers.",
+      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-03T00:21:57.000Z"
+    },
+    {
+      "id": "5a6c04801f74ff25",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T21:09:14.000Z"
+    },
+    {
+      "id": "f2bae87384edf0b4",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "description": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Mus",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T21:08:37.000Z"
+    },
+    {
+      "id": "6120b44e7bdc1827",
+      "title": "Apple TV releases ‘The Sisters Grimm’ season 2 in full",
+      "description": "Apple TV today released the second season of its animated fantasy adventure series “The Sisters Grimm,” with all six new episodes now available to stream. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sisters-grimm.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T21:05:13.000Z"
+    },
+    {
+      "id": "0e1f16161229d5bd",
+      "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
+      "description": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. \nApple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that devices that have already lost service will requi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T20:47:02.000Z"
+    },
+    {
+      "id": "0978a0f314c88c13",
+      "title": "‘HomePad’ coming: Will Apple hold an October special event?",
+      "description": "With Apple reportedly planning to unveil new products on October 13, here’s when the company could announce an event, based on the timing of its previous October announcements.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-chairs.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T20:31:33.000Z"
+    },
+    {
+      "id": "c6df881df0758e37",
+      "title": "Netflix is pivoting away from prestige",
+      "description": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK072_VRG_Illo_N_Barclay_7_netflix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T20:30:26.000Z"
+    },
+    {
+      "id": "76d76adc4ee13851",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "description": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T20:08:40.000Z"
+    },
+    {
+      "id": "208bb2982d004e9b",
+      "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
+      "description": "In a post on its developer news website today, Apple announced that it will be introducing \"additional controls\" for the \"Full Disk Access\" setting on macOS due to new risks posed by AI agents. This announcement comes amid the rise of always-on AI agents like Meta's Muse and OpenAI's Dots, which hav",
+      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "url": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T20:04:15.000Z"
+    },
+    {
+      "id": "bfde0187380b48fc",
+      "title": "Sling TV drops its one-day cable passes",
+      "description": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk.\nThe feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to watch channe",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB311_SLING_TV_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T20:00:20.000Z"
+    },
+    {
+      "id": "26a63f1d5c91165f",
+      "title": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
+      "description": "Jeff and Fernando share their excitement about the iPhone 18 Pro’s camera capabilities and explore whether it could truly replace a mirrorless camera for both photography and videography. Plus, they weigh in on whether you should buy the iPhone 18 Pro now or hold out for the iPhone Duo.\n9to5Mac Over",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-084.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/9to5mac-overtime-084-iphone-18-pro-a-fantastic-pro-camera-experience/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "id": "5404435c0ad8b6bc",
+      "title": "AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue",
+      "description": "AT&T and Apple are taking action today as they try to resolve iPhone 18 Pro Max cellular issues, according to MacRumors contributor Aaron Perris.\r\n\r\n\r\nThousands of iPhone 18 Pro Max users have been unable to connect to the AT&T network for phone calls, text messages, and data. The underlying cause h",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
+      "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T19:29:52.000Z"
+    },
+    {
+      "id": "7fc9a7bc2c6b73c1",
+      "title": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
+      "description": "Siri AI is a major upgrade to Apple’s assistant that’s now available in iOS 27. And there’s one standout area I’ve noticed where it differs greatly from other AI assistants—for the better.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T19:26:34.000Z"
+    },
+    {
+      "id": "3e62e61ddad7e4ca",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T19:15:51.000Z"
+    },
+    {
+      "id": "3e1aec1765119bf6",
+      "title": "iPhone Duo video reveals size compared to iPhone 18 Pro Max",
+      "description": "iPhone Duo has the largest display ever in an iPhone, bigger even than iPhone 18 Pro Max. But how do the two models truly compare in size? A side-by-side video offers a great look.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/iphone-duo-video-reveals-size-compared-to-iphone-18-pro-max/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T18:51:20.000Z"
+    },
+    {
+      "id": "573d8eeb13983e0e",
+      "title": "Apple says it’s tightening macOS privacy controls amid the rise of AI agents",
+      "description": "Amid the rapid rise in AI agents requesting “Full Disk Access” to your Mac, Apple says it is making changes to macOS to protect user privacy.\nWhile the company hasn’t shared specifics, Apple says users should understand what it means to give an app such “extraordinary” access to their Mac.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/M5-Pro-Mac-mini-preorder-deals.webp?w=1400",
+      "url": "https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T18:34:06.000Z"
+    },
+    {
+      "id": "5caaeaa979e1f58b",
+      "title": "HomeKit Weekly: Home Widget 1.10 is the fastest way to check every HomeKit camera at once",
+      "description": "The Home app is a great place to configure your smart home, but it can be slow to control. The tab structure and room hierarchy make sense when you’re setting things up, but they add steps to everything you want to do fifty times a day. Home Widget builds the control panel that Apple didn’t.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Home-Widget-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/home-widget-1-10-is-the-fastest-way-to-check-every-homekit-camera-at-once/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T18:31:00.000Z"
+    },
+    {
+      "id": "dcc7ddbd18e98a4d",
+      "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated]",
+      "description": "Update, October 2: Many of you have asked for a full vehicle compatibility list for the Twelve South Airfly Drive. Our friends over at 9to5Toys have just published exactly that. Take a look!\nComplete vehicle compatibility list for new Twelve South Airfly Drive CarPlay and Android Auto adapter\nTwelve",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-02T18:15:26.000Z"
+    },
+    {
+      "id": "bc03fa65a370702b",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-02T18:11:27.000Z"
+    },
+    {
       "id": "94c0796e724ca591",
       "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
       "description": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\t\n\nIt's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. \nBut unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software ",
@@ -22,7 +227,7 @@
     {
       "id": "9ed175d96dbde438",
       "title": "Breaking up (with Elon Musk) is hard to do",
-      "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X.\nTo do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing e",
+      "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X.\nTo do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
       "source": "The Verge",
@@ -86,213 +291,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-10-02T16:43:34.000Z"
-    },
-    {
-      "id": "75eac0c23390c5ce",
-      "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
-      "description": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimited's screen can also be used to mix audio from mul",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T16:35:13.000Z"
-    },
-    {
-      "id": "75c2b2f3057257c9",
-      "title": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple'",
-      "description": "In a statement shared with MacRumors today, AT&T said it is \"working with Apple\" to resolve iPhone 18 Pro Max cellular issues.\r\n\r\n\r\n\"Apple has released a software update to address an issue that may affect calls, data, texts, and 911 calls on a small number of Apple iPhone 18 Pro Max phones,\" an AT&",
-      "image": "https://images.macrumors.com/article-new/2026/10/ATT-Apple.jpg",
-      "url": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T16:18:55.000Z"
-    },
-    {
-      "id": "212568749ff9c70f",
-      "title": "Beats 360 Cushion Kits and Apple Accessories See Early Prime Day Price Drops",
-      "description": "We're just a few days out from Prime Big Deal Days on October 6, and Amazon is already offering some savings on accessories including Anker chargers, Samsung monitors, and 4K TVs. We're also tracking deals on the new Mac mini, Mac Studio, and Apple Watch Ultra 4 this week.\r\n\r\nNote: MacRumors is an a",
-      "image": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/02/best-apple-deals-of-the-week-10-2-26/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T16:05:03.000Z"
-    },
-    {
-      "id": "800634fa88aa6c18",
-      "title": "Using an iPad mini to preview the iPhone Duo experience",
-      "description": "Alongside using the iPhone 18 Pro, I’ve also been carrying out a little experiment as we await the launch of the iPhone Duo.\nTo get a sense of what it might be like to use the large screen of the upcoming device, I’ve been using my iPad mini as a substitute phone some of the time. Given that the scr",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Using-an-iPad-mini-to-preview-the-iPhone-Duo-experience.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/02/using-an-ipad-mini-to-preview-the-iphone-duo-experience/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T16:00:00.000Z"
-    },
-    {
-      "id": "1ed3820ab18e1860",
-      "title": "Paramount and Warner Bros. Discovery to become Skydance",
-      "description": "The roughly $110 billion deal is expected to close October 6.",
-      "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T15:53:50.000Z"
-    },
-    {
-      "id": "460c08722203704d",
-      "title": "Dots get up in Muse’s business",
-      "description": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character, just like you can make a cute little Muse charac",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_100227_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T15:47:05.000Z"
-    },
-    {
-      "id": "7d5ce9b65cfee37c",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T15:39:41.000Z"
-    },
-    {
-      "id": "f2579ddcd644ba6f",
-      "title": "iOS 27.2 gives Apple Podcasts the big fix I’ve wanted for years",
-      "description": "Apple Podcasts is my podcast app of choice, but I’ve long had major issues with its central Up Next queue feature. I’m happy to report that iOS 27.2 introduces the solution.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-podcasts.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/02/ios-27-2-gives-apple-podcasts-the-big-fix-ive-wanted-for-years/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T15:37:56.000Z"
-    },
-    {
-      "id": "1a19694f7826a199",
-      "title": "Deals: M5 MacBook Air, MacBook Pro, AirTag 2, smart display power bank, early Prime Day deals, more",
-      "description": "Alongside the launch of the all-new Twelve South Airfly Drive wireless CarPlay adapter at $40, Amazon has once again updated its early fall Prime Day sale with fresh deals. Today’s 9to5Toys Lunch Break is headlined by Apple AirTag 2 down at Amazon all-time low pricing. We also have Sharge’s metal 30",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-MacBook-chargers-AirTag-2-iPhone-18-Pro-cases.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/02/deals-m5-macbook-air-pro-airtag-2-iphone-18-cases/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T15:36:11.000Z"
-    },
-    {
-      "id": "70acbb6dbda45068",
-      "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
-      "description": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
-      "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T15:31:20.000Z"
-    },
-    {
-      "id": "2f0d00283da742fa",
-      "title": "9to5Mac Daily: October 2, 2026 – MacBook Pro rumors, iPhone Duo display",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/02/daily-october-2-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T15:25:52.000Z"
-    },
-    {
-      "id": "62f30ad2cc4b77f0",
-      "title": "Upgrading From an Older Apple Watch? Here's How the New Features Stack Up",
-      "description": "The Apple Watch has received some incremental updates in recent years, with significant upgrades becoming fewer and farther between as the device has progressed. Since the Apple Watch's generation-over-generation enhancements are relatively small, it is all the more important to consider when an upg",
-      "image": "https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-9-Buyers-Guide-Feature.jpg",
-      "url": "https://www.macrumors.com/guide/upgrading-from-older-apple-watch/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T15:20:39.000Z"
-    },
-    {
-      "id": "811cc6e0f223069e",
-      "title": "Texas school district ditches Chromebooks, approves $11M iPad and MacBook Neo deal",
-      "description": "A Texas school district is going all-in on the iPad and MacBook Neo as part of a new $11 million deal. The Beaumont Independent School District is ditching its Chromebook fleet and opting for Apple gear going forward, citing better reliability, lower costs, and performance.\nAs reported by the Beaumo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-citrus-0000-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/02/texas-school-district-ditches-chromebooks-approves-11m-ipad-and-macbook-neo-deal/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T15:03:40.000Z"
-    },
-    {
-      "id": "58010f82cf719597",
-      "title": "HBO Max and Paramount+ set to merge under ‘Skydance’ brand",
-      "description": "Paramount Skydance will complete its acquisition of Warner Bros. next week, and CEO David Ellison just revealed ‘Skydance’ as the new company name ahead of a planned merging of HBO Max and Paramount+ streaming services.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/02/hbo-max-and-paramount-set-to-merge-under-skydance-brand/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T14:53:19.000Z"
-    },
-    {
-      "id": "a0a1df8a8becf501",
-      "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
-      "description": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
-      "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T14:47:46.000Z"
-    },
-    {
-      "id": "64f8c9ff446685e0",
-      "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
-      "description": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people wounded and four dead. \nWhen a Tesla vehicle is charging, the plug is locked to the charging port and d",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2092455612.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T14:34:14.000Z"
-    },
-    {
-      "id": "1a5a3bcffeed2efd",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T14:30:00.000Z"
-    },
-    {
-      "id": "3859f22109a39f03",
-      "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
-      "description": "Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first showed off its Keurig Alta machine two years ago while introducing the puck-shaped pod replacements ca",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/keurig1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T14:29:05.000Z"
-    },
-    {
-      "id": "42db99209c2755fe",
-      "title": "iPhone Duo can be just $9/month with trade-in using Apple Upgrade",
-      "description": "iPhone Duo pre-orders start soon, and while the foldable is Apple’s most expensive iPhone ever, the new Apple Upgrade program can get you a leased model at a lower monthly cost than I expected.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/02/iphone-duo-can-be-just-9-month-with-trade-in-using-apple-upgrade/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T14:21:34.000Z"
-    },
-    {
-      "id": "39365b8844ce2396",
-      "title": "Apple Store in UK Reopening on iPhone Duo Launch Day",
-      "description": "Following more than three months of renovations, the Apple SouthGate store in Bath, England will be reopening on Friday, October 23, just in time for iPhone Duo launch day.\r\n\r\npermanently closed its store in the heart of nearby Bristol, but Apple Cribbs Causeway remains open inside a shopping center",
-      "image": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg",
-      "url": "https://www.macrumors.com/2026/10/02/apple-store-in-uk-reopens-on-iphone-duo-launch-day/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T14:17:47.000Z"
-    },
-    {
-      "id": "c2f532e1c43fa192",
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "description": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your",
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T14:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-10-02T18:02:56.099Z",
+  "lastUpdated": "2026-10-03T06:05:41.645Z",
   "sources": [
     "TechCrunch",
     "The Verge",
