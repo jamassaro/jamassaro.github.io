@@ -1,6 +1,64 @@
 {
   "articles": [
     {
+      "id": "a648c3ee01be0607",
+      "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+      "description": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/gemini-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-03T21:26:32.000Z"
+    },
+    {
+      "id": "1e86d135e72e230d",
+      "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
+      "description": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is actually in Sepang, Malaysia. \nUsually, F1 on Apple TV requires a paid subscription. But this weekend, it’s free for everyone to tune in. You ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-bahrain-grand-prix.jpg?quality=82&#038;strip=all&#038;w=1428",
+      "url": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-03T19:44:04.000Z"
+    },
+    {
+      "id": "ba08787eb07615cf",
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-03T19:33:15.000Z"
+    },
+    {
+      "id": "8d275be781ebcd81",
+      "title": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nEveryone has issues with iPhone storage. Even if you use iCloud, Apple has a large gap between tiers, with",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HEVCut.png?w=1600",
+      "url": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-03T19:30:00.000Z"
+    },
+    {
+      "id": "a3437ad016deb210",
+      "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
+      "description": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, despite initially coming out in September 2024. That said, Apple Watch Series 12 was a highly compelling purchase, despite the fact that the t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-03T18:48:22.000Z"
+    },
+    {
+      "id": "3a5709aa6d60ca48",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-03T18:43:57.000Z"
+    },
+    {
       "id": "11630fa1ac685449",
       "title": "Capcom is preparing for a ‘future where we create games together with AI’",
       "description": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the",
@@ -231,68 +289,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-10-02T20:08:40.000Z"
-    },
-    {
-      "id": "208bb2982d004e9b",
-      "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
-      "description": "In a post on its developer news website today, Apple announced that it will be introducing \"additional controls\" for the \"Full Disk Access\" setting on macOS due to new risks posed by AI agents. This announcement comes amid the rise of always-on AI agents like Meta's Muse and OpenAI's Dots, which hav",
-      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "url": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T20:04:15.000Z"
-    },
-    {
-      "id": "bfde0187380b48fc",
-      "title": "Sling TV drops its one-day cable passes",
-      "description": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk.\nThe feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to watch channe",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB311_SLING_TV_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T20:00:20.000Z"
-    },
-    {
-      "id": "26a63f1d5c91165f",
-      "title": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
-      "description": "Jeff and Fernando share their excitement about the iPhone 18 Pro’s camera capabilities and explore whether it could truly replace a mirrorless camera for both photography and videography. Plus, they weigh in on whether you should buy the iPhone 18 Pro now or hold out for the iPhone Duo.\n9to5Mac Over",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-084.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/02/9to5mac-overtime-084-iphone-18-pro-a-fantastic-pro-camera-experience/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T20:00:00.000Z"
-    },
-    {
-      "id": "5404435c0ad8b6bc",
-      "title": "AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue",
-      "description": "AT&T and Apple are taking action today as they try to resolve iPhone 18 Pro Max cellular issues, according to MacRumors contributor Aaron Perris.\r\n\r\n\r\nThousands of iPhone 18 Pro Max users have been unable to connect to the AT&T network for phone calls, text messages, and data. The underlying cause h",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
-      "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T19:29:52.000Z"
-    },
-    {
-      "id": "7fc9a7bc2c6b73c1",
-      "title": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
-      "description": "Siri AI is a major upgrade to Apple’s assistant that’s now available in iOS 27. And there’s one standout area I’ve noticed where it differs greatly from other AI assistants—for the better.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-02T19:26:34.000Z"
-    },
-    {
-      "id": "3e62e61ddad7e4ca",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-02T19:15:51.000Z"
     }
   ],
-  "lastUpdated": "2026-10-03T18:34:31.547Z",
+  "lastUpdated": "2026-10-04T07:44:51.250Z",
   "sources": [
     "TechCrunch",
     "The Verge",
