@@ -1,42 +1,13 @@
 {
-  "executiveSummary": "AI and hardware developments dominate the trends, with Apple's iPhone 18 Pro Max facing cellular issues, while OpenAI and Meta explore new AI agent capabilities and Apple introduces new controls for full disk access on Mac.",
-  "takeaways": [
-    {
-      "title": "AI and Hardware Dominance",
-      "description": "The articles highlight the growing importance of AI and hardware in the tech industry, with Apple's iPhone 18 Pro Max facing cellular issues and Meta introducing new AI agent capabilities."
-    },
-    {
-      "title": "Apple's Full Disk Access Controls",
-      "description": "Apple has introduced new controls for full disk access on Mac to address risks posed by AI agents, citing OpenAI's Muse and Meta's AI agent as examples."
-    },
-    {
-      "title": "Apple's iPhone 18 Pro Max Cellular Issues",
-      "description": "Apple has confirmed an issue causing a 'small number' of iPhone 18 Pro Max devices on AT&T to lose cellular service, requiring hardware replacement."
-    }
-  ],
-  "trends": [
-    "AI",
-    "Hardware",
-    "Apple",
-    "Full Disk Access",
-    "iPhone 18 Pro Max"
-  ],
-  "worthWatching": [
-    "Meta's introduction of new AI agent capabilities and open-sourcing its code for third-party development.",
-    "The growing importance of AI in the tech industry, with Apple and other companies exploring new AI agent capabilities."
-  ],
-  "engineeringPerspective": [
-    "The technical challenge of implementing AI agent capabilities in third-party devices, as seen in Meta's open-sourcing of its code.",
-    "The importance of addressing security risks posed by AI agents, as highlighted by Apple's introduction of full disk access controls on Mac."
-  ],
+  "generatedAt": "2026-10-04T07:46:33.597Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "Apple",
-      "AI",
-      "Meta"
-    ]
-  },
-  "generatedAt": "2026-10-03T18:37:02.124Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
