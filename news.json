@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "ba58ba9deef29f53",
+      "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
+      "description": "Since becoming Apple's CEO last month, John Ternus has made product design a \"major priority,\" according to Bloomberg's Mark Gurman. \r\n\r\n\r\n\"Ternus already had some involvement with the design studio as Apple's head of hardware engineering, given the close coordination required between the two functi",
+      "image": "https://images.macrumors.com/article-new/2026/10/John-Ternus-iPhone-Duo.jpg",
+      "url": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-05T02:35:01.000Z"
+    },
+    {
+      "id": "48bc9779866ba64c",
+      "title": "Apple Hiring 'iCup' Specialist",
+      "description": "Apple recently posted a job listing for an \"iCup Supply Specialist\" who would be responsible for ensuring that \"all Apple employees have access to freshly brewed coffee in their break room.\"\r\n\r\nMacRumors contributor Aaron Perris highlighted the job listing this weekend, but it turns out that Apple h",
+      "image": "https://images.macrumors.com/article-new/2026/01/wwdc-sans-text-feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-05T02:11:42.000Z"
+    },
+    {
+      "id": "38cd6238fccfdec5",
+      "title": "MacBook Pro With OLED Display Rumored to Be 'Significantly Lighter'",
+      "description": "Bloomberg's Mark Gurman today said the new MacBook Pro models with OLED displays will be \"significantly lighter\" than the existing MacBook Pro models.\r\n\r\n\r\n\"Apple has reengineered the machine's interior, miniaturizing parts and rearranging components to make the computer much easier to carry,\" he sa",
+      "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
+      "url": "https://www.macrumors.com/2026/10/04/oled-macbook-pro-significantly-lighter-rumor/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-05T01:22:06.000Z"
+    },
+    {
+      "id": "8399650deb6feadf",
+      "title": "Apple Event Reportedly Planned for October 13",
+      "description": "Last week, Bloomberg's Mark Gurman reported that Apple plans to unveil an all-new smart home hub, a new HomePod mini, and a new Apple TV 4K on Tuesday, October 13.\r\n\r\nPower On newsletter today, Gurman specified that \"Apple is planning to hold an event\" that day.\nTags: Apple Event, Mark Gurman\nThis a",
+      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "url": "https://www.macrumors.com/2026/10/04/apple-event-reportedly-planned-for-october-13/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-05T00:07:38.000Z"
+    },
+    {
+      "id": "dc1410a9b0fe67b9",
+      "title": "The new Fitbit Edge leaks",
+      "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Wat",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-04T21:02:09.000Z"
+    },
+    {
+      "id": "b37e947a0af1c3ed",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "description": "AI slop seems to be overwhelming bug bounty programs.",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-04T20:31:07.000Z"
+    },
+    {
+      "id": "5b6d3a258859b3b3",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-04T20:08:34.000Z"
+    },
+    {
+      "id": "cd6b059fa9e77f21",
+      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "description": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Prick.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-04T20:00:00.000Z"
+    },
+    {
+      "id": "e07095794a625c2b",
+      "title": "This is my biggest AirPods complaint, and it’s not necessarily about the hardware",
+      "description": "AirPods are one of Apple’s most interesting products. The demand for them was largely invented by the fact that the company removed the headphone jack 10 years ago, and now most of us carry this almost magical pair of earbuds that do so much more than just play audio. AirPods offer best-in-class noi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/04/this-is-my-biggest-airpods-complaint/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-04T19:09:34.000Z"
+    },
+    {
       "id": "057fb58412e47d62",
       "title": "The best early October Prime Day deals happening now",
       "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM",
@@ -149,26 +237,6 @@
       "publishedAt": "2026-10-04T12:00:00.000Z"
     },
     {
-      "id": "437f669890af165b",
-      "title": "The rise, fall, and rise of portable MP3 players",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10187187/jbareham_180208_2298_0023_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-04T12:00:00.000Z"
-    },
-    {
-      "id": "5a63deacce08f7d1",
-      "title": "Amazon’s colorful and sturdy new Kindles",
-      "description": "Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions at the Installer homepage.) \nThis week, I'm wishing I could do Walmart potato drone delivery in Portlan",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/installer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-04T12:00:00.000Z"
-    },
-    {
       "id": "b206e0f9d5689c10",
       "title": "AirPods Pro 3 hit low $179 price just weeks after adding new features",
       "description": "We are touching down to let folks know the Amazon fall Prime Day sale is getting a head start today – AirPods Pro 3 have now dropped down to one of the lowest prices to date at $179 shipped. \nmore…",
@@ -226,73 +294,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-10-03T18:48:22.000Z"
-    },
-    {
-      "id": "3a5709aa6d60ca48",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-03T18:43:57.000Z"
-    },
-    {
-      "id": "254867e9fd086be5",
-      "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
-      "description": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple Intelligence. Rumors had swirled for quite some time about an A18 model coming this year. Now, it’s sounding like Apple has an even bigger",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/Apple-iPad-10th-gen-hero-221018_Full-Bleed-Image.jpg.xlarge_2x.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-03T16:36:23.000Z"
-    },
-    {
-      "id": "b3d9567f502d51dc",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-03T16:30:01.000Z"
-    },
-    {
-      "id": "a3594b02c49b7335",
-      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-      "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-03T15:02:01.000Z"
-    },
-    {
-      "id": "f2c0462d6045581d",
-      "title": "Vessev built an electric ferry that almost flies",
-      "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
-      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-03T14:42:00.000Z"
-    },
-    {
-      "id": "94ab198f1a5405e9",
-      "title": "All the AI agents that can live in your text messages",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-03T14:00:00.000Z"
-    },
-    {
-      "id": "1a75cfa0bf8cdcd9",
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-03T14:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-10-04T18:21:19.507Z",
+  "lastUpdated": "2026-10-05T06:08:12.446Z",
   "sources": [
     "TechCrunch",
     "The Verge",
