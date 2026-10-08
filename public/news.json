@@ -1,300 +1,301 @@
 {
   "articles": [
     {
-      "id": "db248437fbca64fb",
-      "title": "Boston's MBTA Testing New Charlie Card With Apple Wallet Support",
-      "description": "This year, the Massachusetts Bay Transportation Authority (MBTA) has been testing a new version of the Charlie Card with Apple Wallet support on the iPhone and Apple Watch.\r\n\r\nTag: Apple Wallet\nThis article, \"Boston's MBTA Testing New Charlie Card With Apple Wallet Support\" first appeared on MacRumo",
-      "image": "https://images.macrumors.com/article-new/2026/10/MBTA-Testing-New-CharlieCard-With-Apple-Wallet-Support-in-Boston-Feature-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/10/07/new-charlie-card-apple-wallet-test/",
+      "id": "d92e32e39a955802",
+      "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro",
+      "description": "Microsoft today announced launch timing and pricing for the Surface Laptop Ultra that it unveiled earlier this year.\r\n\r\n\r\nThe 15-inch Surface Laptop Ultra is priced starting at $2,599, undercutting Apple's $2,999 16-inch MacBook Pro, and it targets the same creator and developer market. Microsoft sa",
+      "image": "https://images.macrumors.com/article-new/2026/10/surface-laptop-ultra.jpg",
+      "url": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T18:03:31.000Z"
+      "publishedAt": "2026-10-08T00:45:43.000Z"
     },
     {
-      "id": "3dc8fd21e4250d81",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "description": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of loca",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T18:01:20.000Z"
+      "id": "12cb9c1f08cf9690",
+      "title": "All of the best fall Prime Day deals: AirPods, Mac mini, MacBook, chargers, cases, more",
+      "description": "Update: Amazon’s 2026 fall Prime Day sale is set to close up shop for good at midnight PT, get in there before the deals are gone for good. \nThe 2026 fall Prime Day sale is now soaring with millions of price drops, from one of the lowest price ever on AirPods Pro 3 and $120 off AirPods Max 2, right ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Prime-Big-Deal-Day-2026-Apple-deals.png?w=1600",
+      "url": "https://9to5mac.com/2026/10/07/best-fall-prime-day-apple-deals-live/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T00:00:00.000Z"
     },
     {
-      "id": "6d1812e251da0dab",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T18:00:19.000Z"
-    },
-    {
-      "id": "775738c746930e09",
-      "title": "How Microsoft built its MacBook Pro competitor",
-      "description": "Before Microsoft releases a laptop to the public, it needs to put the device through its paces. That all happens inside a windowless, warehouse-like lab on the company's Redmond, Washington, campus, where the team developing Surface devices programs robots to press their buttons thousands of times, ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VERGE_10_04_2026_0294.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T18:00:00.000Z"
-    },
-    {
-      "id": "2f2cce4b34e8bba3",
-      "title": "The Meta Quest 3S gets a rare discount during October Prime Day",
-      "description": "The Meta Quest 3S features inside-out tracking for standalone functionality almost anywhere. | Photo by Vjeran Pavic / The Verge\t\n\nUntil the end of Amazon’s October sale later tonight, you can grab the 128GB Meta Quest 3S for just $297.49 (usually $349.99) at Amazon, Walmart, and Best Buy. While the",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25639425/247283_Quest_3S_VPavic_0019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1006810/meta-quest-3s-prime-day-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T18:00:00.000Z"
-    },
-    {
-      "id": "109cdbccf3b21def",
-      "title": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today",
-      "description": "Amazon Prime Big Deal Days is coming to a close later today, so we're quickly recapping all of the best Apple and Apple-related deals that are still live on Amazon right now. Since many of these products have been on sale for a few days, shipping may be delayed, but they're all at some of the lowest",
-      "image": "https://images.macrumors.com/article-new/2025/10/Prime-Big-Deal-Days-25-Red-and-Green.jpg",
-      "url": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/",
+      "id": "ac45f54b81dc0f43",
+      "title": "Google's SynthID AI Detector is Now Available to Everyone",
+      "description": "Google today said it is making its SynthID Detector available to everyone for identifying content created using AI.\r\n\r\n\r\nSynthID Detector first rolled out to members of the media last year, and it is now available worldwide in English. SynthID Detector is a website that lets users upload a photo, vi",
+      "image": "https://images.macrumors.com/article-new/2026/10/google-synthid.jpg",
+      "url": "https://www.macrumors.com/2026/10/07/google-synthid-detector/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T17:55:57.000Z"
+      "publishedAt": "2026-10-07T23:42:44.000Z"
     },
     {
-      "id": "fe09ad63de85c568",
-      "title": "What The Social Reckoning gets right — and wrong",
-      "description": "Image: Dimitrios Kambouris/Getty Images | Getty Images\t\n\nAaron Sorkin's The Social Reckoning has its fair share of cinematic flair, but many details in the story hew closely to real life. The movie tells the story of how Frances Haugen, a Facebook civic integrity product manager, came to leak a larg",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298597150.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life",
-      "source": "The Verge",
+      "id": "4f2d280b3565981b",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-07T17:53:48.000Z"
+      "publishedAt": "2026-10-07T23:36:57.000Z"
     },
     {
-      "id": "0b770979208f64b9",
-      "title": "Hands-on: Sonos Ace Ultra fix nearly everything I wanted from the original [Video]",
-      "description": "I have been a huge Sonos fan and customer for years, dating back to the original Sonos One. So, about two years ago, when I heard that Sonos was entering the over-ear headphone market, I knew I had to give it a try. The Sonos Ace looked great, was very comfortable, and brought some cool Sonos ecosys",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/sonos.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/07/hands-on-sonos-ace-ultra-fix-nearly-everything-i-wanted-from-the-original-video/",
+      "id": "f3dc352c58ce7891",
+      "title": "WhatsApp expands the Liquid Glass design to its video player",
+      "description": "WhatsApp’s rollout of Liquid Glass across its interface continues, with the app now bringing the new look to its video player. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T17:50:21.000Z"
+      "publishedAt": "2026-10-07T23:19:01.000Z"
     },
     {
-      "id": "231993824d921d34",
-      "title": "The Surface Laptop Ultra finally has a release date — and a starting price of $2,599",
-      "description": "Months after revealing its Surface Laptop Ultra, Microsoft has announced that the Nvidia RTX Spark-equipped device will launch on October 16th. Pricing starts at $2,599 for the base configuration, featuring an 18-core CPU, 24GB of RAM, and 512GB of storage.\nThe Surface Laptop Ultra ships with a 15-i",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/surfacelaptopultra10.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T17:48:45.000Z"
-    },
-    {
-      "id": "6f5ea6b48033bd5a",
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "description": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. \nThe De",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T17:46:44.000Z"
-    },
-    {
-      "id": "84be5c40e1d53126",
-      "title": "The best October Prime Day deals from Apple, Sony, Google, and more",
-      "description": "Day two of Amazon’s Prime Big Deal Days event is here, and the sale will end at 3AM ET on Thursday, October 8th. While a few of the best deals from yesterday have already ended, many are still happening, with fresh discounts emerging to make the last day of the sale just as worthy of your attention.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268775_October_Prime_Day_DAY_2_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T17:45:47.000Z"
-    },
-    {
-      "id": "87c197344533d9b9",
-      "title": "Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging",
-      "description": "Microsoft has created a magnetic charging solution for its Surface Laptop Ultra that uses USB-C. After scrapping its proprietary Surface Connect magnetic charging on its smaller Surface devices last year, the Surface Laptop Ultra has a charging cable that attaches magnetically to the right-side USB-",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-1.40.31-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T17:44:04.000Z"
-    },
-    {
-      "id": "723ca9db645a5576",
-      "title": "Greenairy is building smart plant towers to clean the air in your office",
-      "description": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
-      "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+      "id": "d851568edbf99c2d",
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-07T17:30:00.000Z"
+      "publishedAt": "2026-10-07T22:59:16.000Z"
     },
     {
-      "id": "9b949caa201b488d",
-      "title": "Apple’s new Home cameras and doorbell with LG revealed in leaked images",
-      "description": "Apple and LG have reportedly partnered to co-develop and launch new Home accessories, including security cameras and a video doorbell that leaked images may have just revealed.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-macbook-pro-video-event.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/07/apples-new-home-cameras-and-doorbell-with-lg-revealed-in-leaked-images/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-07T17:27:27.000Z"
-    },
-    {
-      "id": "87857142a023d978",
-      "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
-      "description": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
-      "url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T17:04:46.000Z"
-    },
-    {
-      "id": "f1b00131abefb5cd",
-      "title": "The Apple Watch Series 12 is a good deal at $50 off",
-      "description": "Several configurations of the Apple Watch Series 12 are $50 off for the first time for the remainder of Amazon’s Prime Big Deal Days. This includes both sizes (42mm and 46mm) of the GPS + Wi-Fi watches, as well as their pricier 5G-ready counterparts. \nNormally $399, the 42mm Series 12 is currently s",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T17:00:00.000Z"
-    },
-    {
-      "id": "d387dce25d6ac9e2",
-      "title": "The scariest thing about gray-market peptides is how little we know",
-      "description": "The peptide wild west is hard to quantify. | Image: Cath Virginia / The Verge, Getty Images\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258214_wellness_wild_west_is_back_with_GLP-3s_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T17:00:00.000Z"
-    },
-    {
-      "id": "6ac3e527c8167bb3",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T16:53:46.000Z"
-    },
-    {
-      "id": "586be82321853214",
-      "title": "Manchester's Bee Card Now Fully Supported in Apple Wallet",
-      "description": "In August, Transport for Greater Manchester announced that the Bee Card could be added to the Apple Wallet app on the iPhone and Apple Watch, but it was limited to younger riders using free or discounted \"Our Pass\" tickets. As of this Tuesday, though, the Bee Card is now fully supported in Apple Wal",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Wallet-Bee-Card.jpg",
-      "url": "https://www.macrumors.com/2026/10/07/manchesters-bee-card-apple-wallet/",
+      "id": "326d0c73952925b2",
+      "title": "ChatGPT Gets GPT-6 and New Intelligent UI With Visual Answers",
+      "description": "OpenAI today introduced Intelligent UI, a new feature that will let ChatGPT answer questions with \"fully interactive user interfaces.\" OpenAI says everyday answers will be more visual, and the feature will make it easier for users to understand complicated topics.\r\n\r\n\r\nChatGPT responses will include",
+      "image": "https://images.macrumors.com/article-new/2026/10/gpt-6-intelligent-ui.jpg",
+      "url": "https://www.macrumors.com/2026/10/07/chatgpt-intelligent-ui/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T16:21:16.000Z"
+      "publishedAt": "2026-10-07T22:27:06.000Z"
     },
     {
-      "id": "b09781de73ee0e2f",
-      "title": "Apple releases free chapter from Ted Lasso ‘The Richmond Way’ book",
-      "description": "Ted Lasso’s season 4 finale is available today, and timed with its debut, Apple has released a free excerpt chapter from character Trent Crimm’s ‘The Richmond Way’ book.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ted-lasso-london-walk.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/07/apple-releases-free-chapter-from-ted-lasso-the-richmond-way-book/",
+      "id": "e4ac8b2965b5241e",
+      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+      "description": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WGM31182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T22:01:00.000Z"
+    },
+    {
+      "id": "e8db6bc5d898aa02",
+      "title": "Review: Rhinoshield’s iPhone 18 Pro bumper case is minimalist but surprisingly protective",
+      "description": "iPhone bumper cases have been a fan-favorite since the iPhone 4 bumpers, but options these days are few and far between. Rhinoshield offers a decent option for those wanting a minimal case.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Rhinoshield-18-Pro-Bumper-Featued-Image.png?w=1600",
+      "url": "https://9to5mac.com/2026/10/07/review-rhinoshields-iphone-18-pro-bumper-case-is-minimalist-but-surprisingly-protective/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T16:18:34.000Z"
+      "publishedAt": "2026-10-07T21:57:58.000Z"
     },
     {
-      "id": "5f9f7832db391f92",
-      "title": "9to5Mac Daily: October 7, 2026 – iOS 27.2 beta 3, Apple + LG smart home partnership",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/07/daily-october-7-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-07T15:59:45.000Z"
-    },
-    {
-      "id": "b10d2dfd7f3c077e",
-      "title": "You Can Get Up to $149 Off Every New Mac Mini During Prime Day",
-      "description": "Prime Big Deal Days sales have hit Apple's brand new Mac mini and Mac Studio computers, and we're tracking up to $149 off every model of the M6 and M5 Pro Mac mini during this year's event. You'll also find $199 off the M5 Max Mac Studio below.\r\n\r\nNote: MacRumors is an affiliate partner with some of",
-      "image": "https://images.macrumors.com/article-new/2026/10/new-mac-mini-prime-day.jpeg",
-      "url": "https://www.macrumors.com/2026/10/07/149-off-every-mac-mini/",
+      "id": "f82d72b51165f180",
+      "title": "Apple Watch Series 12 and Ultra 4 Score 4/10 for Repairability",
+      "description": "Repair site iFixit this week continued taking apart the latest Apple devices, this time tearing down the Apple Watch Series 12 and the Apple Watch Ultra 4.\r\n\r\n\n\r\nThe ‌Apple Watch Ultra 4‌ has no repairability changes. There are copious amounts of glue between the casing and the display for waterproo",
+      "url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-teardown/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T15:34:15.000Z"
+      "publishedAt": "2026-10-07T21:44:17.000Z"
     },
     {
-      "id": "b52ef06a71d54095",
-      "title": "Best Buy Takes $260 Off All iPhone Air Models During Techtober Sale",
-      "description": "Best Buy today is offering customers a chance to get $260 off every model of the iPhone Air during its \"Techtober\" event. This is a match of the record low prices we saw during Best Buy's Black Friday in July event.\r\n\r\nNote: MacRumors is an affiliate partner with Best Buy. When you click a link and ",
-      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
-      "url": "https://www.macrumors.com/2026/10/07/iphone-air-models-prime-big-deal-days/",
+      "id": "85573e9d81fa1a74",
+      "title": "Apple partners with The King’s Trust on new Creative Labs initiative in the UK",
+      "description": "Apple and The King’s Trust announced today an expansion of their partnership with a new education program that offers workshops to help young people build creative and digital skills. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/tim-cook-king-charles.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/07/apple-partners-with-the-kings-trust-on-new-creative-labs-initiative-in-the-uk/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-07T21:34:54.000Z"
+    },
+    {
+      "id": "a9b6f06ce009961f",
+      "title": "Apple Launches Creative Labs Program With The King's Trust",
+      "description": "Apple is partnering with UK charity The King's Trust to launch a new education program that will help young people build careers in creative industries, Apple said today.\r\n\r\n\r\nThe Apple x King's Trust Creative Labs will give people aged 18 to 30 the opportunity to work with Apple experts as they loo",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-tim-cook-kings-trust.jpg",
+      "url": "https://www.macrumors.com/2026/10/07/apple-creative-labs-kings-trust/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T15:29:26.000Z"
+      "publishedAt": "2026-10-07T21:29:46.000Z"
     },
     {
-      "id": "9af53689d333659f",
-      "title": "Prime Day 2 deals – Last chance: Mac mini, AirPods, Apple Watch Series 12, Nomad Find My card, AirTag mounts, more",
-      "description": "The final 24 hours of the 2026 fall Prime Day is rolling and time is running out to land the best deals. Highlights here include one of the lowest prices to date on AirPods Pro 3 and $120 off AirPods Max 2, as well as the M6 Mac mini lineup at up to $150 off and all-time lows on Apple Watch Series 1",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Prime-day-fall-deals-Mac-mini-AirPods-Macbook.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/07/prime-day-deals-mac-mini-airpods-apple-watch-find-my/",
+      "id": "2ec2b62f51318003",
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+      "description": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Play",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T21:19:54.000Z"
+    },
+    {
+      "id": "a1c650d7638b6ff1",
+      "title": "First RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 now available [U]",
+      "description": "Update, October 7: Apple has now released both RCs to public beta testers as well. The build numbers are unchanged from the developer RCs.\nIn addition to releasing macOS 27.2 Golden Gate public beta 2, Apple is now rolling out the first Release Candidates of macOS Sequoia 15.8.2 and macOS Tahoe 26.7",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/07/first-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-now-available-to-developers/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T15:24:40.000Z"
+      "publishedAt": "2026-10-07T21:01:54.000Z"
     },
     {
-      "id": "7b2bdde6ce1727bc",
-      "title": "Redesigned MacBook Pro will reportedly include these three changes",
-      "description": "Apple has a fully redesigned MacBook Pro launching soon, its first new design since 2021. Here are three design changes reportedly coming.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/07/redesigned-macbook-pro-will-reportedly-include-these-three-changes/",
+      "id": "4803a21b16875386",
+      "title": "OpenAI brings GPT-6 to ChatGPT and debuts Intelligent UI",
+      "description": "After introducing the first GPT-6 models last month, OpenAI today announced new GPT-6 models built for everyday ChatGPT conversations, alongside a new Intelligent UI. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
+      "url": "https://9to5mac.com/2026/10/07/openai-brings-gpt-6-to-chatgpt-and-debuts-intelligent-ui/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T15:22:13.000Z"
+      "publishedAt": "2026-10-07T20:57:28.000Z"
     },
     {
-      "id": "e48807b10ef11164",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "description": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "id": "c1def3ae28968288",
+      "title": "Apple’s new ‘second-party’ accessories for Home are bigger than we thought, per leak",
+      "description": "Apple has reportedly been co-developing “second-party” Home accessories with LG, but a new leak reveals there are “second-party” smart home products coming from another company too.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-home-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/07/apples-new-second-party-accessories-for-home-are-bigger-than-we-thought-per-leak/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-07T20:53:32.000Z"
+    },
+    {
+      "id": "6243e606d4890e24",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "description": "The developer of Hermes Agent raised a $90 million Series B.",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-07T15:07:08.000Z"
+      "publishedAt": "2026-10-07T20:48:45.000Z"
     },
     {
-      "id": "737aebc1994fcbc9",
-      "title": "The Best Anker Prime Day Deals: Score Big on MagSafe Chargers and More",
-      "description": "Anker's Prime 3-in-1 Wireless Charging Station has dropped to $94.74 on Amazon during Prime Big Deal Days, down from $149.99. This is a new all-time low price that beats the previous low by about $5, and it's accompanied by dozens of other Anker discounts this Prime Day.\r\n\r\nNote: MacRumors is an aff",
-      "image": "https://images.macrumors.com/article-new/2026/10/anker-prime-day-purple.jpeg",
-      "url": "https://www.macrumors.com/2026/10/07/best-anker-prime-day-deals/",
+      "id": "b83ebdc306283e93",
+      "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
+      "description": "What year is it, and what dessert name of Android are we up to? | Photo: Antonio G. Di Benedetto / The Verge\t\n\nA common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebook_home_buttons_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T20:44:34.000Z"
+    },
+    {
+      "id": "b5ef3555950dd87c",
+      "title": "We found some great October Prime Day deals under $50",
+      "description": "Anker’s 45W charger is less than $50 during Amazon’s October sale. In fact, you can get two for under $50.\t\n\nGetting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s Octob",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/anker_nano2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T20:30:00.000Z"
+    },
+    {
+      "id": "c9b09a9e127638b8",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T20:22:37.000Z"
+    },
+    {
+      "id": "60923b7c48b4701c",
+      "title": "Spotify starts rolling out audiobooks to more than 180 markets",
+      "description": "Spotify today announced a global rollout of its audiobooks section, giving users in more than 180 markets access to over 350,000 titles spanning more than 120 languages. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?w=1600",
+      "url": "https://9to5mac.com/2026/10/07/spotify-starts-rolling-out-audiobooks-to-more-than-180-markets/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-07T20:19:51.000Z"
+    },
+    {
+      "id": "11092e6252ddc45b",
+      "title": "Last chance: Apple’s flagship AirPods now up to $120 off for Prime Day",
+      "description": "Update 10/7: Amazon now has official countdown clocks on thousands of deal prices set to end at Midnight Cupertino time, and the particularly notable AirPods Pro 3 discount is one of them – get in there while you can. \nWith the Amazon fall Prime Day event now underway, it is one of the best times of",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/AirPods-Black-Friday-July-deals-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/07/apples-flagship-airpods-now-up-to-120-off-for-prime-day/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-07T19:34:00.000Z"
+    },
+    {
+      "id": "50780e555f3f83f2",
+      "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
+      "description": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day.\nThe 55-inch Pro Series OLED is $699.99 at Amazon, which is 30 percent off its list price. The 65-inch ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/roku-oled-tv-lifestyle.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T19:27:39.000Z"
+    },
+    {
+      "id": "33da567334905a1b",
+      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+      "description": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T19:10:42.000Z"
+    },
+    {
+      "id": "bdaf566f3cc41a19",
+      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
+      "description": "The 15-inch Surface Laptop Ultra starts at $2,599. | Photo by Tom Warren / The Verge\t\n\nThe first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match.\n\nThe flagship Surface Laptop Ultra and RTX Spar",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/surfacelaptopultra1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T19:05:52.000Z"
+    },
+    {
+      "id": "28414cee3e39670b",
+      "title": "Apple Watch Series 12, Ultra 4 Owners Report Skin Irritation",
+      "description": "Some Apple Watch Series 12 and Ultra 4 owners have experienced unexpected skin irritation with the new models, according to reports on the MacRumors forums and Reddit.\r\n\r\n\r\nAffected users complain of a burning sensation and redness under the sensor area. The Apple Watch Series 12 and Ultra 4 measure",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
+      "url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-skin-irritation/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T15:04:46.000Z"
+      "publishedAt": "2026-10-07T19:02:52.000Z"
     },
     {
-      "id": "5e069bf5df845c3b",
-      "title": "Grok Bot just got a lot smarter thanks to Anthropic’s Claude",
-      "description": "SpaceXAI’s Grok Bot kicked off the consumer-friendly AI agent app wave this summer. Facing competition from Meta’s Muse and OpenAI’s ChatGPT Dot, Grok Bot just got a new capability upgrade with the help of Anthropic’s Claude.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
-      "url": "https://9to5mac.com/2026/10/07/grok-bot-just-got-a-lot-smarter-thanks-to-anthropics-claude/",
+      "id": "bdff6280c3b56201",
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "description": "What’s in a URL anymore, really.\t\n\nFor the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24643586/Amp_Search.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T18:46:16.000Z"
+    },
+    {
+      "id": "c52ff4a78b163005",
+      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+      "description": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.\nThe biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration wit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-07T18:42:22.000Z"
+    },
+    {
+      "id": "934000db8e2aa68b",
+      "title": "watchOS 27 adds three new apps to your Apple Watch",
+      "description": "watchOS 27 is the latest major software update for Apple Watch, and among its variety of new features, it adds three new apps to your Watch.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/watchos-27-dynamic-app-grid-new-siri.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/07/watchos-27-adds-three-new-apps-to-your-apple-watch/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-07T15:02:24.000Z"
+      "publishedAt": "2026-10-07T18:38:18.000Z"
     },
     {
-      "id": "d8602fab04052be3",
-      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-      "description": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
-      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+      "id": "8aec6ad52bc96102",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-07T15:00:00.000Z"
-    },
-    {
-      "id": "11eb4c5e3226f755",
-      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-      "description": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
-      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-07T15:00:00.000Z"
+      "publishedAt": "2026-10-07T18:30:57.000Z"
     }
   ],
-  "lastUpdated": "2026-10-07T18:03:49.369Z",
+  "lastUpdated": "2026-10-08T06:02:40.340Z",
   "sources": [
     "TechCrunch",
     "The Verge",
