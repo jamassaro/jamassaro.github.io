@@ -1,275 +1,290 @@
 {
   "articles": [
     {
-      "id": "eb4fda58347a0622",
-      "title": "Apple TV just unveiled the new season of last year’s hit comedy",
-      "description": "One of Apple TV’s hit comedy series from last year, Stick, is coming back for season 2 soon. Here’s the new trailer for Stick’s highly anticipated return.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-owen-wilson-dager.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/08/apple-tv-just-unveiled-the-new-season-of-last-years-hit-comedy/",
+      "id": "ba7e7c3d455253ca",
+      "title": "OLED MacBook Pro to help boost premium display shipments, per report",
+      "description": "A new Counterpoint Research report says Apple’s next-generation MacBook Pro will help drive a 50% increase in OLED notebook display shipments in 2026 alone. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold-glow.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-08T17:56:21.000Z"
+      "publishedAt": "2026-10-09T02:21:43.000Z"
     },
     {
-      "id": "ce46d3b77e7f60ed",
-      "title": "Older Pixel watches are losing free cellular access to several safety features",
-      "description": "Google announced through a short community post today that the LTE versions of the Pixel Watch 2 and 3 are losing free access to Safety Signal that allowed features like Emergency SOS, Fall Detection, and Safety Check to work through cellular networks without the need for a carrier plan. The connect",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25610322/247234_Pixel_Watch_3_AKrales_0494.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T17:40:05.000Z"
-    },
-    {
-      "id": "7c77d0a2da6e63b9",
-      "title": "9to5 readers can score an exclusive 15% off all Nomad iPhone 18 Pro cases with this code",
-      "description": "Any avid 9to5Toys reader already knows how much we love us some Nomad around here. The brand has been delivering some of the best iPhone cases anywhere for years, and the new iPhone 18 Pro collection is no exception. They are, however, not often discounted in the first few months of release, unless ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Nomad-iPhone-18-Pro-Duo-leather-cases-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5toys.com/2026/10/08/exclusive-nomad-iphone-18-pro-case-promo-code/",
+      "id": "a5ae2a1812cd2dd3",
+      "title": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
+      "description": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different carrier bundle update for devices running the iOS 27.2 beta. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-08T17:10:06.000Z"
+      "publishedAt": "2026-10-09T02:11:17.000Z"
     },
     {
-      "id": "03672e4cb59054d2",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "description": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needles",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T17:00:00.000Z"
+      "id": "f54f1aa78e025553",
+      "title": "‘Matchbox The Movie’ starring John Cena premieres on Apple TV",
+      "description": "Apple TV subscribers can now watch Apple TV’s “Matchbox The Movie,” the platform’s new action-packed comedy inspired by the iconic Mattel toys. Watch the trailer below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/matchbox.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/matchbox-the-movie-starring-john-cena-premieres-on-apple-tv/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T01:00:23.000Z"
     },
     {
-      "id": "5d54241a445cd090",
-      "title": "Trump administration says Microsoft &#8216;abused&#8217; worker visa program and is cutting off access",
-      "description": "The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. \nIn a press conference, Vice President JD Vance claimed the permanent labor certifica",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T16:57:27.000Z"
-    },
-    {
-      "id": "b0eb6c78fb47b20b",
-      "title": "New York accuses TikTok of serving users ‘placebo’ safety features",
-      "description": "New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given \"ghost\" versions of the platform's safety features rather than the working versions. Reuters reports the allegation is part of an \"updated, sealed version\" of New York's 2024 lawsuit against TikTok,",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T16:53:49.000Z"
-    },
-    {
-      "id": "3e3d1db71a4540df",
-      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-      "description": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community and even dates.",
-      "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T16:45:00.000Z"
-    },
-    {
-      "id": "23bcfe57d51042d3",
-      "title": "Are you ready for everything to look like TikTok?",
-      "description": "Since TikTok burst into mainstream consciousness, many things have been called a \"TikTok clone\": YouTube Shorts, Instagram Reels, Snapchat Spotlight, Netflix's Clips, LinkedIn's vertical video feed, and countless other, less recognizable names like Triller, Zynn, and Byte.\nFor years now, Facebook an",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268798_Are_you_ready_for_TikTok_2.0_and_3.0_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T16:45:00.000Z"
-    },
-    {
-      "id": "9cf7372994e07277",
-      "title": "Amazon is phasing out Fire Tablets because they weren&#8217;t &#8216;giving customers what they were asking for&#8217;",
-      "description": "In an interview with Bloomberg, Amazon's head of consumer electronics, Panos Panay, confirmed the company would phase out the Fire brand in favor of Alexa Tablets. \nThe new lineup runs proper Android, instead of the custom Fire OS, and has full access to the Play Store, which wasn't available on Fir",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268799_AlexaTablet12Pro_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T16:34:57.000Z"
-    },
-    {
-      "id": "11e1cbd3b4a5a27d",
-      "title": "Apple announces surprise &#8216;Welcome home&#8217; launch event",
-      "description": "Apple has just announced a new October event, taking place in New York on October 13th at 9AM ET. The company is rumored to be launching smart home-focused products this month, and the event invite hints that'll be the case: Apple is using the tagline \"Welcome home.\"\n\n\nWelcome home. October 13. pic.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Untitled-1-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T16:08:40.000Z"
-    },
-    {
-      "id": "0f851b66935228ca",
-      "title": "Apple Product Launch Announced for October 13: 'Welcome Home'",
-      "description": "Apple today announced an upcoming product launch that will take place on Tuesday, October 13. We are expecting Apple's announcement to focus on new smart home products, including the long-rumored smart home hub, a new Apple TV 4K, and a refreshed HomePod mini.\r\n\r\n\r\nThe home hub is an all-new device ",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-welcome-home-event.jpg",
-      "url": "https://www.macrumors.com/2026/10/08/apple-product-launch-october-13/",
+      "id": "c4de28f08acb98a2",
+      "title": "Apple's October 13 Launch: What's Coming",
+      "description": "Apple is planning to introduce new products on Tuesday, October 13, Apple marketing chief Greg Joswiak announced today. It won't be a traditional Apple event, but Apple has invited some members of the media to New York City to get some hands-on time with whatever's introduced.\r\n\r\nSubscribe to the Ma",
+      "url": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-08T16:04:12.000Z"
+      "publishedAt": "2026-10-08T23:48:33.000Z"
     },
     {
-      "id": "dc3424c11a0490e6",
-      "title": "Apple announces special event for October 13: ‘Welcome home’",
-      "description": "Today Apple announced a special event happening next Tuesday, October 13 with the tagline ‘Welcome home.”\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-event-welcome-home-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/08/apple-announces-special-event-for-october-13-welcome-home/",
+      "id": "f3eae4b4bb4591c1",
+      "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
+      "description": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-08T16:03:08.000Z"
+      "publishedAt": "2026-10-08T23:08:18.000Z"
     },
     {
-      "id": "e1cd4afacce063d9",
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "id": "a2f4984ca86e29ba",
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "description": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-08T16:00:00.000Z"
+      "publishedAt": "2026-10-08T22:33:59.000Z"
     },
     {
-      "id": "d2182a472407d1ce",
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T16:00:00.000Z"
-    },
-    {
-      "id": "29ad174f80caba7f",
-      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
-      "description": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
-      "url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T15:42:26.000Z"
-    },
-    {
-      "id": "66267b7590ca2c11",
-      "title": "Deals: AirPods Pro 3/Max 2, all-time lows on M6 Mac mini, Apple Watch Series 12, 18 Pro cases, more",
-      "description": "Welcome to your 9to5Toys Lunch Break Prime Day Hangover Edition. While the big fall Prime sale is over, the Apple deals are flying still and you’ll find the best of them here today. One of the best deals to date on AirPods Pro 3 is still live alongside AirPods Max 2 at $120 off and the all-time lows",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-AirPods-Pro-3-Max-2-Mac-mini-Apple-Watch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/08/deals-airpods-m6-mac-mini-apple-watch-series-12/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-08T15:35:20.000Z"
-    },
-    {
-      "id": "3a688180dbbc5249",
-      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-      "description": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model.\nSimilar to AI note-ta",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "id": "be297621d1dbba88",
+      "title": "US plans livestream of execution by firing squad",
+      "description": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298331635.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-08T15:27:30.000Z"
+      "publishedAt": "2026-10-08T22:32:04.000Z"
     },
     {
-      "id": "e6084cff0e9c34aa",
-      "title": "These US states just said ‘no’ to Apple Wallet driver’s licenses",
-      "description": "Apple Wallet driver’s licenses keeps expanding to more US states, but two states recently indicated they won’t launch support anytime soon—if at all.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/08/these-us-states-just-said-no-to-apple-wallet-drivers-licenses/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-08T15:21:07.000Z"
+      "id": "32261c1675ce4cfe",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "description": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted abou",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T21:53:51.000Z"
     },
     {
-      "id": "e193750a9f34ac2a",
-      "title": "Apple's Cheapest 16-Inch MacBook Pro Just Got a Massive $563 Discount on Amazon",
-      "description": "Apple's entry-level 16-inch MacBook Pro has received a massive discount today on Amazon, coming in at $563 off its new price. This is the 18-Core M5 Pro 16-inch MacBook Pro with 24GB RAM and a 1TB SSD, available for $2,436.53, down from $2,999.00.\r\n\r\nNote: MacRumors is an affiliate partner with some",
-      "image": "https://images.macrumors.com/article-new/2026/10/macbook-pro-black.jpeg",
-      "url": "https://www.macrumors.com/2026/10/08/16-inch-macbook-pro-massive-discount/",
+      "id": "0b00d0d7f209ad4b",
+      "title": "Anthropic Says Users Can't Be Needlessly Cruel to Claude",
+      "description": "Anthropic today updated its usage policy (via The Verge) to bar users from subjecting Claude to \"sustained and needless abusive or cruel behavior.\"\r\n\r\n\r\nAnthropic says the abuse rule is meant to apply only in extreme cases, where users \"repeatedly act cruelly\" toward the AI models with \"no discernib",
+      "image": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
+      "url": "https://www.macrumors.com/2026/10/08/anthropic-user-guideline-update/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-08T15:20:01.000Z"
+      "publishedAt": "2026-10-08T21:53:18.000Z"
     },
     {
-      "id": "1b5049bf39da54c6",
-      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-      "description": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
-      "url": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T15:12:59.000Z"
-    },
-    {
-      "id": "0be17f3dfd42962e",
-      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
-      "description": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
-      "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T15:06:17.000Z"
-    },
-    {
-      "id": "7178dcbaa9cbb9c5",
-      "title": "Asos confirms breach of customer data after hackers send rogue app notification",
-      "description": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
-      "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T15:01:15.000Z"
-    },
-    {
-      "id": "a9cd5d97abf67760",
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "description": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T15:00:00.000Z"
-    },
-    {
-      "id": "f630c87c212261f0",
-      "title": "GTA VI will have in-game podcasts and at least six radio stations",
-      "description": "Music is always a major part of a Grand Theft Auto game, and Rockstar Games says GTA VI will have the series' \"biggest and widest-ranging selection of in-game radio yet.\" There will be at least six radio stations players can listen to in vehicles or on foot, ranging from talk radio to classic rock: ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-3.29.45-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1007965/gta-6-music-radio-stations-podcasts",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T14:52:33.000Z"
-    },
-    {
-      "id": "e51329b2e57cda71",
-      "title": "The Retro Song Bird plays just the music from your favorite Game Boy cartridges",
-      "description": "The Retro Song Bird may look similar to devices like Epilogue's GB Operator with a slot on top for Game Boy cartridges, but it's not designed for playing retro games. The featureless box is instead a media player designed to play through all the music and sound effect files on Game Boy cartridges us",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/songbird.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1007926/retro-song-bird-nintendo-game-boy-cartridge-music-player",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T14:52:26.000Z"
-    },
-    {
-      "id": "74ef9e874f032e4d",
-      "title": "Amazon Unveils New iPad Rivals With Alexa+ and Google Play",
-      "description": "Amazon today announced a new lineup of Alexa Tablets, introducing three aluminum tablets with Google Play access, integrated Alexa+, and prices starting at $229.99 to compete with Apple's iPad lineup.\r\n\r\n\r\nThe new tablets run Android, moving away from Amazon's Fire OS and its separate app store. Goo",
-      "image": "https://images.macrumors.com/article-new/2026/10/amazon-tablet-family.jpg",
-      "url": "https://www.macrumors.com/2026/10/08/amazon-unveils-new-ipad-rivals/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-08T14:50:17.000Z"
-    },
-    {
-      "id": "442b935da59f74ee",
-      "title": "Spotify is getting more serious about selling enterprise software",
-      "description": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
-      "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T14:34:33.000Z"
-    },
-    {
-      "id": "c9d4c47dfe269f26",
-      "title": "Apple TV’s latest acquisition signals key shift for streamer",
-      "description": "Apple TV just acquired the global streaming rights to Dustfall, a crime series from Australia and the second recent deviation from the streamer’s originals-only strategy.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/dustfall-anna-torv.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/08/apple-tvs-latest-acquisition-signals-key-shift-for-streamer/",
+      "id": "5a3ffed4eadfa4c6",
+      "title": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
+      "description": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and Chrome. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/text-expander.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/you-can-now-use-textexpander-for-free-across-mac-iphone-ipad-and-more/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-08T14:32:09.000Z"
+      "publishedAt": "2026-10-08T21:38:06.000Z"
+    },
+    {
+      "id": "b1c27ab7e57d0ba9",
+      "title": "Apple home event imminent, OLED MacBook Pro details, Full Disk Access changes",
+      "description": "Benjamin and Chance talk about this week’s Apple news, ahead of a bevy of product announcements coming later this month. Apple is reportedly partnering with LG on a range of smart home accessories, and changes are coming to Full Disk Access permissions. Note: This episode was recorded before Apple o",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/happy-hour-611/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T21:36:56.000Z"
+    },
+    {
+      "id": "cd531b87475731d8",
+      "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "description": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T21:23:31.000Z"
+    },
+    {
+      "id": "96d94f962e3e4cae",
+      "title": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
+      "description": "In a joint status report made public earlier today, Apple said it is still waiting on additional documents from Jon Prosser and wants to depose Michael Ramacciotti again, while both defendants pushed back on the company’s handling of the case. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/apple-prosser-and-ramacciotti-trade-blame-over-delays-in-trade-secret-lawsuit/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T21:14:29.000Z"
+    },
+    {
+      "id": "2c8274ef2e75b2bc",
+      "title": "Apple to Launch Touchscreen OLED MacBook Pro and OLED iPad mini on October 27",
+      "description": "Apple will introduce new OLED touchscreen MacBook Pro models and an ‌OLED‌ iPad mini \"on or around\" Tuesday, October 27, reports Bloomberg. The launch will also include an M6 14-inch ‌MacBook Pro‌ and an M6 iMac.\r\n\r\n\r\nThe October 27 follows Apple's October 13 debut of a new smart home hub, a revampe",
+      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Ultra-Feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T21:12:43.000Z"
+    },
+    {
+      "id": "e94ca7be3941aed8",
+      "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+      "description": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T21:01:18.000Z"
+    },
+    {
+      "id": "f03fc0d61bdb5a61",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T21:00:00.000Z"
+    },
+    {
+      "id": "f58584d7dc8ffb67",
+      "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+      "description": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products.\nBloomberg say",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268395_Apple_MacBook_Pro_16_M5_Max_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T20:32:21.000Z"
+    },
+    {
+      "id": "10005bbd5e5ea890",
+      "title": "Apple to launch touchscreen MacBook Pro and more on October 27: report",
+      "description": "Apple just announced a “Welcome home” special event for next week, but the fun doesn’t stop there. Bloomberg now reports that Apple is set to launch its first touchscreen MacBook Pros, a new iPad mini, and more “on or around Tuesday, October 27.”\nThe report says the launch will include “an online vi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/apple-to-launch-touchscreen-macbook-pro-and-more-on-october-27-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T20:28:30.000Z"
+    },
+    {
+      "id": "f360188567a50b57",
+      "title": "Apple Now Pushing iPhone Users Still on iOS 26 to Install iOS 27",
+      "description": "Starting today, iPhone users still running iOS 26 will see iOS 27.0.1 as the prominent software update in the Settings app under General → Software Update, with iOS 26.7.1 now relegated to a smaller \"Also Available\" section at the bottom.\r\n\r\n\r\niOS 27 was released on September 14, but until now that ",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Now-Pushing-iPhone-Users-Still-on-iOS-26-to-Install-iOS-27-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T20:17:58.000Z"
+    },
+    {
+      "id": "7a296d9f19603f5a",
+      "title": "IDC: Mac shipments drop 11% in Q3 as global PC market slides 20%",
+      "description": "Despite seeing an 11% drop in Mac shipments during Q3 2026, Apple’s market share rose from 8.5% to 9.5%, as the broader market saw shipments plunge 20.1%, according to a new report from IDC. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/idc-mac-shipments-drop-11-in-q3-as-global-pc-market-slides-20/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T20:09:47.000Z"
+    },
+    {
+      "id": "f7641c0217e85340",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "description": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times.\nThe fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T20:06:56.000Z"
+    },
+    {
+      "id": "f8ae3b7c63e3a778",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T20:04:26.000Z"
+    },
+    {
+      "id": "27e3bf7609d54dc9",
+      "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
+      "description": "Detainees are seen in a yard at the Folkston ICE Processing Center on September 9, 2025, in Folkston, Georgia. (Photo by ELIJAH NOUVELAGE/AFP via Getty Images) | AFP via Getty Images\t\n\nFour men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to ex",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2233996808.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T19:45:00.000Z"
+    },
+    {
+      "id": "718207696000b4d1",
+      "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
+      "description": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern.\n\"This new Windows Search experience is built for spee",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowssearch.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T19:30:21.000Z"
+    },
+    {
+      "id": "f42c66e2f1c8028c",
+      "title": "Paramount is making a Cyberpunk 2077 film",
+      "description": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di Bonaventura, who is k",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cyberpunk2077screenshot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T19:14:03.000Z"
+    },
+    {
+      "id": "3311f66920bf1adc",
+      "title": "Apple Home adds two powerful new features in iOS 27",
+      "description": "Apple is launching several new Home products next week, so it’s no surprise that iOS 27 includes big upgrades in the Home app. Here are two powerful new Home features in iOS 27.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T19:11:19.000Z"
+    },
+    {
+      "id": "055a382267ed685c",
+      "title": "Apple Has a New M&A Chief as Ternus Reshuffles Leadership",
+      "description": "CEO John Ternus is making changes to Apple's leadership, reports Bloomberg. Apple veteran Steve Smith will take over mergers and acquisitions and corporate development, which was previously led by Adrian Perica. M&A is an important team at Apple, handling acquisitions and arrangements like the deal ",
+      "image": "https://images.macrumors.com/article-new/2026/09/John-Ternus-and-Rainbow-Countour-Apple-Logo.jpg",
+      "url": "https://www.macrumors.com/2026/10/08/apple-acquisitions-new-lead/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T19:06:41.000Z"
+    },
+    {
+      "id": "974a0a34dfa80d0f",
+      "title": "9to5Mac Daily: October 8, 2026 – iPad mini rumors, iCloud+",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/08/daily-october-8-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-08T19:00:11.000Z"
+    },
+    {
+      "id": "35d078e8a485a9e6",
+      "title": "Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business",
+      "description": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White House. But in an intervi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-08T18:48:36.000Z"
     },
     {
       "id": "371027ddfaca997e",
@@ -279,19 +294,10 @@
       "url": "https://www.macrumors.com/2026/10/08/missed-prime-day-october-26/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-08T14:30:21.000Z"
-    },
-    {
-      "id": "f430a5ccc359d35e",
-      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
-      "description": "This is the first time the Alphabet-owned company has turned to debt financing.",
-      "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-08T14:16:56.000Z"
+      "publishedAt": "2026-10-08T18:37:44.000Z"
     }
   ],
-  "lastUpdated": "2026-10-08T18:02:58.362Z",
+  "lastUpdated": "2026-10-09T06:03:18.033Z",
   "sources": [
     "TechCrunch",
     "The Verge",
