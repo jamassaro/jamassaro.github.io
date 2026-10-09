@@ -1,41 +1,13 @@
 {
-  "executiveSummary": "The articles discuss various tech trends, including the upcoming launch of new Apple products, the growth of OLED displays, and the impact of AI on the industry. Apple is expected to release new MacBook Pros with OLED touchscreens and an iPad mini on October 27. The company is also investing in AI technology, including a new OSS Scanner service. Additionally, there are concerns about the security of open-source projects and the use of AI in various industries.",
-  "takeaways": [
-    {
-      "title": "Apple launches new products",
-      "description": "Apple is expected to release new MacBook Pros with OLED touchscreens and an iPad mini on October 27, according to Bloomberg. This is part of a larger product launch event that includes smart home products and a new iPhone, as reported by 9to5Mac."
-    },
-    {
-      "title": "OLED display growth",
-      "description": "A new Counterpoint Research report says Apple's next-generation MacBook Pro will help drive a 50% increase in OLED notebook display shipments in 2026 alone. This is part of a growing trend in the display industry, with OLED displays becoming increasingly popular."
-    },
-    {
-      "title": "AI security concerns",
-      "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company's AI safety culture, as reported by The Verge."
-    }
-  ],
-  "trends": [
-    "Apple products",
-    "OLED displays",
-    "AI security",
-    "Smart home",
-    "Display industry"
-  ],
-  "worthWatching": [
-    "The use of AI in the display industry is becoming increasingly important, with Apple investing in AI technology such as the OSS Scanner service, as reported by The Verge."
-  ],
-  "engineeringPerspective": [
-    "The growth of OLED displays is driven by the increasing demand for high-quality displays in the mobile and computing industries. Understanding the display industry is crucial for engineers working on display-related projects.",
-    "The use of AI in smart home devices is becoming increasingly common, and engineers should be aware of the security concerns surrounding AI in these devices, as reported by The Verge."
-  ],
+  "generatedAt": "2026-10-09T18:04:46.357Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "Apple",
-      "OLED displays",
-      "AI"
-    ]
-  },
-  "generatedAt": "2026-10-09T06:05:26.428Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
