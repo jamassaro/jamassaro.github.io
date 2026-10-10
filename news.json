@@ -1,6 +1,259 @@
 {
   "articles": [
     {
+      "id": "89418e34e927129a",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-10T03:10:06.000Z"
+    },
+    {
+      "id": "586edf0fb9ac98e4",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-10T00:18:32.000Z"
+    },
+    {
+      "id": "4fc7e64f9f28df6d",
+      "title": "Apple Stores Will Add Your Name to iPhone Duo's Startup Screen",
+      "description": "Apple has something special planned for customers who purchase an iPhone Duo in an Apple Store. Employees will be able to customize the Duo so it displays the name of the buyer at the \"Hello\" screen when it turns on for the first time.\r\n\r\n\r\nBloomberg's Mark Gurman says Apple retail stores in the Uni",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/09/iphone-duo-name-personalization/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T23:17:31.000Z"
+    },
+    {
+      "id": "0ef5c1421167def8",
+      "title": "TrendForce warns of higher notebook prices and weaker demand in 2027",
+      "description": "TrendForce projects that global notebook shipments could decline by a high-single-digit percentage in 2027, depending on how manufacturers respond to rising component costs. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/09/trendforce-warns-of-higher-notebook-prices-and-weaker-demand-in-2027/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T23:13:19.000Z"
+    },
+    {
+      "id": "54117eb8425aee01",
+      "title": "SpaceX Inches Closer to Becoming a U.S. Carrier",
+      "description": "SpaceX this week announced two developments that further its goal of becoming a major U.S. carrier to compete with AT&T, Verizon, and T-Mobile.\r\n\r\n\r\nIt is acquiring a low-band spectrum license portfolio in the 800MHz band, which it says addresses one of the \"remaining technical gaps\" that will let i",
+      "image": "https://images.macrumors.com/article-new/2026/10/starlink-mobile.jpg",
+      "url": "https://www.macrumors.com/2026/10/09/spacex-starlink-mobile-carrier/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T23:01:05.000Z"
+    },
+    {
+      "id": "1f88e67920a6fdd1",
+      "title": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
+      "description": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T22:29:17.000Z"
+    },
+    {
+      "id": "7517fad4dc63c4f9",
+      "title": "Long live the mechanical keyboard",
+      "description": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+      "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T22:08:24.000Z"
+    },
+    {
+      "id": "674b3707d9c62967",
+      "title": "Decade-old RAM is making a comeback",
+      "description": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. \nOn Friday, Gigabyte announced that ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T21:50:00.000Z"
+    },
+    {
+      "id": "5218fba47079f168",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T21:41:29.000Z"
+    },
+    {
+      "id": "f36d18abc90aeddd",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "description": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigat",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T21:15:38.000Z"
+    },
+    {
+      "id": "08af1e408de1d7d6",
+      "title": "Apple Potentially Behind 'HomeView' Trademark Filed Alongside 'homeOS' Last Year",
+      "description": "Apple potentially used a shell company named Home Services LLC to secretly file for a \"HomeView\" trademark in the U.S. and various other countries last year, around the same time that another shell company named Home Operations Suite LLC that also might be linked to Apple filed for a \"homeOS\" tradem",
+      "image": "https://images.macrumors.com/article-new/2026/10/Home-Hub-Command-Center-with-Dome-Base-Colors-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/09/homeview-trademark/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T21:09:02.000Z"
+    },
+    {
+      "id": "34f9979b21cf4a26",
+      "title": "Apple acqui-hires AI startup founded by former NotebookLM developers",
+      "description": "The European Union’s Digital Markets Act transparency website lists Huxe as Apple’s newest acqui-hire, and at least the fourth AI-related deal disclosed this year. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/09/apple-acqui-hires-ai-startup-founded-by-former-notebooklm-developers/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T20:04:58.000Z"
+    },
+    {
+      "id": "f0c465c3aa62dbd1",
+      "title": "9to5Mac Overtime 085: Here comes the HomePad",
+      "description": "Join Jeff and Fernando as they dive into Apple’s upcoming ‘Welcome Home’ event and the highly anticipated launch of the HomePad, Apple’s new smart hub featuring a built-in speaker and display. They also discuss the latest iOS 27.2 code leaks, revealing fresh details about upcoming second-party smart",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-085-Here-comes-the-HomePad.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/09/9to5mac-overtime-085-here-comes-the-homepad/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T20:01:00.000Z"
+    },
+    {
+      "id": "9ad8a1d0a0f2ea99",
+      "title": "9to5Mac Daily: October 9, 2026 – Apple’s ‘Welcome home’ launch announced, more",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/09/daily-october-9-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T19:54:42.000Z"
+    },
+    {
+      "id": "bbde983ff01e05cb",
+      "title": "Mark Your Calendar: Six Important Apple Dates Coming Up This Month",
+      "description": "The final three weeks of October are going to be extremely busy for Apple, so we have recapped some key dates below if you want to mark your calendar.\r\n\r\n\r\nApple will be announcing new products on October 13, the iPhone Duo launches on October 23, and even more products are expected to debut on Octo",
+      "image": "https://images.macrumors.com/article-new/2026/10/Mark-Your-Calendar-Six-Important-Apple-Dates-Coming-Up-This-Month-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/09/six-important-apple-dates-this-month/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T19:51:04.000Z"
+    },
+    {
+      "id": "3951c3bc307074ce",
+      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+      "description": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200 fine, according to a report from the Columbus Dis",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T19:41:11.000Z"
+    },
+    {
+      "id": "e9096fd46f8e3c96",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T19:36:56.000Z"
+    },
+    {
+      "id": "1aa7709e12b8cdf7",
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" \nThose were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this we",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T19:09:44.000Z"
+    },
+    {
+      "id": "d8337276abcd1c8a",
+      "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
+      "description": "Apple’s long-rumored ‘HomePad’ product is finally set to be unveiled next Tuesday at the ‘Welcome home’ event. Here are three HomePad features I’ve been waiting a long time for.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/homepad-white-hello-homepod.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T19:02:07.000Z"
+    },
+    {
+      "id": "35fcbf2afac81ae0",
+      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+      "description": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+      "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T18:57:58.000Z"
+    },
+    {
+      "id": "7b5303724d1db379",
+      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+      "description": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T18:57:06.000Z"
+    },
+    {
+      "id": "04568a7d5cfaed01",
+      "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
+      "description": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad.\nThe Pentagon has said the execution will be livestreamed, suggesting it'll appear on an online platform b",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T18:30:48.000Z"
+    },
+    {
+      "id": "bbae2d9971fef93d",
+      "title": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
+      "description": "Onvis has released a new outdoor smart plug that checks all the boxes you’d want in an outdoor smart plug: Matter over Thread, real-time energy monitoring, and IP65 weather resistance. If you’ve been looking for an outdoor plug that works natively with Apple Home without a hub of its own, this is a ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/plug.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T18:19:00.000Z"
+    },
+    {
+      "id": "8261fd85e59b36f6",
+      "title": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent",
+      "description": "The original Apple TV 4K from 2017 has just been added to Apple’s “vintage” products list. Here’s what that means.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2017/09/apple-iphone-x-2017-apple-tv-4k_5.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-09T18:15:44.000Z"
+    },
+    {
+      "id": "fd8bcc52a34966ef",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "description": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu\t\n\nNikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ni",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T18:06:57.000Z"
+    },
+    {
+      "id": "308d6699357e44f7",
+      "title": "Google teases Fitbit Edge launch next week",
+      "description": "Google shared a closeup of its upcoming fitness tracker. | Image: Google\t\n\nIt looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fitbit-edge.jpeg?quality=90&#038;strip=all&#038;crop=0,0,71.318894733819,62.485080718084",
+      "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-09T18:05:55.000Z"
+    },
+    {
       "id": "ee5688e74c24b26c",
       "title": "Grok Bot just got its own email address, here’s how to claim yours",
       "description": "Grok Bot just got a second significant upgrade this week: its own email address. \nmore…",
@@ -39,258 +292,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-10-09T17:25:39.000Z"
-    },
-    {
-      "id": "ba640e23ca725014",
-      "title": "MacRumors Giveaway: Win an Apple Watch Series 12 and a Nylon Band From Southern Straps",
-      "description": "For this week's giveaway, we've teamed up with Southern Straps to offer MacRumors readers a chance to win an Apple Watch Series 12 and a nylon band from Southern Straps to go along with it.\r\n\r\n\r\nSouthern Straps is a California-based company that has been making high-quality bands for the Apple Watch",
-      "image": "https://images.macrumors.com/article-new/2022/12/southern-straps-3.jpg",
-      "url": "https://www.macrumors.com/2026/10/09/macrumors-giveaway-series-12-southern-straps/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T17:20:39.000Z"
-    },
-    {
-      "id": "5850ff6993d95d31",
-      "title": "LumenUs helps automate tedious paperwork in times of grief",
-      "description": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
-      "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T17:00:00.000Z"
-    },
-    {
-      "id": "f0a88b697d404862",
-      "title": "Microsoft tries to spark new life into Windows",
-      "description": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like it's here to stay, f",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299110674.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T17:00:00.000Z"
-    },
-    {
-      "id": "54b749c304cd015a",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "description": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New ",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T16:56:42.000Z"
-    },
-    {
-      "id": "c084f8127ba34383",
-      "title": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
-      "description": "NEW YORK, NEW YORK - OCTOBER 04: Frances Haugen attends the Social Reckoning world premiere at Regal Union Square on October 04, 2026 in New York City. (Photo by Sean Zanni/Getty Images for Sony Pictures Entertainment) | Getty Images for Sony Pictures E\t\n\nFacebook whistleblower Frances Haugen was mo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298625475.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T16:50:40.000Z"
-    },
-    {
-      "id": "18f7a8f77c90539a",
-      "title": "Apple and LG leak shows new &#8216;tap to control&#8217; HomeKit features",
-      "description": "A post on X from \"pdfu,\" who has previously posted leaks and renders of suspected Apple features and LG smart home gear, shows new details of rumored Apple Home accessories from LG. According to the new leak, they could include an NFC-based \"Proximity Control\" feature that pops up a hint for a devic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKS495_Smart_Home_CVIRGINIA_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T16:45:31.000Z"
-    },
-    {
-      "id": "04fac5700b5a15ff",
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T16:45:00.000Z"
-    },
-    {
-      "id": "67999fd39e650ae8",
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T16:40:14.000Z"
-    },
-    {
-      "id": "41972c716d9533b9",
-      "title": "First Apple TV 4K Now 'Vintage' Ahead of New Model Coming on Tuesday",
-      "description": "Apple today added the first-generation Apple TV 4K from 2017 to the vintage products list on its website, just four days before a new model is finally expected to debut.\r\n\r\non Tuesday, October 13, as part of Apple's \"Welcome home\" launch.\nRelated Roundup: Apple TV\nTag: Vintage and Obsolete Apple Pro",
-      "image": "https://images.macrumors.com/article-new/2021/11/2017-apple-tv.jpg",
-      "url": "https://www.macrumors.com/2026/10/09/first-apple-tv-4k-now-vintage/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T16:33:02.000Z"
-    },
-    {
-      "id": "b9effff66010ca65",
-      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-      "description": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
-      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T16:07:26.000Z"
-    },
-    {
-      "id": "50006d37f9238285",
-      "title": "Apple ‘Welcome home’ event: Three new products are coming next week",
-      "description": "Apple officially confirmed yesterday that it will hold a product launch event next week on October 13. With a “Welcome home” tagline, the launch is expected to focus on new smart home products. Here’s everything to expect at next week’s Apple event.\n9to5Mac’s Apple event coverage is supported by Son",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/09/apple-welcome-home-event-three-new-products/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T16:04:53.000Z"
-    },
-    {
-      "id": "772cd0e7bff2b8db",
-      "title": "Remember Orkut? Its founder wants to bring it back",
-      "description": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
-      "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T15:56:15.000Z"
-    },
-    {
-      "id": "891272a566a3837f",
-      "title": "Prime Day Leftover Deals: AirPods Max 2 for $429, Mac Mini for $779.99, and More",
-      "description": "Amazon's Prime Big Deal Days event is over, but there are plenty of Apple deals still available as we head into the weekend. This includes big discounts on AirPods Max 2, Apple Watch Series 12, MacBook Pro, and more.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and m",
-      "image": "https://images.macrumors.com/article-new/2026/10/new-best-apple-deals-dark-mode.jpeg",
-      "url": "https://www.macrumors.com/2026/10/09/prime-day-leftover-deals/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T15:43:41.000Z"
-    },
-    {
-      "id": "024af9fba648b3af",
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T15:43:33.000Z"
-    },
-    {
-      "id": "db8fb42007135ed4",
-      "title": "The MacRumors Show: Apple's Smart Home Products Are Coming",
-      "description": "On this week's episode of The MacRumors Show, we look ahead to Apple's recently announced October 13 event and its expected push into the smart home market, including a dedicated home hub, the HomePod mini 2, and a new Apple TV.\r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\nAp",
-      "url": "https://www.macrumors.com/2026/10/09/the-macrumors-show-smart-home-products/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T15:36:36.000Z"
-    },
-    {
-      "id": "a31342c0219e7f78",
-      "title": "Deals: AirPods Max 2 $120 off, Mac mini, MacBook Air, Magic Mouse 25% off, Nomad iPhone 18 Pro cases, more",
-      "description": "While some of the Prime Day Apple deals are starting to disappear, you can still land a solid discount on AirPods Pro 3 and we are highlighting best holiday pricing still live in today’s 9to5Toys Lunch Break. Amazon is still delivering all five colors of Apple’s latest AirPods Max 2 down at $120 off",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Mac-mini-MacBook-Air-Nomad-cases.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/09/deals-airpods-max-2-mac-mini-macbook-air-magic-mouse/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T15:35:33.000Z"
-    },
-    {
-      "id": "b67b4f9fe9a5e646",
-      "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts",
-      "description": "Apple shares fell more than 2.5% in early trading today in response to Nikkei Asia's report that the company is cutting iPhone 18 Pro component orders due to weaker-than-expected demand. October orders were reportedly reduced by at least 15%, with higher memory costs and $100 price increases weighin",
-      "image": "https://images.macrumors.com/article-new/2021/04/Apple-Logo-Cash-Blue.jpg",
-      "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T15:35:09.000Z"
-    },
-    {
-      "id": "67a17b16002f9468",
-      "title": "Every M5 MacBook Air Now $200 Off on Amazon",
-      "description": "Prime Day deals have started drying up, but you can still get $200 off every model of the M5 MacBook Air as we head into the weekend. These are the best post-hike prices we've seen on the M5 MacBook Air, and prices now start at $1,099.00 for the 512GB 13-inch model and $1,299.00 for the 512GB 15-inc",
-      "image": "https://images.macrumors.com/article-new/2026/06/m5-macbook-air-prime-day.jpeg",
-      "url": "https://www.macrumors.com/2026/10/09/every-m5-macbook-air-200-off/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T15:23:55.000Z"
-    },
-    {
-      "id": "5bdd85582721a9b7",
-      "title": "Will Apple’s ‘Welcome home’ event be livestreamed? Here’s what we know",
-      "description": "Apple has confirmed a special ‘Welcome home’ product launch event is happening next Tuesday, October 13. But it hasn’t yet said whether there will be a keynote video. Here’s what we know.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-event-welcome-home-tv.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/09/will-apples-welcome-home-event-be-livestreamed-heres-what-we-know/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T15:18:17.000Z"
-    },
-    {
-      "id": "367da986c64ef2ad",
-      "title": "YouTube, Meta, and Twitch won&#8217;t say if they&#8217;ll allow the US government to livestream an execution",
-      "description": "YouTube, Twitch, Meta, and X aren't saying whether they'll allow the US government to livestream an execution on their platforms. The four companies didn't respond to The Verge's requests for comment after an unnamed Pentagon official said yesterday that the execution of Nidal Hasan, who was convict",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294930392.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T15:15:30.000Z"
-    },
-    {
-      "id": "8e1834ff403c4bf1",
-      "title": "The AI is in the computer",
-      "description": "It's gadget season, and a lot of companies are launching a lot of new products. But whether it's Microsoft dropping a high-end laptop, Amazon shipping a fancy Android tablet, or Apple diving headlong into the smart home, the actual strategy appears to be almost always the same. All these companies b",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_100926_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T15:10:12.000Z"
-    },
-    {
-      "id": "f5931f5405dbb386",
-      "title": "Automattic loses its interim CFO just weeks after boardroom shakeup",
-      "description": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil.",
-      "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T15:02:30.000Z"
-    },
-    {
-      "id": "b3a9308b9301665e",
-      "title": "Leak Details iPhone Features for Apple's LG Home Accessories",
-      "description": "Smart home accessories that Apple reportedly helped LG develop could offer iPhone proximity controls and a way to begin setup before the devices have power, according to findings shared by the leaker known as \"pdfu.\"\r\n\r\n\r\nThe findings concern the upcoming LG-branded accessory range that Bloomberg re",
-      "image": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/09/leak-details-iphone-features-for-home-accessories/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T14:50:57.000Z"
-    },
-    {
-      "id": "ebf8c62dbe6bdd6a",
-      "title": "Apple TV reveals ‘unconventional’ rom-com show with The White Lotus star",
-      "description": "Apple TV just debuted the first look at Prodigies, a new series from The White Lotus star Will Sharpe that offers an “unconventional take” on the romantic comedy genre.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/prodigies-will-sharpe.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/09/apple-tv-reveals-unconventional-rom-com-show-with-the-white-lotus-star/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T14:44:12.000Z"
-    },
-    {
-      "id": "4344ac42b8acf11f",
-      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-      "description": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next fa",
-      "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T14:42:34.000Z"
-    },
-    {
-      "id": "7b5303724d1db379",
-      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-      "description": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T14:30:00.000Z"
     }
   ],
-  "lastUpdated": "2026-10-09T18:02:44.084Z",
+  "lastUpdated": "2026-10-10T06:03:03.400Z",
   "sources": [
     "TechCrunch",
     "The Verge",
