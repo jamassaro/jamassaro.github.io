@@ -1,6 +1,74 @@
 {
   "articles": [
     {
+      "id": "8866aac64abfa89d",
+      "title": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected",
+      "description": "Earlier this year, Bloomberg’s Mark Gurman revealed that Apple has a new M7-powered entry level MacBook Pro in the pipeline for spring 2027. This isn’t an ordinary MacBook Pro refresh though. It’ll bring the upcoming redesign down to the entry level, something that previously wasn’t expected.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T04:25:16.000Z"
+    },
+    {
+      "id": "2412ebc07348c911",
+      "title": "Rumor: Apple to Announce New Partnership With ADT",
+      "description": "Apple may be planning to announce a new partnership with home security company ADT, alongside the introduction of its all-new smart home hub, according to several clues. Apple has invited the media to a \"Welcome home\" experience in New York on Tuesday, October 13, so the partnership could be made of",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-ADT-Gradient.jpg",
+      "url": "https://www.macrumors.com/2026/10/10/rumored-apple-adt-partnership/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T02:17:37.000Z"
+    },
+    {
+      "id": "1f28299c01b25b8c",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "description": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He call",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-10T22:10:17.000Z"
+    },
+    {
+      "id": "d93022b6b9c446ce",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-10T21:47:51.000Z"
+    },
+    {
+      "id": "fedfa910b385b25e",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "description": "Is Apple hoping to get into the AI-generated podcast business?",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-10T19:50:00.000Z"
+    },
+    {
+      "id": "5fe4e848cf1a9b7f",
+      "title": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nMilepost turns your roadtrips into more of a journey. It lets you record all of your drives, and journal a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/054bf01c078a6735d3bf124bbc67454bc58ec0364994c02b0a66b5d9c10a9ec0.png?w=1600",
+      "url": "https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-10T19:30:00.000Z"
+    },
+    {
+      "id": "84161f747c78382f",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "description": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-10T18:52:07.000Z"
+    },
+    {
       "id": "a28121ecd80bcf99",
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
       "description": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
@@ -207,26 +275,6 @@
       "publishedAt": "2026-10-10T11:00:00.000Z"
     },
     {
-      "id": "3a278681b365c01e",
-      "title": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
-      "description": "Renata Reinsve (top center) and Sebastian Stan (top right) play religious Romanians living in Norway. | FLC Press\t\n\nCristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/6dcdc551-c3ac-483a-88b4-2ec76d2e9874.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T11:00:00.000Z"
-    },
-    {
-      "id": "e8e3e8a939e63a3a",
-      "title": "My brief romance with an AI bird feeder",
-      "description": "I miss my sweet tits.\t\n\nIt started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read anothe",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T07:00:00.000Z"
-    },
-    {
       "id": "89418e34e927129a",
       "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
       "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
@@ -243,58 +291,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-10-10T00:18:32.000Z"
-    },
-    {
-      "id": "4fc7e64f9f28df6d",
-      "title": "Apple Stores Will Add Your Name to iPhone Duo's Startup Screen",
-      "description": "Apple has something special planned for customers who purchase an iPhone Duo in an Apple Store. Employees will be able to customize the Duo so it displays the name of the buyer at the \"Hello\" screen when it turns on for the first time.\r\n\r\n\r\nBloomberg's Mark Gurman says Apple retail stores in the Uni",
-      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/09/iphone-duo-name-personalization/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T23:17:31.000Z"
-    },
-    {
-      "id": "0ef5c1421167def8",
-      "title": "TrendForce warns of higher notebook prices and weaker demand in 2027",
-      "description": "TrendForce projects that global notebook shipments could decline by a high-single-digit percentage in 2027, depending on how manufacturers respond to rising component costs. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/09/trendforce-warns-of-higher-notebook-prices-and-weaker-demand-in-2027/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T23:13:19.000Z"
-    },
-    {
-      "id": "54117eb8425aee01",
-      "title": "SpaceX Inches Closer to Becoming a U.S. Carrier",
-      "description": "SpaceX this week announced two developments that further its goal of becoming a major U.S. carrier to compete with AT&T, Verizon, and T-Mobile.\r\n\r\n\r\nIt is acquiring a low-band spectrum license portfolio in the 800MHz band, which it says addresses one of the \"remaining technical gaps\" that will let i",
-      "image": "https://images.macrumors.com/article-new/2026/10/starlink-mobile.jpg",
-      "url": "https://www.macrumors.com/2026/10/09/spacex-starlink-mobile-carrier/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T23:01:05.000Z"
-    },
-    {
-      "id": "1f88e67920a6fdd1",
-      "title": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
-      "description": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-09T22:29:17.000Z"
-    },
-    {
-      "id": "7517fad4dc63c4f9",
-      "title": "Long live the mechanical keyboard",
-      "description": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
-      "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-09T22:08:24.000Z"
     }
   ],
-  "lastUpdated": "2026-10-10T18:02:37.435Z",
+  "lastUpdated": "2026-10-11T06:02:38.031Z",
   "sources": [
     "TechCrunch",
     "The Verge",
