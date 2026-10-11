@@ -1,6 +1,289 @@
 {
   "articles": [
     {
+      "id": "d25b154d0cb7eb08",
+      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "description": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+      "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T17:53:37.000Z"
+    },
+    {
+      "id": "676e205b9f21d731",
+      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "description": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a sim",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T17:31:07.000Z"
+    },
+    {
+      "id": "ec5941abd8afa834",
+      "title": "Kuxiu’s D5 charger now comes in Burgundy to perfectly match your iPhone 18 Pro",
+      "description": "Last year, Kuxiu was the first to make chargers that perfectly match the Cosmic Orange iPhone. They released their 3-in-1 X40 turbo and their S4 Solid State battery pack. They both matched the orange color so well that it seemed as if they were 1st-party accessories. This year, the new hero color fo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/IMG_6370-e1791734782767.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/11/kuxius-d5-charger-now-comes-in-burgundy-to-perfectly-match-your-iphone-18-pro/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T17:03:34.000Z"
+    },
+    {
+      "id": "914e080ea3448b85",
+      "title": "macOS 27 brings three key upgrades to my favorite feature",
+      "description": "I use iPhone Mirroring every day to quickly access my iPhone directly from my Mac, and it’s even better this year. iOS 27 and macOS 27 Golden Gate were released last month, bringing three key updates to iPhone Mirroring. Here’s everything new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-mirroring-macOS-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/11/macos-27-brings-three-key-upgrades-to-iphone-mirroring/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T16:54:26.000Z"
+    },
+    {
+      "id": "25b7b43626bc8444",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T16:52:33.000Z"
+    },
+    {
+      "id": "1a92770c65442411",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T16:02:00.000Z"
+    },
+    {
+      "id": "16315ac70394c742",
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "description": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "38bbbf5556fc9a88",
+      "title": "New Entry-Level iPad Not Expected Until Early 2027",
+      "description": "Apple's next entry-level iPad models, codenamed J581 and J582, will not arrive until early 2027, according to Bloomberg's Mark Gurman.\r\n\r\niPad Air refresh to add an OLED display and a new iPad Pro in 2027. The latter could gain a vapor chamber to improve thermals and performance. A new iPad mini is ",
+      "image": "https://images.macrumors.com/article-new/2022/11/new-ipad-cyber.jpg",
+      "url": "https://www.macrumors.com/2026/10/11/new-entry-level-ipad-not-expected-until-2027/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T15:57:06.000Z"
+    },
+    {
+      "id": "1f679aa3d9c4478e",
+      "title": "Apple Plans Major iPhone Duo Retail Showcase, But Supply Will Be Limited",
+      "description": "Apple is preparing new displays and large numbers of demo units for the iPhone Duo's October 23 launch, but supply will be limited, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nAhead of the October 23 launch, Apple plans to set aside a section of its Fifth Avenue flagship store for the ‌iPhone Duo‌. M",
+      "image": "https://images.macrumors.com/article-new/2025/03/Apple-Fifth-Avenue-Hero.jpeg",
+      "url": "https://www.macrumors.com/2026/10/11/iphone-duo-retail-showcase/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T15:44:17.000Z"
+    },
+    {
+      "id": "7d1f7063e8902ac1",
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "description": "A crew annotated image showing where the Artemis II team observed impact flashes on the dark side of the Moon. | Image: NASA\t\n\nIf you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Ar",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/art002e016252_impactflash_annotation_croppedlarge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T15:34:40.000Z"
+    },
+    {
+      "id": "e5dd99f7aea18562",
+      "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+      "description": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/b4cbdcb8-32ec-4f79-8a23-c2edbf8d58e9.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T15:15:00.000Z"
+    },
+    {
+      "id": "50278f573227e9e2",
+      "title": "Apple TV 4K Getting A19 Chip and a Potentially Easier-to-Find Siri Remote",
+      "description": "Apple's new Apple TV 4K will be powered by a standard A19 chip, up from the A15 in the current 2022 model, reports Bloomberg's Mark Gurman. Writing in his Power On newsletter, Gurman also said Apple has tested a refreshed Siri Remote with a speaker to make it easier to find between couch cushions. \r",
+      "image": "https://images.macrumors.com/article-new/2024/06/apple-tv-4k-new-orange.jpg",
+      "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-a19-chip-easier-to-find-remote/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T15:08:50.000Z"
+    },
+    {
+      "id": "7a163eb2ce999de7",
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "description": "This Battlefield 200 startup has developed blood-purification tech to save children",
+      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T15:00:00.000Z"
+    },
+    {
+      "id": "81419ee4582b1be8",
+      "title": "Report: HomePod mini 2 to release on October 30 with these upgrades",
+      "description": "In just a couple days, Apple should be unveiling its long-awaited new lineup of new Home products. That includes an updated HomePod mini, Apple TV 4K, the brand-new smart home hub called ‘HomeView’, as well as a new lineup of smart home accessories, in collaboration with LG. Here’s what to expect wi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/11/apple-homepod-mini-2-release-date/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T14:56:13.000Z"
+    },
+    {
+      "id": "084021c86877fe4c",
+      "title": "New Mac Mini and Mac Studio Receive Up to $200 Price Cuts at Amazon",
+      "description": "Amazon has Apple's brand new Mac mini for up to $149 off this weekend, with both the M6 and M5 Pro Mac mini available on sale. You'll also find $200 off the M5 Max Mac Studio below.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we m",
+      "image": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "url": "https://www.macrumors.com/2026/10/11/mac-mini-studio-200-off/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T14:44:20.000Z"
+    },
+    {
+      "id": "3783d54db3ab14a4",
+      "title": "Apple HomeView Smart Hub to Ship in Mid-November in Four Colors",
+      "description": "Apple's all-new smart home hub, the HomeView, will ship around mid-November, roughly a month after its unveiling at Apple's \"Welcome home\" October 13 event, according to Bloomberg's Mark Gurman.\r\n\r\nHomeView concept image\n\r\nWriting in the latest edition of his Power On newsletter, Gurman said the Hom",
+      "image": "https://images.macrumors.com/article-new/2026/10/Home-Hub-Command-Center-with-Dome-Base-Colors-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/11/apple-homeview-smart-home-hub-ship-next-month/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T14:40:00.000Z"
+    },
+    {
+      "id": "9a7e999cd770cc06",
+      "title": "Apple planning huge iPhone Duo demo experiences at select retail stores: report",
+      "description": "iPhone Duo is just about two weeks away from releasing, and according to Bloomberg’s Mark Gurman, Apple has big retail plans ahead for its first foldable iPhone, to make sure every customer gets to see it to the fullest.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/10/11/apple-planning-huge-iphone-duo-demo-experiences-at-select-retail-stores-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T14:31:59.000Z"
+    },
+    {
+      "id": "f33718a2d106e66c",
+      "title": "Bloomberg: New iPad mini with OLED display will be significantly more expensive than current model",
+      "description": "The current iPad mini sells for $599 in its starting 128 GB configuration. Apple is set to introduce the next-generation iPad mini later this month and — while the starting storage may increase — interested buyers should start probably bracing for a price rise.\nBloomberg’s Mark Gurman says he is hea",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/11/ipad-mini-oled-higher-price/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T14:28:57.000Z"
+    },
+    {
+      "id": "a3cfa5e59a3efad7",
+      "title": "Apple testing two new features for upgraded Apple TV 4K, per report",
+      "description": "Apple will hold its “Welcome home” product launch on Tuesday, with the headlining announcement expected to be the new “HomeView” smart display. A new Apple TV 4K is also on the docket for this week, and Apple has tested two new features for it: microphones and an upgraded Siri Remote. \n9to5Mac’s App",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/11/apple-testing-two-new-features-for-upgraded-apple-tv-4k-per-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T14:27:21.000Z"
+    },
+    {
+      "id": "5a0a7780da50a86b",
+      "title": "New Apple TV 4K and HomePod Mini to Ship on October 30",
+      "description": "The new upcoming Apple TV 4K with A19 chip and new HomePod mini with S10 chip will launch on Friday, October 30, according to Bloomberg's Mark Gurman. Writing in his Power On newsletter, Gurman said the devices will ship to customers and arrive in stores on that day.\r\n\r\nWelcome home\" event, which wi",
+      "image": "https://images.macrumors.com/article-new/2026/03/HomePod-mini-and-Apple-TV-Sage.jpg",
+      "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-4k-homepod-mini-ship-oct-30/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T14:24:03.000Z"
+    },
+    {
+      "id": "74c2b88146e35472",
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+      "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T14:15:00.000Z"
+    },
+    {
+      "id": "f99072e5f6732ff5",
+      "title": "Report: Apple ‘HomeView’ smart home hub will ship in November, come in four colors, A18 chip",
+      "description": "Bloomberg’s Mark Gurman today reported that the Apple home hub – set to be announced on October 13 as part of Apple’s ‘Welcome home’ event experience — will be called the HomeView. The brand would obviously sit alongside the company’s existing HomePod brand for smart speakers.\nGurman also reported o",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/homepod-touch-homepad-photos-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T14:09:49.000Z"
+    },
+    {
+      "id": "8587dd886c102384",
+      "title": "AirPods Max 2 Available for $429 in All Colors on Amazon",
+      "description": "Amazon has Apple's AirPods Max 2 on sale for $429.00 this weekend, down from $549.00. This is a Prime Day sale that has stuck around all these days later, and it's available in all five colors of the AirPods Max 2: Blue, Midnight, Orange, Purple, and Starlight.\r\n\r\nNote: MacRumors is an affiliate par",
+      "image": "https://images.macrumors.com/article-new/2026/04/airpods-max-2-purple.jpeg",
+      "url": "https://www.macrumors.com/2026/10/11/airpods-max-2-for-429/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T14:05:50.000Z"
+    },
+    {
+      "id": "83e75f9806645278",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T14:00:00.000Z"
+    },
+    {
+      "id": "fad865dcd7586996",
+      "title": "Vurt wants you to look at vertical videos as a genre of their own",
+      "description": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention, ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0918.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T13:00:00.000Z"
+    },
+    {
+      "id": "c68be7d1ef42a90a",
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
+      "description": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner d",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/appleevent.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T13:00:00.000Z"
+    },
+    {
+      "id": "d724a94b3c9bda59",
+      "title": "Horror is big business",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nResident Evil has b",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-5.20.30-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "id": "11a6f254c6785b30",
+      "title": "Why the LeapPad couldn&#8217;t survive the iPad",
+      "description": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - and some unexpected parent",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRH_Leappad_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "id": "8167e960e651d93f",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "description": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T11:00:00.000Z"
+    },
+    {
       "id": "8866aac64abfa89d",
       "title": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected",
       "description": "Earlier this year, Bloomberg’s Mark Gurman revealed that Apple has a new M7-powered entry level MacBook Pro in the pipeline for spring 2027. This isn’t an ordinary MacBook Pro refresh though. It’ll bring the upcoming redesign down to the entry level, something that previously wasn’t expected.\nmore…",
@@ -9,291 +292,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-10-11T04:25:16.000Z"
-    },
-    {
-      "id": "2412ebc07348c911",
-      "title": "Rumor: Apple to Announce New Partnership With ADT",
-      "description": "Apple may be planning to announce a new partnership with home security company ADT, alongside the introduction of its all-new smart home hub, according to several clues. Apple has invited the media to a \"Welcome home\" experience in New York on Tuesday, October 13, so the partnership could be made of",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-ADT-Gradient.jpg",
-      "url": "https://www.macrumors.com/2026/10/10/rumored-apple-adt-partnership/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-11T02:17:37.000Z"
-    },
-    {
-      "id": "1f28299c01b25b8c",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "description": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He call",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T22:10:17.000Z"
-    },
-    {
-      "id": "d93022b6b9c446ce",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T21:47:51.000Z"
-    },
-    {
-      "id": "fedfa910b385b25e",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "description": "Is Apple hoping to get into the AI-generated podcast business?",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T19:50:00.000Z"
-    },
-    {
-      "id": "5fe4e848cf1a9b7f",
-      "title": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nMilepost turns your roadtrips into more of a journey. It lets you record all of your drives, and journal a",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/054bf01c078a6735d3bf124bbc67454bc58ec0364994c02b0a66b5d9c10a9ec0.png?w=1600",
-      "url": "https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T19:30:00.000Z"
-    },
-    {
-      "id": "84161f747c78382f",
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "description": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T18:52:07.000Z"
-    },
-    {
-      "id": "a28121ecd80bcf99",
-      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "description": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T17:00:00.000Z"
-    },
-    {
-      "id": "06e1869e3ebc8fb4",
-      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-      "description": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T16:36:44.000Z"
-    },
-    {
-      "id": "b8b2c759fc7b6275",
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "description": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T16:25:42.000Z"
-    },
-    {
-      "id": "94239bc0a593bd14",
-      "title": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition",
-      "description": "This week, Amazon unveiled a new lineup of Alexa Tablets. They no longer run a proprietary OS with a custom App Store, and instead embrace Android with a stock feel – while offering the Play Store. It’s a big shift in direction for Amazon. The tablets also look quite beautiful, while previous Fire t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Alexa-tablets.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/10/amazon-alexa-tablet-solid-ipad-competition/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T15:51:43.000Z"
-    },
-    {
-      "id": "d422d4152d0f253d",
-      "title": "AirPods 5 vs. AirPods 5 With Wireless Charging Case Buyer's Guide",
-      "description": "Apple offers two versions of the AirPods 5: a $129 model with a USB-C Charging Case and a $149 model with a Wireless Charging Case. The extra $20 also buys longer battery life, swipe volume controls, and additional Find My features, so there are differences between the earbuds themselves as well as ",
-      "image": "https://images.macrumors.com/article-new/2026/09/airpods-5-new-blue.jpeg",
-      "url": "https://www.macrumors.com/guide/airpods-5-vs-with-wireless-charging-case/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T15:00:10.000Z"
-    },
-    {
-      "id": "29a4a071050b7b26",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T15:00:00.000Z"
-    },
-    {
-      "id": "8c0fbf4c4d63a96b",
-      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-      "description": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October 2009.\nIn 2010 S",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Photo-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T15:00:00.000Z"
-    },
-    {
-      "id": "756eabb7b36c8a88",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "description": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T14:41:16.000Z"
-    },
-    {
-      "id": "35e8638a5b2a86cf",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T14:00:00.000Z"
-    },
-    {
-      "id": "3621bae5219141ea",
-      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-      "description": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance.\nSkydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_0319.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T14:00:00.000Z"
-    },
-    {
-      "id": "1aaa4787b81402c8",
-      "title": "Accessory Deals This Weekend: Save on TVs, Headphones, and Smart Home Gear",
-      "description": "We've been keeping an eye on all of the Prime Day deals that remain available since the event ended a few days ago, and this weekend that includes numerous tech accessories still at solid low prices. In this article we're tracking deals on accessories for charging, smart homes, smartphones, and more",
-      "image": "https://images.macrumors.com/article-new/2026/10/samsung-prime-day-blue.jpeg",
-      "url": "https://www.macrumors.com/2026/10/10/accessory-deals-this-weekend/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T13:59:48.000Z"
-    },
-    {
-      "id": "7cfc0f1a1434270b",
-      "title": "Apple's All-New Home Hub Will Be Revealed October 13: What to Expect",
-      "description": "Apple reportedly plans to unveil an all-new smart home hub as part of the \"Welcome home\" product launch it announced for Tuesday, October 13.\r\n\r\n\r\nOur image above is just a rough concept based on rumored design details, so be prepared for the device's actual appearance to be different.\r\n\r\nThe device",
-      "image": "https://images.macrumors.com/article-new/2026/10/Home-Hub-Command-Center-with-Dome-Base-Colors-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/10/apple-to-unveil-all-new-type-of-device/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T13:58:00.000Z"
-    },
-    {
-      "id": "528b64e5a221cc00",
-      "title": "Apple Announcing HomePod Mini 2 Next Week With These New Features",
-      "description": "Apple reportedly plans to unveil a new HomePod mini as part of the \"Welcome home\" experience it announced for Tuesday, October 13. We expect the new HomePod mini to be announced in a press release shared on the Apple Newsroom website at around 9 a.m. Eastern Time on that day, and hands-on photos and",
-      "image": "https://images.macrumors.com/article-new/2026/09/HomePod-minis-on-gradient-feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/10/apple-to-announce-new-homepod-mini-next-week/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T13:55:00.000Z"
-    },
-    {
-      "id": "5778f6e2855dd6e5",
-      "title": "A New Apple TV 4K is Finally Coming on Tuesday",
-      "description": "After a nearly four-year wait, a new Apple TV is finally expected to be announced as part of Apple's \"Welcome home\" launch on Tuesday, October 13.\r\n\r\n\r\nWe expect the new Apple TV to be announced in a press release shared on the Apple Newsroom website on Tuesday, and then selected reporters and conte",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/10/new-apple-tv-4k-is-coming-tuesday/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T13:45:00.000Z"
-    },
-    {
-      "id": "b7be901d6b3cc093",
-      "title": "Top Stories: Apple's 'Welcome Home' Launch on October 13 and More",
-      "description": "Following the usual September rush of Apple news, it looks like October is also about ready to explode, with not just one but two rounds of Apple product debuts this month sandwiched around the iPhone Duo launch.\r\n\r\n\r\nA first launch on October 13 has been confirmed by Apple and will clearly be focus",
-      "image": "https://images.macrumors.com/article-new/2026/10/top-stories-2026-10-10.jpg",
-      "url": "https://www.macrumors.com/2026/10/10/top-stories-apple-welcome-home-launch-october-13/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T13:00:10.000Z"
-    },
-    {
-      "id": "95556ffdf1125e47",
-      "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-      "description": "The LG’s picture is bright and punchy, but its panel is very reflective.\t\n\nWhen it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268807_LG_MRGB95B_RGB_LED_TV_review_JHIGGINS_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T13:00:00.000Z"
-    },
-    {
-      "id": "f9953d60678c9970",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "description": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T13:00:00.000Z"
-    },
-    {
-      "id": "6387182d073e167e",
-      "title": "Apple @ Work: Remote AppleCare log collection is one of the most underrated updates in macOS 27",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/10/apple-work-remote-applecare-log-collection-is-one-of-the-most-useful-behind-the-scenes-updates-in-macos-27/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T13:00:00.000Z"
-    },
-    {
-      "id": "cc6e3ca89383c452",
-      "title": "Apple weekend deals: AirPods, up to $200 off new Macs, Apple Watch, more from $41",
-      "description": "Hot off fall Prime Day 2026, we are still up to $150 off the new M6 Mac mini and a $200 price drop on the new Mac Studio joined by the best prices in months on M5 MacBook Air at $200 off. \nWhile AirPods Pro 3 have jumped up a touch, they are still carrying a notable deal price alongside AirPods Max ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-weekend-deals-october-2026-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/10/apple-weekend-deals-mac-mini/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-10T12:03:06.000Z"
-    },
-    {
-      "id": "d6753662720b9cd2",
-      "title": "The techlash has gone Hollywood",
-      "description": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage.) \nI'm back from parental leave! Part time, anyway. Thanks to everyone who sent we",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-147.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T12:00:00.000Z"
-    },
-    {
-      "id": "1a07890cccbbec19",
-      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
-      "description": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck.\nThe Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably different from everything else on the market rig",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/telo_lifestyle_07.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T11:00:00.000Z"
-    },
-    {
-      "id": "89418e34e927129a",
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-      "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T03:10:06.000Z"
-    },
-    {
-      "id": "586edf0fb9ac98e4",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-10T00:18:32.000Z"
     }
   ],
-  "lastUpdated": "2026-10-11T06:02:38.031Z",
+  "lastUpdated": "2026-10-11T18:02:40.627Z",
   "sources": [
     "TechCrunch",
     "The Verge",
