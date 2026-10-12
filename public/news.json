@@ -1,6 +1,82 @@
 {
   "articles": [
     {
+      "id": "b06b0501ef24222a",
+      "title": "New Apple TV 4K and HomePod Mini 2 Pre-Orders Expected to Begin This Week",
+      "description": "Bloomberg's Mark Gurman today reported that new Apple TV 4K and HomePod mini models will be unveiled on Tuesday, October 13 and launch on Friday, October 30.\r\n\r\nvideo, Gurman said he was told that both devices should be available to pre-order starting this week.\nRelated Roundups: Apple TV, HomePod m",
+      "image": "https://images.macrumors.com/article-new/2026/03/HomePod-mini-and-Apple-TV-Sage.jpg",
+      "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-homepod-mini-2-preorders/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-12T03:17:03.000Z"
+    },
+    {
+      "id": "6b862599cb737b11",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-12T00:59:01.000Z"
+    },
+    {
+      "id": "253dc16fa597cbdd",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T21:14:40.000Z"
+    },
+    {
+      "id": "6239dcfafae44a6c",
+      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+      "description": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+      "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T20:51:47.000Z"
+    },
+    {
+      "id": "3fabb362c92b2796",
+      "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+      "description": "BOULDER, CO - MARCH 5:A Flock Safety license plate recognition camera is seen near the intersection of Marine Street and Arapahoe Avenue in Boulder on Thursday, March 5, 2026. (Photo by Matthew Jonas/MediaNews Group/Boulder Daily Camera via Getty Images) | MediaNews Group via Getty Images\t\n\nIn April",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T20:06:43.000Z"
+    },
+    {
+      "id": "8aff10043804d388",
+      "title": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked",
+      "description": "Just two days before Apple's \"Welcome home\" experience in New York, Bloomberg's Mark Gurman has leaked several details about the new products set to be unveiled, including an all-new smart home hub, a HomePod mini 2, and a new Apple TV 4K.\r\n\r\n\r\nHere is an all-in-one summary of the details shared by ",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-HomeView-HomePod-Mini-tweaked.jpg",
+      "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-homeview-homepod-mini-2-leaks/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-11T19:56:28.000Z"
+    },
+    {
+      "id": "d2b760c1c8bf91a5",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "description": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T19:00:00.000Z"
+    },
+    {
+      "id": "a3f7dda8b98659ce",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "description": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-11T18:33:56.000Z"
+    },
+    {
       "id": "d25b154d0cb7eb08",
       "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
       "description": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
@@ -213,88 +289,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-10-11T14:09:49.000Z"
-    },
-    {
-      "id": "8587dd886c102384",
-      "title": "AirPods Max 2 Available for $429 in All Colors on Amazon",
-      "description": "Amazon has Apple's AirPods Max 2 on sale for $429.00 this weekend, down from $549.00. This is a Prime Day sale that has stuck around all these days later, and it's available in all five colors of the AirPods Max 2: Blue, Midnight, Orange, Purple, and Starlight.\r\n\r\nNote: MacRumors is an affiliate par",
-      "image": "https://images.macrumors.com/article-new/2026/04/airpods-max-2-purple.jpeg",
-      "url": "https://www.macrumors.com/2026/10/11/airpods-max-2-for-429/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-11T14:05:50.000Z"
-    },
-    {
-      "id": "83e75f9806645278",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-11T14:00:00.000Z"
-    },
-    {
-      "id": "fad865dcd7586996",
-      "title": "Vurt wants you to look at vertical videos as a genre of their own",
-      "description": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention, ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0918.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-11T13:00:00.000Z"
-    },
-    {
-      "id": "c68be7d1ef42a90a",
-      "title": "What to expect from Apple’s ‘Welcome Home’ event",
-      "description": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner d",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/appleevent.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-11T13:00:00.000Z"
-    },
-    {
-      "id": "d724a94b3c9bda59",
-      "title": "Horror is big business",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nResident Evil has b",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-5.20.30-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-11T12:00:00.000Z"
-    },
-    {
-      "id": "11a6f254c6785b30",
-      "title": "Why the LeapPad couldn&#8217;t survive the iPad",
-      "description": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - and some unexpected parent",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRH_Leappad_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-11T12:00:00.000Z"
-    },
-    {
-      "id": "8167e960e651d93f",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "description": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-11T11:00:00.000Z"
-    },
-    {
-      "id": "8866aac64abfa89d",
-      "title": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected",
-      "description": "Earlier this year, Bloomberg’s Mark Gurman revealed that Apple has a new M7-powered entry level MacBook Pro in the pipeline for spring 2027. This isn’t an ordinary MacBook Pro refresh though. It’ll bring the upcoming redesign down to the entry level, something that previously wasn’t expected.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-11T04:25:16.000Z"
     }
   ],
-  "lastUpdated": "2026-10-11T18:02:40.627Z",
+  "lastUpdated": "2026-10-12T06:06:11.961Z",
   "sources": [
     "TechCrunch",
     "The Verge",
