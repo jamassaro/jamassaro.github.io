@@ -1,297 +1,300 @@
 {
   "articles": [
     {
-      "id": "f7383aa0faa7a756",
-      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-      "description": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "id": "6493507115d74388",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-14T01:30:42.000Z"
+      "publishedAt": "2026-10-14T18:00:00.000Z"
     },
     {
-      "id": "7883e7c56ffcd2c9",
-      "title": "Apple challenges Taction’s $5.7B patent verdict, says damages were based on ‘guesswork’",
-      "description": "Apple is asking a federal judge to overturn a $5.7 billion verdict in a patent infringement lawsuit brought by Taction Technology over the Taptic Engine used in iPhones and Apple Watches. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/13/apple-challenges-tactions-5-7b-patent-verdict-says-damages-were-based-on-guesswork/",
+      "id": "db84ccd47e805b34",
+      "title": "Apple Store Near Los Angeles Closed Due to 'Events Beyond Our Control'",
+      "description": "Apple Del Amo in Torrance (Los Angeles area) has been temporarily closed for a few days, and Apple has now added the following notice to the store's page: \"We'll be right back. Our store is temporarily closed due to events beyond our control.\"\r\n\r\nReddit comments, the store allegedly suffered extensi",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Del-Amo-scaled.jpeg",
+      "url": "https://www.macrumors.com/2026/10/14/apple-del-amo-temporarily-closed/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-14T17:32:33.000Z"
+    },
+    {
+      "id": "8838f3c42417e015",
+      "title": "Apple confirms Siri AI is not coming to the original HomePod mini",
+      "description": "Siri AI is a tentpole addition to HomePod mini 2, but a CNET report today originally claimed Siri AI was coming to older HomePod mini models too. However, the story has since been updated with a correction and 9to5Mac received a statement confirming Siri AI will be exclusive to HomePod mini 2.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-mini-new-colors-2021.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/14/no-siri-ai-is-not-coming-to-the-original-homepod-mini/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-14T00:56:57.000Z"
+      "publishedAt": "2026-10-14T17:30:55.000Z"
     },
     {
-      "id": "ec890ddae7879fa9",
-      "title": "Apple's HomeView Repair Fees Revealed",
-      "description": "If you damage Apple's new HomeView smart home hub, here is what the repair fees are set at: $39 with AppleCare+ coverage and $279 without. These fees apply to any type of damage to either the tabletop or wall-mounted HomeView models.\r\n\r\nRelated Roundup: Apple HomeView\nTag: AppleCare\nBuyer's Guide: H",
+      "id": "4108e0c535d8fd6f",
+      "title": "Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon",
+      "description": "It’s like a big Apple Watch for the home. | Image: Apple\t\n\nApple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy whi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T17:24:42.000Z"
+    },
+    {
+      "id": "613641f939b9f980",
+      "title": "No, HomePod Mini 1 Won't Support Siri AI as CNET Reported",
+      "description": "Update – 10:30 a.m. Pacific Time: CNET has corrected its article and now says only the HomePod mini 2 will support Siri AI. Original article follows.\r\n\r\nSiri AI will apparently not be limited to the new HomePod mini 2, with support also coming to the first-generation HomePod mini in a software updat",
+      "image": "https://images.macrumors.com/article-new/2020/11/homepod-mini-thumb-feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-14T17:20:33.000Z"
+    },
+    {
+      "id": "2d3914521e77af73",
+      "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
+      "description": "There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And whi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T17:19:11.000Z"
+    },
+    {
+      "id": "d0984ed51e31c607",
+      "title": "Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported",
+      "description": "Apple's tech specs page for its all-new HomeView smart home hub contains a list of all of the built-in Apple apps available on the device.\r\n\r\n\r\nWhile it has no App Store, the HomeView can also display some CarPlay-enabled audio and video apps from a paired iPhone. This includes Audiobooks, Apple Mus",
       "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature5.jpg",
-      "url": "https://www.macrumors.com/2026/10/13/apple-homeview-repair-fees/",
+      "url": "https://www.macrumors.com/2026/10/14/apple-homeview-apps-carplay/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-14T00:44:32.000Z"
+      "publishedAt": "2026-10-14T17:14:07.000Z"
     },
     {
-      "id": "1a6c3f87640373da",
-      "title": "Here’s how much it costs to repair the new Apple HomeView",
-      "description": "Apple has published the estimated service costs for its new HomeView smart home display, including how much customers can expect to pay with and without AppleCare coverage. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-4.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/13/heres-how-much-it-costs-to-repair-the-new-apple-homeview/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T00:10:48.000Z"
-    },
-    {
-      "id": "19367b7b6e83e92a",
-      "title": "Everything Apple Still Has Coming in October",
-      "description": "Apple debuted three new home products today, but the October announcements aren't over yet. Rumors suggest there will be another \"event\" on October 27, plus we're still waiting on the iPhone Duo.\r\n\r\n\r\nHere's everything we're expecting to see launch or be announced in October.\r\n\r\n \t\nOctober 16 - ‌iPh",
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Ultra-Feature-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-13T23:47:04.000Z"
-    },
-    {
-      "id": "8c870d103d2375ce",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-13T23:13:31.000Z"
-    },
-    {
-      "id": "ac2a77776328ae9b",
-      "title": "IDC: Apple gains ground as China’s smartphone shipments plunge 15.4% in Q3 2026",
-      "description": "According to a new report from IDC, Apple’s share of smartphone shipments in China grew during Q3 2026, despite a 4.3% year-over-year decline in iPhone shipments. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/When-will-Apple-prices-drop-again.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/13/idc-apple-gains-ground-as-chinas-smartphone-shipments-plunge-15-4-in-q3-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-13T23:06:47.000Z"
-    },
-    {
-      "id": "084d869dab17aa73",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-13T23:05:34.000Z"
-    },
-    {
-      "id": "e23fa6942f541ce2",
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-13T23:00:00.000Z"
-    },
-    {
-      "id": "eab08dbdba7d24b9",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "description": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-13T22:36:59.000Z"
-    },
-    {
-      "id": "4d5089f36038dad2",
-      "title": "Welcome Home: Everything Apple Announced on October 13",
-      "description": "Apple didn't hold an event today, but it did refresh its lineup of smart home products with the Apple HomeView, HomePod mini 2, and fourth-generation Apple TV 4K. The $299 HomeView is an all-new device that serves as a central home hub, offering apps, widgets, and personalized content for up to six ",
-      "image": "https://images.macrumors.com/article-new/2026/10/Everything-Apple-Announced-at-Welcome-Home-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/13/apple-october-13-recap/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-13T22:22:05.000Z"
-    },
-    {
-      "id": "533492bf0b1961cf",
-      "title": "Will the Full-Sized HomePod Get Siri AI? Apple's Website Offers a Clue",
-      "description": "Apple today introduced the HomePod mini 2, but the full-sized HomePod was not updated. Nevertheless, the alt text for Apple's full-sized HomePod image shown at the bottom of the HomePod order page now mentions a \"multi-colored Siri AI glow on top,\" suggesting that the larger HomePod might eventually",
-      "image": "https://images.macrumors.com/article-new/2026/10/Full-Sized-HomePod-2.jpg",
-      "url": "https://www.macrumors.com/2026/10/13/full-sized-homepod-siri-ai-alt-text/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-13T22:20:12.000Z"
-    },
-    {
-      "id": "ae471ae7d54a3cc5",
-      "title": "Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
-      "description": "Apple today seeded the third betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, and watchOS 27.2. The software comes a few hours after Apple provided the betas to developers.\r\n\r\n\r\nTo get the new betas, you can sign up on Apple's beta testing website. After you're signed up, the betas can be ins",
-      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "url": "https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-13T22:11:33.000Z"
-    },
-    {
-      "id": "8cb66ef12f47399e",
-      "title": "Apple’s HomeView ad is confusing to everyone except parents",
-      "description": "Nothing like a little family togetherness in the morning. | Image: Apple\t\n\nApple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarde",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/family_hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+      "id": "b49f737e9b404520",
+      "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
+      "description": "Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced its own dual-screen d",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dds1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-13T22:10:00.000Z"
+      "publishedAt": "2026-10-14T17:13:27.000Z"
     },
     {
-      "id": "665bbd8f3ec1dfe4",
-      "title": "iOS 27.2 Adds New Apple Music Icon",
-      "description": "In the fourth beta of iOS 27.2, Apple updated the Apple Music icon. The new icon is black and white, replacing the prior red and white icon.\r\n\r\n\r\nIn light mode, the logo is black on a white background, and in dark mode, it's white on a black background.\r\n\r\ndebuted a new Apple Music logo in an earlie",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-music-icon.jpg",
-      "url": "https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-13T22:04:50.000Z"
-    },
-    {
-      "id": "d26d0437f1b94638",
-      "title": "HomePod Mini 2 Works as Default Speaker With Select Macs",
-      "description": "The new HomePod mini 2 can be used as a default speaker on all Mac models with Wi-Fi 6E or later, according to Apple. You can use a single HomePod, or a pair for stereo sound.\r\n\r\nRelated Roundup: HomePod mini 2\nBuyer's Guide: HomePod Mini (Buy Now)\nRelated Forum: HomePod, HomeView, CarPlay – Home & ",
-      "image": "https://images.macrumors.com/article-new/2026/10/HomePod-mini-2-Mac.jpg",
-      "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-13T21:38:08.000Z"
-    },
-    {
-      "id": "cc98bfd67e56a2c8",
-      "title": "PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter",
-      "description": "Earlier today, Apple confirmed that the wall-mounted HomeView does not come with a power adapter in the box.\nNow, the company has published a support document detailing the device’s power requirements, including what to look for when purchasing a compatible adapter. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-13T21:29:20.000Z"
-    },
-    {
-      "id": "9442b5cb2f70c7ed",
-      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-      "description": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
-      "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+      "id": "1bdb9849adc4d17c",
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+      "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-13T21:15:00.000Z"
+      "publishedAt": "2026-10-14T17:00:00.000Z"
     },
     {
-      "id": "4b104709610cb342",
-      "title": "Elevation Lab Pulls AirTag Silencer After Stalking Concerns",
-      "description": "Earlier this year, Elevation Lab announced the launch of a \"Silencer\" for AirTag meant to pierce the speaker on the device to disable the sound.\r\n\r\n\r\nElevation Lab explained that it created the Silencer to keep thieves from detecting an ‌AirTag‌ on valuable products like bikes, but the company didn'",
-      "image": "https://images.macrumors.com/article-new/2026/10/elevation-lab-airtag-silencer.jpg",
-      "url": "https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-13T21:14:42.000Z"
-    },
-    {
-      "id": "7b80b295a4bcdf9e",
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "description": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
-      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "source": "TechCrunch",
+      "id": "8ba29bd9aa8f7584",
+      "title": "My AI doppelganger tells me what to eat",
+      "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nFor the past 100 days or so, my mornings have had a new rhythm. When I wake up, the ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268801_DigitalTwin_made_me_a_doppelganger_to_test_my_health_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-13T20:59:11.000Z"
+      "publishedAt": "2026-10-14T17:00:00.000Z"
     },
     {
-      "id": "a1bf9e3556cef971",
-      "title": "Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit",
-      "description": "Judge Edward Davila today granted some of Apple’s requests for expedited discovery in its trade secrets lawsuit against former employees, OpenAI, and io Products. Here are the details.\nmore…",
+      "id": "63573d6d85d85a34",
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "description": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T16:43:24.000Z"
+    },
+    {
+      "id": "7c4c9c7050e9cc40",
+      "title": "Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone",
+      "description": "If you don't get AppleCare Plus for the iPhone Duo, any repairs are going to be pretty expensive. Apple published the estimated repair costs for the iPhone Duo without AppleCare Plus today, as reported by MacRumors, and they can be high: Battery service, for example, will cost $229, inner display da",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T16:21:28.000Z"
+    },
+    {
+      "id": "815a7da90ffbb951",
+      "title": "Honey, Xbox shrunk its controller",
+      "description": "Microsoft is officially announcing its Xbox Nano controller today, a smaller and cheaper controller that's designed to fit into your pocket. The more compact controller is also designed for \"younger players, smaller hands, or anyone seeking something portable for play on the go.\"\nThe $49.99 Xbox Nan",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxnano.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T16:16:46.000Z"
+    },
+    {
+      "id": "ceff85cea18a343d",
+      "title": "OpenAI alleges ex-employee took ‘highly confidential’ device files to Apple",
+      "description": "In a new filing today, OpenAI claims that a former employee who departed for Apple sent “over a hundred highly confidential files about at least one unreleased OpenAI device under development to his personal accounts.”\nApple, however, told Reuters that it hasn’t found any evidence to support these a",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/",
+      "url": "https://9to5mac.com/2026/10/14/openai-alleges-ex-employee-took-highly-confidential-device-files-to-apple/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-13T20:45:29.000Z"
+      "publishedAt": "2026-10-14T16:09:19.000Z"
     },
     {
-      "id": "3b1ba88ed9ddf612",
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "description": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral commu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-13T20:45:25.000Z"
-    },
-    {
-      "id": "cbd80e3a5bda5c84",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-13T20:36:44.000Z"
-    },
-    {
-      "id": "a2b7bbf197e98e44",
-      "title": "iOS 27.2 Beta 4 Removes New Health App",
-      "description": "The iOS 27.2 beta Apple released today removes the updated Health app that Apple was testing in earlier betas.\r\n\r\n\r\nThe removal of the Health app is not a surprise because Apple previously said the redesign wouldn't be introduced until late 2026. \r\n\r\nAfter upgrading to the fourth beta, the Health ap",
-      "image": "https://images.macrumors.com/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
-      "url": "https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/",
+      "id": "9b87034336869a43",
+      "title": "iPhone Duo Compromises: Everything You Have to Give Up",
+      "description": "Apple's $1,999 iPhone Duo asks buyers to pay more for a folding screen while accepting almost 40 compromises compared with the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max, spanning camera capabilities, everyday usability, and ownership costs.\r\n\r\n\r\nAt equivalent storage capacities, the ‌iPhone Duo‌ costs $",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Compromises-Compared-to-iPhone-18-Pro-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-compromises/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-13T20:31:28.000Z"
+      "publishedAt": "2026-10-14T16:08:53.000Z"
     },
     {
-      "id": "07173c708cad071e",
-      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-      "description": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-13T20:13:53.000Z"
-    },
-    {
-      "id": "0867209f783eccfd",
-      "title": "It looks like Apple Music is getting a new icon",
-      "description": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Mus",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-music-new-old-icon-avstorm-twitter.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+      "id": "0f934b9b63e9f5a6",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "description": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.\nResearchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-13T20:05:02.000Z"
+      "publishedAt": "2026-10-14T16:05:21.000Z"
     },
     {
-      "id": "a5f5b2a6a8dee5e1",
-      "title": "iPhone Duo Will Have Day-One iOS 27.1 Update",
-      "description": "The iPhone Duo ships with iOS 27.1, a version of iOS 27 exclusive to the foldable device. Apple yesterday released a new build of iOS 27.1 (24A94425), which means buyers will have a day-one software update to install.\r\n\r\n\r\nThe ‌iPhone Duo‌ is shipping with iOS 27.1 build 24A94232, and if it's not al",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png",
-      "url": "https://www.macrumors.com/2026/10/13/iphone-duo-day-one-update/",
+      "id": "e13633dbf2b56b94",
+      "title": "Now you can call anyone with WhatsApp, even if they don&#8217;t have WhatsApp",
+      "description": "WhatsApp's new guest calling feature allows you to invite anyone to a call, without needing them to make an account first. They won't need the app, either, since Meta also added support for calls on the web version of WhatsApp earlier this year. You can invite guests just by sending them the call li",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Now-You-Can-Invite-Anyone-to-a-WhatsApp-Call_Header-JPG.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T16:03:10.000Z"
+    },
+    {
+      "id": "b965a0090734c712",
+      "title": "Prismm helps banks keep inherited money in-house",
+      "description": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+      "url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T16:00:00.000Z"
+    },
+    {
+      "id": "100af89679ee15a1",
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "description": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk.\nSquare says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T16:00:00.000Z"
+    },
+    {
+      "id": "d4c6d82c87f22ed8",
+      "title": "iPhone Duo: Apple Charging $49 for New Cover Layer, $229 for Battery",
+      "description": "We just published Apple's list of iPhone Duo repair fees for customers without AppleCare+ coverage, and we want to bring extra attention to two of the fees in particular: a new cover layer costs $49, and a replacement battery is $229.\r\n\r\ncan be removed and replaced. A new one is $19 with AppleCare+ ",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open.jpg",
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-cover-layer-and-battery-fees/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-13T20:01:54.000Z"
+      "publishedAt": "2026-10-14T15:46:20.000Z"
     },
     {
-      "id": "625c46f3da791b73",
-      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-      "description": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
-      "url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-13T20:00:00.000Z"
-    },
-    {
-      "id": "9e7c2477a5f047b1",
-      "title": "Shopify opens its catalog up to more AI agents",
-      "description": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images)\t\n\nMore AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the comp",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-13T19:42:42.000Z"
-    },
-    {
-      "id": "d732bc031077fe6b",
-      "title": "Apple TV unveils new heist thriller series coming soon",
-      "description": "Apple TV released the trailer today for ‘12 12 12,’ a new heist thriller series premiering next month. Here are the details and the trailer.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/anthony-mackie-snow-12-12-12-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/13/apple-tv-unveils-new-heist-thriller-series-coming-soon/",
+      "id": "2217e2a8d58b683e",
+      "title": "HomeView can display third-party widgets from your iPhone",
+      "description": "Apple’s new HomeView (pre-order here) won’t have an App Store, but it will support third-party apps in some cases, including letting you run third-party widgets from your iPhone. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-home-screen-widget-apps-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/14/homeview-can-display-third-party-widgets-from-your-iphone/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-13T19:41:50.000Z"
+      "publishedAt": "2026-10-14T15:43:34.000Z"
+    },
+    {
+      "id": "11cc7c084da561e5",
+      "title": "iPhone Duo: Skipping AppleCare+ Could Be $1,499 Mistake",
+      "description": "Apple today listed its estimated repair fees for the iPhone Duo without AppleCare+ coverage, with the maximum fee in the U.S. for \"other damage\" set at $1,499.\r\n\r\n\r\nIf you only damage certain parts of the iPhone Duo, the fees are more manageable. For example, the repair fee for damaged back glass is",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-repair-fees/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-14T15:37:06.000Z"
+    },
+    {
+      "id": "d5ff3f3965ea61bd",
+      "title": "Deals: Apple HomeView pre-order discount, AirTag 2, Magic Keyboard, AirPods, more",
+      "description": "Alongside AirPods Pro 3 at $50 off and AirPods Max 2 at $120 off,, today we are tracking the very first discount on the brand new Apple HomeView over at Amazon. It’s not a giant deal, but you might as well save some cash on your pre-order. We are also highlighting the new Apple TV Siri Remote (4th g",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-HomeView-Apple-TV-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/14/apple-homeview-pre-order-deals-live/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-14T15:28:13.000Z"
+    },
+    {
+      "id": "56b4b2cb1b3bbbc0",
+      "title": "HomeView will support video apps like YouTube, Netflix—if they say yes",
+      "description": "Apple unveiled its new HomeView product yesterday (pre-order here), but the device’s support for third-party apps was initially unclear. A newly published Apple document, however, offers good news about HomeView supporting third-party video apps like YouTube and Netflix.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-third-party-video-apps-youtube.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/14/homeview-will-support-video-apps-like-youtube-netflix-if-they-say-yes/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-14T15:25:56.000Z"
+    },
+    {
+      "id": "0c503c7784ba3758",
+      "title": "Apple Says HomePod 2 Also Works as Default Speaker With Select Macs",
+      "description": "An addendum to our report about the HomePod mini 2 working as a default speaker on all Mac models with Wi-Fi 6E and later: Apple says this ability extends to the full-sized HomePod 2.\r\n\r\nfine print for HomePods as default Mac speakers says \"compatible with HomePod mini 2 and HomePod (2nd generation)",
+      "image": "https://images.macrumors.com/article-new/2026/10/Full-Sized-HomePod-2.jpg",
+      "url": "https://www.macrumors.com/2026/10/14/apple-says-homepod-2-works-as-default-mac-speaker/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-14T15:25:30.000Z"
+    },
+    {
+      "id": "f879abf4cc28feeb",
+      "title": "HomePod Mini 2: All the New Features",
+      "description": "Apple this week introduced the HomePod mini 2, and we have rounded up all of the new features and changes that we have uncovered so far below.\r\n\r\n\r\nHomePod mini 2 can be pre-ordered now and launches Friday, October 30, but Siri AI support will not be available until a future software update.\r\n\r\n\r\nSi",
+      "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
+      "url": "https://www.macrumors.com/2026/10/14/homepod-mini-2-all-the-new-features/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-14T15:22:10.000Z"
+    },
+    {
+      "id": "5c2180f6a6046771",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T15:16:04.000Z"
+    },
+    {
+      "id": "0236b2d9dacf87dd",
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+      "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T15:13:24.000Z"
+    },
+    {
+      "id": "af9b17912e941f17",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T15:08:00.000Z"
+    },
+    {
+      "id": "3e3da18790c3ca60",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-14T15:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-10-14T06:02:43.609Z",
+  "lastUpdated": "2026-10-14T18:02:46.038Z",
   "sources": [
     "TechCrunch",
     "The Verge",
