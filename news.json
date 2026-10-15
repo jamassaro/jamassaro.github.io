@@ -1,296 +1,300 @@
 {
   "articles": [
     {
-      "id": "16fcf8abeb2cf260",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "description": "Figma is also releasing its code layers feature in open beta.",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "id": "b92783cc69ba0bda",
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends Oct. 16",
+      "description": "Savings of up to $200 end October 16 for TechCrunch Founder Summit end on October 16. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your busin",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-15T04:30:00.000Z"
+      "publishedAt": "2026-10-15T18:00:00.000Z"
     },
     {
-      "id": "91d8e0ff925791d0",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T01:01:32.000Z"
-    },
-    {
-      "id": "b7562b75379a212a",
-      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-      "description": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T00:49:31.000Z"
-    },
-    {
-      "id": "c2a958658a0b9b46",
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "description": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
-      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T00:30:00.000Z"
-    },
-    {
-      "id": "09329be14408ee25",
-      "title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch",
-      "description": "The iPhone Duo unsurprisingly offers performance similar to the iPhone 18 Pro, according to an early iPhone Duo benchmark shared on Geekbench 7. Both devices are equipped with Apple's 2nm A20 Pro chip with a 6-core CPU and a 7-core GPU.\r\n\r\n\r\nThe benchmarked ‌iPhone Duo‌ (iPhone19,4) is running iOS 2",
-      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T00:20:32.000Z"
-    },
-    {
-      "id": "9c76de8b7e146a61",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "67e11035a2ed42b2",
-      "title": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
-      "description": "Bloomberg reports that during a hearing today, OpenAI voluntarily agreed not to use Apple’s alleged trade secrets while the legal battle between the two companies plays out. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?w=1600",
-      "url": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/",
+      "id": "a92b5d56bbff99fa",
+      "title": "Apple is about to kick off four weeks straight of new product launches",
+      "description": "Apple’s busiest product launch month is usually September. But despite a packed event last month, many more products remain ahead this fall. Next week’s iPhone Duo launch kicks off what’s shaping up to be four straight weeks of new products.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-fifth-avenue-store-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/15/apple-is-about-to-kick-off-four-weeks-straight-of-new-product-launches/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-14T23:12:59.000Z"
+      "publishedAt": "2026-10-15T17:58:48.000Z"
     },
     {
-      "id": "957a99eacd8137ec",
-      "title": "Apple Maps launches Detailed City Experience in Austin, Texas",
-      "description": "Apple is rolling out its stunning Detailed City Experience in Apple Maps for users in Austin, TX. This marks a robust overhaul of Apple Maps in Austin, similar to what we’ve seen in other markets like San Francisco, Chicago, and London.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-maps-austin.webp?w=1600",
-      "url": "https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T23:03:45.000Z"
-    },
-    {
-      "id": "ec1b36d4504fdfa4",
-      "title": "10 HomeView Features You Might Have Missed",
-      "description": "Apple plans to launch the HomeView on November 13, so we have a month to go until we can learn more about it. Right now, we're limited to the information Apple has shared and what members of the media learned during limited hands-on time.\r\n\r\n\r\nWe've rounded up some interesting HomeView tidbits you m",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature1.jpg",
-      "url": "https://www.macrumors.com/2026/10/14/homeview-tidbits/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T23:02:42.000Z"
-    },
-    {
-      "id": "02e893e693d9f8b0",
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "description": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-14T23:00:00.000Z"
-    },
-    {
-      "id": "6ea37308952945e5",
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "description": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal.\nThe AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "id": "0b2bbc26e05bf99f",
+      "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
+      "description": "This render with a transparent background is the closest we’ll ever come to touching one of these things. | Image: Sony\t\n\nSony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to  $5,899 for the gold-plated",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sony_walkman_WM1ZM3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-14T22:53:31.000Z"
+      "publishedAt": "2026-10-15T17:48:57.000Z"
     },
     {
-      "id": "f80292cee3c48d8a",
-      "title": "WhatsApp takes on Zoom and Google Meet with guest calling",
-      "description": "WhatsApp users can now invite others to join group and one-on-one calls even if they don’t have an account. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-guest-calling.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T22:39:29.000Z"
-    },
-    {
-      "id": "061f20e63bf38b3e",
-      "title": "Apple Becomes Second Company to Close Above $5 Trillion",
-      "description": "Apple today closed with a market capitalization above $5 trillion, making it the second company to do so after Nvidia.\r\n\r\n\r\nAs noted by The Wall Street Journal, Apple's market cap has exceeded $5 trillion six times before today during intraday trading, but this is the first time the company stayed a",
-      "image": "https://images.macrumors.com/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/14/apple-5-trillion-close/",
+      "id": "9db8d614d53e061c",
+      "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
+      "description": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date.\"\r\n\r\n\r\n‌Meta‌ worked with Apple to bring Muse Spark Open to the Mac, and the model can run on a desktop setup with two 512GB Apple M5 Ultra Mac Studios running the latest MLX framew",
+      "image": "https://images.macrumors.com/article-new/2026/10/muse-spark-open-zuck.jpg",
+      "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-14T22:37:41.000Z"
+      "publishedAt": "2026-10-15T17:47:29.000Z"
     },
     {
-      "id": "209e1f84dcb70848",
-      "title": "The best feature of Apple’s HomeView might be its simplicity",
-      "description": "Apple’s HomeView smart display seems tailor-made for the kitchen. (That aluminum base looks like it will hold up better than my now off-white kitchen HomePod.)\t\n\nI'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-availa",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6079.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+      "id": "a29f211aaaf1d0bd",
+      "title": "Volvo makes a bigger bet on Nvidia",
+      "description": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T17:34:40.000Z"
+    },
+    {
+      "id": "72a686a883f91680",
+      "title": "iPad Mini 8: Apple Has Tested Both 60Hz and 120Hz ProMotion Displays",
+      "description": "On the latest episode of his Power On podcast, Bloomberg's Mark Gurman said he heard that Apple has tested both 60Hz and 120Hz ProMotion displays for the next iPad mini. However, he has not yet learned which option Apple has chosen.\r\n\r\non October 27 or October 28, with rumored features including an ",
+      "image": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg",
+      "url": "https://www.macrumors.com/2026/10/15/ipad-mini-8-120hz-tested/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-15T17:30:34.000Z"
+    },
+    {
+      "id": "c6c37acf90d53b09",
+      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
+      "description": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Drivin",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-14T22:00:02.000Z"
+      "publishedAt": "2026-10-15T17:30:00.000Z"
     },
     {
-      "id": "1677ab397a17ee83",
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "description": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
-      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-14T22:00:00.000Z"
-    },
-    {
-      "id": "88f912c7a8ae0064",
-      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-      "description": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
-      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-14T21:48:20.000Z"
-    },
-    {
-      "id": "0d72e09545746244",
-      "title": "Apple just closed the day above $5 trillion for the first time",
-      "description": "Apple today became the second company ever to close with a market valuation north of $5 trillion, following NVIDIA’s landmark achievement in October 2025. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T21:47:28.000Z"
-    },
-    {
-      "id": "aba4d79256b2a812",
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "description": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-14T21:30:33.000Z"
-    },
-    {
-      "id": "37578751ded95fe8",
-      "title": "Which Apple Home Devices Get Siri AI, and When",
-      "description": "There's been some confusion about which of Apple's new and existing home devices will support Siri AI and when, because ‌Siri‌ AI isn't going to be available at launch on some products.\r\n\r\n\r\nDevices With Siri AI\n\r\n\r\nHomeView - Available at launch (November 13)\n\r\n \t\nApple TV 4K (4th generation) - Ava",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
-      "url": "https://www.macrumors.com/2026/10/14/apple-home-devices-siri-ai/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T21:23:57.000Z"
-    },
-    {
-      "id": "5b1318064cbfbb35",
-      "title": "9to5Mac Daily: October 14, 2026 – Apple Home Collection, iOS 27.2 beta 4",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/14/daily-october-14-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T21:17:25.000Z"
-    },
-    {
-      "id": "25eb37205c6932b9",
-      "title": "Apple Invites update makes it easier to manage guests and track RSVPs",
-      "description": "The Apple Invites app got updated yet again today, with new features including RSVP improvements and a larger Home Screen widget. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-invites-app.webp?w=1600",
-      "url": "https://9to5mac.com/2026/10/14/apple-invites-update-makes-it-easier-to-manage-guests-and-track-rsvps/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T21:15:32.000Z"
-    },
-    {
-      "id": "26d7db2047ca59f6",
-      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-      "description": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montan",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "id": "b04cd56972222efe",
+      "title": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
+      "description": "Alienware’s 34-inch QD-OLED gaming monitor.\t\n\nThe Alienware AW3426DW is discounted to $742.22 at Amazon, just over $50 off its usual price of $799.99. It’s not quite the lowest price we’ve seen on this well-equipped gaming monitor, but still a decent discount. The 34-inch screen just came out a coup",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alienware-aw3426dw-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-14T21:11:28.000Z"
+      "publishedAt": "2026-10-15T17:30:00.000Z"
     },
     {
-      "id": "5975cc3795a21f71",
-      "title": "Apple showcases iPad Pro and iPhone 18 Pro Max’s role in ‘landmark fashion show’",
-      "description": "Apple today shared a behind-the-scenes look at “From Earth to Sky,” a fashion show in Turkey that was designed with an iPad Pro and filmed using an iPhone 18 Pro Max. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-fashion-show.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/14/apple-showcases-ipad-pro-and-iphone-18-pro-maxs-role-in-landmark-fashion-show/",
+      "id": "5b7b6eb487204ee8",
+      "title": "Google is making inline links more prominent in AI responses",
+      "description": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but there are concerns t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T17:22:15.000Z"
+    },
+    {
+      "id": "c98a21b8fff429df",
+      "title": "Sony’s WH-1000XM6 headphones are $130 off today only",
+      "description": "If you missed out on Prime Day’s headphones deals, you’re in luck. Sony’s latest flagship headphones are selling for even less than they did during Amazon’s big fall sale. As part of B&H Photo’s Deals of the Day, you can currently pick up Sony’s WH-1000XM6 noise-canceling headphones in silver for ju",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0047.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T17:10:58.000Z"
+    },
+    {
+      "id": "71557f1a720e3ea1",
+      "title": "Meta launches new Muse Spark Open model, optimized to run on Mac Studio",
+      "description": "Meta today unveiled Muse Spark Open, which it says is the “most capable US open-weight model to date.” For Apple users, Meta says Muse Spark Open is optimized to run on the Mac Studio powered by M5 Ultra.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/meta-muse-spark-mac.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-14T21:02:09.000Z"
+      "publishedAt": "2026-10-15T17:00:00.000Z"
     },
     {
-      "id": "511a1da2ed177079",
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "description": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "id": "9380eea8f17b728b",
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-14T21:00:00.000Z"
+      "publishedAt": "2026-10-15T16:45:37.000Z"
     },
     {
-      "id": "a78b4b12f4346497",
-      "title": "Apple's Long-Delayed HomeView Was Already Being Tested in 2024",
-      "description": "Apple's new HomeView underwent regulatory testing in October 2024, and it was running what would now be known as HomeView software version 18, according to an FCC document uncovered by MacRumors contributor Aaron Perris.\r\n\r\nSiri AI's delayed launch. Apple initially previewed the more intelligent ver",
-      "image": "https://images.macrumors.com/article-new/2026/10/HomeView-Music.jpeg",
-      "url": "https://www.macrumors.com/2026/10/14/apple-homeview-tested/",
+      "id": "f307dcf276f9ef9e",
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "description": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up y",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T16:21:45.000Z"
+    },
+    {
+      "id": "42e3692bbc5bc0cc",
+      "title": "Apple TV 4K 2022 vs. 2026 Buyer's Guide: All Differences Compared",
+      "description": "Apple announced the fourth-generation Apple TV 4K earlier this week, introducing the A19 chip, built-in microphones for hands-free Siri, four-speaker HomePod surround sound, and an updated ‌Siri‌ Remote. It replaces the third-generation model introduced in 2022, bringing a number of internal changes",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-feature4.jpg",
+      "url": "https://www.macrumors.com/guide/apple-tv-4k-2022-vs-2026/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-14T20:59:47.000Z"
+      "publishedAt": "2026-10-15T16:07:52.000Z"
     },
     {
-      "id": "05656b6c51ba5916",
-      "title": "Apple Invites App Updated With Two New Features",
-      "description": "The free Apple Invites app for the iPhone was updated today with two new features: hosts can now more easily manually add guests to an event and mark their RSVP status, and the app's Home Screen widget now supports the extra large size option.\r\n\r\n\r\nReleased in February 2025, the Apple Invites app ma",
-      "image": "https://images.macrumors.com/article-new/2026/09/General-Invites-App-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/14/apple-invites-two-new-features/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T20:54:25.000Z"
+      "id": "884602504409c93d",
+      "title": "E Ink upgraded the screen found in most color e-readers",
+      "description": "E Ink announced the next generation of its Kaleido color e-paper screen technology today, delivering several welcome improvements. The company's existing Kaleido 3 displays can be found in e-readers and tablets from companies like Kobo, PocketBook, and Boox, while Amazon's Kindle Colorsoft uses a cu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T16:00:00.000Z"
     },
     {
-      "id": "ac8df084b175d1be",
-      "title": "iOS 27 adds brand new widgets for your iPhone’s Home Screen",
-      "description": "iOS 27 expands the available options to customize your Home Screen with new extra-large widgets that will be especially useful on iPhone Duo. Here’s the full list of 15+ pre-installed widgets iOS 27 introduces.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/shortcuts-widget-ios-27-extra-large.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/14/ios-27-adds-brand-new-widgets-for-your-iphones-home-screen/",
+      "id": "69eb01affe0098d1",
+      "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
+      "description": "An Nvidia RTX Spark chip aboard an Asus laptop motherboard. | Photo by Sean Hollister / The Verge\t\n\nFourteen years ago this month, Microsoft released an Nvidia-powered Windows PC that would become one of the greatest tech flops in modern history. The original Microsoft Surface, which ran a stripped-",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20261008_144946.jpg?quality=90&#038;strip=all&#038;crop=12.666665649414,10.133333333333,77.466665649414,78.311116536458",
+      "url": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T16:00:00.000Z"
+    },
+    {
+      "id": "019535abcf51673d",
+      "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
+      "description": "We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how much each contribute",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T15:46:00.000Z"
+    },
+    {
+      "id": "a9e6a0c07bd5ef7f",
+      "title": "Apple TV 4K, HomeView pre-order ship times now delayed later in November",
+      "description": "Apple unveiled new Apple TV 4K and HomeView devices this week that won’t be available until November 13. But pre-order shipping times for these products have already started slipping into late November for new orders.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-apple-tv-4k-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/15/apple-tv-4k-homeview-pre-order-ship-times-now-delayed-to-late-november/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-14T20:36:16.000Z"
+      "publishedAt": "2026-10-15T15:39:21.000Z"
     },
     {
-      "id": "ec00c1cea64021ee",
-      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-      "description": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+      "id": "e8379496f5d1771d",
+      "title": "Deals: HomeView pre-order discount (more colors), HomePod mini 2, Mac Studio $220 off, AirPods Pro 3, more",
+      "description": "While the $50 price drop on AirPods Pro 3 is still rolling, today’s 9to5Toys Lunch Break is headlined by some new pre-order discounts on the new Apple HomeView – Amazon now has some additional colorways marked down. We also uncovered some pre-order promotions for the new HomePod mini 2 alongside the",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-HomeView-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/15/deals-homeview-discount-homepod-mini-2-airpods-pro-3/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-15T15:33:26.000Z"
+    },
+    {
+      "id": "82ce386c6a9ca9c9",
+      "title": "Apple CEO John Ternus on Early Foldables: 'Kind of Cheap and Crappy'",
+      "description": "In a recent interview with TIME, Apple CEO John Ternus described some early foldable smartphones as feeling \"kind of cheap and crappy.\" Samsung released its first foldable in 2019, but Apple opted to take its time and has now developed the iPhone Duo with a premium design and a barely-noticeable dis",
+      "image": "https://images.macrumors.com/article-new/2026/10/John-Ternus-iPhone-Duo.jpg",
+      "url": "https://www.macrumors.com/2026/10/15/john-ternus-cheap-and-crappy-foldables/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-15T15:17:59.000Z"
+    },
+    {
+      "id": "71c102420197f68f",
+      "title": "Greg Joswiak Says Apple Isn't Focused on Making AI for 'Lunatic Fringe'",
+      "description": "In an interview with TIME's Andrew R. Chow, Apple's marketing chief Greg Joswiak said Apple Intelligence is meant for \"everyday people\" as opposed to the \"lunatic fringe.\"\r\n\r\n\r\nThe full sentence: \"In the midst of a populist AI backlash, they contend that they are building a modest but personalized a",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Greg-Joswiak.jpg",
+      "url": "https://www.macrumors.com/2026/10/15/greg-joswiak-lunatic-fringe/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-15T15:13:56.000Z"
+    },
+    {
+      "id": "1c777315db28a90b",
+      "title": "Apple SVP Greg Joswiak: ‘We don’t feel threatened’ by OpenAI hardware plans",
+      "description": "Today in a new story at TIME, the publication interviewed CEO John Ternus but also spoke to Greg “Joz” Joswiak, Apple’s SVP of Worldwide Marketing, who addressed the “lunatic fringe” of AI in Silicon Valley, hardware threats from OpenAI, and more.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/15/apple-svp-greg-joswiak-we-dont-feel-threatened-by-openai-hardware-plans/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-15T15:05:02.000Z"
+    },
+    {
+      "id": "0e91e82b059a4196",
+      "title": "AI agents are coming to Rivian’s cars",
+      "description": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-14T20:26:25.000Z"
+      "publishedAt": "2026-10-15T15:02:36.000Z"
     },
     {
-      "id": "e92683240e2b1a5b",
-      "title": "Apple Intelligence Coming to China in December With iOS 27.3",
-      "description": "Apple plans to bring Apple Intelligence to China in iOS 27.3 after two years of regulatory delays, reports Bloomberg. The launch will include basic ‌Apple Intelligence‌ features for things like photo editing, but Siri AI won't be available. Image Playground and the newer version of Genmoji will be m",
-      "image": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
-      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-14T20:24:50.000Z"
+      "id": "8e7d7a444c68a044",
+      "title": "Shelly’s new presence sensor simultaneously detects up to 10 people without a camera",
+      "description": "Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave r",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shelly1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T15:00:00.000Z"
     },
     {
-      "id": "b2899a41e1ef0d04",
-      "title": "Apple Intelligence reportedly coming to China in December, but without Siri AI",
-      "description": "Bloomberg reports that Apple plans to finally launch Apple Intelligence in China in December, although some important features could still be missing. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai/",
+      "id": "e35eb5ae31b76451",
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "description": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T14:47:09.000Z"
+    },
+    {
+      "id": "a230896e5c58e66b",
+      "title": "Hands-on: Pokémon x Beats Pill is one of my favorite collabs yet [Video]",
+      "description": "As someone who loves all things Apple and Pokémon, I never thought these worlds would collide, but here we are! Beats and the Pokémon Company have officially teamed up for a special edition Beats Pill, and man, did they nail this. This new collab features both Pikachu and Mimikyu, bringing a two-ton",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pokemon-beats.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/15/hands-on-pokemon-x-beats-pill-is-one-of-my-favorite-collabs-yet-video/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-14T20:20:14.000Z"
+      "publishedAt": "2026-10-15T14:32:11.000Z"
+    },
+    {
+      "id": "ecda2f6c65330a8a",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T14:29:33.000Z"
+    },
+    {
+      "id": "d49a63197bd670aa",
+      "title": "Amazon Offers $120 Discount on AirPods Max 2, $50 Off AirPods Pro 3",
+      "description": "Amazon has a few notable markdowns on AirPods models this week, including the AirPods Max 2 and AirPods Pro 3. In regards to the AirPods Max 2, Amazon's deal today is matching the Prime Day low price we saw earlier this month.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. Wh",
+      "image": "https://images.macrumors.com/article-new/2026/10/airpods-orange-prime-day.jpeg",
+      "url": "https://www.macrumors.com/2026/10/15/airpods-max-2-airpods-pro-3-discounts/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-15T14:12:42.000Z"
+    },
+    {
+      "id": "14608409b11dc48c",
+      "title": "John Ternus talks iPhone Duo, ‘cheap and crappy’ foldables in new interview",
+      "description": "TIME has just published its list of the best inventions of 2026, and iPhone Duo made the list with John Ternus featured on the magazine cover. Here’s what Ternus said in his interview with TIME.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/15/john-ternus-talks-iphone-duo-cheap-and-crappy-foldables-in-new-interview/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-15T14:11:18.000Z"
+    },
+    {
+      "id": "28e506bf2c60d231",
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-15T14:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-10-15T06:02:23.093Z",
+  "lastUpdated": "2026-10-15T18:03:38.993Z",
   "sources": [
     "TechCrunch",
     "The Verge",
