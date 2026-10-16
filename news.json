@@ -1,299 +1,297 @@
 {
   "articles": [
     {
-      "id": "0cc8b4f5bb6f4bbb",
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "description": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "id": "fe523c95ebe4ef6e",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-16T05:16:46.000Z"
+      "publishedAt": "2026-10-16T17:52:24.000Z"
     },
     {
-      "id": "89d76dc9c39577fa",
-      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-      "description": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. \nTesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Roadster_94.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T01:28:27.000Z"
-    },
-    {
-      "id": "f0cfd0f0278c0f92",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "description": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T01:17:43.000Z"
-    },
-    {
-      "id": "ddd33cc770636076",
-      "title": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe",
-      "description": "The newest Apple Original Films feature, “Tenzing,” is now available to Apple TV subscribers. Watch the trailer below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/tenzing-leads.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
+      "id": "8673b8f207e27b5a",
+      "title": "iOS 27.2 has three new changes just added this week",
+      "description": "iOS 27.2 is launching soon for all users, but Apple keeps introducing new updates with each beta release. Here are three changes added to iOS 27.2 this week.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/ios-27-2-has-three-new-changes-just-added-this-week/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-16T01:00:14.000Z"
+      "publishedAt": "2026-10-16T17:45:58.000Z"
     },
     {
-      "id": "ee7acc8396ef7c6c",
-      "title": "Apple lists unreleased iPad mini accessory ahead of rumored launch",
-      "description": "While Apple is rumored to be gearing up to introduce an OLED iPad mini later this month, an oversight on the company’s French site might have just confirmed the product’s existence. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/15/apple-lists-unreleased-ipad-mini-accessory-ahead-of-rumored-launch/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T00:49:10.000Z"
-    },
-    {
-      "id": "adb4fa6b4d077378",
-      "title": "Oops, Apple's Website Just Hinted at iPad Mini 8",
-      "description": "Apple has an unreleased iPad mini Smart Folio listed on its French regulatory website, hinting that a new ‌iPad mini‌ is coming. The case's A3632 model number doesn't match current or past ‌iPad mini‌ cases.\r\n\r\n\r\nApple appears to have added the case to its website recently, and it's listed alongside",
-      "image": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg",
-      "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
+      "id": "57f361b5ecddb3cd",
+      "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features",
+      "description": "Daring Fireball's John Gruber shared his first impressions of the new Apple TV 4K and HomePod mini 2 this week, and he concluded that the price increases the devices received are \"much more striking\" than any of the new features introduced.\r\n\r\n\r\nPrior to receiving price increases in late June, the p",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View2.jpg",
+      "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-16T00:27:05.000Z"
+      "publishedAt": "2026-10-16T17:30:23.000Z"
     },
     {
-      "id": "3b7bb78e595ba54b",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T23:44:56.000Z"
-    },
-    {
-      "id": "9923b956da8d18cb",
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "description": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T23:33:45.000Z"
-    },
-    {
-      "id": "7e61bf2d21e2c362",
-      "title": "Steam can now show game achievements in separate ‘sets’",
-      "description": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs.\n\"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse wh",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T23:18:28.000Z"
-    },
-    {
-      "id": "ff4e12bb22fed6be",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "description": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T22:43:23.000Z"
-    },
-    {
-      "id": "eaa0c60e8bc3bf28",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "description": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.\nComplete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the mai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T22:35:55.000Z"
-    },
-    {
-      "id": "2e95370c5e9ae863",
-      "title": "OLED MacBook Pro Won't Get M7 Chips Until Late 2027",
-      "description": "Apple is \"pretty much done\" with M6 chips, Bloomberg's Mark Gurman reiterated today on his podcast. Apple debuted the M6 chip in the Mac mini and has plans for an M6 iMac and entry-level 14-inch MacBook Pro, but the company is not planning to make M6 Pro, M6 Max, or M6 Ultra chips.\r\n\r\n\r\nApple will i",
-      "image": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg",
-      "url": "https://www.macrumors.com/2026/10/15/macbook-pro-m7-late-2027/",
+      "id": "d26dbabdcc562a8e",
+      "title": "Apple Refers to HomeView as 'HomePodDevice' in Legal Document",
+      "description": "Apple's HomeView software license agreement refers to the HomeView as a \"HomePodDevice\" in one section. This is surely a placeholder name from a draft version of the agreement that Apple forgot to replace in the final version, and it reveals that Apple unsurprisingly views the HomeView as a HomePod-",
+      "image": "https://images.macrumors.com/article-new/2026/10/HomeView-Music.jpeg",
+      "url": "https://www.macrumors.com/2026/10/16/apple-homeview-homepoddevice/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-15T22:10:46.000Z"
+      "publishedAt": "2026-10-16T16:39:26.000Z"
     },
     {
-      "id": "a9b3d78f84f16da0",
-      "title": "Strava announces coach-designed strength workouts with live set and rep tracking",
-      "description": "Exercise-tracking platform Strava announced today a new expansion of its strength training features, adding coach-designed guided workouts with live set and rep tracking. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-coach-training.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/15/strava-announces-coach-designed-strength-workouts-with-live-set-and-rep-tracking/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T22:09:39.000Z"
-    },
-    {
-      "id": "f99588ad30e8c184",
-      "title": "The tech backlash is now in theaters",
-      "description": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabil",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T21:39:52.000Z"
-    },
-    {
-      "id": "aace2037c291c8bb",
-      "title": "9to5Mac Daily: October 15, 2026 – OpenAI vs Apple, iPhone Duo details",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/15/daily-october-15-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T21:25:15.000Z"
-    },
-    {
-      "id": "a0f7dee77da75a15",
-      "title": "WaPo: Apple revealed as one of the top donors to Trump’s White House ballroom",
-      "description": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the project’s largest donors. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T21:22:49.000Z"
-    },
-    {
-      "id": "c2fa5c44b0d6616d",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "description": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-15T21:09:33.000Z"
-    },
-    {
-      "id": "4811d9bb7315b89b",
-      "title": "Apple Pledged $25 Million to Trump's White House Ballroom",
-      "description": "Apple pledged $25 million for Trump's White House ballroom, according to a list of donors obtained by The Washington Post.\r\n\r\n\r\nChipmaker Nvidia also committed $25 million, making Apple and Nvidia two of the top donors. Other donors include Microsoft, Comcast, Amazon, Cisco, Meta, T-Mobile, HP, Goog",
-      "image": "https://images.macrumors.com/article-new/2020/10/apple-logo-cash-feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/15/apple-25-million-white-house-ballroom/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T20:48:39.000Z"
-    },
-    {
-      "id": "e72b0307da9273d1",
-      "title": "Apple Sports update improves Live Activity support, adds soccer leagues from around the world",
-      "description": "Apple updated its Apple Sports app today with improvements to Live Activities and support for five additional soccer leagues. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-sports.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/15/apple-sports-update-improves-live-activity-support-adds-soccer-leagues-from-around-the-world/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T20:48:00.000Z"
-    },
-    {
-      "id": "5fd5e90228d6e720",
-      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-      "description": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "id": "0ba6de5ce252306d",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who bel",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-15T20:38:13.000Z"
+      "publishedAt": "2026-10-16T16:30:00.000Z"
     },
     {
-      "id": "a06625dd09b5716d",
-      "title": "IDC: Apple closes in on Samsung as global smartphone shipments see record decline in Q3",
-      "description": "In a report published today, IDC says Apple saw a 4% year-over-year decline in global iPhone shipments during Q3 2026, but its share of worldwide smartphone shipments increased 23.1% over the same period last year. Here’s why.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/15/idc-apple-closes-in-on-samsung-as-global-smartphone-shipments-see-record-decline-in-q3/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T20:35:49.000Z"
-    },
-    {
-      "id": "7571595ac34eed83",
-      "title": "Touchscreen MacBook Pro Could Launch on November 6",
-      "description": "Apple is planning to introduce new OLED touchscreen MacBook Pro models on October 27 or October 28, and the machines could launch on Friday, November 6, Bloomberg's Mark Gurman said during his latest podcast.\r\n\r\n\r\nApple retail stores apparently have a \"big floor reset\" scheduled for the evening of T",
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Ultra-Feature-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/15/touchscreen-macbook-pro-november-6/",
+      "id": "03fcd4f0f95ee735",
+      "title": "The MacRumors Show: Was HomeView Worth the Wait?",
+      "description": "Apple this week finally announced the HomePod mini 2, a new Apple TV 4K, and its \"HomeView\" smart home hub. On this week's episode of The MacRumors Show, we talk through our reactions to the announcements.\r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\nApple's HomeView costs $2",
+      "url": "https://www.macrumors.com/2026/10/16/the-macrumors-show-homeview-worth-the-wait/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-15T20:23:34.000Z"
+      "publishedAt": "2026-10-16T16:13:06.000Z"
     },
     {
-      "id": "e8720a61e6828cf2",
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "description": "Withings, the maker of smart scales for measuring body weight, has announced that customers who create an account on October 13, 2026 or later must have a Withings+ subscription for automatic syncing of data to third-party apps, including Apple's Health app. In the U.S., Withings+ costs $99.50 per y",
-      "image": "https://images.macrumors.com/article-new/2026/10/Withings-iPhone.jpg",
-      "url": "https://www.macrumors.com/2026/10/15/withings-plus-apple-health-syncing/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T20:18:32.000Z"
-    },
-    {
-      "id": "00be4b167dfb51dc",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "id": "d9acce0ea9c0a07e",
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-15T20:04:53.000Z"
+      "publishedAt": "2026-10-16T16:06:38.000Z"
     },
     {
-      "id": "a6a753986fc55683",
-      "title": "Here’s Apple’s official response to OpenAI’s trade secret theft allegations",
-      "description": "Apple has responded to OpenAI’s allegations that one of its former employees who departed for Apple took confidential files along with him. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/15/heres-apples-official-response-to-openais-trade-secret-theft-allegations/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T19:57:37.000Z"
-    },
-    {
-      "id": "ebbf62535fc6f8f3",
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "description": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni S",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "id": "b53bf8fb60369fbf",
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "description": "The new Apple TV 4K will be available in November. | Image: The Verge\t\n\nEarlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VergeDealsAppleTV4K.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-15T19:57:16.000Z"
+      "publishedAt": "2026-10-16T16:02:22.000Z"
     },
     {
-      "id": "82ce386c6a9ca9c9",
-      "title": "Apple CEO John Ternus on Early Foldables: 'Kind of Cheap and Crappy'",
-      "description": "In a recent interview with TIME, Apple CEO John Ternus described some early foldable smartphones as feeling \"kind of cheap and crappy.\" Samsung released its first foldable in 2019, but Apple opted to take its time and has now developed the iPhone Duo with a premium design and a barely-noticeable dis",
-      "image": "https://images.macrumors.com/article-new/2026/10/John-Ternus-iPhone-Duo-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/15/john-ternus-cheap-and-crappy-foldables/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-15T19:55:51.000Z"
-    },
-    {
-      "id": "7eeb4d8485db35be",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "description": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "id": "e583d2d072ef82d0",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-15T19:55:25.000Z"
+      "publishedAt": "2026-10-16T16:01:37.000Z"
     },
     {
-      "id": "16968167d694b8ba",
-      "title": "Withings now charges $100 per year to sync your data to other apps",
-      "description": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. \nAccording to a discussion on Withings' support forums spotted by MacRumors, new Within",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268601_withings_bodyfit_AKrales_0099.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
+      "id": "77bc9fa88e21d1e5",
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "description": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
+      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T16:00:00.000Z"
+    },
+    {
+      "id": "70b53b7b6993c44c",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "description": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T16:00:00.000Z"
+    },
+    {
+      "id": "ee6afeabfa4735fd",
+      "title": "Here’s the difference the variable aperture of the iPhone 18 Pro makes at night",
+      "description": "I previously tested the difference the wider aperture of the iPhone 18 Pro makes when it comes to depth of field. The executive summary is that the difference is small, but definitely present.\nI said at the time that I’d intended to test the difference it made to Night mode shots when an unmissable ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-18-Pro-night-shot.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/heres-the-difference-the-variable-aperture-of-the-iphone-18-pro-makes-at-night/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T16:00:00.000Z"
+    },
+    {
+      "id": "d4940c2b23e69402",
+      "title": "HomePod is about to get free upgrade with these new features",
+      "description": "Apple unveiled three new Home products this week: HomeView, HomePod mini 2, and a new Apple TV 4K. While there’s no new full-size HomePod launching, Apple did announce three features coming to the existing HomePod 2 via a free software update.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/homepod-2-sale.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/homepod-is-about-to-get-free-upgrade-with-these-new-features/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T15:49:06.000Z"
+    },
+    {
+      "id": "18c97ee8a98cebdf",
+      "title": "Apple&#8217;s HomeView has an app problem",
+      "description": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And yet th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-15T19:52:13.000Z"
+      "publishedAt": "2026-10-16T15:38:17.000Z"
     },
     {
-      "id": "2a2ffb4905fed4e4",
-      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-      "description": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+      "id": "ac6085681be28946",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-15T19:29:05.000Z"
+      "publishedAt": "2026-10-16T15:33:49.000Z"
+    },
+    {
+      "id": "0af5482820a7436e",
+      "title": "Deals: New Apple TV 4K first discount, HomeView, iPhone Duo trade offers, AirPods Pro 3, more",
+      "description": "Joining the $50 price drop on AirPods Pro 3 to pair with your new Duo, we are now tracking the very first discount on the next-generation Apple TV 4K – Amazon will also ship it to you much faster than Apple can. Those offers join ongoing HomeView deals (you’ll want to get in there quick as they are ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-iPhone-Duo-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/deals-new-apple-tv-4k-homeview-iphone-duo-airpods/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T15:29:01.000Z"
+    },
+    {
+      "id": "245c35e281c681d9",
+      "title": "iPhone Duo launch is a massive success, but Apple has a problem",
+      "description": "iPhone Duo pre-orders opened today, but if you weren’t there right at the start, you likely now can’t get one before 2027. That makes the iPhone Duo launch a massive success, but also reflects a missed opportunity for Apple.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/iphone-duo-launch-is-a-massive-success-but-apple-has-a-problem/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T15:10:55.000Z"
+    },
+    {
+      "id": "8a902f074f681238",
+      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "description": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartr",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T15:08:38.000Z"
+    },
+    {
+      "id": "3fd5966df3f20566",
+      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "description": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of wri",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T15:02:23.000Z"
+    },
+    {
+      "id": "99f8d2e607b07f12",
+      "title": "Best iPhone Duo cases now available for purchase: Fabric, leather, aramid fiber, metal, more",
+      "description": "Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take orders for their latest full-grain covers. Those, of course, join some ultra-affordable models starting from $27 or less and you can ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/best-iphone-duo-cases-now-available-purchase/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T15:00:36.000Z"
+    },
+    {
+      "id": "14e72fa4cf5e8ce5",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "description": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nNvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful l",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T15:00:00.000Z"
+    },
+    {
+      "id": "effda573ca6df052",
+      "title": "Massive Discounts Hit 2026 MacBook Pro With Up to $800 Off",
+      "description": "Today we're tracking a trio of major discounts on Apple's newest MacBook Pro models, including $500 off a 16-inch model and up to $800 off 14-inch models on Amazon.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a smal",
+      "image": "https://images.macrumors.com/article-new/2026/10/macbook-pro-black.jpeg",
+      "url": "https://www.macrumors.com/2026/10/16/discounts-macbook-pro/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T14:45:56.000Z"
+    },
+    {
+      "id": "7c4e3fbd1768d425",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T14:26:51.000Z"
+    },
+    {
+      "id": "940165394c26855e",
+      "title": "iPhone 18 Pro one month later: These features keep impressing me",
+      "description": "I’ve had the iPhone 18 Pro for about a month now, and during that time three main features have consistently impressed me.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-rc-airpods-pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/iphone-18-pro-one-month-later-these-features-keep-impressing-me/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T14:23:42.000Z"
+    },
+    {
+      "id": "0b369f1f0048808b",
+      "title": "The incredible flying Tesla Roadster is just for show",
+      "description": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. \nThat's what the people want, right? \"We were promised flying cars,\" sure, but isn",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T14:15:29.000Z"
+    },
+    {
+      "id": "49719e5bd09f5067",
+      "title": "Apple Pre-Orders Kick Off With First Discounts on HomeView and Apple TV 4K",
+      "description": "Pre-orders are now live on Apple's newest devices, including the HomeView and Apple TV 4K, and Amazon has the first-ever discounts on these devices. We're also tracking great deals on MacBook Pro, Mac mini, and Apple Watch SE 3 in this week's best Apple deals.\r\n\r\nNote: MacRumors is an affiliate part",
+      "image": "https://images.macrumors.com/article-new/2026/10/new-best-apple-deals-dark-mode.jpeg",
+      "url": "https://www.macrumors.com/2026/10/16/apple-pre-orders-first-discounts/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T14:13:43.000Z"
+    },
+    {
+      "id": "93c5316f35cd0bf3",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "description": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"deve",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T14:02:40.000Z"
+    },
+    {
+      "id": "dddf44e30ed2313e",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T14:00:00.000Z"
+    },
+    {
+      "id": "64b8e38944510c04",
+      "title": "Security Bite: Americans are contradicting themselves around privacy",
+      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "url": "https://9to5mac.com/2026/10/16/security-bite-americans-are-contradicting-themselves-around-privacy/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T13:52:09.000Z"
+    },
+    {
+      "id": "34c9d4bf4a5c736e",
+      "title": "iPhone Duo Resold for $5,000 on eBay After Selling Out",
+      "description": "As spotted by Vadim Yuryev of the YouTube channel Max Tech, the iPhone Duo has already been resold on eBay for as much as $5,000 after shipping estimates for the device slipped into 2027 on Apple's online store within minutes of pre-orders beginning today.\r\n\r\n\r\nThe listing that is marked as sold is ",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-on-eBay.jpg",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T13:50:12.000Z"
     }
   ],
-  "lastUpdated": "2026-10-16T06:03:30.347Z",
+  "lastUpdated": "2026-10-16T18:03:00.105Z",
   "sources": [
     "TechCrunch",
     "The Verge",
