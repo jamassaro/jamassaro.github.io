@@ -1,6 +1,253 @@
 {
   "articles": [
     {
+      "id": "569a6a2792a40cdc",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-17T02:36:18.000Z"
+    },
+    {
+      "id": "439c10edbd9db311",
+      "title": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
+      "description": "Following T-Mobile and Deutsche Telekom, Verizon has now confirmed how much it will charge customers to use Apple’s new iPhone Handoff feature. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-hand-off.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-17T00:01:38.000Z"
+    },
+    {
+      "id": "dde98701d6566a94",
+      "title": "Verizon Will Charge $10 a Month for iPhone Handoff",
+      "description": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in iOS 27. iPhone Handoff allows one phone number to be shared across two separate iPhones.\r\n\r\n\r\nPricing was included in Verizon's iPhone Duo announcement today, with the carrier confirming iPhone Handoff",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+      "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T23:37:48.000Z"
+    },
+    {
+      "id": "9b8db7b69cbd4158",
+      "title": "All the news about the iPhone Duo",
+      "description": "Apple has finally announced its long-rumored foldable: the iPhone Duo.\nThe new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T23:36:26.000Z"
+    },
+    {
+      "id": "b3f739a8b4c5b440",
+      "title": "Apple Calls iPhone Duo Demand 'Extraordinary' After Orders Slip to 2027",
+      "description": "Demand for the iPhone Duo has been \"nothing short of extraordinary,\" Apple said in a statement to the Financial Times. The company also said it is \"working hard to get this revolutionary new product into customers' hands as quickly as possible.\"\r\n\r\n\r\nPre-orders for the ‌iPhone Duo‌ opened this morni",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/16/apple-iphone-duo-demand-extraordinary/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T22:53:57.000Z"
+    },
+    {
+      "id": "71be001823aed28e",
+      "title": "Apple poaches longtime Meta executive to lead global litigation",
+      "description": "Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-logo-aluminum-shadow-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T22:53:24.000Z"
+    },
+    {
+      "id": "454f6a0088c40fbe",
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "description": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools.\nThe rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, incl",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T22:51:22.000Z"
+    },
+    {
+      "id": "61e141aeb1448f88",
+      "title": "New App Store Rules Target AI Deepfakes and Nudify Apps",
+      "description": "Apple today expanded its App Store moderation rules to cover AI-generated nonconsensual intimate imagery. Sexually explicit content was already banned, but now Apple says app developers must proactively prevent and remove AI-generated deepfakes from their platforms. Apple warns that apps with offend",
+      "image": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T22:21:45.000Z"
+    },
+    {
+      "id": "317fa03919686e1a",
+      "title": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
+      "description": "Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600",
+      "url": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T22:17:07.000Z"
+    },
+    {
+      "id": "263716267f6cb924",
+      "title": "9to5Mac Daily: October 16, 2026 – iPhone Duo pre-orders, more",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/daily-october-16-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T21:56:25.000Z"
+    },
+    {
+      "id": "daa839c56986f9ee",
+      "title": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
+      "description": "Apple has issued a short statement following strong initial demand for the iPhone Duo, with shipping estimates already slipping into next year. Here’s what the company said.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-event.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T21:33:28.000Z"
+    },
+    {
+      "id": "8bdb6d1154eeacba",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T21:22:28.000Z"
+    },
+    {
+      "id": "1352ffffc97d2aa6",
+      "title": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges",
+      "description": "In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in 2026, even as the global market is expected to shrink by more than 14%. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T21:06:13.000Z"
+    },
+    {
+      "id": "f5940ab695552814",
+      "title": "Didn't Pre-Order Apple's HomeView? Here's How Long the Wait is Now",
+      "description": "Apple's all-new HomeView smart home hub has been available for pre-order since Tuesday, with the earliest orders set to be delivered on Friday, November 13. If you did not place a pre-order yet though, you may face a longer wait now, with Apple's estimated delivery dates pushing into early December ",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature5.jpg",
+      "url": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T20:55:31.000Z"
+    },
+    {
+      "id": "9b32cf441387fb3f",
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "description": "Wu-Tang Clan member Method Man, who got to hear the album for the first time thanks to Pablo Torre Finds Out. | Getty Images\t\n\nWu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podca",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T20:50:27.000Z"
+    },
+    {
+      "id": "f3436281c31604b8",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "description": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T20:49:04.000Z"
+    },
+    {
+      "id": "a781aeb7bb3fe35b",
+      "title": "9to5Mac Overtime 086: Apple’s smart home reboot",
+      "description": "Jeff and Fernando discuss Apple’s smart home reboot, including the new $299 Apple HomeView, HomePod mini 2, Apple TV 4K, and Apple Home Collection lineup.\nSponsored by Rokform: Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-086.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/9to5mac-overtime-086-apples-smart-home-reboot/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T20:32:53.000Z"
+    },
+    {
+      "id": "24d4c9f7553ebc27",
+      "title": "Report: Apple’s antitrust negotiations with the DOJ spark concerns of a weak settlement",
+      "description": "The Information reports that PayPal and Epic Games are among the developers concerned that a potential antitrust settlement between Apple and the DOJ might not go far enough in addressing the company’s allegedly anticompetitive practices. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/report-apples-antitrust-negotiations-with-the-doj-spark-concerns-of-a-weak-settlement/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T20:04:21.000Z"
+    },
+    {
+      "id": "84c3cb2e113cffad",
+      "title": "iPhone Duo vs iPhone 18 Pro: Here’s every key difference",
+      "description": "Apple has strong pitches for all of its flagship iPhones this fall, but which model is right for you? Here’s an overview of the key differences between iPhone Duo and iPhone 18 Pro.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/iphone-18-pro-vs-iphone-duo-heres-every-key-difference/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T19:55:17.000Z"
+    },
+    {
+      "id": "fb755e3a96011ea7",
+      "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive",
+      "description": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked one up.\r\n\r\n\r\nThe case comes in two pieces and uses adhesive strips along the inside edges to attach securely to an ‌iPhone Duo‌. An included insert instructs users to peel off the adhesive's protective",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-case.jpg",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T19:51:58.000Z"
+    },
+    {
+      "id": "0ae8360d6d453e47",
+      "title": "HomeView will include these Apple apps at launch",
+      "description": "Apple’s HomeView is available to pre-order now and ships November 13. Here are the Apple apps you’ll be able to use on HomeView at launch.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-facetime.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T19:50:31.000Z"
+    },
+    {
+      "id": "00324d9eee5a4c6b",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "description": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T19:40:00.000Z"
+    },
+    {
+      "id": "57f361b5ecddb3cd",
+      "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features",
+      "description": "Daring Fireball's John Gruber shared his first impressions of the new Apple TV 4K and HomePod mini 2 this week, and he concluded that the price increases the devices received are \"much more striking\" than any of the new features introduced.\r\n\r\n\r\nPrior to receiving price increases in late June, the p",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View2.jpg",
+      "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T19:35:41.000Z"
+    },
+    {
+      "id": "4303370f042fd290",
+      "title": "HomeKit Weekly: Get your Halloween and Christmas automations set up now",
+      "description": "It’s time to get your Halloween decorations out and automate them because the gear you buy for October is the same gear you’ll use in December. Set it up once now, and all you’ll do in November is swap what’s plugged into your gear. My first real Apple Home project years ago was automating Christmas",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/homekit27-halloween.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/16/homekit-weekly-get-your-halloween-and-christmas-automations-set-up-now/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-16T19:00:00.000Z"
+    },
+    {
+      "id": "769cabfa24aa2a3e",
+      "title": "Why Apple is finally making its own smart home devices",
+      "description": "Apple’s Home Collection, codeveloped with partners, is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nFor more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-16T18:30:27.000Z"
+    },
+    {
       "id": "fe523c95ebe4ef6e",
       "title": "India becomes the latest country to report rogue AI agent activity",
       "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
@@ -18,16 +265,6 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-10-16T17:45:58.000Z"
-    },
-    {
-      "id": "57f361b5ecddb3cd",
-      "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features",
-      "description": "Daring Fireball's John Gruber shared his first impressions of the new Apple TV 4K and HomePod mini 2 this week, and he concluded that the price increases the devices received are \"much more striking\" than any of the new features introduced.\r\n\r\n\r\nPrior to receiving price increases in late June, the p",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View2.jpg",
-      "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T17:30:23.000Z"
     },
     {
       "id": "d26dbabdcc562a8e",
@@ -56,242 +293,9 @@
       "source": "MacRumors",
       "category": "Apple News",
       "publishedAt": "2026-10-16T16:13:06.000Z"
-    },
-    {
-      "id": "d9acce0ea9c0a07e",
-      "title": "Waymo’s robotaxis are headed to Canada",
-      "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T16:06:38.000Z"
-    },
-    {
-      "id": "b53bf8fb60369fbf",
-      "title": "The new Apple TV 4K just got its first (very small) discount",
-      "description": "The new Apple TV 4K will be available in November. | Image: The Verge\t\n\nEarlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VergeDealsAppleTV4K.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T16:02:22.000Z"
-    },
-    {
-      "id": "e583d2d072ef82d0",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T16:01:37.000Z"
-    },
-    {
-      "id": "77bc9fa88e21d1e5",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "description": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T16:00:00.000Z"
-    },
-    {
-      "id": "70b53b7b6993c44c",
-      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-      "description": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
-      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T16:00:00.000Z"
-    },
-    {
-      "id": "ee6afeabfa4735fd",
-      "title": "Here’s the difference the variable aperture of the iPhone 18 Pro makes at night",
-      "description": "I previously tested the difference the wider aperture of the iPhone 18 Pro makes when it comes to depth of field. The executive summary is that the difference is small, but definitely present.\nI said at the time that I’d intended to test the difference it made to Night mode shots when an unmissable ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-18-Pro-night-shot.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/heres-the-difference-the-variable-aperture-of-the-iphone-18-pro-makes-at-night/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T16:00:00.000Z"
-    },
-    {
-      "id": "d4940c2b23e69402",
-      "title": "HomePod is about to get free upgrade with these new features",
-      "description": "Apple unveiled three new Home products this week: HomeView, HomePod mini 2, and a new Apple TV 4K. While there’s no new full-size HomePod launching, Apple did announce three features coming to the existing HomePod 2 via a free software update.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/homepod-2-sale.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/homepod-is-about-to-get-free-upgrade-with-these-new-features/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T15:49:06.000Z"
-    },
-    {
-      "id": "18c97ee8a98cebdf",
-      "title": "Apple&#8217;s HomeView has an app problem",
-      "description": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And yet th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T15:38:17.000Z"
-    },
-    {
-      "id": "ac6085681be28946",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T15:33:49.000Z"
-    },
-    {
-      "id": "0af5482820a7436e",
-      "title": "Deals: New Apple TV 4K first discount, HomeView, iPhone Duo trade offers, AirPods Pro 3, more",
-      "description": "Joining the $50 price drop on AirPods Pro 3 to pair with your new Duo, we are now tracking the very first discount on the next-generation Apple TV 4K – Amazon will also ship it to you much faster than Apple can. Those offers join ongoing HomeView deals (you’ll want to get in there quick as they are ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-iPhone-Duo-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/deals-new-apple-tv-4k-homeview-iphone-duo-airpods/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T15:29:01.000Z"
-    },
-    {
-      "id": "245c35e281c681d9",
-      "title": "iPhone Duo launch is a massive success, but Apple has a problem",
-      "description": "iPhone Duo pre-orders opened today, but if you weren’t there right at the start, you likely now can’t get one before 2027. That makes the iPhone Duo launch a massive success, but also reflects a missed opportunity for Apple.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/iphone-duo-launch-is-a-massive-success-but-apple-has-a-problem/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T15:10:55.000Z"
-    },
-    {
-      "id": "8a902f074f681238",
-      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
-      "description": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartr",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T15:08:38.000Z"
-    },
-    {
-      "id": "3fd5966df3f20566",
-      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-      "description": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of wri",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T15:02:23.000Z"
-    },
-    {
-      "id": "99f8d2e607b07f12",
-      "title": "Best iPhone Duo cases now available for purchase: Fabric, leather, aramid fiber, metal, more",
-      "description": "Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take orders for their latest full-grain covers. Those, of course, join some ultra-affordable models starting from $27 or less and you can ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/best-iphone-duo-cases-now-available-purchase/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T15:00:36.000Z"
-    },
-    {
-      "id": "14e72fa4cf5e8ce5",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "description": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nNvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful l",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "id": "effda573ca6df052",
-      "title": "Massive Discounts Hit 2026 MacBook Pro With Up to $800 Off",
-      "description": "Today we're tracking a trio of major discounts on Apple's newest MacBook Pro models, including $500 off a 16-inch model and up to $800 off 14-inch models on Amazon.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a smal",
-      "image": "https://images.macrumors.com/article-new/2026/10/macbook-pro-black.jpeg",
-      "url": "https://www.macrumors.com/2026/10/16/discounts-macbook-pro/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T14:45:56.000Z"
-    },
-    {
-      "id": "7c4e3fbd1768d425",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T14:26:51.000Z"
-    },
-    {
-      "id": "940165394c26855e",
-      "title": "iPhone 18 Pro one month later: These features keep impressing me",
-      "description": "I’ve had the iPhone 18 Pro for about a month now, and during that time three main features have consistently impressed me.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-rc-airpods-pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/iphone-18-pro-one-month-later-these-features-keep-impressing-me/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T14:23:42.000Z"
-    },
-    {
-      "id": "0b369f1f0048808b",
-      "title": "The incredible flying Tesla Roadster is just for show",
-      "description": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. \nThat's what the people want, right? \"We were promised flying cars,\" sure, but isn",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T14:15:29.000Z"
-    },
-    {
-      "id": "49719e5bd09f5067",
-      "title": "Apple Pre-Orders Kick Off With First Discounts on HomeView and Apple TV 4K",
-      "description": "Pre-orders are now live on Apple's newest devices, including the HomeView and Apple TV 4K, and Amazon has the first-ever discounts on these devices. We're also tracking great deals on MacBook Pro, Mac mini, and Apple Watch SE 3 in this week's best Apple deals.\r\n\r\nNote: MacRumors is an affiliate part",
-      "image": "https://images.macrumors.com/article-new/2026/10/new-best-apple-deals-dark-mode.jpeg",
-      "url": "https://www.macrumors.com/2026/10/16/apple-pre-orders-first-discounts/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T14:13:43.000Z"
-    },
-    {
-      "id": "93c5316f35cd0bf3",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "description": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"deve",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T14:02:40.000Z"
-    },
-    {
-      "id": "dddf44e30ed2313e",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T14:00:00.000Z"
-    },
-    {
-      "id": "64b8e38944510c04",
-      "title": "Security Bite: Americans are contradicting themselves around privacy",
-      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "url": "https://9to5mac.com/2026/10/16/security-bite-americans-are-contradicting-themselves-around-privacy/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T13:52:09.000Z"
-    },
-    {
-      "id": "34c9d4bf4a5c736e",
-      "title": "iPhone Duo Resold for $5,000 on eBay After Selling Out",
-      "description": "As spotted by Vadim Yuryev of the YouTube channel Max Tech, the iPhone Duo has already been resold on eBay for as much as $5,000 after shipping estimates for the device slipped into 2027 on Apple's online store within minutes of pre-orders beginning today.\r\n\r\n\r\nThe listing that is marked as sold is ",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-on-eBay.jpg",
-      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T13:50:12.000Z"
     }
   ],
-  "lastUpdated": "2026-10-16T18:03:00.105Z",
+  "lastUpdated": "2026-10-17T06:02:57.273Z",
   "sources": [
     "TechCrunch",
     "The Verge",
