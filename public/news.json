@@ -1,6 +1,92 @@
 {
   "articles": [
     {
+      "id": "c6b12f279c370fdd",
+      "title": "iPhone Duo walk-in purchases might be challenging at launch, per report",
+      "description": "According to a new report from MacRumors, Apple employees are being told to warn customers that iPhone Duo likely won’t be available for purchase on launch day if you didn’t already place a pre-order.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-17T22:21:41.000Z"
+    },
+    {
+      "id": "603d324dc0a1a577",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-17T21:31:32.000Z"
+    },
+    {
+      "id": "c8f8536d0561c394",
+      "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
+      "description": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo without a pre-order on Friday, October 23.\r\n\r\n\r\nApple Store employees told MacRumors that they have been advised that there will likely be no ‌iPhone Duo‌ stock available for walk-in purchases on ",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-standby.jpg",
+      "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-17T21:30:45.000Z"
+    },
+    {
+      "id": "2efc88c915c7a403",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-17T20:55:52.000Z"
+    },
+    {
+      "id": "c47bfa7844688151",
+      "title": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
+      "description": "Apple has hired former Meta lawyer Scott Tucker to lead its litigation team, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nTucker will become Apple's vice president of global litigation and financial services, a new position overseeing commercial lawsuits, patent disputes, and legal matters involving i",
+      "image": "https://images.macrumors.com/article-new/2022/05/apple-park-at-night-1.jpg",
+      "url": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-17T20:21:20.000Z"
+    },
+    {
+      "id": "77691f92fd84ac5d",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-17T20:21:19.000Z"
+    },
+    {
+      "id": "ea12dc434e0f0a00",
+      "title": "TikTok bans Musk documentary account",
+      "description": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images) | AFP via Getty Images\t\n\nJust ahead of the wider release of Alex Gibney's Musk",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-17T19:32:23.000Z"
+    },
+    {
+      "id": "de07f50bedf840ee",
+      "title": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keeping",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Hoardware.png?w=1600",
+      "url": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-17T19:30:00.000Z"
+    },
+    {
+      "id": "5981238e0bc88856",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-17T18:48:08.000Z"
+    },
+    {
       "id": "e3abff364b4cc5f9",
       "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
       "description": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling.\nmore…",
@@ -160,16 +246,6 @@
       "publishedAt": "2026-10-17T12:00:00.000Z"
     },
     {
-      "id": "4eed8fef06281ea5",
-      "title": "It’s a dream week for tech docs",
-      "description": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.)\nThis week, I've been reading about Marc",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-17T12:00:00.000Z"
-    },
-    {
       "id": "569a6a2792a40cdc",
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
@@ -217,88 +293,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-10-16T22:53:24.000Z"
-    },
-    {
-      "id": "61e141aeb1448f88",
-      "title": "New App Store Rules Target AI Deepfakes and Nudify Apps",
-      "description": "Apple today expanded its App Store moderation rules to cover AI-generated nonconsensual intimate imagery. Sexually explicit content was already banned, but now Apple says app developers must proactively prevent and remove AI-generated deepfakes from their platforms. Apple warns that apps with offend",
-      "image": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T22:21:45.000Z"
-    },
-    {
-      "id": "317fa03919686e1a",
-      "title": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
-      "description": "Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600",
-      "url": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T22:17:07.000Z"
-    },
-    {
-      "id": "263716267f6cb924",
-      "title": "9to5Mac Daily: October 16, 2026 – iPhone Duo pre-orders, more",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/daily-october-16-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T21:56:25.000Z"
-    },
-    {
-      "id": "daa839c56986f9ee",
-      "title": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
-      "description": "Apple has issued a short statement following strong initial demand for the iPhone Duo, with shipping estimates already slipping into next year. Here’s what the company said.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-event.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T21:33:28.000Z"
-    },
-    {
-      "id": "8bdb6d1154eeacba",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-16T21:22:28.000Z"
-    },
-    {
-      "id": "1352ffffc97d2aa6",
-      "title": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges",
-      "description": "In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in 2026, even as the global market is expected to shrink by more than 14%. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T21:06:13.000Z"
-    },
-    {
-      "id": "f5940ab695552814",
-      "title": "Didn't Pre-Order Apple's HomeView? Here's How Long the Wait is Now",
-      "description": "Apple's all-new HomeView smart home hub has been available for pre-order since Tuesday, with the earliest orders set to be delivered on Friday, November 13. If you did not place a pre-order yet though, you may face a longer wait now, with Apple's estimated delivery dates pushing into early December ",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature5.jpg",
-      "url": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T20:55:31.000Z"
-    },
-    {
-      "id": "a781aeb7bb3fe35b",
-      "title": "9to5Mac Overtime 086: Apple’s smart home reboot",
-      "description": "Jeff and Fernando discuss Apple’s smart home reboot, including the new $299 Apple HomeView, HomePod mini 2, Apple TV 4K, and Apple Home Collection lineup.\nSponsored by Rokform: Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-086.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/16/9to5mac-overtime-086-apples-smart-home-reboot/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-16T20:32:53.000Z"
     }
   ],
-  "lastUpdated": "2026-10-17T18:02:49.104Z",
+  "lastUpdated": "2026-10-18T06:02:47.061Z",
   "sources": [
     "TechCrunch",
     "The Verge",
