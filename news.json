@@ -1,6 +1,103 @@
 {
   "articles": [
     {
+      "id": "e9058f63a75919d6",
+      "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year",
+      "description": "iPhone Duo preorders just begun, and iPhone 18 Pro has been on the market for about a month. Of course, iPhone Duo is backordered through January right now, so whether or not you’re considering buying these phones – it makes it really easy to think about what’s coming next.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/18/new-revamped-iphone-lineup-coming-in-2027/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-19T02:16:00.000Z"
+    },
+    {
+      "id": "5b9e0c620448dc31",
+      "title": "Here’s how iPhone Duo’s battery capacity compares to other iPhones",
+      "description": "After pre-orders for iPhone Duo opened, Apple uploaded an EU regulatory document that finally revealed the true battery capacity for iPhone Duo: 4883mAh. Here’s how that compares to other iPhones.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-19T01:32:09.000Z"
+    },
+    {
+      "id": "91944f20d70924ba",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "description": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the de",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-18T22:20:53.000Z"
+    },
+    {
+      "id": "8d6c915bc525267c",
+      "title": "Apple keeps making the Phone app better; here’s how",
+      "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com.\nYou might not think about it often, but t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-18T21:19:49.000Z"
+    },
+    {
+      "id": "6def40efa69a98fc",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-18T21:00:00.000Z"
+    },
+    {
+      "id": "a3e34780e39419e0",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-18T20:37:40.000Z"
+    },
+    {
+      "id": "8143b7a334b8554d",
+      "title": "Amazon Discounts New Mac Mini by Up to $149, Mac Studio by $200",
+      "description": "Amazon has Apple's brand new Mac mini for up to $149 off this weekend, with deals focused on the M6 Mac mini this time around. You'll also find $200 off the M5 Max Mac Studio below.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we m",
+      "image": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "url": "https://www.macrumors.com/2026/10/18/new-mac-mini-149/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-18T20:15:14.000Z"
+    },
+    {
+      "id": "92e7b48b35831a31",
+      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "description": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. \nMister Organ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Mister-Organ-poster.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-18T19:30:00.000Z"
+    },
+    {
+      "id": "80fb025417e83a4a",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-18T19:03:38.000Z"
+    },
+    {
+      "id": "44d40602a894afa1",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "description": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-18T18:28:10.000Z"
+    },
+    {
       "id": "fc17ef30837eff31",
       "title": "Apple Expected to Release New Products on Next Four Fridays",
       "description": "Apple likely plans to release MacBook Pro models with OLED displays, 14-inch MacBook Pro and iMac models with M6 chips, and/or an iPad mini 8 with an OLED display on Friday, November 6, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nThe devices are expected to be announced on Tuesday, October 27 or Wedn",
@@ -23,7 +120,7 @@
     {
       "id": "de3c9c497921c84b",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "description": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to ",
+      "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch",
       "category": "Tech News",
@@ -188,113 +285,16 @@
       "publishedAt": "2026-10-17T21:30:45.000Z"
     },
     {
-      "id": "2efc88c915c7a403",
-      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "id": "eab23af564bd000f",
+      "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
       "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
       "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-10-17T20:55:52.000Z"
-    },
-    {
-      "id": "c47bfa7844688151",
-      "title": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
-      "description": "Apple has hired former Meta lawyer Scott Tucker to lead its litigation team, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nTucker will become Apple's vice president of global litigation and financial services, a new position overseeing commercial lawsuits, patent disputes, and legal matters involving i",
-      "image": "https://images.macrumors.com/article-new/2022/05/apple-park-at-night-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-17T20:21:20.000Z"
-    },
-    {
-      "id": "77691f92fd84ac5d",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-17T20:21:19.000Z"
-    },
-    {
-      "id": "ea12dc434e0f0a00",
-      "title": "TikTok bans Musk documentary account",
-      "description": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images) | AFP via Getty Images\t\n\nJust ahead of the wider release of Alex Gibney's Musk",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-17T19:32:23.000Z"
-    },
-    {
-      "id": "de07f50bedf840ee",
-      "title": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keeping",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Hoardware.png?w=1600",
-      "url": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-17T19:30:00.000Z"
-    },
-    {
-      "id": "5981238e0bc88856",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-17T18:48:08.000Z"
-    },
-    {
-      "id": "e3abff364b4cc5f9",
-      "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
-      "description": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-17T17:52:00.000Z"
-    },
-    {
-      "id": "07e11b27a0be3c36",
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "description": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging elec",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-17T17:00:00.000Z"
-    },
-    {
-      "id": "c62ca1b8fa1a9ed3",
-      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-      "description": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the tw",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-17T16:39:44.000Z"
-    },
-    {
-      "id": "bfd151109dccec8b",
-      "title": "EE announces iPhone Handoff pricing details for UK customers",
-      "description": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rc.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-17T15:54:02.000Z"
-    },
-    {
-      "id": "97e5faec548ea350",
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "description": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-17T15:30:00.000Z"
     }
   ],
-  "lastUpdated": "2026-10-18T18:02:17.485Z",
+  "lastUpdated": "2026-10-19T06:03:33.979Z",
   "sources": [
     "TechCrunch",
     "The Verge",
