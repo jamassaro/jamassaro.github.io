@@ -1,36 +1,13 @@
 {
-  "executiveSummary": "The latest technology news highlights significant advancements in AI, hardware, and industry shifts, with Apple dominating the headlines. The company is set to release new MacBook Pros with OLED touchscreens, while also testing macOS 27.2 and iOS 27.2 release candidates. Meanwhile, Amazon is funding nuclear energy facilities, and Nvidia is launching new open models for AI deployment. The tech industry is also seeing a growing backlash against AI, with Apple positioning itself as a responsible player.",
-  "takeaways": [
-    {
-      "title": "New MacBook Pros with OLED touchscreens",
-      "description": "Apple is expected to release new MacBook Pros with OLED touchscreens, marking a significant hardware development. This change is expected to impact the laptop market, with engineers and tech professionals keeping an eye on Apple's next product release."
-    },
-    {
-      "title": "AI and nuclear energy",
-      "description": "Amazon is funding nuclear energy facilities, while Nvidia is launching new open models for AI deployment. This trend highlights the growing importance of AI in various industries, including energy and tech."
-    }
-  ],
-  "trends": [
-    "Apple",
-    "AI",
-    "Nuclear Energy",
-    "Hardware",
-    "MacBook Pros"
-  ],
-  "worthWatching": [
-    "Amazon is funding a new nuclear plant in Indiana, with the goal of generating nearly 1 gigawatt of electricity."
-  ],
-  "engineeringPerspective": [
-    "The development of new MacBook Pros with OLED touchscreens will require significant advancements in display technology and manufacturing processes."
-  ],
+  "generatedAt": "2026-10-20T06:05:45.728Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "Apple",
-      "AI",
-      "Nuclear Energy"
-    ]
-  },
-  "generatedAt": "2026-10-19T18:05:59.908Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
