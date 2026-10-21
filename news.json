@@ -1,300 +1,302 @@
 {
   "articles": [
     {
-      "id": "e5095f54804fc4a6",
-      "title": "UK Proposes New Ways to Help Apple Pay Rivals",
-      "description": "The UK's competition regulator has proposed changes to make it easier and cheaper for companies to offer alternatives to Apple Pay on the iPhone (via Reuters).\r\n\r\n\r\nThe Competition and Markets Authority (CMA) says Apple's fees and restrictions make it too difficult for rivals to launch contactless p",
-      "image": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
-      "url": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-21T04:57:09.000Z"
+      "id": "64744f7c2e10aea7",
+      "title": "GM is giving OnStar an AI makeover",
+      "description": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T18:00:00.000Z"
     },
     {
-      "id": "164b35cb8c18ec5a",
-      "title": "WhatsApp Developing In-App Browser for All Chat Links on iPhone",
-      "description": "WhatsApp is developing an optional in-app browser for its iPhone app that would let users open any link shared in chats without leaving the app, according to WABetaInfo.\r\n\r\nSettings and Chats would let users enable the feature or continue opening links in their default browser. Users would also be a",
-      "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-21T04:15:09.000Z"
+      "id": "c01da50c0701cf22",
+      "title": "Will TP-Link really make routers in the US? Here’s what it told us",
+      "description": "A TP-Link Wi-Fi 8 router. | Image: TP-Link\t\n\nTP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of President Donald Trump's foreign router ban. Even",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tp-link-wifi-8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T18:00:00.000Z"
     },
     {
-      "id": "a20c2dd84a23a835",
-      "title": "Apple's App Store Chief Explains Its Push for Premium Games",
-      "description": "More premium games are launching on the App Store this year than last, Apple's ‌App Store‌ Worldwide head Carson Oliver told Polygon, including more franchises coming from PC and consoles.\r\n\r\n\r\nOliver said:\r\n\r\nWe've seen incredible growth of games coming to the App Store, in general, with more premi",
-      "image": "https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-Clorange.jpg",
-      "url": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-21T03:58:10.000Z"
+      "id": "73338f250860887b",
+      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+      "description": "A vehicle is welded by robot arms as it goes through the assembly line at the General Motors Lansing Delta Township Assembly Plant March 10, 2010 in Lansing, Michigan. | Photo: Getty Images\t\n\nGeneral Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if yo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-97616875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T18:00:00.000Z"
     },
     {
-      "id": "b8b39b4c1884dde5",
-      "title": "Apple Could Owe Even More After $5.7 Billion Patent Verdict",
-      "description": "Apple could face additional payments on top of a $5.7 billion patent verdict, with Taction Technology asking a federal judge for more damages, interest, and royalties on future iPhone and Apple Watch sales.\r\n\r\n\r\nThe request follows a September jury verdict that Apple's Taptic Engine infringed two Ta",
-      "image": "https://images.macrumors.com/article-new/2016/05/Taptic-Engine-iPhone-6s.jpg",
-      "url": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-21T03:24:11.000Z"
+      "id": "e7cc994a6c5f446a",
+      "title": "Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours",
+      "description": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now Microsoft is revealing today that bundles will start at $3.99 for",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T18:00:00.000Z"
     },
     {
-      "id": "a46beb00e292c906",
-      "title": "Skyrim Comes to Apple Silicon Macs With New Unofficial Installer",
-      "description": "Bethesda's beloved role-playing game \"The Elder Scrolls V: Skyrim\" has reached multiple generations of consoles since its 2011 debut, but it never officially came to the Mac. A new unofficial project called SkyrimMT now aims to make playing and modding it on Apple silicon Macs easier than ever.\r\n\r\n\r",
-      "image": "https://images.macrumors.com/article-new/2026/10/skyrim.jpg",
-      "url": "https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-21T02:56:30.000Z"
+      "id": "935d3e72934037b8",
+      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T17:59:12.000Z"
     },
     {
-      "id": "5a587f86bec841b7",
-      "title": "Apple Highlights Mac and iPad Use in Paris Design Exhibition",
-      "description": "Apple has showcased four design projects created using its products for this year's \"Designers of Tomorrow\" exhibition in Paris.\r\n\r\n\r\nThe exhibition explores the theme of presence through furniture and lighting. Architect Salem S. Charabi used a MacBook Pro to sketch and model a lantern, while desig",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-pencil-paris-design.jpg",
-      "url": "https://www.macrumors.com/2026/10/20/apple-highlights-paris-design-exhibition/",
+      "id": "4c06569fce270744",
+      "title": "iPhone Duo Has 'Edge Light' Feature That Debuted on Macs Last Year",
+      "description": "As noted by Miles Franklin, the iPhone Duo's inner display supports the Edge Light feature that debuted on Apple silicon Macs last year. On video calls in apps like FaceTime, Edge Light illuminates the borders of the screen to evenly brighten your face in low-light conditions. The feature is essenti",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Has-Edge-Light-Feature-Just-Like-Macs-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-edge-light-feature/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-21T02:29:08.000Z"
+      "publishedAt": "2026-10-21T17:57:33.000Z"
     },
     {
-      "id": "736f207a51c50a5c",
-      "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
-      "description": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display next week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to receive hands-on time with the device, alongside MacBook Pro models with touch-enabled OLED displays, a 14-inch MacBook Pro with a",
-      "image": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg",
-      "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
+      "id": "6b6e67c1a136bf82",
+      "title": "Apple Support App Updated for iPhone Duo's Larger Display",
+      "description": "Apple today updated its Apple Support app to add support for the iPhone Duo and iOS 27.1 (which the Duo ships with). Apple Support will now display properly on the ‌iPhone Duo‌'s wider screen, and it can be used alongside other apps in Split View.\r\n\r\n\r\n‌iPhone Duo‌ reviews went live today, and poorl",
+      "image": "https://images.macrumors.com/article-new/2023/08/Apple-Support-App-General-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/21/apple-support-app-iphone-duo/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-21T02:19:49.000Z"
+      "publishedAt": "2026-10-21T17:55:38.000Z"
     },
     {
-      "id": "73e5c36edafb3252",
-      "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
-      "description": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/apple-chip-lab.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
+      "id": "f807d75963badae4",
+      "title": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
+      "description": "Samsung’s latest version of The Frame TV is $400 off. | Image: Samsung\t\n\nIf you want a TV but prefer something that won’t clash with your room’s decor, Samsung’s The Frame is a standout option that’s designed to look like a piece of framed art instead of a black, monolithic rectangle mounted to your",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsungtheframetv2026.jpg.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T17:35:40.000Z"
+    },
+    {
+      "id": "eb4a874485cdb56b",
+      "title": "Amazon Sweetens the Deal on Entry-Level 16-Inch MacBook Pro With $570 Off",
+      "description": "Today we're tracking a pair of major discounts on Apple's newest MacBook Pro models, including up to $900 off two 16-inch models of the computer.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which he",
+      "image": "https://images.macrumors.com/article-new/2026/10/macbook-pro-black.jpeg",
+      "url": "https://www.macrumors.com/2026/10/21/amazon-16-inch-macbook-pro-570/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-21T17:34:45.000Z"
+    },
+    {
+      "id": "5801929f92345b9e",
+      "title": "iPhone Duo Tips Over on MagSafe Stands When Unfolded",
+      "description": "Some upright MagSafe charger designs won't work well with the iPhone Duo when it's unfolded. As demonstrated by Mrwhosetheboss, the uneven weight of the ‌iPhone Duo‌ can cause it to tilt on a charger when it's open.\r\n\r\n\r\nThe ‌MagSafe‌ ring on the back of the ‌iPhone Duo‌ is only on one half, and som",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-magsafe-charging/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-21T17:24:56.000Z"
+    },
+    {
+      "id": "0edc3a2c819bb991",
+      "title": "EA is shutting down BioWare",
+      "description": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has chosen not to continue development on the next Mass Effect game that was in the works",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gsh636en2u1g1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T17:19:07.000Z"
+    },
+    {
+      "id": "6649fa394e39ac78",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T17:18:27.000Z"
+    },
+    {
+      "id": "0e3701b1cecb3d32",
+      "title": "Slow Horses showrunner explains finale shock ending, season 7 trailer debuts",
+      "description": "The Slow Horses season 6 finale is available now, with a shocking ending that is explained by new showrunner Gaby Chiappe in an interview. Plus, Apple has debuted the first trailer for season 7.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/slow-horses-s6-jackson-lamb-phone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/21/slow-horses-showrunner-explains-finale-shock-ending-season-7-trailer-debuts/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-21T01:18:32.000Z"
+      "publishedAt": "2026-10-21T17:14:00.000Z"
     },
     {
-      "id": "b76a43e3e0c4ad05",
-      "title": "Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV",
-      "description": "German-language dark comedy “Where’s Wanda?” is back on Apple TV, with the first episode of its second season now streaming. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wheres-wanda.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/",
+      "id": "9ba7cad55647dabc",
+      "title": "iOS Decoded: iOS 27.2 RC – hands-on w/ HomePod Sound Glow, TV profiles, Apple TV Home Theater assets, more [Video]",
+      "description": "In this episode of iOS Decoded, we take the HomePod’s new Sound Glow feature for a test drive and try out the new Lock Controls feature to prevent accidental activation of its top cap.\nWe also go hands-on with other changes, like the handy new profiles option for the TV app and Suggested Actions for",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.2-RC-SoundGlow-03.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/21/ios-decoded-ios-27-2-rc-hands-on-w-homepod-sound-glow-tv-profiles-apple-tv-home-theater-assets-more-video/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-21T01:01:09.000Z"
+      "publishedAt": "2026-10-21T17:00:32.000Z"
     },
     {
-      "id": "9d81a0180be8af68",
-      "title": "YouTube might be testing hiding the dislike button",
-      "description": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+      "id": "d3110cd07c154edc",
+      "title": "They want your blood",
+      "description": "Your blood, for “immortality.” | Image: Cath Virgina / The Verge, Getty Images\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nIt'",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268812_Everybody_wants_my_blood_CVirginia4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-21T00:00:56.000Z"
+      "publishedAt": "2026-10-21T17:00:00.000Z"
     },
     {
-      "id": "615cd1dad11d5413",
-      "title": "Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones",
-      "description": "Apple is continuing to work on 6G, the successor to 5G that's on track to be ready sometime around 2030. Apple has been preparing for the eventual launch of the 6G standard since at least 2020.\r\n\r\n\r\nApple is hiring a 6G Cellular Modem Systems Engineer who will \"define and build the next generation o",
-      "image": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-      "url": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/",
+      "id": "7d010a9760c5e2a2",
+      "title": "Waymo starts offering rides at the Las Vegas airport",
+      "description": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T16:59:44.000Z"
+    },
+    {
+      "id": "15e0c42809a19c41",
+      "title": "Apple Music's New Look Officially Announced",
+      "description": "Following the introduction of a new Apple Music logo and app icon earlier this month, Apple today officially introduced Apple Music's new brand identity.\r\n\r\n\r\nIn a YouTube video shared today, Apple said the new Apple Music visuals were \"made by sound.\" More specifically, Apple said it played a sound",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Music-New-Branding.jpg",
+      "url": "https://www.macrumors.com/2026/10/21/apple-music-new-look-announced/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-20T23:46:21.000Z"
+      "publishedAt": "2026-10-21T16:48:18.000Z"
     },
     {
-      "id": "d479902d5f9bf02e",
-      "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch",
-      "description": "With just a couple of days to go until the iPhone Duo launches, the first unboxing video has surfaced online from someone who managed to get a device early.\r\n\r\n\n\r\nThe ‌iPhone Duo‌ ships flat instead of folded, and it is otherwise packaged like any other iPhone.\r\n\r\nWe've already seen first impression",
-      "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-20T23:31:23.000Z"
-    },
-    {
-      "id": "39d2fa14a5de9bd0",
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "description": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "id": "9b7654d0316aac82",
+      "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
+      "description": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon Store. Thousands of \"remastered\" workouts and some new ones are available in the new a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_Sherry_LPhilomene_0024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-20T23:04:19.000Z"
+      "publishedAt": "2026-10-21T16:05:51.000Z"
     },
     {
-      "id": "b4116fd1912311ff",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T23:01:23.000Z"
-    },
-    {
-      "id": "494a65f88448154c",
-      "title": "SpaceX and Tesla boards form special committees to review merger",
-      "description": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
-      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T22:57:57.000Z"
-    },
-    {
-      "id": "5058bb0087e25f6a",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T22:24:02.000Z"
-    },
-    {
-      "id": "4a29555402bd9967",
-      "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
-      "description": "Perplexity today said it is updating Perplexity Computer to run fully locally on Mac. The local version runs on Qwen 3.6 or PPLX Pro (a post-trained version of Qwen) in the Perplexity app for Mac on supported Apple silicon Macs.\r\n\r\n\r\nPerplexity highlights the new Mac mini machines and says 36GB of m",
-      "image": "https://images.macrumors.com/article-new/2026/10/perplexity-computer.jpg",
-      "url": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-20T22:20:12.000Z"
-    },
-    {
-      "id": "433aa4d52da48c6d",
-      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-      "description": "Influencer Nick Shirley listens as US President Donald Trump makes an announcement on fraud in the Oval Office of the White House in Washington, DC, on October 20, 2026. (Photo by Jim WATSON / AFP via Getty Images) | AFP via Getty Images\t\n\nDonald Trump and Vice President JD Vance said on Tuesday tha",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300641963.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T22:20:11.000Z"
-    },
-    {
-      "id": "a0b9040d2c5fbd70",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "description": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.\nAs an example, Google says you can ask Gemini abou",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T22:11:34.000Z"
-    },
-    {
-      "id": "5e56b56063f66ce0",
-      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-      "description": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. \nMusk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent director",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T21:30:24.000Z"
-    },
-    {
-      "id": "88f6800298bebc60",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T21:25:22.000Z"
-    },
-    {
-      "id": "2c620dab42ef9868",
-      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-      "description": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recov",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T21:02:53.000Z"
-    },
-    {
-      "id": "c9f8a594084c4e96",
-      "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
-      "description": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923972/acastro_STK072_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T20:52:07.000Z"
-    },
-    {
-      "id": "df2ec0eb8e22db71",
-      "title": "Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days",
-      "description": "According to a new report from Sensor Tower, not only did Meta’s Muse become the 12th app ever to reach 10 million US downloads in 40 days, but it is also outpacing its peers in user retention. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600",
-      "url": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
+      "id": "42b200cdf9241a4f",
+      "title": "Here’s where Apple says iPhone Duo will (and won’t) be available for walk-ins",
+      "description": "Are you planning to line up at the Apple Store for a walk-in iPhone Duo purchase? Here’s what Apple says about availability to expect for the new model.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/21/heres-where-apple-says-iphone-duo-will-and-wont-be-available-for-walk-ins/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-20T20:45:05.000Z"
+      "publishedAt": "2026-10-21T15:58:59.000Z"
     },
     {
-      "id": "75128440b0d86df4",
-      "title": "SpaceX’s AI business is beating expectations",
-      "description": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T20:40:41.000Z"
-    },
-    {
-      "id": "1c3ff2d9778d9e5f",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T20:35:10.000Z"
-    },
-    {
-      "id": "68d776f173171dd2",
-      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-      "description": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_10042.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
+      "id": "675c196765f2f762",
+      "title": "Apple Music has a new logo",
+      "description": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new logo, the updated wordmark, and a new sound composed by British p",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-20T20:32:09.000Z"
+      "publishedAt": "2026-10-21T15:48:12.000Z"
     },
     {
-      "id": "8e0fcb77cb01f3fa",
-      "title": "SpaceX says big AI growth fueled revenue jump",
-      "description": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T20:26:58.000Z"
+      "id": "816c7d517c7e3670",
+      "title": "iPhone Duo Supports Apple Pencil Starting With iOS 27.2",
+      "description": "As noted by Creative Strategies analyst Max Weinbach, the iPhone Duo is gaining Apple Pencil support with iOS 27.2, which is expected to be released to the public next week. You can use the USB-C version of the Apple Pencil to draw, annotate, and scroll within supported apps on the iPhone Duo's inne",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Apple-Pencil.jpg",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-apple-pencil-support-ios-27-2/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-21T15:45:11.000Z"
     },
     {
-      "id": "f562eb05101d78b8",
-      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
-      "description": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oura1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-20T20:26:04.000Z"
-    },
-    {
-      "id": "08119bbacea6c947",
-      "title": "Apple’s ‘Designers of Tomorrow’ highlights creative projects from emerging designers",
-      "description": "Apple, in collaboration with Design Miami, is highlighting four creative projects from emerging designers in this year’s ‘Designers of Tomorrow’ exhibition, which opens today at Hôtel de Maisons in Paris. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-designers-of-tomorrow-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/20/apples-designers-of-tomorrow-highlights-creative-projects-from-emerging-designers/",
+      "id": "6842bc32d2b2eb7c",
+      "title": "Apple Music unveils new design rebrand, with logo ‘made by sound’",
+      "description": "Apple Music has officially launched its rebrand with a new design, logo, and more. And in a video detailing the rebrand, Apple reveals the new look was actually “made by sound.”\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/21/apple-music-unveils-new-design-rebrand-with-logo-made-by-sound/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-20T20:07:26.000Z"
+      "publishedAt": "2026-10-21T15:35:18.000Z"
+    },
+    {
+      "id": "bf566550fbc59515",
+      "title": "Deals: Apple TV 4K, iPhone Duo power bank, AirPods Pro 3, M6 Mac mini, Magic Keyboard, more",
+      "description": "Alongside the ongoing pre-order discount on the new Apple TV 4K, Amazon is still shipping $50 off. Just be sure to check out the all-time low on HyperDrive Next Thunderbolt 5 Dock. Everything else awaits below. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4L-AirPods-Pro-3-iPhone-Duo-power-bank.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/21/deals-apple-tv-4k-iphone-duo-power-bank-airpods-pro-3/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-21T15:29:13.000Z"
+    },
+    {
+      "id": "ac2622252219fa6c",
+      "title": "Google Maps on CarPlay rolling out Gemini when navigating",
+      "description": "Google Maps in CarPlay now lets you access Gemini when navigating for a conversational driving experience.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Gemini-Google-Maps-CarPlay.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-21T15:01:12.000Z"
+    },
+    {
+      "id": "471346fc4b902969",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "description": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T15:00:00.000Z"
+    },
+    {
+      "id": "6f348a059130e388",
+      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
+      "description": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if you’re interested in hearing about one with gaming chops, Samsung’s 27-inch Odyssey G80HF",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsung5k.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T14:47:14.000Z"
+    },
+    {
+      "id": "11d968dbbd0b892a",
+      "title": "iPhone Duo Accessories Roundup: Cases and Screen Protectors From OtterBox, ZAGG, and More",
+      "description": "iPhone Duo will start arriving to pre-order customers this Friday, and in anticipation of the launch we've gathered all of the best cases and screen protectors you can get for your new iPhone Duo. This includes accessories from popular brands like OtterBox, Speck, ZAGG/Mophie, and more.\r\n\r\nNote: Mac",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-accessories-roundup/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-21T14:25:48.000Z"
+    },
+    {
+      "id": "79529ba923cf0650",
+      "title": "Apple Stores Will Have 'Limited' Availability of iPhone Duo for Walk-In Customers",
+      "description": "In a statement shared with MacRumors today, an Apple spokesperson said there will be \"limited\" availability of the iPhone Duo for walk-in customers at Apple Stores in select countries when the device launches this Friday, October 23.\r\n\r\n\r\nApple's full statement:\nOn Friday morning, our teams look for",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hinge-Feature-4.jpg",
+      "url": "https://www.macrumors.com/2026/10/21/apple-stores-limited-iphone-duo-for-walk-in/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-21T14:24:38.000Z"
+    },
+    {
+      "id": "d9b2dfe6bcfd5d43",
+      "title": "iPhone Duo will add Reachability feature ‘later this year’",
+      "description": "iPhone Duo launches this Friday (read our full review here), but there’s one software feature Apple says won’t be ready until later this year: Reachability.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/21/iphone-duo-will-add-reachability-feature-later-this-year/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-21T14:10:20.000Z"
+    },
+    {
+      "id": "30090dba4a2e60c1",
+      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "description": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-21T14:03:11.000Z"
     }
   ],
-  "lastUpdated": "2026-10-21T06:02:25.094Z",
+  "lastUpdated": "2026-10-21T18:02:48.039Z",
   "sources": [
     "TechCrunch",
     "The Verge",
