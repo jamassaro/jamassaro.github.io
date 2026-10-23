@@ -1,298 +1,297 @@
 {
   "articles": [
     {
-      "id": "62be3a5f7362a7bf",
-      "title": "Apple Pulls Keynote, Pages and Numbers From App Store",
-      "description": "Apple has temporarily removed Keynote, Pages, and Numbers from the App Store, just after releasing an update that added iPhone Duo support and a new Intelligent Assistant.\r\n\r\n\r\nIt is not clear if the apps were removed intentionally, or if it is a bug. Apple has not said when the apps will be reinsta",
-      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Creator-Studio-iWork-suite.jpg",
-      "url": "https://www.macrumors.com/2026/10/22/apple-removes-iwork-apps-app-store/",
+      "id": "fc73cc11fef0e56e",
+      "title": "iPhone Duo Demand Reportedly Exceeds Apple's Expectations",
+      "description": "Apple's iPhone Duo has attracted more pre-orders than the company anticipated in several major markets, according to DigiTimes, with display chip suppliers hoping its reception will boost investment in foldable devices.\r\n\r\n\r\n\r\nOLED touch and display driver integration, known as TDDI. The technology ",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-demand-exceeds-expectations/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-22T18:01:35.000Z"
+      "publishedAt": "2026-10-23T04:24:18.000Z"
     },
     {
-      "id": "c48021d769f0e932",
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "description": "Microsoft AI chief Mustafa Suleyman. | Getty Images\t\n\nFor years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-pow",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T18:00:00.000Z"
-    },
-    {
-      "id": "03481dab13ee9053",
-      "title": "Orangetheory adds Apple Watch in-studio workout tracking for a one-time fee",
-      "description": "Starting tomorrow, Orangetheory Fitness will allow members to connect the Apple Watch to the club’s proprietary in-studio performance-tracking experience. Using a personal Apple Watch with the Orangetheory system will require a one-time fee.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/orangetheory-apple-watch.webp?w=1600",
-      "url": "https://9to5mac.com/2026/10/22/orangetheory-adds-apple-watch-in-studio-workout-tracking-for-a-one-time-fee/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-22T17:48:26.000Z"
-    },
-    {
-      "id": "cc6b9946d0e8d1b0",
-      "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
-      "description": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T17:46:40.000Z"
-    },
-    {
-      "id": "0cf918bea53e9916",
-      "title": "Pages, Keynote, Numbers just added powerful new AI features",
-      "description": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities. Here’s what it can do.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-22T17:44:43.000Z"
-    },
-    {
-      "id": "78c9303ca08f0726",
-      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
-      "description": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \n\"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I think we've got a go",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T17:42:52.000Z"
-    },
-    {
-      "id": "749e2a192538417d",
-      "title": "Elon Musk made a $1 billion investment in Skydance, report says",
-      "description": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
-      "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+      "id": "15c2e8f4fb829363",
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-22T17:36:38.000Z"
+      "publishedAt": "2026-10-23T04:22:57.000Z"
     },
     {
-      "id": "c24de929a599e266",
-      "title": "Apple Updates More Apps With iPhone Duo Support",
-      "description": "Apple today updated its TestFlight and GarageBand apps with support for the iPhone Duo's inner and outer displays.\r\n\r\n\r\nBoth apps have the vertical toolbar and will now display properly on the ‌iPhone Duo‌ in any orientation.\r\n\r\nTestFlight functionality is largely the same with little benefit from t",
-      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-garageband.jpg",
-      "url": "https://www.macrumors.com/2026/10/22/apple-iphone-duo-apps-garageband/",
+      "id": "55ede16904bf1fbc",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "id": "d5ffad929a7fc1d5",
+      "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
+      "description": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch. In a new interview with TechRadar, Apple marketing SVP Greg Joswiak offered insight into demand and in-store availability for the first foldable iPho",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T03:15:09.000Z"
+    },
+    {
+      "id": "9081cfc36de40362",
+      "title": "Apple is finally catching up with Siri, but the goalposts are moving again",
+      "description": "9to5Mac is brought to you by Memoket: Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago. 20-hour battery. Available now from $168.99 on memoket.ai and Amazon.\nWhile it is great that Siri A",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T01:42:38.000Z"
+    },
+    {
+      "id": "df96eeda4937beaf",
+      "title": "WhatsApp starts testing long-awaited scheduled messages on iPhone",
+      "description": "After years of waiting, WhatsApp is finally making one of its most-requested messaging features available to select iPhone beta testers. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/whatsapp-starts-testing-long-awaited-scheduled-messages-on-iphone/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T01:22:37.000Z"
+    },
+    {
+      "id": "1568aff13cd6192d",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T00:45:37.000Z"
+    },
+    {
+      "id": "c154816d6d4aa189",
+      "title": "Apple wins again in copyright infringement battle over Apple TV thriller series",
+      "description": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller series was copied from an independent film. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T00:30:41.000Z"
+    },
+    {
+      "id": "85f9275eca7a20c6",
+      "title": "Etsy is cracking down on AI slop listings",
+      "description": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongsi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,82.725656291205",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T00:09:58.000Z"
+    },
+    {
+      "id": "245bf107ecf43505",
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-22T23:50:41.000Z"
+    },
+    {
+      "id": "61212a25070d4775",
+      "title": "Strava revamps route discovery with smarter search, offline improvements, more",
+      "description": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-routes.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-22T23:29:15.000Z"
+    },
+    {
+      "id": "64dc316b73e05918",
+      "title": "Retro game emulator Delta looks great on the iPhone Duo",
+      "description": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo.\nThe app now has specially-designed controller skins that are optimized for all the different iPhone Duo poses, including some beau",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-delta-game-emulator.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-22T23:23:32.000Z"
+    },
+    {
+      "id": "010dd27da3cab8b9",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "description": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-22T23:15:00.000Z"
+    },
+    {
+      "id": "a2b8335c23c81aff",
+      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+      "description": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25378910/STK088_SPOTIFY_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-22T23:02:43.000Z"
+    },
+    {
+      "id": "c0c6461fbe31caf3",
+      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+      "description": "An Xbox Elite controller. | Photo by Antonio G. Di Benedetto / The Verge\t\n\nFortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. \nMy first reaction",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-22T23:00:00.000Z"
+    },
+    {
+      "id": "ecd2b9fa679c2e66",
+      "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
+      "description": "A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of declining demand. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-22T22:35:38.000Z"
+    },
+    {
+      "id": "93697ae272d7daed",
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-22T22:34:54.000Z"
+    },
+    {
+      "id": "ad6efa20926ccf91",
+      "title": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/daily-october-22-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-22T22:23:46.000Z"
+    },
+    {
+      "id": "957c4516a0446085",
+      "title": "iPhone Duo Launch Begins as First Orders Reach Customers",
+      "description": "It's already Friday, October 23 in Australia and New Zealand, which means customers who pre-ordered an iPhone Duo are beginning to receive their devices.\r\n\r\n\r\nWe are seeing first impressions and early photos from actual customers on the MacRumors forums, Instagram, Reddit, and other social networks.",
+      "image": "https://images.macrumors.com/article-new/2026/10/boardiesboi-duo-australia.jpg",
+      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-22T17:31:41.000Z"
+      "publishedAt": "2026-10-22T22:21:59.000Z"
     },
     {
-      "id": "14c1c1c7c46060e1",
-      "title": "Arc browser gets a sunset date, and users have two months to move on",
-      "description": "The Browser Company announced plans to discontinue its flagship Arc browser in favor of a new browser project called Dia. Today, Arc received a sunset date that gives users exactly two months to move on from the discontinued app.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/Arc-Browser.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/22/arc-browser-gets-a-sunset-date-and-users-have-two-months-to-move-on/",
+      "id": "1943c5a454f928ae",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-22T22:08:24.000Z"
+    },
+    {
+      "id": "ac8354aa084937b3",
+      "title": "YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade",
+      "description": "YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds, including moving Subscriptions out of the bottom bar.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/YouTube-Subscriptions-move-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-22T17:28:58.000Z"
+      "publishedAt": "2026-10-22T22:07:34.000Z"
     },
     {
-      "id": "9806c31346d3056f",
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "description": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.\n\n\ni jailbroke the nintendo switch 2\nso i modd",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "id": "06af9d97cfbe8ed9",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "description": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precis",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-22T17:21:31.000Z"
+      "publishedAt": "2026-10-22T21:51:25.000Z"
     },
     {
-      "id": "933698d1946c219c",
-      "title": "1Password launches solution for safely using logins with AI agents",
-      "description": "1Password has been focused on building password management tools that make sense in the age of agentic AI. In July, the company launched a special integration with Claude. Today, 1Password is going further with the arrival of 1Password for Agents.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/1password-app-icon-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/22/1password-launches-solution-for-safely-using-logins-with-ai-agents/",
+      "id": "4ddbac5f1f7f73fd",
+      "title": "Apple TV’s long-awaited Fleetwood Mac documentary finally has a release date",
+      "description": "Nearly two years after it was first announced, Fleetwood Mac fans won’t have to wait much longer for Frank Marshall’s documentary about the legendary band to arrive on Apple TV. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/fleetwood-mac-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/apple-tvs-long-awaited-fleetwood-mac-documentary-finally-has-a-release-date/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-22T17:15:01.000Z"
+      "publishedAt": "2026-10-22T21:38:44.000Z"
     },
     {
-      "id": "22782098bd81020e",
-      "title": "Arc browser is shutting down",
-      "description": "Arc’s website today. | Screenshot: The Verge\t\n\nThe Browser Company plans to \"sunset\"  its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser w",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
+      "id": "c9a179fa41efc6a8",
+      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "description": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-yea",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-22T17:03:37.000Z"
+      "publishedAt": "2026-10-22T21:30:39.000Z"
     },
     {
-      "id": "c2ed37ba4fbd3552",
-      "title": "The disastrous PHP vulnerabilities were exploited days before the patch",
-      "description": "Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T16:49:48.000Z"
-    },
-    {
-      "id": "f34d9f062bc38ffb",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T16:47:17.000Z"
-    },
-    {
-      "id": "5236e802c110fc4b",
-      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-      "description": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brou",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T16:16:15.000Z"
-    },
-    {
-      "id": "8d1f57e2ba8c9748",
-      "title": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
-      "description": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would \"probably pass\" on renaming ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T16:00:29.000Z"
-    },
-    {
-      "id": "43a85a285d54de0d",
-      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-      "description": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
-      "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T16:00:00.000Z"
-    },
-    {
-      "id": "1c91f426fdb75e48",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T16:00:00.000Z"
-    },
-    {
-      "id": "4af0aae1915da073",
-      "title": "Microsoft shuts down its beloved maker space",
-      "description": "Microsoft CEO Satya Nadella at a hackathon event in 2016. | Image: Microsoft\t\n\nMicrosoft is closing down The Garage, a set of popular maker spaces where employees worked on experimental projects and collaborated on surprising new apps and hardware during the company's annual hackathon events.\n\"We're",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/R_2016-Hackathon-Day2-064-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1016389/microsoft-garage-closure-hackathon-notepad",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T16:00:00.000Z"
-    },
-    {
-      "id": "535b9acc7828c45b",
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "description": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.\nNvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T15:50:30.000Z"
-    },
-    {
-      "id": "2d2695037c333bd4",
-      "title": "Tesla is prepping a Cybercab onslaught",
-      "description": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
-      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T15:44:39.000Z"
-    },
-    {
-      "id": "bd6e01041c53fc00",
-      "title": "Four advantages MacBook Pro redesign will have over current model",
-      "description": "Next week Apple will unveil its first MacBook Pro redesign in five years. Rumors indicate the new MacBook Pro will have the same M5 Pro and M5 Max chips as current models, but with exclusive advantages in at least four other areas.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/22/four-advantages-macbook-pro-redesign-will-have-over-current-model/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-22T15:36:11.000Z"
-    },
-    {
-      "id": "f368fa8cef619ef4",
-      "title": "Deals: MacBook Pro $900 off, Apple Pencil (USB-C) from $61, Apple TV 4K, MacBook Neo, more",
-      "description": "You can still lock in your Apple TV 4K pre-order discount before delivery dates slip ever further, much like the new HomeView, and we also have AirPods Pro 3 at $50 off. But today’s 9to5Toys Lunch Break is headlined by iPhone Duo-ready Apple Pencil (USB-C) as low as $61 at Amazon (more details here)",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-MacBook-Neo-Pro-Apple-TV-4K-Apple-Pencil.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/22/deals-macbook-apple-pencil-usb-c-apple-tv-4k-neo/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-22T15:32:25.000Z"
-    },
-    {
-      "id": "e06d5a0c265ec41f",
-      "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-      "description": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
-      "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T15:24:32.000Z"
-    },
-    {
-      "id": "1ad8197f3d94e21d",
-      "title": "Investors break down how founders can raise a Series A today",
-      "description": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
-      "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T15:15:00.000Z"
-    },
-    {
-      "id": "f6d803c10a334bac",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "description": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T15:03:58.000Z"
-    },
-    {
-      "id": "b19c30e84c0adc44",
-      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-      "description": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-22T14:59:28.000Z"
-    },
-    {
-      "id": "e57f03482f50f242",
-      "title": "iOS 27.2 introduces design changes for these Apple apps",
-      "description": "iOS 27.2 launches next week with a variety of new features, and also design changes for select Apple apps. Here’s what’s coming.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/22/ios-27-2-introduces-design-changes-for-these-apple-apps/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-22T14:49:17.000Z"
-    },
-    {
-      "id": "c7f510bb449f9457",
-      "title": "Apple Will Label Apps 'Made for iPhone Duo' in App Store",
-      "description": "In its press release highlighting apps that have been optimized for the iPhone Duo, Apple said the App Store will label apps that are \"Made for iPhone Duo.\"\r\n\r\n\r\nIn order for an app to be optimized for the iPhone Duo, the developer needs to build it with the iOS 27.1 SDK or later. Apps optimized for",
-      "image": "https://images.macrumors.com/article-new/2026/10/Lyft-iPhone-Duo.jpg",
-      "url": "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
+      "id": "16edb6bcb545991d",
+      "title": "1Password for Agents Keeps Your Passwords Hidden From AI",
+      "description": "Popular password management app 1Password today announced 1Password for Agents, a platform that gives AI agents safe access to user credentials for completing tasks.\r\n\r\n\n\r\nThe platform lets AI agents access logins, passwords, and other data without seeing or storing the information. Agents can send ",
+      "url": "https://www.macrumors.com/2026/10/22/1password-for-agents/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-22T14:40:36.000Z"
+      "publishedAt": "2026-10-22T21:27:57.000Z"
     },
     {
-      "id": "26654bb03e994be2",
-      "title": "Leaker reveals larger iPhone Duo details, possible Telephoto camera",
-      "description": "Today on Mark Gurman’s Power On podcast, the prolific leaker offered fresh insights into several features in the works for future iPhone Duo models, including larger screen sizes and possibly a Telephoto camera.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/22/leaker-reveals-larger-iphone-duo-details-possible-telephoto-camera/",
+      "id": "950d3b44dde87deb",
+      "title": "Fall 2026 earnings watch",
+      "description": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-22T21:15:16.000Z"
+    },
+    {
+      "id": "97af86245277c2a0",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "description": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-22T21:05:05.000Z"
+    },
+    {
+      "id": "7f696b7954ba95cf",
+      "title": "iPhone Duo 24 Hours Later: Your Questions Answered",
+      "description": "MacRumors videographer Dan Barbera got his iPhone Duo a day early, so he spent today answering some of the questions people are asking about the new device.\r\n\r\n\n\r\nOn app optimization, some apps scale to fill the Duo's screen, and others have been updated for the actual Duo form factor with unique fe",
+      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-24-hours-hands-on/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-22T20:55:51.000Z"
+    },
+    {
+      "id": "310493dceedac603",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "description": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [lang",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-22T20:32:05.000Z"
+    },
+    {
+      "id": "51d985876edfc3fa",
+      "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
+      "description": "iOS 27 is packed with new features for apps like Notes, Wallet, Maps, Messages, and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature: Call Context.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/22/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-22T14:20:22.000Z"
+      "publishedAt": "2026-10-22T20:29:15.000Z"
     }
   ],
-  "lastUpdated": "2026-10-22T18:02:52.936Z",
+  "lastUpdated": "2026-10-23T06:02:40.500Z",
   "sources": [
     "TechCrunch",
     "The Verge",
