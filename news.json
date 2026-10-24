@@ -1,6 +1,288 @@
 {
   "articles": [
     {
+      "id": "7c642e646ea637d3",
+      "title": "Apple Closes French Stores Ahead of Further Protests",
+      "description": "Seven Apple stores across France are closed on today, as the country prepares for another round of demonstrations a week after looters targeted two of the company's locations.\r\n\r\n\r\nAs first spotted by MacGeneration, the affected stores include all three Paris locations: Champs-Élysées, Opéra, and Ma",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Champs-Elysees-Paris-France.jpg",
+      "url": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-24T04:51:16.000Z"
+    },
+    {
+      "id": "7fb060df5db32bcc",
+      "title": "Apple Pushes Back on DOJ Request for More Evidence",
+      "description": "Apple and the U.S. Department of Justice disagree over how much newer evidence Apple must hand over in their antitrust case, according to a new court filing this week.\r\n\r\n\r\n\r\nThe two sides previously agreed to a June 20, 2025 cutoff for Apple's records. With the evidence-gathering phase now schedule",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-24T04:02:07.000Z"
+    },
+    {
+      "id": "11324d1640db43eb",
+      "title": "Using an Apple Pencil With the iPhone Duo: What to Know",
+      "description": "The iPhone Duo is compatible with the Apple Pencil, if you have the right one. MacRumors videographer Dan Barbera tested the ‌Apple Pencil‌ with the ‌iPhone Duo‌ to see if it's a useful tool to pick up.\r\n\r\n\n\r\nIf you already have an ‌Apple Pencil‌ 1, ‌Apple Pencil‌ 2, or ‌Apple Pencil‌ Pro to use wit",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-24T00:14:20.000Z"
+    },
+    {
+      "id": "028aa48c5c1141cb",
+      "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
+      "description": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T23:50:49.000Z"
+    },
+    {
+      "id": "3c9d9167ab339311",
+      "title": "Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited",
+      "description": "The option to reserve an iPhone Duo for Apple Store pickup is starting to return on Apple's online store, with the system live again in countries such as Australia, China, Japan, and South Korea. Unfortunately, our spot check revealed extremely limited availability right now, with few to no time slo",
+      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T23:33:36.000Z"
+    },
+    {
+      "id": "786b6dcea44f1571",
+      "title": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS",
+      "description": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find quite a few apps using the foldable display in unique ways, many with skeuomorphic designs.\r\n\r\n\r\nTiny Computers ($3.99)\n\r\nTiny Computers turns the ‌iP",
+      "image": "https://images.macrumors.com/article-new/2026/10/tiny-computer-iphone-duo.jpg",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T23:22:55.000Z"
+    },
+    {
+      "id": "e5709bcddd90b4f3",
+      "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
+      "description": "Following today’s launch of the iPhone Duo, Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T23:12:21.000Z"
+    },
+    {
+      "id": "74033a91e3504b5e",
+      "title": "Startups don’t need to go viral to win customers",
+      "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T23:07:45.000Z"
+    },
+    {
+      "id": "26c9900adf1dbe17",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T23:05:49.000Z"
+    },
+    {
+      "id": "0ad14bba7e8137a8",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T21:59:19.000Z"
+    },
+    {
+      "id": "2c124d3a04e65b02",
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "description": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T21:39:26.000Z"
+    },
+    {
+      "id": "cedac5e51e1328b1",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T21:11:07.000Z"
+    },
+    {
+      "id": "2cd222887e29b492",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "description": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T20:57:13.000Z"
+    },
+    {
+      "id": "92323f489ed7b2d3",
+      "title": "Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today",
+      "description": "Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s United States Grand Prix. Here’s the schedule.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T20:23:43.000Z"
+    },
+    {
+      "id": "754e3c46018f6a1e",
+      "title": "9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/23/daily-october-23-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T20:14:02.000Z"
+    },
+    {
+      "id": "bd260a15883af1bc",
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "description": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T20:03:14.000Z"
+    },
+    {
+      "id": "59281bb2a50331ee",
+      "title": "Apple Store in UK Reopens With New Design on iPhone Duo Launch Day",
+      "description": "Following more than three months of renovations, the Apple SouthGate store in Bath, England reopened today, just in time for iPhone Duo launch day. The store has received an updated design with a dedicated Apple Pickup area, a more accessible Genius Bar with varied table and seat heights, and other ",
+      "image": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg",
+      "url": "https://www.macrumors.com/2026/10/23/apple-southgate-reopens/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T20:02:59.000Z"
+    },
+    {
+      "id": "4d0bafd064f3dad4",
+      "title": "iPhone Duo Jailbroken on Launch Day",
+      "description": "Just hours after being released, an iPhone Duo running iOS 27.1 has been jailbroken by hacker team Calif.\r\n\r\n\r\nCalif demonstrated the ‌iPhone Duo‌'s icons and widgets bouncing around, and added an anime character to the device's screen.\r\n\r\ngroup shared videos featuring an untethered jailbreak on an ",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T19:53:55.000Z"
+    },
+    {
+      "id": "436ecef94c11f278",
+      "title": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3",
+      "description": "Rising memory prices continue to weigh on the global smartphone market, with shipments in China alone falling 10% year over year in Q3. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-official.webp?w=1500",
+      "url": "https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T19:50:23.000Z"
+    },
+    {
+      "id": "da7acc2821b2e59a",
+      "title": "iPhone Duo has hidden trick that solves a common complaint",
+      "description": "iPhone Duo is officially out in the wild, and users keep discovering new details about the device. The latest: there’s a hidden trick that makes opening Control Center significantly easier.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-front-home-screen-chm.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T19:43:08.000Z"
+    },
+    {
+      "id": "4a9657eacb305957",
+      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+      "description": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just w",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T19:35:15.000Z"
+    },
+    {
+      "id": "9b2c82ad878a67fa",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "description": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.\nTake this one, for example, shared by Dessa lead Ragavan",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T19:32:39.000Z"
+    },
+    {
+      "id": "899c0bf61a75b9e4",
+      "title": "Apple Seeds Updated watchOS 27.2 Release Candidate",
+      "description": "Apple today seeded an updated version of the watchOS 27.2 release candidate, four days after the first RC became available.\r\n\r\n\r\nRegistered developers and public beta testers can download software through the Apple Watch Settings app or using the Apple Watch app on iPhone.\r\n\r\nSiri AI features and ex",
+      "image": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "url": "https://www.macrumors.com/2026/10/23/apple-seeds-watchos-27-2-rc-2/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T19:28:10.000Z"
+    },
+    {
+      "id": "e38048129f4994eb",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "description": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T19:25:13.000Z"
+    },
+    {
+      "id": "a8da475bfbb50ce6",
+      "title": "watchOS 27.2 gets new RC ahead of next week’s launch",
+      "description": "Apple has just released a second RC (release candidate) build of watchOS 27.2 for testing. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-rc.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/23/watchos-27-2-gets-new-rc-ahead-of-next-weeks-launch/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T19:19:09.000Z"
+    },
+    {
+      "id": "bfae03c631f4fd2c",
+      "title": "Next week’s MacBook Pro could be huge upgrade, but with one problem",
+      "description": "Apple has a fully redesigned MacBook Pro launching next week that promises to be a major upgrade, except in one key area.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-2020-13-inch-model.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/23/next-weeks-macbook-pro-could-be-huge-upgrade-but-with-one-problem/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T19:10:15.000Z"
+    },
+    {
+      "id": "55ba022ff601696b",
+      "title": "Download the iPhone Duo’s official light and dark wallpapers here",
+      "description": "Even if you’re not planning on getting an iPhone Duo, you can now download its light and dark wallpapers for any of your devices. Get them below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-wallpapers.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/23/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-23T19:06:48.000Z"
+    },
+    {
+      "id": "c0f19bd151fb3a28",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T19:06:23.000Z"
+    },
+    {
+      "id": "70bc7d62ee4ced40",
+      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+      "description": "The Space 2 comes in multiple colors, including an attractive seafoam green. | Photo: Amelia Holowaty Krales / The Verge\t\n\nMy colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-23T18:43:30.000Z"
+    },
+    {
       "id": "3028383978503c79",
       "title": "iPhone Duo Brings Back Long Lines at Apple Stores",
       "description": "In the early years of iPhone launches, long lines would form at Apple Stores around the world, but those queues gradually became a thing of the past amid the rise of online pre-orders. At least, until the iPhone Duo launched today.\r\n\r\nApple Domain NORTHSIDE in Austin, Texas today\n\r\niPhone Duo fever ",
@@ -8,295 +290,10 @@
       "url": "https://www.macrumors.com/2026/10/23/iphone-duo-long-lines-at-apple-stores/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-23T17:56:01.000Z"
-    },
-    {
-      "id": "b1f048f70f6a2ef3",
-      "title": "Apple publishes iPhone Duo support documents covering hinge, Touch ID, cases, more",
-      "description": "Apple is publishing a slew of support documents today corresponding with the launch of iPhone Duo. The support documents cover Touch on iPhone Duo, troubleshooting hinge issues, and much more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/apple-publishes-iphone-duo-support-documents-covering-hinge-touch-id-cases-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T17:34:43.000Z"
-    },
-    {
-      "id": "f1e36bef3f3e1be7",
-      "title": "iPhone Duo Launches With Carrier and Accessory Discounts Available",
-      "description": "Apple's new iPhone Duo is now available to purchase, and deals on cases, screen protectors, and the Duo itself are in abundance this week. Below, we're also tracking big discounts on Mac mini, Mac Studio, MacBook Pro, and more.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a",
-      "image": "https://images.macrumors.com/article-new/2026/10/new-best-apple-deals-dark-mode.jpeg",
-      "url": "https://www.macrumors.com/2026/10/23/best-apple-deals-of-the-week-10-23-26/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T17:17:24.000Z"
-    },
-    {
-      "id": "07ede8712b9c6ab9",
-      "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
-      "description": "iPhone Duo has arrived, and if you managed to snag Apple’s new foldable on launch day, here are our top recommendations for accessories.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T17:16:26.000Z"
-    },
-    {
-      "id": "018479cde03be8ce",
-      "title": "iPhone Duo Says 'Hello' to You Personally",
-      "description": "As expected, the iPhone Duo greets you personally if you purchase it from an Apple Store in the United States. \r\n\r\nMacRumors contributor Aaron Perris had an in-store pickup reservation for an iPhone Duo at Apple Fifth Avenue in New York today, and the device showed \"Hello Aaron\" when he turned it on",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hello-Aaron.jpg",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-says-hello-to-you-personally/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T17:02:29.000Z"
-    },
-    {
-      "id": "f9a9708983c18ffe",
-      "title": "The iPhone Duo should have been an iPad",
-      "description": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. \nOn this episode of The Vergecast, David and Nilay debate whe",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T17:00:18.000Z"
-    },
-    {
-      "id": "95e50cd0bed853d5",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "description": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for per",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T16:52:55.000Z"
-    },
-    {
-      "id": "b74294c9eb5c14f9",
-      "title": "The first broken iPhone Duos are here",
-      "description": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange bright",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T16:37:03.000Z"
-    },
-    {
-      "id": "e32d7a9828d0c3d6",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T16:26:29.000Z"
-    },
-    {
-      "id": "ba93a3afb9914fae",
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "description": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T16:20:28.000Z"
-    },
-    {
-      "id": "98f334660853ad23",
-      "title": "Here’s everything new Apple TV has coming in November",
-      "description": "Apple TV’s November lineup includes the return of a beloved comedy, a heist thriller with big stars, the follow-up film to its Oscar winner, and a lot more. Here’s everything new coming to Apple TV in November.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-fall-foliage-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/heres-everything-new-apple-tv-has-coming-in-november-2/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T16:11:42.000Z"
-    },
-    {
-      "id": "b1961920cb7c308e",
-      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
-      "description": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T16:02:43.000Z"
-    },
-    {
-      "id": "ab53137ed21aff30",
-      "title": "My experience suggests Apple Glasses will only sell to existing eyeglasses wearers",
-      "description": "No, I haven’t managed to get my hands on a prototype pair of Apple Glasses, but I now have experience of the rough equivalents of what we’re expecting from both a 1st- and 2nd-gen product.\nIn both cases, I could definitely see attractions, and I would absolutely upgrade to smart glasses if I wore co",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/my-experience-suggests-apple-glasses-will-only-be-for-existing-eyeglass-wearers/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T16:00:00.000Z"
-    },
-    {
-      "id": "b64b9cc5786cd8dd",
-      "title": "The MacRumors Show: iPhone Duo Arrives, Touchscreen MacBooks Next",
-      "description": "On this week's episode of The MacRumors Show, we talk through the reception to the iPhone Duo as it goes on sale today, what to expect from next week's \"Pro and tell\" experience, and the iPod's 25th anniversary.\r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\nThe iPhone Duo laun",
-      "url": "https://www.macrumors.com/2026/10/23/the-macrumors-show-iphone-duo-arrives/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T15:48:22.000Z"
-    },
-    {
-      "id": "c8bac3c33133ae6a",
-      "title": "Apple Released iOS 27.1 for iPhone Duo Only",
-      "description": "Apple this week released the full and final version of iOS 27.1, but it is only available for the foldable iPhone Duo that launched today.\r\n\r\n\r\niPhone Duo already ships with iOS 27.1 preinstalled, but users need to update to a newer build of iOS 27.1 while setting up the device, and that newer build",
-      "image": "https://images.macrumors.com/article-new/2026/10/iOS-27-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/23/apple-releases-ios-27-1/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T15:35:00.000Z"
-    },
-    {
-      "id": "b95a416e46215e9f",
-      "title": "Deals: iPhone Duo cases, Apple Pencil, AirPods Pro 3, Apple TV 4K, power banks, more",
-      "description": "We are still tracking a solid Apple Pencil USB-C as low as $61 (more details here), some exclusive discounts on some of our favorite new leather cases as well as other models from just $14, and this launch deal on the best new Qi2 iPhone Duo MagSafe power bank yet. Check it all out below. \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4K-AirPods-iPhone-Duo-cases.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/deals-duo-cases-apple-pencil-airpods-apple-tv-4k/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T15:33:26.000Z"
-    },
-    {
-      "id": "17ce0ad269e94ad7",
-      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
-      "description": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan.\nThe National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety St",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390349/22C0157_053.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T15:24:45.000Z"
-    },
-    {
-      "id": "c6f7e635a1c612e6",
-      "title": "iPhone Duo: Open Two Apps Side by Side and Lock Them As an App Pair",
-      "description": "iPhone Duo is the first iPhone that can run two apps on the screen at the same time. Unfold the phone in landscape orientation, and Split View puts two apps side by side on the 7.6-inch inner display. It's especially handy for things like keeping Messages open next to Maps, or Safari next to Notes. ",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-split-screen-scaled-e1789143118947.jpg",
-      "url": "https://www.macrumors.com/how-to/iphone-duo-open-two-apps-side-by-side/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T15:24:38.000Z"
-    },
-    {
-      "id": "f2474a8ea11708a3",
-      "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-      "description": "SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners.\nThe move would ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1187777086.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T15:16:24.000Z"
-    },
-    {
-      "id": "9cc34b64b64f9841",
-      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-      "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T15:00:09.000Z"
-    },
-    {
-      "id": "4321a830aa4020a3",
-      "title": "Apple’s website has fun new easter egg: a fully interactive iPod",
-      "description": "Today is the 25th anniversary of Apple unveiling the first iPod. And as discovered by Kian on X, the company’s website now has a fun new iPod easter egg.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ipod-easter-egg-apple-25th-anniversary.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/apples-website-has-fun-new-easter-egg-a-fully-interactive-ipod/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T14:50:53.000Z"
-    },
-    {
-      "id": "ff9673c68caf8e34",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "description": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T14:47:41.000Z"
-    },
-    {
-      "id": "d829e16ddd0d4328",
-      "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
-      "description": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer battery life. But this time",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T14:42:46.000Z"
-    },
-    {
-      "id": "21c49916ec91b013",
-      "title": "iOS 27.1 is exclusive to iPhone Duo, here’s why",
-      "description": "iOS 27.1 has officially launched, but you wouldn’t know it by checking your iPhone’s Settings app. That’s because the latest iPhone update is exclusive to iPhone Duo.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27.1-01.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/ios-27-1-is-exclusive-to-iphone-duo-heres-why/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T14:28:56.000Z"
-    },
-    {
-      "id": "70f7f119f27e5bfe",
-      "title": "Apple Music Has a Hidden iPod You Can Play With",
-      "description": "Apple Music has a 404 page easter egg on the web: a functional iPod that appears when you load a page that does not exist, such as music.apple.com/macrumors.\r\n\r\n\r\n\"Page Not Found,\" says Apple. \"Give this a spin instead.\"\r\n\r\nmusic.apple.com/ipod instead, the page says \"Looking for something?\" instead",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Music-iPod-Page-Not-Found.jpeg",
-      "url": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidden-ipod-you-can-play-with/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T14:11:16.000Z"
-    },
-    {
-      "id": "60741b1967f523ae",
-      "title": "Our best tips for using the iPhone Duo",
-      "description": "It’s been a long time since we had to rethink how to use an iPhone. | Photo: Amelia Holowaty Krales / The Verge\t\n\nThe Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inc",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T14:00:00.000Z"
-    },
-    {
-      "id": "459c15eb6c93c3f5",
-      "title": "Apple revives the original iPod as an Apple Music easter egg",
-      "description": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like C",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-23T13:58:43.000Z"
-    },
-    {
-      "id": "4bf916d5ae612fed",
-      "title": "Here’s how to get fastest iPhone Duo charging",
-      "description": "iPhone Duo supports fast charging in both wired and wireless setups, but only with the right accessories. Here’s what Apple says you’ll need.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/heres-how-to-get-fastest-iphone-duo-charging/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T13:56:33.000Z"
-    },
-    {
-      "id": "33d9d88e43ea6935",
-      "title": "Apple overtakes Nvidia as most valuable company in the world on iPhone Duo launch day",
-      "description": "It’s iPhone Duo launch day around the world, and Wall Street is pleased. Apple reclaimed the title of most valuable company in the world on Friday as it reached new trading highs. \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T13:41:59.000Z"
-    },
-    {
-      "id": "0175659519a7c6f0",
-      "title": "iPhone Duo launch day: Lines form at Apple Stores, walk-in availability limited",
-      "description": "Today is iPhone Duo launch day, and it’s a worldwide party at Apple Stores.\nIn a press release published this morning, Apple is sharing pictures from the iPhone Duo launch around the world. 9to5Mac readers have also shared pictures from their local Apple Stores.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Jingan-Shanghai-store-queue-261023.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/iphone-duo-launch-day-lines-form-at-apple-stores-walk-in-availability-limited/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T13:39:41.000Z"
+      "publishedAt": "2026-10-23T18:42:54.000Z"
     }
   ],
-  "lastUpdated": "2026-10-23T18:02:55.833Z",
+  "lastUpdated": "2026-10-24T06:03:25.971Z",
   "sources": [
     "TechCrunch",
     "The Verge",
