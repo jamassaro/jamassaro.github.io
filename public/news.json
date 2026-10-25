@@ -1,6 +1,143 @@
 {
   "articles": [
     {
+      "id": "f6c8da31e66754d7",
+      "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
+      "description": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on an approach.\r\n\r\n\r\nThe challenge is allowing pages to occupy the area beneath Safari's side-mounted controls without making parts of a websi",
+      "image": "https://images.macrumors.com/article-new/2026/10/safari-iphone-duo-webkit.jpg",
+      "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T04:58:09.000Z"
+    },
+    {
+      "id": "656a2a5e14645c5c",
+      "title": "Instagram Launches Apple TV App With Reels and More",
+      "description": "Instagram is now available on the Apple TV, bringing Reels, longer videos, and live shows via the platform to Apple's streaming device for the first time.\r\n\r\n\r\nThe Instagram app for ‌Apple TV‌ lets users watch content from their favorite creators, discover videos, and resume watching across devices.",
+      "image": "https://images.macrumors.com/article-new/2021/03/Instagram-Feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T04:27:08.000Z"
+    },
+    {
+      "id": "bc42d718c919eb21",
+      "title": "Apple's 'Servant' Copyright Lawsuit Win Upheld on Appeal",
+      "description": "Apple and M. Night Shyamalan have won an appeal in the copyright dispute over Apple TV series \"Servant,\" with a federal appeals court upholding last year's jury verdict in their favor (via Reuters).\r\n\r\n\r\nIn its October 22 decision, the Ninth Circuit rejected filmmaker Francesca Gregorini's arguments",
+      "image": "https://images.macrumors.com/article-new/2020/12/servant-tv-show.jpg",
+      "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T04:05:09.000Z"
+    },
+    {
+      "id": "172fcf716c3d1feb",
+      "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
+      "description": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID.\" It involves registering the lowest part of your index finger instead of the pad of your fingertip. The poster says this segment rests naturally against the side button during pickup and unlocks the ",
+      "image": "https://images.macrumors.com/article-new/2026/10/touch-id-tip-duo.jpg",
+      "url": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-24T23:48:55.000Z"
+    },
+    {
+      "id": "7dd28f6a58add0ee",
+      "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+      "description": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering, which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds that",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03234.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-24T21:46:33.000Z"
+    },
+    {
+      "id": "66b17ded94364778",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "description": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-24T21:29:12.000Z"
+    },
+    {
+      "id": "34a54f644e484784",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-24T20:46:34.000Z"
+    },
+    {
+      "id": "4a1d99ddd1e1e2e6",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-24T20:15:33.000Z"
+    },
+    {
+      "id": "74d01eeb4b90668e",
+      "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you want more of a nostalgic video feel from your iPhone footage, Flipcorder is a great app to check ou",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/a578bd442597f7701d8546586596b02cd8575994b982f8ef33c1260a1abfb1d8.png?w=1600",
+      "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-24T19:30:00.000Z"
+    },
+    {
+      "id": "039a028f4da142b5",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-24T19:00:00.000Z"
+    },
+    {
+      "id": "1e05d52d6138acf0",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artifi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-24T18:32:21.000Z"
+    },
+    {
+      "id": "697b7f2b805e9a64",
+      "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
+      "description": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been informed that their delivery is delayed.\r\n\r\n\r\nIn an email sent to affected customers, Verizon said an \"unexpected shipping delay\" means that iPhone Duo deliveries to some customers will \"take a",
+      "image": "https://images.macrumors.com/article-new/2026/10/Verizon-iPhone-Duo.jpg",
+      "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-24T18:29:16.000Z"
+    },
+    {
+      "id": "911681c45f258a2e",
+      "title": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch",
+      "description": "iPhone Duo uses a Touch ID sensor built into the side button for authentication. Some may feel this is a step backwards after almost a decade of Face ID on iPhones, but if you wear an Apple Watch, you can use it to unlock your iPhone Duo instead. This way, you don't need to touch the side button at ",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-in-hand-closed.jpg",
+      "url": "https://www.macrumors.com/how-to/unlock-iphone-duo-apple-watch/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-24T18:28:00.000Z"
+    },
+    {
+      "id": "2173c9613d9908a1",
+      "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+      "description": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test. Despite its IP68 dust-resistance rating, dust entered the hinge through several ingress points, overwhelming the magnets that hold the phone shut. The bend test then left a permanent green line across the inner display, befor",
+      "image": "https://images.macrumors.com/article-new/2026/10/jerryrigeverything-iphone-duo-dust.jpg",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-24T18:27:42.000Z"
+    },
+    {
       "id": "9cc968410edcfc65",
       "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
       "description": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue, and it’s been a wonder to use. Of course, the phone isn’t perfect, but after my first day of usage, I’m looking forward to daily driving it – even if it has a couple quirks.\nmore…",
@@ -152,148 +289,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-10-24T14:00:00.000Z"
-    },
-    {
-      "id": "15daef44fb55d5f0",
-      "title": "Top Stories: Apple 'Pro and Tell' Debut, iPhone Duo Launch, and More",
-      "description": "Yet another busy week for Apple saw a teaser for even more product announcements coming next week, plus we got the highly anticipated launch of Apple's first foldable smartphone, the iPhone Duo.\r\n\r\n\r\nOther news this week included Verizon announcing a hefty monthly charge for the iPhone Handoff featu",
-      "image": "https://images.macrumors.com/article-new/2026/10/top_stories_2026-10-24.jpg",
-      "url": "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T13:00:14.000Z"
-    },
-    {
-      "id": "a84698c3b7a1f451",
-      "title": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T13:00:00.000Z"
-    },
-    {
-      "id": "cf115f5890a1448c",
-      "title": "Lee Chang Dong ponders the ethics of the camera",
-      "description": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Possible-Love_NYFF64_03.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T12:30:00.000Z"
-    },
-    {
-      "id": "953fc98dddbef14a",
-      "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
-      "description": "The early discount on the new Apple Pencil (USB-C) for your new Duo, not to mention an ongoing all-time low on AirTag 2.\nOn the Mac side of things we have a gigantic $900 price drop on this high-end MacBook Pro config, $200 off M5 MacBook Air models, and ongoing all-time lows at as much as $200 off ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-Apple-weekend-deals-Apple-TV-4K-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T12:15:32.000Z"
-    },
-    {
-      "id": "310a8a7ba1ac6adb",
-      "title": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada",
-      "description": "The option to reserve an iPhone Duo for Apple Store pickup resumed in the U.S. and Canada between 5:10 a.m. and 5:15 a.m. Pacific Time today, but inventory is extremely limited, with most stores having no pickup slots available today.\r\n\r\n\r\nTo search for iPhone Duo availability at your local Apple St",
-      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg",
-      "url": "https://www.macrumors.com/2026/10/24/apple-store-pickup-iphone-duo-us/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T12:12:00.000Z"
-    },
-    {
-      "id": "15210a8fbc61cf93",
-      "title": "Laika has spent 20 years building up to Wildwood",
-      "description": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/09450646-b085-11f1-90b9-46f10a3e57b0_3600.1360.cmp_.def_.out_.002._L.0059.UNAPPROVED.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T12:00:00.000Z"
-    },
-    {
-      "id": "9e50ddb6d92f023a",
-      "title": "It’s time to find a new browser",
-      "description": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.)\nThis week, I've been reading a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T12:00:00.000Z"
-    },
-    {
-      "id": "7c642e646ea637d3",
-      "title": "Apple Closes French Stores Ahead of Further Protests",
-      "description": "Seven Apple stores across France are closed on today, as the country prepares for another round of demonstrations a week after looters targeted two of the company's locations.\r\n\r\n\r\nAs first spotted by MacGeneration, the affected stores include all three Paris locations: Champs-Élysées, Opéra, and Ma",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Champs-Elysees-Paris-France.jpg",
-      "url": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T04:51:16.000Z"
-    },
-    {
-      "id": "7fb060df5db32bcc",
-      "title": "Apple Pushes Back on DOJ Request for More Evidence",
-      "description": "Apple and the U.S. Department of Justice disagree over how much newer evidence Apple must hand over in their antitrust case, according to a new court filing this week.\r\n\r\n\r\n\r\nThe two sides previously agreed to a June 20, 2025 cutoff for Apple's records. With the evidence-gathering phase now schedule",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T04:02:07.000Z"
-    },
-    {
-      "id": "11324d1640db43eb",
-      "title": "Using an Apple Pencil With the iPhone Duo: What to Know",
-      "description": "The iPhone Duo is compatible with the Apple Pencil, if you have the right one. MacRumors videographer Dan Barbera tested the ‌Apple Pencil‌ with the ‌iPhone Duo‌ to see if it's a useful tool to pick up.\r\n\r\n\n\r\nIf you already have an ‌Apple Pencil‌ 1, ‌Apple Pencil‌ 2, or ‌Apple Pencil‌ Pro to use wit",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T00:14:20.000Z"
-    },
-    {
-      "id": "028aa48c5c1141cb",
-      "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
-      "description": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T23:50:49.000Z"
-    },
-    {
-      "id": "3c9d9167ab339311",
-      "title": "Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited",
-      "description": "The option to reserve an iPhone Duo for Apple Store pickup is starting to return on Apple's online store, with the system live again in countries such as Australia, China, Japan, and South Korea. Unfortunately, our spot check revealed extremely limited availability right now, with few to no time slo",
-      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T23:33:36.000Z"
-    },
-    {
-      "id": "786b6dcea44f1571",
-      "title": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS",
-      "description": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find quite a few apps using the foldable display in unique ways, many with skeuomorphic designs.\r\n\r\n\r\nTiny Computers ($3.99)\n\r\nTiny Computers turns the ‌iP",
-      "image": "https://images.macrumors.com/article-new/2026/10/tiny-computer-iphone-duo.jpg",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T23:22:55.000Z"
-    },
-    {
-      "id": "e5709bcddd90b4f3",
-      "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
-      "description": "Following today’s launch of the iPhone Duo, Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-23T23:12:21.000Z"
     }
   ],
-  "lastUpdated": "2026-10-24T18:03:04.682Z",
+  "lastUpdated": "2026-10-25T06:03:07.322Z",
   "sources": [
     "TechCrunch",
     "The Verge",
