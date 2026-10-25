@@ -1,6 +1,143 @@
 {
   "articles": [
     {
+      "id": "f5297b6bd165e583",
+      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "description": "The stick and face buttons are too close for comfort. | Photo: Cameron Faulkner / The Verge\t\n\nThe Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicate",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T17:00:00.000Z"
+    },
+    {
+      "id": "7fb7bec258c9e810",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T16:57:32.000Z"
+    },
+    {
+      "id": "cfce4fdede060b2a",
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "description": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew o",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T16:20:17.000Z"
+    },
+    {
+      "id": "26608d88b5e150f9",
+      "title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
+      "description": "For the first time since 2021, Apple will be overhauling the iPad mini with new display technology. It also marks the first chip refresh since 2024. Here’s what Apple has in store for this all-new iPad mini.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T16:06:33.000Z"
+    },
+    {
+      "id": "9f85f9d9d2a1dad3",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T16:05:00.000Z"
+    },
+    {
+      "id": "efee29ad64b91e49",
+      "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
+      "description": "Bloomberg's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either remove accessories from the box, open up the device and remove components, and/or remove the entire device, and then attempt to return the box hoping that the",
+      "image": "https://images.macrumors.com/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T15:18:08.000Z"
+    },
+    {
+      "id": "6a041843915e5429",
+      "title": "Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look",
+      "description": "This week, Apple will be reversing a decades-long decision to exclude touchscreens from its laptop lineup, and we’ll be getting our first ever touchscreen MacBook in just a number of days. This MacBook Pro will fetch quite a premium, though. Here’s what we know so far.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T14:48:28.000Z"
+    },
+    {
+      "id": "c6ec3d5a374b86a4",
+      "title": "AirTag 2 Drops to New Low Price of $23 on Amazon",
+      "description": "Apple's AirTag 2 has hit $23.00 this week on Amazon, down from $29.00. This deal is on the 1-Pack of the AirTag 2, and it's a new record low price for the accessory.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, whi",
+      "image": "https://images.macrumors.com/article-new/2026/08/airtag-2-blue.jpeg",
+      "url": "https://www.macrumors.com/2026/10/25/airtag-2-new-low-price-of-23/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T14:31:28.000Z"
+    },
+    {
+      "id": "674a8ba961735ee0",
+      "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week",
+      "description": "Bloomberg's Mark Gurman today reiterated that Apple plans to announce new iMac and 14-inch MacBook Pro models on Wednesday. Apple is holding a \"Pro and tell\" experience in Los Angeles that day. The key upgrade for both Macs is expected to be the M6 chip that debuted in the new Mac mini in August.\r\n\r",
+      "image": "https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/25/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T14:30:49.000Z"
+    },
+    {
+      "id": "eccbe076bd9b9c77",
+      "title": "Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday",
+      "description": "Apple plans to unveil 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays on Wednesday, October 28, according to Bloomberg's Mark Gurman. Those invited to Apple's \"Pro and tell\" experience in Los Angeles at 10 a.m. Pacific Time on that day will likely receive hands-on time with t",
+      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
+      "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T14:30:34.000Z"
+    },
+    {
+      "id": "d8e5fc1c3cebf330",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T14:10:00.000Z"
+    },
+    {
+      "id": "c27de3b30fca713e",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "description": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T13:25:32.000Z"
+    },
+    {
+      "id": "1d5f82cfe8d5548d",
+      "title": "Google’s AI search changes upended online publishing",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe digital publishing industry",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T12:00:00.000Z"
+    },
+    {
+      "id": "2dbece1546851ee3",
+      "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
+      "description": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on Reddit). \nThe affected units all seem to break in the same way. The screen cracks down the center line of the hinge, and a horizont",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-display-crack-issue.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T10:45:33.000Z"
+    },
+    {
       "id": "f6c8da31e66754d7",
       "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
       "description": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on an approach.\r\n\r\n\r\nThe challenge is allowing pages to occupy the area beneath Safari's side-mounted controls without making parts of a websi",
@@ -155,143 +292,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-10-24T16:30:00.000Z"
-    },
-    {
-      "id": "a5f6a9d10b6c90a6",
-      "title": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
-      "description": "Because of the iPhone Duo's foldable design, you tend to switch the orientation of the device more often than you would a regular iPhone. This makes the volume buttons shift positions a lot relative to your fingers, which can cause you to press volume up when you meant to press down, or vice versa. ",
-      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg",
-      "url": "https://www.macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T16:07:36.000Z"
-    },
-    {
-      "id": "d0ffe580120c3e9b",
-      "title": "Block’s new voice model sounds eerily human",
-      "description": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T16:00:00.000Z"
-    },
-    {
-      "id": "7eb91ef1420d8824",
-      "title": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
-      "description": "It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US. Apple has built some really useful tools to limit future tracking, including App Tracking Transparency, Hide My Email, and iCloud P",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/16_9_Incogni_partnerships_generic_v3.png?w=1600",
-      "url": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T16:00:00.000Z"
-    },
-    {
-      "id": "435e895e43ac5e4f",
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-      "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T15:30:00.000Z"
-    },
-    {
-      "id": "6c588eeb857ac524",
-      "title": "iPhone Duo Teardowns Reveal Two Batteries and More",
-      "description": "The first iPhone Duo teardown videos have been shared by YouTube channels REWA Technology and Phone Repair Guru, providing us with a look inside the device.\r\n\r\n\r\niPhone Duo has two battery cells that can be removed with electrically-activated adhesive. There is a larger battery with a 2,962 mAh (11.",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T15:02:56.000Z"
-    },
-    {
-      "id": "9b1316d82ca656fa",
-      "title": "These clever apps show off the iPhone Duo’s potential",
-      "description": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T15:00:00.000Z"
-    },
-    {
-      "id": "a4ed72e63ccd0f2a",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T15:00:00.000Z"
-    },
-    {
-      "id": "d8809c6c54b40528",
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-      "description": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fielded_pressphoto_6-Fielded.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T15:00:00.000Z"
-    },
-    {
-      "id": "90f4e0afa7257ffb",
-      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-      "description": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG\t\n\nBlack Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/TV-OLED55C6PUA-Brilliant-oled-pictures_features_900x600.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T15:00:00.000Z"
-    },
-    {
-      "id": "3dd376ba2efee861",
-      "title": "M5 MacBook Air Returns to Prime Day Low With $200 Amazon Discount",
-      "description": "Amazon this weekend has a few of the best post-hike prices we've seen on the M5 MacBook Air so far, with prices starting at $1,399.00 for the 16GB RAM/1TB SSD 13-inch model, down from $1,599.00.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a p",
-      "image": "https://images.macrumors.com/article-new/2026/06/m5-macbook-air-prime-day.jpeg",
-      "url": "https://www.macrumors.com/2026/10/24/m5-macbook-air-returns-prime-day/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T14:27:30.000Z"
-    },
-    {
-      "id": "00ea224ba708154c",
-      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-      "description": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
-      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T14:15:00.000Z"
-    },
-    {
-      "id": "de336e2498041e1d",
-      "title": "What to expect from Apple’s ‘Pro and tell’ event",
-      "description": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T14:15:00.000Z"
-    },
-    {
-      "id": "f1cc8c29268635ca",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T14:00:00.000Z"
-    },
-    {
-      "id": "416cd96967fdc70d",
-      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "description": "The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nIt looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T14:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-10-25T06:03:07.322Z",
+  "lastUpdated": "2026-10-25T18:02:53.330Z",
   "sources": [
     "TechCrunch",
     "The Verge",
