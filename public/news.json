@@ -1,6 +1,153 @@
 {
   "articles": [
     {
+      "id": "220cd38b790dde2b",
+      "title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
+      "description": "This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch support, and a significantly lighter design are expected. Another rumor for the new MacBook Pros has been cellular support, though it’s been unclear if that’s actually going to ship.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-cellular-mac.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-26T05:16:58.000Z"
+    },
+    {
+      "id": "7f760c4eec5802e4",
+      "title": "Apple Display Veterans Step Back as New Leaders Take Over",
+      "description": "Two executives who have spent roughly three decades each at Apple are handing over responsibility for its displays, as part of a broader series of engineering leadership changes reported by Bloomberg's Mark Gurman.\r\n\r\n\r\nVictor Yin now oversees much of Apple's display development following years of p",
+      "image": "https://images.macrumors.com/article-new/2026/03/Apple-Park-PR-Handout.jpg",
+      "url": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-26T04:14:12.000Z"
+    },
+    {
+      "id": "a0574eb162f61778",
+      "title": "OLED MacBook Air and iMac Remain in Testing",
+      "description": "Apple is testing OLED displays for future MacBook Air and iMac models, though both upgrades remain some way off, according to Bloomberg's Mark Gurman in his latest \"Power On\" newsletter.\r\n\r\nrefreshes of the devices are expected to retain LCD displays. Gurman anticipates a new ‌iMac‌ to arrive this w",
+      "image": "https://images.macrumors.com/article-new/2025/11/imac-holiday.jpeg",
+      "url": "https://www.macrumors.com/2026/10/25/oled-macbook-air-and-imac-in-testing/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-26T03:41:01.000Z"
+    },
+    {
+      "id": "92a01a7155687b01",
+      "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
+      "description": "Earlier this month, a security researcher discovered that private cryptographic keys associated with eight of Indian company eMudhra's intermediate certificate authority (CA) certificates were weak. The compromised keys could have allowed attackers to impersonate legitimate websites, potentially put",
+      "image": "https://images.macrumors.com/article-new/2026/10/Switch-to-Safari.jpg",
+      "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-26T02:22:30.000Z"
+    },
+    {
+      "id": "98b66e70483c7ce8",
+      "title": "The best apps for tracking your reading and discovering new books",
+      "description": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-26T01:10:00.000Z"
+    },
+    {
+      "id": "71fbaec75937ed1c",
+      "title": "iPhone Duo Can Run Automations When You Open or Close It",
+      "description": "The iPhone Duo includes a new Shortcuts automation trigger that runs actions when the device is opened or closed. YouTuber Stephen Robles highlighted the trigger, which is called \"Opened or Closed\" and can be found under the Display automations category. It was first spotted in September by code sle",
+      "image": "https://images.macrumors.com/article-new/2026/10/duo-opened-closed-automation.jpeg",
+      "url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T22:26:58.000Z"
+    },
+    {
+      "id": "a222e8efc38e7e71",
+      "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
+      "description": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display. It's called Shift Left Edge, and it insets the display edge so that on-screen content isn't hidden beneath the case. \r\n\r\n\r\nWe first covered the setting in September, and Apple",
+      "image": "https://images.macrumors.com/article-new/2026/09/shift-left-edge-iphone-duo@2x-scaled.jpg",
+      "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T22:00:02.000Z"
+    },
+    {
+      "id": "6e1ac887442b187f",
+      "title": "iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks",
+      "description": "Teardown site iFixit took apart the iPhone Duo to see what's inside, how it holds up to dust, and how repairable it is. There's a video walking through the teardown, as well as a blog post summing it up.\r\n\r\n\n\r\nBefore opening up the Duo, iFixit inundated it with fluorescent dust. The ‌iPhone Duo‌ has",
+      "image": "https://images.macrumors.com/article-new/2026/10/ifixit-iphone-duo-teardown.jpg",
+      "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T21:44:03.000Z"
+    },
+    {
+      "id": "93d7344e67120e8c",
+      "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+      "description": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T21:40:27.000Z"
+    },
+    {
+      "id": "778e21134dddc2a2",
+      "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
+      "description": "iFixit’s teardown of the iPhone Duo is up, revealing some interesting (and some worrisome) details about what it calls the most repairable foldable phone yet. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-ifixit.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-25T21:36:58.000Z"
+    },
+    {
+      "id": "3d2897e1360d0c12",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T21:31:16.000Z"
+    },
+    {
+      "id": "32633aac0fb20183",
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "description": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift.\nThis 2006 album from the singer",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/a1635465713_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T21:08:09.000Z"
+    },
+    {
+      "id": "670a3487319dace8",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "description": "\"That's a 12-year-old view of the world.\"",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T20:20:08.000Z"
+    },
+    {
+      "id": "98a5ab58f86ff98b",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "description": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all s",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T20:16:19.000Z"
+    },
+    {
+      "id": "c16d740f0103b119",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "description": "Launcher-like pinned tabs, pop-over glance view, and more make Zen my go to browser. | Image: Zen Browser\t\n\nI know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the comp",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-25T19:24:50.000Z"
+    },
+    {
       "id": "f5297b6bd165e583",
       "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
       "description": "The stick and face buttons are too close for comfort. | Photo: Cameron Faulkner / The Verge\t\n\nThe Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicate",
@@ -56,7 +203,7 @@
       "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-25T15:18:08.000Z"
+      "publishedAt": "2026-10-25T15:18:04.000Z"
     },
     {
       "id": "6a041843915e5429",
@@ -146,155 +293,9 @@
       "source": "MacRumors",
       "category": "Apple News",
       "publishedAt": "2026-10-25T04:58:09.000Z"
-    },
-    {
-      "id": "656a2a5e14645c5c",
-      "title": "Instagram Launches Apple TV App With Reels and More",
-      "description": "Instagram is now available on the Apple TV, bringing Reels, longer videos, and live shows via the platform to Apple's streaming device for the first time.\r\n\r\n\r\nThe Instagram app for ‌Apple TV‌ lets users watch content from their favorite creators, discover videos, and resume watching across devices.",
-      "image": "https://images.macrumors.com/article-new/2021/03/Instagram-Feature-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-25T04:27:08.000Z"
-    },
-    {
-      "id": "bc42d718c919eb21",
-      "title": "Apple's 'Servant' Copyright Lawsuit Win Upheld on Appeal",
-      "description": "Apple and M. Night Shyamalan have won an appeal in the copyright dispute over Apple TV series \"Servant,\" with a federal appeals court upholding last year's jury verdict in their favor (via Reuters).\r\n\r\n\r\nIn its October 22 decision, the Ninth Circuit rejected filmmaker Francesca Gregorini's arguments",
-      "image": "https://images.macrumors.com/article-new/2020/12/servant-tv-show.jpg",
-      "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-25T04:05:09.000Z"
-    },
-    {
-      "id": "172fcf716c3d1feb",
-      "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
-      "description": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID.\" It involves registering the lowest part of your index finger instead of the pad of your fingertip. The poster says this segment rests naturally against the side button during pickup and unlocks the ",
-      "image": "https://images.macrumors.com/article-new/2026/10/touch-id-tip-duo.jpg",
-      "url": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T23:48:55.000Z"
-    },
-    {
-      "id": "7dd28f6a58add0ee",
-      "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
-      "description": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering, which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds that",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03234.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T21:46:33.000Z"
-    },
-    {
-      "id": "66b17ded94364778",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "description": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T21:29:12.000Z"
-    },
-    {
-      "id": "34a54f644e484784",
-      "title": "Starlink seems to be working normally again in Ukraine",
-      "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T20:46:34.000Z"
-    },
-    {
-      "id": "4a1d99ddd1e1e2e6",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T20:15:33.000Z"
-    },
-    {
-      "id": "74d01eeb4b90668e",
-      "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you want more of a nostalgic video feel from your iPhone footage, Flipcorder is a great app to check ou",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/a578bd442597f7701d8546586596b02cd8575994b982f8ef33c1260a1abfb1d8.png?w=1600",
-      "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T19:30:00.000Z"
-    },
-    {
-      "id": "039a028f4da142b5",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T19:00:00.000Z"
-    },
-    {
-      "id": "1e05d52d6138acf0",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artifi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T18:32:21.000Z"
-    },
-    {
-      "id": "697b7f2b805e9a64",
-      "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
-      "description": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been informed that their delivery is delayed.\r\n\r\n\r\nIn an email sent to affected customers, Verizon said an \"unexpected shipping delay\" means that iPhone Duo deliveries to some customers will \"take a",
-      "image": "https://images.macrumors.com/article-new/2026/10/Verizon-iPhone-Duo.jpg",
-      "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T18:29:16.000Z"
-    },
-    {
-      "id": "911681c45f258a2e",
-      "title": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch",
-      "description": "iPhone Duo uses a Touch ID sensor built into the side button for authentication. Some may feel this is a step backwards after almost a decade of Face ID on iPhones, but if you wear an Apple Watch, you can use it to unlock your iPhone Duo instead. This way, you don't need to touch the side button at ",
-      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-in-hand-closed.jpg",
-      "url": "https://www.macrumors.com/how-to/unlock-iphone-duo-apple-watch/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T18:28:00.000Z"
-    },
-    {
-      "id": "2173c9613d9908a1",
-      "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
-      "description": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test. Despite its IP68 dust-resistance rating, dust entered the hinge through several ingress points, overwhelming the magnets that hold the phone shut. The bend test then left a permanent green line across the inner display, befor",
-      "image": "https://images.macrumors.com/article-new/2026/10/jerryrigeverything-iphone-duo-dust.jpg",
-      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T18:27:42.000Z"
-    },
-    {
-      "id": "9cc968410edcfc65",
-      "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
-      "description": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue, and it’s been a wonder to use. Of course, the phone isn’t perfect, but after my first day of usage, I’m looking forward to daily driving it – even if it has a couple quirks.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC04170.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-24T17:47:49.000Z"
-    },
-    {
-      "id": "79b4d8a96b39e41f",
-      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-      "description": "Instacart might sell itself to a larger competitor.",
-      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-24T16:30:00.000Z"
     }
   ],
-  "lastUpdated": "2026-10-25T18:02:53.330Z",
+  "lastUpdated": "2026-10-26T06:03:03.323Z",
   "sources": [
     "TechCrunch",
     "The Verge",
