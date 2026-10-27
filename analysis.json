@@ -1,43 +1,13 @@
 {
-  "executiveSummary": "Major trends in AI, hardware, and industry shifts were highlighted across 30 articles, with a focus on Apple's product releases, AI advancements, and supply chain developments.",
-  "takeaways": [
-    {
-      "title": "AI expansion",
-      "description": "Siri AI is expanding to new languages, with support for Chinese, Norwegian, Turkish, and Vietnamese, and plans to add more languages later this year, according to MacRumors (Article 26)"
-    },
-    {
-      "title": "Hardware updates",
-      "description": "Apple released iOS 27.2, iPadOS 27.2, and visionOS 27.2, addressing over 160 security vulnerabilities and adding features like Multiview and Dual Capture, according to MacRumors (Articles 16, 22, 23)"
-    },
-    {
-      "title": "Supply chain concerns",
-      "description": "A small number of iPhone Duo users reported screens cracking, raising concerns about the phone's durability, according to TechCrunch (Article 30)"
-    }
-  ],
-  "trends": [
-    "AI",
-    "Hardware",
-    "Supply Chain",
-    "Pricing",
-    "New Products"
-  ],
-  "worthWatching": [
-    "The use of AI in Apple's products, such as Siri AI, continues to expand and improve, with new languages and features being added regularly.",
-    "The growing concern about the durability of Apple's new foldable phone, the iPhone Duo, with some users reporting screens cracking."
-  ],
-  "engineeringPerspective": [
-    "The importance of testing and validation in AI development, as highlighted by the expansion of Siri AI to new languages and the need for external experts in math and computer science.",
-    "The impact of supply chain issues on the development and release of new products, such as the iPhone Duo, and the need for companies to consider durability and reliability in their designs."
-  ],
+  "generatedAt": "2026-10-27T18:05:23.138Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 5,
-    "mostMentionedTopics": [
-      "AI",
-      "Apple",
-      "Hardware",
-      "Supply Chain"
-    ]
-  },
-  "generatedAt": "2026-10-27T06:05:14.663Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
