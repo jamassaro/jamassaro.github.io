@@ -1,301 +1,295 @@
 {
   "articles": [
     {
-      "id": "46cab679e8253d6b",
-      "title": "Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027",
-      "description": "Bloomberg's Mark Gurman today reported that Apple plans to release a second-generation MacBook Neo in the first half of 2027. He previously mentioned that the new model will feature an A19 Pro chip, 12GB of RAM, and new color options.\r\n\r\nraised the price to $699 in June.\nRelated Roundup: MacBook Neo",
-      "image": "https://images.macrumors.com/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/27/macbook-neo-2-first-half-2027-report/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-27T17:32:56.000Z"
-    },
-    {
-      "id": "9a159c75355d60db",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "description": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T17:30:00.000Z"
-    },
-    {
-      "id": "89eaa946979f5306",
-      "title": "Best Buy Details Black Friday Plans With Early Deals Available on Halloween",
-      "description": "With Halloween just around the corner, Best Buy this week is detailing its sale plans for the holiday, as well as the rest of the year. This includes a special event on Friday, October 30, and the usual month-long discounts leading up to Black Friday on Friday, November 27.\r\n\r\nNote: MacRumors is an ",
-      "image": "https://images.macrumors.com/article-new/2025/10/best-buy-halloween.jpeg",
-      "url": "https://www.macrumors.com/2026/10/27/best-buy-black-friday-plans-26/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-27T17:28:11.000Z"
-    },
-    {
-      "id": "c989be685a622b4a",
-      "title": "New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter",
-      "description": "The new iMac with the M6 chip can be configured with a 2.5 Gigabit Ethernet port, which is built into the power adapter rather than the computer. The port is a $30 upgrade option for the lower-end iMac and comes standard with the higher-end model. For the previous model, the optional Ethernet port i",
-      "image": "https://images.macrumors.com/article-new/2026/10/iMac-Ethernet-Port-Power-Adapter.jpg",
-      "url": "https://www.macrumors.com/2026/10/27/new-imac-2-5-gigabit-ethernet/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-27T17:16:26.000Z"
-    },
-    {
-      "id": "39253ea8d852e84b",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "id": "6c6e4adc4c9f2545",
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "description": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-27T17:08:08.000Z"
+      "publishedAt": "2026-10-28T05:20:32.000Z"
     },
     {
-      "id": "59fb64264ea283af",
-      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "description": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can repl",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/supermouse1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T17:00:00.000Z"
-    },
-    {
-      "id": "5edff9058c5b9755",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "description": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\t\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of human",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T16:51:22.000Z"
-    },
-    {
-      "id": "91d63c2bb56fd166",
-      "title": "Meta’s $25 billion legal loss just put blood in the water",
-      "description": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T16:44:40.000Z"
-    },
-    {
-      "id": "fa2c3bf6d3a0b4c0",
-      "title": "Twelve South launches new Airfly View dongle with built-in screen",
-      "description": "Last month, Twelve South introduced the wildly popular AirFly Drive, its first wireless CarPlay adapter (which is now back in stock after initially selling out). \nNow, the popular accessory maker is back with Airfly View, which adds a built-in screen to its other popular wireless audio dongle. You c",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Twelve-South-Airfly-View-2026-reveal-01.webp?w=1500",
-      "url": "https://9to5mac.com/2026/10/27/twelve-south-launches-new-airfly-view-dongle-with-built-in-screen/",
+      "id": "4a8aef7f7b15783c",
+      "title": "New M6 Macs buck Apple’s second wave of price hikes",
+      "description": "In addition to the spec bumps, today’s M6-powered iMac and 14-inch MacBook Pro announcements came with an extra piece of good news: prices remained unchanged from the previous generations, unlike several other recent Apple product launches that brought another round of increases. Here are the detail",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-27T16:34:43.000Z"
+      "publishedAt": "2026-10-28T02:09:46.000Z"
     },
     {
-      "id": "6711ecb986b1f519",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "description": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "id": "1f9ecdbf32efdd9b",
+      "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features",
+      "description": "tvOS 27.2 was released on Monday for the Apple TV 4K (2nd generation) and newer, but the Apple TV does not show release notes for software updates in the Settings app. Instead, Apple periodically updates a support document outlining what is new in tvOS updates, and the release notes for tvOS 27.2 ar",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
+      "url": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-28T01:40:09.000Z"
+    },
+    {
+      "id": "d55815e8d4a9b2df",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "description": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-27T16:30:57.000Z"
+      "publishedAt": "2026-10-28T01:15:28.000Z"
     },
     {
-      "id": "9d85cfe6af36a13a",
-      "title": "Google Photos rolls out customizable redesign of your ‘Collections’ tab",
-      "description": "Following the floating navigation bar in July, Google Photos is rolling out a big redesign that lets you customize the Collections tab on Android and iOS.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/google-photos-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
+      "id": "36142bb75387c380",
+      "title": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
+      "description": "Apple has scored another win in its trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-27T16:23:35.000Z"
+      "publishedAt": "2026-10-28T00:54:43.000Z"
     },
     {
-      "id": "03b134d675ae5f33",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "description": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "id": "b2628561be923747",
+      "title": "Apple releases two new real-life Apple Watch stories, including a life-saving alert",
+      "description": "Apple’s YouTube channel shared two new videos today from its “True Apple Watch Story” series, highlighting how the device helped save one woman’s life and transform another person’s fitness journey. Watch them below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-heart-health-sensing.webp?w=1600",
+      "url": "https://9to5mac.com/2026/10/27/apple-releases-two-new-real-life-apple-watch-stories-including-a-life-saving-alert/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-28T00:10:09.000Z"
+    },
+    {
+      "id": "a160ad24026d0ddf",
+      "title": "9to5Mac Daily: October 27, 2026 – Apple announces new iMac, MacBook Pro with M6",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/daily-october-27-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-28T00:01:52.000Z"
+    },
+    {
+      "id": "56f76bfe4f227354",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "description": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-27T23:34:27.000Z"
+    },
+    {
+      "id": "ef6710697a9f8092",
+      "title": "Apple Shares New Apple Watch Survival Stories",
+      "description": "Apple today continued with its \"True Apple Watch Story\" series, featuring two more people who credit the Apple Watch with saving their lives.\r\n\r\n\n\r\n\r\n\n\r\nIn the first video, Morgan tells the story of how her Apple Watch woke her up with high heart rate alerts. She ended up having a kidney infection a",
+      "url": "https://www.macrumors.com/2026/10/27/apple-watch-survival-stories/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-27T23:20:22.000Z"
+    },
+    {
+      "id": "448ac1a9ded47e3c",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "description": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-27T22:55:41.000Z"
+    },
+    {
+      "id": "3a65d5e8084e47c5",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "description": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with l",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-27T16:14:18.000Z"
+      "publishedAt": "2026-10-27T22:55:05.000Z"
     },
     {
-      "id": "ec099f0163c74e9f",
-      "title": "Major League Baseball is looking for a new kind of fan",
-      "description": "Fans cheer during  game two of the 2026 World Series between the Milwaukee Brewers and the Tampa Bay Rays | Getty Images\t\n\nOn October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the runni",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301861042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T16:02:43.000Z"
+      "id": "9411dd138619d623",
+      "title": "Last-minute leak reveals new touchscreen MacBook Pro details: pricing, new cooling system, more",
+      "description": "In a roundup of what to expect from tomorrow’s “Pro and Tell” event, Bloomberg’s Mark Gurman shared new details about the upcoming OLED touchscreen MacBook Pro models. Here’s what to expect.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-pro-touchscreen-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/last-minute-leak-reveals-new-touchscreen-macbook-pro-details-pricing-new-cooling-system-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-27T22:50:54.000Z"
     },
     {
-      "id": "3ffd1e6f46033b66",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "description": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T16:00:00.000Z"
-    },
-    {
-      "id": "c546299405a74160",
-      "title": "My favorite robot vacuum just got quieter, and more expensive",
-      "description": "The Matic Serene looks identical to the current Matic but the company claims its hardware improvements make it much quieter. | Image: Matic\t\n\nMatic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/matic_yoga_serene-20.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T16:00:00.000Z"
-    },
-    {
-      "id": "56422fc3ebf21d2f",
-      "title": "Apple Expected to Announce MacBook Pro With Touchscreen Tomorrow",
-      "description": "Apple on Wednesday will announce 14-inch and 16-inch MacBook Pro models featuring touch-enabled OLED displays with thinner bezels, a Dynamic Island instead of a notch, M5 Pro and M5 Max chips, and a lighter and slightly thinner design, Bloomberg's Mark Gurman reports. Apple is hosting a private \"Pro",
+      "id": "0a3896b3e541dc0b",
+      "title": "OLED Touchscreen MacBook Pro Could Start at $2,899",
+      "description": "Apple's 14-inch OLED MacBook Pro with an M5 Pro chip could be $400 more expensive than the current model, reports Bloomberg. Apple has \"discussed\" charging $2,899 for the upcoming M5 Pro model. The current M5 Pro ‌MacBook Pro‌ starts at $2,499.\r\n\r\n\r\nThe 16-inch ‌OLED‌ ‌MacBook Pro‌ could start at $3",
       "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
-      "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
+      "url": "https://www.macrumors.com/2026/10/27/oled-macbook-pro-pricing/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-27T15:57:14.000Z"
+      "publishedAt": "2026-10-27T22:29:50.000Z"
     },
     {
-      "id": "40ab27da48eaeb3d",
-      "title": "M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared",
-      "description": "Apple today replaced the entry-level 14-inch MacBook Pro with a new M6 model, bringing more CPU and GPU cores, upgraded wireless connectivity, and more. How much has changed, and is it worth upgrading or choosing the newer model?\r\n\r\n\r\n\r\nThe M6 ‌MacBook Pro‌ retains the previous model's design and mo",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-scaled.jpg",
-      "url": "https://www.macrumors.com/guide/m5-vs-m6-macbook-pro/",
+      "id": "3b838dba465551f8",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "description": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-27T22:26:03.000Z"
+    },
+    {
+      "id": "01d1db38b8cb77b9",
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "description": "A whole crop of venture capital firms  are raising significant new funds.",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-27T22:17:18.000Z"
+    },
+    {
+      "id": "72cca541fdc56821",
+      "title": "GM is embracing hybrids now",
+      "description": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-27T21:47:02.000Z"
+    },
+    {
+      "id": "13804dc13025149c",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "description": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-27T21:44:34.000Z"
+    },
+    {
+      "id": "7a8020f5065676fe",
+      "title": "Firefox’s AI-powered Smart Window gets form autofill and website monitoring",
+      "description": "Mozilla today announced two new features for Smart Window, its opt-in AI-powered browsing experience in Firefox. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/firefox-smart-window.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/firefoxs-ai-powered-smart-window-gets-form-autofill-and-website-monitoring/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-27T21:43:14.000Z"
+    },
+    {
+      "id": "4cef84a435902774",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "description": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-27T21:38:28.000Z"
+    },
+    {
+      "id": "dfd3c4d223398849",
+      "title": "Discord is making its public communities more searchable, and people have concerns",
+      "description": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+      "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-27T21:22:35.000Z"
+    },
+    {
+      "id": "26321866b4b63c19",
+      "title": "M6 iMac Sticks With Its Five-Year-Old Color Lineup",
+      "description": "The new M6 iMac models come in the same color options as the 2024 model, despite reports suggesting we could see new shades.\r\n\r\n\r\nYou can buy the M6 iMac in green, yellow, orange, pink, purple, blue, and silver. Those are the seven colors that Apple used for the original 2021 ‌iMac‌ design. Apple tw",
+      "image": "https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/27/imac-m6-color-options/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-27T15:42:54.000Z"
+      "publishedAt": "2026-10-27T21:07:38.000Z"
     },
     {
-      "id": "899cb207745f9a73",
-      "title": "Apple&#8217;s latest AirTag is the cheapest it’s ever been",
-      "description": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at Amazon and Walmart.\nAp",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/AirTagVergeDailyDeals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+      "id": "42988a058ccc31a7",
+      "title": "Apple’s European government affairs chief to speak at Web Summit 2026",
+      "description": "Apple’s Director of European Government Affairs, Sébastien Gros, will speak at this year’s Web Summit in Lisbon, Portugal, taking place November 9–12. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/apples-european-government-affairs-chief-to-speak-at-web-summit-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-27T21:03:16.000Z"
+    },
+    {
+      "id": "1f8b4808931d8722",
+      "title": "iOS 27.2 adds new app icon for Apple Music, more design updates",
+      "description": "iOS 27.2 launched this week, and the update includes a new app icon for Apple Music alongside other small design changes in the Music app.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-27T20:57:05.000Z"
+    },
+    {
+      "id": "b4c6904e81f1ea72",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-27T15:34:16.000Z"
+      "publishedAt": "2026-10-27T20:48:58.000Z"
     },
     {
-      "id": "c92094142ae57ad3",
-      "title": "Deals: AirPods Pro 3 20% off, Apple Pencil (USB-C), most affordable M5 MacBook Air $200 off, AirTag 2, more",
-      "description": "Alongside the ongoing pre-order discount on the new Apple TV 4K, Amazon has now brought back the 20% price drop on AirPods Pro 3 and is still offering Apple Pencil (USB-C) down at $69 (or even less). Today’s 9to5Toys Lunch Break is headlined by the lowest price ever for AirTag 2 and Apple’s least ex",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-Pencil-Apple-TV-4K-AirPods-Macbook.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/27/deals-airpods-apple-pencil-usb-c-macbook-air-airtag-2/",
+      "id": "800bb10ef284c1f4",
+      "title": "iOS 27.2 now available: Here’s everything new for iPhone",
+      "description": "iOS 27.2 is now available to everyone after six weeks of beta testing. The update was released on Monday, bringing multiple new iPhone features. Here’s everything you need to know. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27.2-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/ios-27-2-new-features-release-date/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-27T15:30:46.000Z"
+      "publishedAt": "2026-10-27T20:45:46.000Z"
     },
     {
-      "id": "cc6121651d4bde4b",
-      "title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
-      "description": "Apple's latest iMac skips the M5 chip and moves directly to the M6, bringing faster performance, improved connectivity, and faster storage. So how much has changed since the M4 model arrived in 2024, and is it worth upgrading?\r\n\r\n\r\nThe M6 iMac starts at $1,499 in the United States, with the four-por",
-      "image": "https://images.macrumors.com/article-new/2026/10/M6-iMac-Feature-2.jpg",
-      "url": "https://www.macrumors.com/guide/m4-vs-m6-imac/",
+      "id": "a5557f121b29d53a",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "description": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-27T20:31:17.000Z"
+    },
+    {
+      "id": "c1237fce41eb8673",
+      "title": "Apple TV releases trailer for upcoming original film starring Chris Pratt",
+      "description": "Apple TV today released the trailer for “Way of the Warrior Kid,” which premieres globally on the platform on November 25. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/apple-tv-releases-trailer-for-upcoming-original-film-starring-chris-pratt/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-27T20:30:12.000Z"
+    },
+    {
+      "id": "a4ab426121319bd7",
+      "title": "ChatGPT Can Now Access Your iCloud Mail and Calendar",
+      "description": "OpenAI today said it added iCloud Mail and Calendar plugins to ChatGPT.\r\n\r\n\r\nWith the ‌iCloud‌ Calendar integration, ChatGPT can read, schedule, and update events that show up on your iPhone's Calendar app or any third-party app that uses ‌iCloud‌ Calendar. The Mail integration lets ChatGPT search a",
+      "image": "https://images.macrumors.com/article-new/2023/06/General-macOS-Mail-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-27T15:30:15.000Z"
+      "publishedAt": "2026-10-27T19:51:25.000Z"
     },
     {
-      "id": "3ed828dec5f8293d",
-      "title": "iOS 27.2 introduces new age verification feature using selfie",
-      "description": "iOS 27.2 is here, and it introduces a new feature for age verification using a selfie. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie/",
+      "id": "d84142e0fa3a0c27",
+      "title": "Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth",
+      "description": "Counterpoint Research’s latest report offers a look at global iPhone 18 Pro sales during the first three weeks of availability. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-18pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/report-iphone-18-pro-sales-down-4-in-the-us-but-china-drives-3-1-global-growth/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-27T15:21:41.000Z"
+      "publishedAt": "2026-10-27T19:44:07.000Z"
     },
     {
-      "id": "71eed495a230d2f0",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T14:59:09.000Z"
-    },
-    {
-      "id": "809345afd4a496ae",
-      "title": "iOS 27.2 adds new Messages feature that’s already a favorite",
-      "description": "iOS 27.2 launched this week with many new features for iPhone users, including a Messages addition that was previously announced for iOS 27 but later got pushed back: Suggestions.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-messages-feature-thats-already-a-favorite/",
+      "id": "3856863d23081454",
+      "title": "Apple’s low-cost iPhone 18 details revealed by leaker",
+      "description": "Apple reportedly plans to introduce a low-cost iPhone 18e next spring alongside iPhone 18 and iPhone Air 2. Here are the details on what to expect from iPhone 18e, per a new leak.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-27T14:55:29.000Z"
-    },
-    {
-      "id": "feb1360c31701fcf",
-      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "description": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
-      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T14:51:33.000Z"
-    },
-    {
-      "id": "6ab416eb70f9833d",
-      "title": "HomePod 27.2 hands-on: default wireless speaker for Mac, Sound Glow and more [Video]",
-      "description": "iOS 27.2 and its corresponding updates for the HomePod lineup bring several key new features to Apple’s smart speakers. The most exciting update? The ability to finally use your HomePod as the default sound output for your Mac. This means that the 2nd-generation HomePod and HomePod mini 2 can now fu",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HomePod.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/27/homepod-27-2-hands-on-default-wireless-speaker-for-mac-sound-glow-and-more-video/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-27T14:50:40.000Z"
-    },
-    {
-      "id": "6f577847c538e761",
-      "title": "US government says hackers are now exploiting critical PHP web bugs",
-      "description": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
-      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T14:40:39.000Z"
-    },
-    {
-      "id": "0a268d56e50e3092",
-      "title": "New MacBook Pro redesign details revealed ahead of launch",
-      "description": "Apple debuted a new M6 MacBook Pro today, but a high-end MacBook Pro redesign is coming tomorrow, and Mark Gurman has shared some new details to expect.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/27/new-macbook-pro-redesign-details-revealed-ahead-of-launch/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-27T14:31:03.000Z"
-    },
-    {
-      "id": "dcdcaa12644584ba",
-      "title": "Banktivity Offers 30% Off First Year Subscriptions for MacRumors Readers",
-      "description": "MacRumors has partnered with the personal finance app Banktivity to offer our readers a 30 percent discount on their first year of the service, plus a 30-day free trial. This deal is available to new subscribers only, and you can find it on Banktivity's website, where it has been automatically appli",
-      "image": "https://images.macrumors.com/article-new/2026/10/banktivity-new-app.jpeg",
-      "url": "https://www.macrumors.com/2026/10/27/banktivity-30-off-first-year/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-27T14:25:46.000Z"
-    },
-    {
-      "id": "69a043f5f99a7857",
-      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-      "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
-      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T14:25:11.000Z"
-    },
-    {
-      "id": "10cb813c9c7d00bb",
-      "title": "We&#8217;ve had touchscreen laptops for years. Can Apple make them better?",
-      "description": "Seeing the light on touchscreen laptops. | Photo by Amelia Holowaty Krales / The Verge\t\n\nA fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\"",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24371430/236492_MacBook_Pro_16__2023__AKrales_0090.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-27T14:00:00.000Z"
+      "publishedAt": "2026-10-27T19:28:53.000Z"
     }
   ],
-  "lastUpdated": "2026-10-27T18:03:27.828Z",
+  "lastUpdated": "2026-10-28T06:03:34.317Z",
   "sources": [
     "TechCrunch",
     "The Verge",
