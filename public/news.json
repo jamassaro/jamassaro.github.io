@@ -1,298 +1,295 @@
 {
   "articles": [
     {
-      "id": "b3974b87d2af715c",
-      "title": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo",
-      "description": "iOS 27.2 launched this week with many new features, including an upgrade for the Apple TV app that’s especially perfect for iPhone Duo: Multiview.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
+      "id": "0ee220100835a37d",
+      "title": "Apple’s best MacBook Pro decision this week had nothing to do with touch",
+      "description": "Apple’s new touchscreen MacBook Pro brings plenty of welcome upgrades, but one of the best things about this week’s launch is what the company decided not to change.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/29/apples-best-macbook-pro-decision-this-week-had-nothing-to-do-with-touch/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-29T18:00:43.000Z"
+      "publishedAt": "2026-10-30T02:06:23.000Z"
     },
     {
-      "id": "7ece26a73004b745",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "id": "0751415586563d75",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-29T17:54:38.000Z"
+      "publishedAt": "2026-10-30T01:20:48.000Z"
     },
     {
-      "id": "bc3e7ba029e395f8",
-      "title": "You Can Turn Off the New MacBook Pro's Touchscreen Functionality",
-      "description": "The new MacBook Pro models with OLED displays have an accessibility setting that allows you to turn off touch input entirely, according to MacStories editor-in-chief Federico Viticci.\r\n\r\nRelated Roundups: MacBook Pro, macOS Golden Gate\nBuyer's Guide: MacBook Pro (Buy Now)\nRelated Forums: MacBook Pro",
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-Touch-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
+      "id": "f6ad0d52acdaefaf",
+      "title": "Apple TV’s new crime thriller series ‘Nocturne’ is now streaming",
+      "description": "The first two episodes for Apple TV’s latest crime thriller, “Nocturne,” are now available to stream. Watch the trailer below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/nocturne-stephen-graham-laugh.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-series-nocturne-is-now-streaming/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-30T01:01:35.000Z"
+    },
+    {
+      "id": "4f5211b1d648dfd0",
+      "title": "9to5Mac Daily: October 29, 2026 – New MacBook Pro with PROLED XDR Display",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/29/daily-october-29-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-30T00:58:40.000Z"
+    },
+    {
+      "id": "7deb8c78827e74c2",
+      "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
+      "description": "Apple today released Xcode 27.2, and it reveals how much RAM is in the new fourth-generation Apple TV 4K and the new iPad mini with an OLED display.\r\n\r\n\r\nAs expected, the new Apple TV 4K with the A19 chip is equipped with 8GB of RAM, while the new iPad mini with the A20 Pro chip has 12GB of RAM.\r\n\r\n",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
+      "url": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-29T17:47:11.000Z"
+      "publishedAt": "2026-10-30T00:50:44.000Z"
     },
     {
-      "id": "8caacfa6460d278d",
-      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
-      "description": "Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press. The state has filed 14 charges against Kalshi, as well as CEO Tarek Mansour and COO Luana Lopes Lara, inclu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+      "id": "48d8457b39c0a811",
+      "title": "The director of Obsession put a new horror short on YouTube",
+      "description": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_44000.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-29T17:40:23.000Z"
+      "publishedAt": "2026-10-29T23:57:18.000Z"
     },
     {
-      "id": "2d9568191057a6e5",
-      "title": "Old 'Popcorn Time' App Left Hundreds of Thousands of Macs at Risk",
-      "description": "If you installed Popcorn Time on a Mac years ago, part of the app may still be running, and it may have left your Mac open to attack.\r\n\r\n\r\nSecurity firm Eye Research has detailed how Time4Popcorn – an unofficial version of the once-popular movie streaming app – left behind a small update checker tha",
-      "image": "https://images.macrumors.com/article-new/2026/10/popcorn-time-hero.jpg",
-      "url": "https://www.macrumors.com/2026/10/29/old-popcorn-time-app-macs-at-risk/",
+      "id": "64029677c331e64b",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-29T23:44:56.000Z"
+    },
+    {
+      "id": "1d09a54d3f5ca71d",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-29T23:42:22.000Z"
+    },
+    {
+      "id": "71328a69c5a31d72",
+      "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
+      "description": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-29T23:42:21.000Z"
+    },
+    {
+      "id": "2d267b24cf56baf5",
+      "title": "Report: Apple expected to ship up to 1.5 million OLED touchscreen MacBook Pros in 2027",
+      "description": "A new report from TrendForce explores Apple’s impact on the OLED notebook market following the launch of its first touchscreen MacBook Pro, and the company’s own shipment prospects for 2027. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-oled.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/29/report-apple-expected-to-ship-up-to-1-5-million-oled-touchscreen-macbook-pros-in-2027/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-29T22:37:53.000Z"
+    },
+    {
+      "id": "fcff6b715e4bc765",
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "description": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-29T22:27:23.000Z"
+    },
+    {
+      "id": "67940d587482b37c",
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "description": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 m",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-29T22:19:32.000Z"
+    },
+    {
+      "id": "30c2bce10e99ce5a",
+      "title": "Touchscreen MacBook Pro with OLED, new iPad mini, and more",
+      "description": "Benjamin and Chance break down all the announcements from Apple’s ‘Pro and tell’ event, featuring the new OLED MacBook Pro with touchscreen, M6 iMac, and the updated iPad Mini. \nAnd in Happy Hour Plus, how well has Apple handled this flurry of fall product announcements? Subscribe at 9to5mac.com/joi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/29/happy-hour-614/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-29T21:55:40.000Z"
+    },
+    {
+      "id": "4e63e7a5def19d8d",
+      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "description": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-29T21:51:29.000Z"
+    },
+    {
+      "id": "47195db32225db06",
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "description": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-29T21:20:47.000Z"
+    },
+    {
+      "id": "b685c293c44317a3",
+      "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
+      "description": "While the new iPad mini has an OLED display, the device does not support ProMotion, meaning the display's refresh rate is limited to 60Hz instead of 120Hz.\r\n\r\n\r\nProMotion support would have allowed for the iPad mini's refresh rate to automatically adjust from 10Hz to 120Hz depending on the content b",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-29T17:12:59.000Z"
+      "publishedAt": "2026-10-29T21:14:19.000Z"
     },
     {
-      "id": "3169e1e6c62a4f90",
-      "title": "Data centers could send US climate pollution skyrocketing",
-      "description": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club. That would essentially wipe out 15 years of g",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T17:10:46.000Z"
-    },
-    {
-      "id": "a0965141ad867369",
-      "title": "Apple says it’s ‘only getting started’ updating macOS for touchscreens",
-      "description": "Apple’s new MacBook Pro with PROLED XDR Display (pre-order here) includes a variety of software optimizations for touch input. But Apple says it’s “only getting started” making macOS more touch-friendly.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-touch-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/29/apple-says-its-only-getting-started-updating-macos-for-touchscreens/",
+      "id": "692c9221f84004c7",
+      "title": "Strava adds Google Gemini integration with personalized workout insights",
+      "description": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-29T17:01:44.000Z"
+      "publishedAt": "2026-10-29T21:06:35.000Z"
     },
     {
-      "id": "60792a22ca8c725d",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "description": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "id": "63434ab51ef479ad",
+      "title": "GM reaches $220M settlement over selling drivers’ private data",
+      "description": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-29T16:42:32.000Z"
+      "publishedAt": "2026-10-29T21:01:04.000Z"
     },
     {
-      "id": "205e47e07eb6cef6",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "description": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T16:21:00.000Z"
-    },
-    {
-      "id": "50874d7a0d0f7c78",
-      "title": "SuperMe raises $20M for its network of AI expert profiles",
-      "description": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
-      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T16:19:43.000Z"
-    },
-    {
-      "id": "554dcc17fd9e133e",
-      "title": "This open-source project lets you sync Withings data to other apps without a subscription",
-      "description": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was already fed up with the Withings mobile app which they describe as a \"bloated mess,\" beca",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24856976/236744_Withings_Body_Smart_VSong_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T16:14:06.000Z"
-    },
-    {
-      "id": "40c8493ac0e8da56",
-      "title": "Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion",
-      "description": "The Joshua Kushner-led Thrive Holdings is acquiring ADT in an all-cash deal valued at $7.6 billion. The deal is expected to close in the first quarter of 2027 and will take ADT private, as reported earlier by Bloomberg.\nJoshua Kushner is the brother of President Donald Trump's son-in-law, Jared Kush",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-913777656.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T16:03:28.000Z"
-    },
-    {
-      "id": "381071e4431d0bb4",
-      "title": "Microsoft’s AI future has fewer jobs",
-      "description": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T16:00:00.000Z"
-    },
-    {
-      "id": "01179ce7f843fbbb",
-      "title": "MacBook Pro Mini-LED vs. OLED Buyer's Guide: Every Difference",
-      "description": "Apple's new MacBook Pro with PROLED XDR Display features tandem OLED technology, touchscreen input, the Dynamic Island, and a thinner, lighter design. It joins the existing Liquid Retina XDR models introduced in March 2026, with both versions offering the same M5 Pro and M5 Max chips.\r\n\r\n\r\nThe PROLE",
-      "image": "https://images.macrumors.com/article-new/2026/10/Mini-LED-vs-PROLED-MBP-Feature-scaled.jpg",
-      "url": "https://www.macrumors.com/guide/macbook-pro-mini-led-vs-oled/",
+      "id": "1a9f6d5e6e8b4b3e",
+      "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea",
+      "description": "In the U.S. and most other countries, Apple's website shows the new iPad mini being held by pinched fingers, but this is not the case in South Korea.\r\n\r\nThe new iPad mini shown with pinched fingers on Apple's website in the U.S.\n\r\nOn its South Korean website, Apple simply shows an image of the iPad ",
+      "image": "https://images.macrumors.com/article-new/2026/10/Pinched-iPad-Mini.jpg",
+      "url": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-29T15:59:05.000Z"
+      "publishedAt": "2026-10-29T20:53:59.000Z"
     },
     {
-      "id": "65b5fe18c4c92717",
-      "title": "Deals: M6 and PROLED MacBook Touch pre-order offers, OLED iPad mini, M6 Mac mini, more",
-      "description": "Alongside the ongoing $50 price drop on AirPods Pro 3 and the ongoing Apple TV 4K pre-order discount, pre-orders are now live on the new OLED iPad mini, M6 MacBook Pro, M6 iMac, and the MacBook Pro with PROLED XDR Display – we have uncovered some FREE $50 and $100 gift card offers for you below on t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Deals-Touch-PROLED-MacBook-iPad-mini-OLED.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/29/m6-proled-macbook-pre-order-deals-oled-ipad-mini/",
+      "id": "9186cdfa28ba771b",
+      "title": "Reddit will soon require an account for most content",
+      "description": "Earlier today Reddit announced that it’s rolling out social media-style ‘For You’ feeds, but that wasn’t the only big news today. Reddit also now says that it’s going to start requiring a logged-in account for accessing most of its content.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/Reddit-threatened-protesting-moderators.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/29/reddit-will-soon-require-an-account-for-most-content/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-10-29T15:34:05.000Z"
+      "publishedAt": "2026-10-29T20:49:53.000Z"
     },
     {
-      "id": "ec2af4006d65406e",
-      "title": "Apple TV’s new crime thriller hailed as ‘impossible to stop watching’",
-      "description": "Apple TV has a new crime thriller premiering tonight—Nocturne—and early reviews indicate it could be another hit series for the streamer.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/nocturne-stephen-graham-cell.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-hailed-as-impossible-to-stop-watching/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-29T15:19:00.000Z"
-    },
-    {
-      "id": "30af8e23f426d144",
-      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-      "description": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
-      "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "id": "69c3aadac5ca97b4",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+      "description": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-29T15:00:00.000Z"
+      "publishedAt": "2026-10-29T20:43:56.000Z"
     },
     {
-      "id": "3f04ff64ab455628",
-      "title": "The NYT Cooking app is testing AI recipe modifications",
-      "description": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times\t\n\nThe New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "id": "9574110983dc8986",
+      "title": "Apple cuts App Store commission in Taiwan following regulatory discussions [U]",
+      "description": "Apple today announced that it is lowering its standard App Store commission in Taiwan, following discussions with the country’s Fair Trade Commission. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/app-store-connect-ios.webp?w=1600",
+      "url": "https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-29T20:24:17.000Z"
+    },
+    {
+      "id": "c33296178aa2f5d2",
+      "title": "Patrick Stewart has died at age 86",
+      "description": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\"\nBorn in 1940 in Mir",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2156843221.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-29T14:39:37.000Z"
+      "publishedAt": "2026-10-29T20:10:02.000Z"
     },
     {
-      "id": "aa2dfa9f9ac5cacd",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "description": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "id": "f24da3853021fdb5",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "description": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-29T14:35:26.000Z"
+      "publishedAt": "2026-10-29T20:08:31.000Z"
     },
     {
-      "id": "95859129ee667dc2",
-      "title": "Where to Pre-Order Apple's New MacBooks, iPad Mini, and iMac",
-      "description": "Apple announced an array of new products this week, including the iPad mini 8, M6 iMac, M6 14-inch MacBook Pro, and PROLED XDR MacBook Pro. With new product announcements comes pre-orders, and below we're tracking all of the best places to get your pre-orders in for each device.\r\n\r\nNote: MacRumors i",
-      "image": "https://images.macrumors.com/article-new/2026/10/imac-macbook-pre-order.jpg",
-      "url": "https://www.macrumors.com/2026/10/29/pre-order-apples-new-macbooks/",
+      "id": "40bd0d2b35154438",
+      "title": "Reddit will force everyone to log in",
+      "description": "Reddit is announcing a huge shift: It's going to start requiring users to log in.\nRight now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a l",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-29T20:07:00.000Z"
+    },
+    {
+      "id": "1e86cdbb8c26f8c9",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-29T20:05:47.000Z"
+    },
+    {
+      "id": "ffd19ea446e5ba50",
+      "title": "Here's a Hands-On Look at HomePod Mini 2's New Two-Tone Colors",
+      "description": "The HomePod mini 2 is launching tomorrow (or in a few hours in Australia and New Zealand) and a new hands-on video from Craig's Tech Talk gives a clear look at the two-tone color design Apple added with some of the color options.\r\n\r\n\r\nFor the pink, blue, and green HomePod mini models, the two layers",
+      "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-colors-close.jpg",
+      "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-two-tone-colors/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-10-29T14:35:15.000Z"
+      "publishedAt": "2026-10-29T20:04:54.000Z"
     },
     {
-      "id": "b94be320ae36f28f",
-      "title": "Apple Releasing HomePod Mini 2 Tomorrow With These New Features",
-      "description": "Following more than two weeks of pre-orders, the HomePod mini 2 will begin arriving to customers and launch in stores this Friday, October 30.\r\n\r\n\r\nSiri AI will be one of the HomePod mini 2's key upgrades, but the feature will not be available at launch. Apple said Siri AI support on the speaker wil",
-      "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
-      "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-release-date-features/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-29T14:32:28.000Z"
-    },
-    {
-      "id": "39056013b4ebaaa0",
-      "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
-      "description": "The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart. Once the game launches, the physical version will almost ce",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Legend-of-Zelda-Ocarina-Switch2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T14:24:45.000Z"
-    },
-    {
-      "id": "1704fde6ae9eacb1",
-      "title": "iOS 27.2 gives Shortcuts app these new and improved features",
-      "description": "iOS 27.2 launched this week with a variety of new features for Siri AI, FaceTime, Messages, and more, plus a handful of improvements for the Shortcuts app. Here’s everything new in Shortcuts.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-shortcuts-app-ios-27-icon.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-29T14:16:33.000Z"
-    },
-    {
-      "id": "dd1f158f99078c45",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "id": "1239200019f25fe1",
+      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+      "description": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-29T14:00:00.000Z"
+      "publishedAt": "2026-10-29T20:02:03.000Z"
     },
     {
-      "id": "27bba7b55ed1fa51",
-      "title": "Anthropic is asking Wall Street to believe in AGI",
-      "description": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1.\nAnthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "id": "072ca1ac213ecd1c",
+      "title": "Rivian’s R2 is officially its best-selling vehicle",
+      "description": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs.\nRivian said it brought in $2.155 billion in re",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-10-29T14:00:00.000Z"
+      "publishedAt": "2026-10-29T20:02:00.000Z"
     },
     {
-      "id": "bbc6489b420182a7",
-      "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
-      "description": "Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for Shopping to \"Create a new shopping list\" or \"Show me what's left on my wedding registry.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alexa-for-shopping-lists.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T13:52:48.000Z"
-    },
-    {
-      "id": "abbc97cdc55af090",
-      "title": "iOS 27.3 release date: Here’s when to expect new iPhone features",
-      "description": "Apple released iOS 27.2 this week with new features for Messages, Siri AI, and Photos, plus an Apple Music rebrand and more. But work on iOS 27.3 is already well underway, here’s when to expect the next big iPhone update.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-29T13:44:21.000Z"
-    },
-    {
-      "id": "c6ff528581132d44",
-      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-      "description": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
-      "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+      "id": "19da7145db7ff81d",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-10-29T13:43:53.000Z"
-    },
-    {
-      "id": "ea16199e10b7a126",
-      "title": "DoorDash to acquire Instacart for $17B",
-      "description": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
-      "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T13:40:57.000Z"
-    },
-    {
-      "id": "9c015214d140c4ef",
-      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
-      "description": "After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a flickering flame across a grid of LEDs. It's a far cry from the types of devices Bates is ty",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/candle.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-29T13:37:56.000Z"
+      "publishedAt": "2026-10-29T19:56:19.000Z"
     }
   ],
-  "lastUpdated": "2026-10-29T18:03:48.463Z",
+  "lastUpdated": "2026-10-30T06:02:26.687Z",
   "sources": [
     "TechCrunch",
     "The Verge",
