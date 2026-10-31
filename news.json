@@ -1,6 +1,213 @@
 {
   "articles": [
     {
+      "id": "bf04351507dbf872",
+      "title": "PSA: Today’s the last day to purchase discounted cushion kits for Beats 360",
+      "description": "Apple introduced the new Beats 360 headphones about a month and a half ago. I reviewed them, and really appreciated their customizable design, the fact that they offer automatic device switching, as well as their comfort. At the time, Beats offered launch pricing on additional sets of cushions, brin",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Beats-360-cushions.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/31/last-day-to-purchase-discounted-beats-360-cushion-kits/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T17:53:56.000Z"
+    },
+    {
+      "id": "f256981efc44cd83",
+      "title": "Happy Pikmin Day Eve",
+      "description": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series o",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T17:50:12.000Z"
+    },
+    {
+      "id": "683d3ce04fad350e",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T16:12:55.000Z"
+    },
+    {
+      "id": "9c1d9dd4a117c01e",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "description": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.\nBut I won't be buying one, because we have Muse Charm at home. It cost just $50, and I'",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&#038;strip=all&#038;crop=4,0,96,94.899920311255",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T16:05:00.000Z"
+    },
+    {
+      "id": "9723edfc9692f88b",
+      "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
+      "description": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receiv",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-watch-ultra-4-blue.jpeg",
+      "url": "https://www.macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T15:54:52.000Z"
+    },
+    {
+      "id": "3f0f9d2f5ec6a840",
+      "title": "Reminder: Apple's Big Discount on Beats 360 Ear Cushions Ends Today",
+      "description": "Until the end of today, Performance Knit and UltraPlush ear cushions with matching headbands for the Beats 360 are available on Apple's online store in the U.S. for $9.99 each, with customers limited to three kits per order. Lower pricing extends to other countries. Starting November 1, regular pric",
+      "image": "https://images.macrumors.com/article-new/2026/10/Beats-360-Halloween.jpg",
+      "url": "https://www.macrumors.com/2026/10/31/beats-360-ear-cushions-discount-ends-today/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T15:50:00.000Z"
+    },
+    {
+      "id": "04ac1cdc97c4c9ee",
+      "title": "Here's a New Tour of Apple's HomeView Software",
+      "description": "Broadcasts app developer Steve Troughton-Smith has shared a Halloween treat for us today: a tour of the software on Apple's upcoming HomeView smart home hub. Apple has already demoed the HomeView to selected tech reporters and content creators, but Troughton-Smith offers a closer look at several fea",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview-entertainment-feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T15:47:40.000Z"
+    },
+    {
+      "id": "80bcd4d13b6ca172",
+      "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
+      "description": "After five years, Apple released its first major MacBook Pro overhaul since the M1 Pro/M1 Max models, and well… it was a little bit underwhelming from a design perspective. The product is incredible on many merits, but after seeing it, I’m not left feeling like I need to buy one – at least not yet.\n",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-touch-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T15:42:26.000Z"
+    },
+    {
+      "id": "ac7069729c419fbd",
+      "title": "Apple Maps begins blurring NASA, Space Force, and Air Force bases",
+      "description": "You’re not a real space or aviation nerd unless you’ve taken to a map service and zoomed on the historic NASA launch pads or your local Air Force Bases, just for fun, you know? However, a recent change to Apple Maps now has some of those locations blurred from view, blocking anyone from seeing fight",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/CleanShot-2026-10-30-at-8.12.12-PM@2x-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T15:42:14.000Z"
+    },
+    {
+      "id": "91f8da80f1956abd",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "description": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T15:41:57.000Z"
+    },
+    {
+      "id": "1c81fdefbd36a426",
+      "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T15:19:00.000Z"
+    },
+    {
+      "id": "93bb73a00792a9be",
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "description": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. \nThe search improvements are quite comprehensive. You can now filte",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T15:12:19.000Z"
+    },
+    {
+      "id": "a4d92806111f86eb",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "description": "We got a chance to touch Apple’s latest MacBook at the “Pro and Tell” event. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nWhile the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 g",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T15:00:00.000Z"
+    },
+    {
+      "id": "278c13976d99ff8e",
+      "title": "Vic Mensa can’t live without the Voice Memos app",
+      "description": "No lies detected. | Photo: Onda\t\n\nVic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-in",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T15:00:00.000Z"
+    },
+    {
+      "id": "223d6f0f44eb5075",
+      "title": "Apple Reveals New iPad Mini's Battery Capacity",
+      "description": "Apple has published an EU energy label for the iPad mini 8 that reveals the device has a battery capacity of 4,900 mAh, which is slightly lower than the 5,034 mAh capacity of the previous model's battery.\r\n\r\n\r\nApple's website lists identical battery life estimates for both models, so it appears that",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-3.jpg",
+      "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T14:24:08.000Z"
+    },
+    {
+      "id": "4bbf75eb526f9260",
+      "title": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
+      "description": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display. Is finally having a touchscreen Mac resonating with the Overtime crew? Tune in for a spirited discu",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-088.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/10/31/9to5mac-overtime-088-finally-a-touchscreen-macbook/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T14:17:15.000Z"
+    },
+    {
+      "id": "503ecd33c610b090",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T14:00:00.000Z"
+    },
+    {
+      "id": "8b79294669511311",
+      "title": "Top Stories: Apple's Big MacBook Pro, iPad mini and iMac Updates",
+      "description": "One busy week after another for Apple has left our heads spinning, with this week seeing several Mac updates as well as a revamped iPad mini.\r\n\r\n\r\nAll of this week's craziness comes right on the heels of last Friday's iPhone Duo launch, not to mention all of the other products now available or still",
+      "image": "https://images.macrumors.com/article-new/2026/10/top-stories-2026-10-31.jpg",
+      "url": "https://www.macrumors.com/2026/10/31/top-stories-apple-macbook-pro-ipad-mini-imac-updates/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T13:00:12.000Z"
+    },
+    {
+      "id": "b0da8f28074c3e75",
+      "title": "Touchscreens everywhere!",
+      "description": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.)\nThis week, I was in the Smoky Mountains in Tennessee on a family vacation. It was",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-150.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+      "id": "2e25da00725f5f94",
+      "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+      "description": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\"\n\"Who's working to elect James Talarico? Marxists.\"\n\"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\"\n\"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick video ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+      "id": "c979c3a67889e879",
+      "title": "'Pluribus' Season 2 Reportedly Starts Production Today",
+      "description": "Filming for the second season of Apple TV's \"Pluribus\" is expected to start today in Albuquerque, New Mexico, according to a report from Production List. The acclaimed sci-fi drama stars Rhea Seehorn and was created by Vince Gilligan. Its first season debuted on November 7, 2025, with a second seaso",
+      "image": "https://images.macrumors.com/article-new/2025/10/Pluribus_Poster_0101.jpg",
+      "url": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-10-31T06:41:45.000Z"
+    },
+    {
       "id": "2882a8688bede188",
       "title": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
       "description": "China is doing much of the heavy lifting for Apple's iPhone 18 Pro launch, with a 29% sales increase helping offset declines in the U.S. and Japan, according to Counterpoint Research.\r\n\r\n\r\nCombined global sales of the ‌iPhone 18 Pro‌ and ‌iPhone 18 Pro‌ Max rose 3.1% during their first three weeks o",
@@ -85,212 +292,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-10-30T22:56:13.000Z"
-    },
-    {
-      "id": "94356a8724876b2e",
-      "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
-      "description": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple Intelligence in China. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-burgundy.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T22:37:36.000Z"
-    },
-    {
-      "id": "271ef05d4fa0d48a",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for D",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T22:32:53.000Z"
-    },
-    {
-      "id": "ef50edfba4aaeeee",
-      "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
-      "description": "In a memo shared with Apple Stores and Apple Authorized Service Providers this week, and later obtained by MacRumors, Apple provided technicians with guidance on how to diagnose and address the iPhone Duo's inner display cracking issue.\r\n\r\n\r\nIf a customer reports the issue, Apple advised technicians",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Display-Cracking.jpg",
-      "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T22:20:10.000Z"
-    },
-    {
-      "id": "88a7aa67533795b6",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T21:54:34.000Z"
-    },
-    {
-      "id": "ba55e32d242396bf",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T21:52:03.000Z"
-    },
-    {
-      "id": "6f6bdcb6a636b202",
-      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-      "description": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
-      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T21:48:53.000Z"
-    },
-    {
-      "id": "6c69aa01b1b977a5",
-      "title": "iOS 27.3 Will Enable These Apple Intelligence Features in China",
-      "description": "Apple's website in China says iOS 27.3 will enable some Apple Intelligence features in China, such as Writing Tools, Genmoji, Clean Up, Notification Summaries, Priority Notifications, Visual Intelligence, and Live Translation with AirPods. Select features will not be available, including Siri AI and",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Intelligence-China.jpg",
-      "url": "https://www.macrumors.com/2026/10/30/ios-27-3-apple-intelligence-china/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T21:46:00.000Z"
-    },
-    {
-      "id": "fd470abcb26e5a24",
-      "title": "Apple Says iOS 27.3 Beta Coming Next Week",
-      "description": "Apple today announced that the first iOS 27.3 developer beta will be released next week and enable some Apple Intelligence features in China.\r\n\r\n\r\nIn a press release shared on the Apple Newsroom website in China, Apple said the beta will be released on Wednesday, November 4, but that likely means Tu",
-      "image": "https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T21:45:09.000Z"
-    },
-    {
-      "id": "2ac655d1af8a1387",
-      "title": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
-      "description": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘Pluribus’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico. Here’s what we know.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/pluribus-s1-rhea-seehorn-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T21:44:44.000Z"
-    },
-    {
-      "id": "244127de40f5ab37",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T21:26:59.000Z"
-    },
-    {
-      "id": "fa66945dffac2a53",
-      "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
-      "description": "The Wall Street Journal's Rolfe Winkler this week reported that flash storage suppliers once \"bullied\" by Apple have been \"getting their revenge\" on the company over the past year due to a severe memory chip shortage, which stems from AI companies building out massive data centers that utilize signi",
-      "image": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-      "url": "https://www.macrumors.com/2026/10/30/apple-flash-storage-suppliers-revenge-report/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T21:18:56.000Z"
-    },
-    {
-      "id": "20d6e5cc508064c5",
-      "title": "Cracks are emerging in the AI spending boom",
-      "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T21:17:40.000Z"
-    },
-    {
-      "id": "6536bd5df4e5f729",
-      "title": "Exclusive details about Akai’s MPC Sample Key",
-      "description": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T21:01:32.000Z"
-    },
-    {
-      "id": "7206dd4d9255ada9",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said:\n\"A lo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T20:48:43.000Z"
-    },
-    {
-      "id": "88c0afcea907b423",
-      "title": "‘Knives Out’ director launches iPhone camera app that shoots like his movies",
-      "description": "Hollywood director Rian Johnson (Star Wars: The Last Jedi) announced a new iPhone camera app that uses the same image processing techniques as his ‘Knives Out‘ films. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/rian-camera-app.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T20:44:08.000Z"
-    },
-    {
-      "id": "75b95b118ccb8d1d",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "description": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setti",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T20:26:10.000Z"
-    },
-    {
-      "id": "7ebfe0ac72d23566",
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "description": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-30T19:55:13.000Z"
-    },
-    {
-      "id": "86361f5365f73358",
-      "title": "14 New Things Your iPhone Can Do in iOS 27.2",
-      "description": "Apple released iOS 27.2 on October 26, bringing enhancements to Siri AI, adding Suggestions in Messages, and sneaking in a string of smaller additions across Photos, Podcasts, Games, Apple TV, and FaceTime. \r\n\r\n\r\niOS 27.2 is available to download to your device now via Settings ➝ General ➝ Software ",
-      "image": "https://images.macrumors.com/article-new/2026/10/Everything-New-Your-iPhone-Can-Do-on-iOS-27.2-Feature-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/30/new-things-iphone-can-do-ios-27-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T19:42:54.000Z"
-    },
-    {
-      "id": "3f761360a4ad4b15",
-      "title": "iOS 27.2 adds two FaceTime features, including a personal favorite",
-      "description": "iOS 27.2 adds new features to Messages, Podcasts, Photos, and more—including some easy-to-miss upgrades to FaceTime. Here’s what’s new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/30/ios-27-2-adds-two-facetime-features-including-a-personal-favorite/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T19:22:05.000Z"
-    },
-    {
-      "id": "4562cb6e53df80f3",
-      "title": "iPhone Duo Review: One Week Later",
-      "description": "It's been a week since the iPhone Duo was released, and MacRumors videographer Dan Barbera wanted to revisit his review since he's been able to use the Duo for a longer stretch of time.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nYou've probably seen images of iPhone Duos with a",
-      "url": "https://www.macrumors.com/2026/10/30/iphone-duo-one-week-later/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T19:06:12.000Z"
-    },
-    {
-      "id": "7fd2fdd99c3abe95",
-      "title": "Security Bite: This iOS 27.2 camera bug still isn’t enough to make me buy a camera cover",
-      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "url": "https://9to5mac.com/2026/10/30/security-bite-this-ios-27-2-camera-bug-still-isnt-enough-to-make-me-buy-a-camera-cover/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-30T19:01:14.000Z"
     }
   ],
-  "lastUpdated": "2026-10-31T06:02:57.259Z",
+  "lastUpdated": "2026-10-31T18:01:58.214Z",
   "sources": [
     "TechCrunch",
     "The Verge",
