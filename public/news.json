@@ -1,6 +1,201 @@
 {
   "articles": [
     {
+      "id": "9d06a5b9741898eb",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "description": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals f",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T21:09:21.000Z"
+    },
+    {
+      "id": "9d3a5773b1bde6bd",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T20:57:58.000Z"
+    },
+    {
+      "id": "2f71a90debe3e411",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "description": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T19:58:02.000Z"
+    },
+    {
+      "id": "c3755be6900920b3",
+      "title": "Nearly Every M5 MacBook Air Now $200 Off on Amazon",
+      "description": "Amazon is taking $200 off nearly every model of the M5 MacBook Air this weekend, with matches of the best post-hike prices we've ever seen on the computer. Prices now start at $1,099.99 for the 512GB 13-inch model and $1,299.99 for the 512GB 15-inch model.\r\n\r\nNote: MacRumors is an affiliate partner ",
+      "image": "https://images.macrumors.com/article-new/2026/06/m5-macbook-air-prime-day.jpeg",
+      "url": "https://www.macrumors.com/2026/11/01/m5-macbook-air-200-off/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-01T17:33:43.000Z"
+    },
+    {
+      "id": "6b3fd26e43d861a2",
+      "title": "Apple’s HomeView could add security camera features",
+      "description": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T17:16:07.000Z"
+    },
+    {
+      "id": "2bc2930ac23b5a28",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T17:04:00.000Z"
+    },
+    {
+      "id": "4a4fd732e70ae272",
+      "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
+      "description": "If you’re like me and bought an iPhone Duo, you’re likely a bit disappointed by the options on the market to prop it up on a table. Apple’s official $129 folio with kickstand is expensive, flimsy, and gets in the way of the outer display. MagSafe wallets that turn into kickstands are too tall for th",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/JPEG-image-3.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-01T16:29:42.000Z"
+    },
+    {
+      "id": "53f608c7cfda6a7d",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "description": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T16:20:10.000Z"
+    },
+    {
+      "id": "65cc588851f4cc99",
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "description": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T16:19:21.000Z"
+    },
+    {
+      "id": "96c069dbb52f2a74",
+      "title": "This 140W power station might be the ultimate charger for Apple users [Video]",
+      "description": "I have tested and used countless charging stations over the years, and while many of them get the job done, I feel like there is always some sort of compromise. Whether it’s not enough power, lack of a certain port that I need, or slow wireless charging, I have yet to find one that truly checks ever",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/charger.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/01/this-140w-power-station-might-be-the-ultimate-charger-for-apple-users-video/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-01T16:16:29.000Z"
+    },
+    {
+      "id": "2233aa835c05d9bb",
+      "title": "Apple's HomeView Ships With Six-Month-Old Software",
+      "description": "It is well known that Apple's new HomeView smart home hub was significantly delayed, and there is now yet another piece of evidence: the device will initially ship with six-month-old HomeView software version 26.5, according to AppleDB. When setting up the HomeView, users will be prompted to update ",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-01T15:37:07.000Z"
+    },
+    {
+      "id": "8f515f3fe150e8f0",
+      "title": "Three New iPads Rumored to Launch in First Half of 2027",
+      "description": "After announcing a new iPad mini with an OLED display earlier this month, Apple plans to release new iPad Air, iPad Pro, and entry-level iPad models in the first half of 2027, according to the latest word from Bloomberg's Mark Gurman.\r\n\r\n\r\nIn his Power On newsletter today, Gurman said the next iPad ",
+      "image": "https://images.macrumors.com/article-new/2025/08/iPad-Pro-2024-vs-Air-2024-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-01T15:27:23.000Z"
+    },
+    {
+      "id": "d060acd6b2b11866",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "description": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T15:00:00.000Z"
+    },
+    {
+      "id": "45cebd3b7721d56c",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "description": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T14:33:11.000Z"
+    },
+    {
+      "id": "5dae946ccafb24f4",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "description": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T14:00:00.000Z"
+    },
+    {
+      "id": "190da91d5b37a649",
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "description": "Apple’s second-generation HomePod Mini is a nice upgrade, but the biggest improvement hasn’t arrived yet. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nWhen I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,6.1688463882248,80.59453125,89.629916092439",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T14:00:00.000Z"
+    },
+    {
+      "id": "255458486bfa639b",
+      "title": "New Zelda and GTA represent a games industry that no longer exists",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe two bigges",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_TheLegendofZeldaOcarinaofTime_scrn_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T13:00:00.000Z"
+    },
+    {
+      "id": "f3f6dcfe28e9b89a",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "description": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn.\nProposition 45 would shorten timelines for state-mandated environmental assessments for eligib",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T13:00:00.000Z"
+    },
+    {
+      "id": "ff44161b710eba84",
+      "title": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
+      "description": "The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and $17.50 a pop, and nearly $100 off the new Apple Watch Ultra 4. \nMoving over to the Mac, the latest M6 Mac mini is $1",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-01T12:49:54.000Z"
+    },
+    {
+      "id": "530f18d3213c8c87",
+      "title": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch",
+      "description": "Apple has published a support document describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only on the Always On display when your wrist is down,\" says Apple. \"When you activate the display by tappi",
+      "image": "https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg",
+      "url": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-01T11:34:49.000Z"
+    },
+    {
       "id": "b310fa87b11193bd",
       "title": "Data centers are now a midterm issue, even in Brooklyn",
       "description": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
@@ -37,8 +232,8 @@
       "publishedAt": "2026-10-31T21:17:03.000Z"
     },
     {
-      "id": "aad13107ca5b9a8f",
-      "title": "Get in the spirit with these horrors from YouTube",
+      "id": "9369224d10bae3da",
+      "title": "Get in the spooky spirit with these horrors from YouTube",
       "description": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art h",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
@@ -77,16 +272,6 @@
       "publishedAt": "2026-10-31T19:30:00.000Z"
     },
     {
-      "id": "2e1f577d18bdd88c",
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "description": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remain",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T18:40:32.000Z"
-    },
-    {
       "id": "bf04351507dbf872",
       "title": "PSA: Today’s the last day to purchase discounted cushion kits for Beats 360",
       "description": "Apple introduced the new Beats 360 headphones about a month and a half ago. I reviewed them, and really appreciated their customizable design, the fact that they offer automatic device switching, as well as their comfort. At the time, Beats offered launch pricing on additional sets of cushions, brin",
@@ -97,16 +282,6 @@
       "publishedAt": "2026-10-31T17:53:56.000Z"
     },
     {
-      "id": "f256981efc44cd83",
-      "title": "Happy Pikmin Day Eve",
-      "description": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T17:50:12.000Z"
-    },
-    {
       "id": "683d3ce04fad350e",
       "title": "OpenAI reportedly lowers funding target for new round",
       "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
@@ -114,187 +289,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-10-31T16:12:55.000Z"
-    },
-    {
-      "id": "9c1d9dd4a117c01e",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "description": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.\nBut I won't be buying one, because we have Muse Charm at home. It cost just $50, and I'",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&#038;strip=all&#038;crop=4,0,96,94.899920311255",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T16:05:00.000Z"
-    },
-    {
-      "id": "9723edfc9692f88b",
-      "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
-      "description": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receiv",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-watch-ultra-4-blue.jpeg",
-      "url": "https://www.macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T15:54:52.000Z"
-    },
-    {
-      "id": "3f0f9d2f5ec6a840",
-      "title": "Reminder: Apple's Big Discount on Beats 360 Ear Cushions Ends Today",
-      "description": "Until the end of today, Performance Knit and UltraPlush ear cushions with matching headbands for the Beats 360 are available on Apple's online store in the U.S. for $9.99 each, with customers limited to three kits per order. Lower pricing extends to other countries. Starting November 1, regular pric",
-      "image": "https://images.macrumors.com/article-new/2026/10/Beats-360-Halloween.jpg",
-      "url": "https://www.macrumors.com/2026/10/31/beats-360-ear-cushions-discount-ends-today/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T15:50:00.000Z"
-    },
-    {
-      "id": "04ac1cdc97c4c9ee",
-      "title": "Here's a New Tour of Apple's HomeView Software",
-      "description": "Broadcasts app developer Steve Troughton-Smith has shared a Halloween treat for us today: a tour of the software on Apple's upcoming HomeView smart home hub. Apple has already demoed the HomeView to selected tech reporters and content creators, but Troughton-Smith offers a closer look at several fea",
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview-entertainment-feature-1.jpg",
-      "url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T15:47:40.000Z"
-    },
-    {
-      "id": "80bcd4d13b6ca172",
-      "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
-      "description": "After five years, Apple released its first major MacBook Pro overhaul since the M1 Pro/M1 Max models, and well… it was a little bit underwhelming from a design perspective. The product is incredible on many merits, but after seeing it, I’m not left feeling like I need to buy one – at least not yet.\n",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-touch-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T15:42:26.000Z"
-    },
-    {
-      "id": "ac7069729c419fbd",
-      "title": "Apple Maps begins blurring NASA, Space Force, and Air Force bases",
-      "description": "You’re not a real space or aviation nerd unless you’ve taken to a map service and zoomed on the historic NASA launch pads or your local Air Force Bases, just for fun, you know? However, a recent change to Apple Maps now has some of those locations blurred from view, blocking anyone from seeing fight",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/CleanShot-2026-10-30-at-8.12.12-PM@2x-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T15:42:14.000Z"
-    },
-    {
-      "id": "91f8da80f1956abd",
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "description": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T15:41:57.000Z"
-    },
-    {
-      "id": "1c81fdefbd36a426",
-      "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T15:19:00.000Z"
-    },
-    {
-      "id": "93bb73a00792a9be",
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-      "description": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. \nThe search improvements are quite comprehensive. You can now filte",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T15:12:19.000Z"
-    },
-    {
-      "id": "a4d92806111f86eb",
-      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-      "description": "We got a chance to touch Apple’s latest MacBook at the “Pro and Tell” event. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nWhile the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 g",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T15:00:00.000Z"
-    },
-    {
-      "id": "278c13976d99ff8e",
-      "title": "Vic Mensa can’t live without the Voice Memos app",
-      "description": "No lies detected. | Photo: Onda\t\n\nVic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-in",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T15:00:00.000Z"
-    },
-    {
-      "id": "223d6f0f44eb5075",
-      "title": "Apple Reveals New iPad Mini's Battery Capacity",
-      "description": "Apple has published an EU energy label for the iPad mini 8 that reveals the device has a battery capacity of 4,900 mAh, which is slightly lower than the 5,034 mAh capacity of the previous model's battery.\r\n\r\n\r\nApple's website lists identical battery life estimates for both models, so it appears that",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-3.jpg",
-      "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T14:24:08.000Z"
-    },
-    {
-      "id": "4bbf75eb526f9260",
-      "title": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
-      "description": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display. Is finally having a touchscreen Mac resonating with the Overtime crew? Tune in for a spirited discu",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-088.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/31/9to5mac-overtime-088-finally-a-touchscreen-macbook/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T14:17:15.000Z"
-    },
-    {
-      "id": "503ecd33c610b090",
-      "title": "I took two iPhones on vacation. The Duo won me over.",
-      "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
-      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T14:00:00.000Z"
-    },
-    {
-      "id": "8b79294669511311",
-      "title": "Top Stories: Apple's Big MacBook Pro, iPad mini and iMac Updates",
-      "description": "One busy week after another for Apple has left our heads spinning, with this week seeing several Mac updates as well as a revamped iPad mini.\r\n\r\n\r\nAll of this week's craziness comes right on the heels of last Friday's iPhone Duo launch, not to mention all of the other products now available or still",
-      "image": "https://images.macrumors.com/article-new/2026/10/top-stories-2026-10-31.jpg",
-      "url": "https://www.macrumors.com/2026/10/31/top-stories-apple-macbook-pro-ipad-mini-imac-updates/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T13:00:12.000Z"
-    },
-    {
-      "id": "b0da8f28074c3e75",
-      "title": "Touchscreens everywhere!",
-      "description": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.)\nThis week, I was in the Smoky Mountains in Tennessee on a family vacation. It was",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-150.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T12:00:00.000Z"
-    },
-    {
-      "id": "2e25da00725f5f94",
-      "title": "Here’s why you can&#8217;t shake those unhinged political texts",
-      "description": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\"\n\"Who's working to elect James Talarico? Marxists.\"\n\"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\"\n\"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick video ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T12:00:00.000Z"
-    },
-    {
-      "id": "c979c3a67889e879",
-      "title": "'Pluribus' Season 2 Reportedly Starts Production Today",
-      "description": "Filming for the second season of Apple TV's \"Pluribus\" is expected to start today in Albuquerque, New Mexico, according to a report from Production List. The acclaimed sci-fi drama stars Rhea Seehorn and was created by Vince Gilligan. Its first season debuted on November 7, 2025, with a second seaso",
-      "image": "https://images.macrumors.com/article-new/2025/10/Pluribus_Poster_0101.jpg",
-      "url": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T06:41:45.000Z"
     }
   ],
-  "lastUpdated": "2026-11-01T06:02:30.345Z",
+  "lastUpdated": "2026-11-01T21:25:21.745Z",
   "sources": [
     "TechCrunch",
     "The Verge",
