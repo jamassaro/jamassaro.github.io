@@ -1,43 +1,13 @@
 {
-  "executiveSummary": "Recent articles highlight the growing importance of AI, data centers, and hardware releases, with a focus on sustainability and user experience. Apple's HomeView and MacBook Pro are expected to play a significant role in the near future. Supply chain issues and pricing changes are also affecting various industries.",
-  "takeaways": [
-    {
-      "title": "AI adoption",
-      "description": "AI is becoming more accessible, with companies like Binance and OpenAI exploring its applications, while Apple's new CEO defends the company's AI stance."
-    },
-    {
-      "title": "Data centers",
-      "description": "Data centers are becoming a midterm issue, with concerns about pollution and sustainability, as seen in the NAACP lawsuit over xAI data center pollution."
-    },
-    {
-      "title": "Hardware releases",
-      "description": "Apple's HomeView and MacBook Pro are expected to be significant releases, with the latter optimizing for touch and the former adding security camera features."
-    }
-  ],
-  "trends": [
-    "AI",
-    "data centers",
-    "hardware releases",
-    "sustainability",
-    "user experience"
-  ],
-  "worthWatching": [
-    "The growing importance of data centers and their environmental impact",
-    "Apple's increasing focus on user experience and accessibility in its hardware releases"
-  ],
-  "engineeringPerspective": [
-    "The use of renoa, a new fiber material, in startup Everbloom's new material",
-    "The potential of AI to improve software development and maintenance",
-    "The impact of supply chain issues on product pricing and availability"
-  ],
+  "generatedAt": "2026-11-02T14:00:53.914Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "AI",
-      "data centers",
-      "hardware releases"
-    ]
-  },
-  "generatedAt": "2026-11-01T21:27:21.655Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }

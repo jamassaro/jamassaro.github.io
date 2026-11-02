@@ -1,6 +1,162 @@
 {
   "articles": [
     {
+      "id": "95d8f794ef577005",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "description": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-02T13:57:53.000Z"
+    },
+    {
+      "id": "c6ab7e909758c785",
+      "title": "Always-on Apple Watch display showing the wrong time? Here’s the fix",
+      "description": "A succession of bugs over the years have seen daylight saving time changes cause problems for Apple Watches, and the problem has occurred again this year.\nSome users are finding that while the primary time has automatically updated for daylight saving, the always-on display has not … \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Ceramic-Apple-Watch-Series-12.webp?w=1600",
+      "url": "https://9to5mac.com/2026/11/02/always-on-apple-watch-display-showing-the-wrong-time-heres-the-fix/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T13:36:16.000Z"
+    },
+    {
+      "id": "7ecb75a9969fb60d",
+      "title": "More European supermarkets are getting their freezers hacked",
+      "description": "Employees at an ICA Kvantum supermarket in Sjoebo, Sweden unloading spoiled food from the freezer units. | Image: Johan Nilsson / TT News Agency / AFP via Getty Images\t\n\nGrocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302707314.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-02T13:00:35.000Z"
+    },
+    {
+      "id": "40352c89452cb565",
+      "title": "iPhone Duo: Latest Buyer Wait Times",
+      "description": "iPhone Duo order wait times averaged 89 days despite falling by a week, according to UBS Investment Bank data as of October 30. (Via Investing.com.) \r\n\r\n\r\nThe USB Evidence Lab tracker covers iPhone availability across more than 30 markets, and puts the iPhone Duo buyer wait time at nearly three mont",
+      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg",
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-latest-buyer-wait-times/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T12:32:29.000Z"
+    },
+    {
+      "id": "43ccec970a1b0961",
+      "title": "AI apps with hidden sexual and violent deepfake features made it into the App Store",
+      "description": "Hundreds of AI apps with hidden sexual and violent deepfake features made it into Apple’s App Store after passing app review. The same apps were also available in the Google Play Store.\nAn investigation discovered more than 400 apps, apparently created by a single Chinese organization. The apps allo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/AI-apps-with-hidden-sexual-and-violent-deepfake-features-made-it-into-the-App-Store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/02/ai-apps-with-hidden-sexual-and-violent-deepfake-features-made-it-into-the-app-store/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T12:31:49.000Z"
+    },
+    {
+      "id": "ab8e2680d17ff2b1",
+      "title": "HomeView could double as a HomeKit security camera, shows code",
+      "description": "Apple code sleuther pdfu has discovered evidence that HomeView will be able to serve as a HomeKit security camera.\nThey found multiple options for the security camera feature, with Apple taking significant steps to protect the privacy of household members … \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/02/homeview-could-double-as-a-homekit-security-camera-shows-code/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T11:54:42.000Z"
+    },
+    {
+      "id": "a291f1da3901daa1",
+      "title": "This iPhone Duo Screen Setting Is Proving Hard to Change",
+      "description": "Some iPhone Duo owners have discovered that Apple's first foldable is missing a pretty important appearance setting that you can adjust during the initial setup process, but not afterwards.\r\n\r\nDisplay Zoom setting on iPhone 18 Pro (left) vs. iPhone Duo\n\r\nWhen you first set up an iPhone Duo (or indee",
+      "image": "https://images.macrumors.com/article-new/2026/11/display-zoom-comparison-iphone-duo-iphone-18-pro.jpeg",
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-missing-display-zoom-option/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T11:54:39.000Z"
+    },
+    {
+      "id": "b76e074d340ae9b5",
+      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+      "description": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-02T11:00:00.000Z"
+    },
+    {
+      "id": "5c456e740152230c",
+      "title": "Apple HomeView Could Double as a Security Camera",
+      "description": "Apple's upcoming HomeView smart home hub could also work as a HomeKit Secure Video camera, according to settings strings discovered in the device's software by code sleuth pdfu.\r\n\r\n\r\nThe strings were found in HomeView Software 27.2 and feature four camera modes, including Off, Detect Activity, Strea",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg",
+      "url": "https://www.macrumors.com/2026/11/02/apple-homeview-could-work-security-camera/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T09:57:03.000Z"
+    },
+    {
+      "id": "0be2597ca55b368e",
+      "title": "Apple Launching Five New Products This Friday",
+      "description": "Apple is releasing five new products this Friday, November 6, following pre-orders that opened last week, including its first touchscreen MacBook Pro models.\r\n\r\nThe following new products will be available from Friday:\r\n\r\niPad mini with OLED display and A20 Pro chip\n\r\niMac with M6 chip\n\r\n14-inch Mac",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+      "url": "https://www.macrumors.com/2026/11/02/apple-launching-five-new-products-this-friday/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T09:22:23.000Z"
+    },
+    {
+      "id": "2b0f2d64e7420b01",
+      "title": "These are the best MacBook deals right now: November 2026 Buyer’s Guide",
+      "description": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market.\nWhile Apple did drastically increase its prices ear",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T05:01:57.000Z"
+    },
+    {
+      "id": "e671a950c06da7af",
+      "title": "Jackery made its portable power stations even smaller",
+      "description": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 in",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "id": "80875c5fe99812e7",
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "description": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-02T04:23:48.000Z"
+    },
+    {
+      "id": "df93b3c1d9b6a064",
+      "title": "Hands-on: ESR’s 45W Xtend charger is an excellent iPhone fast charger on the go",
+      "description": "Last month, ESR released a new set of chargers under the xtend branding – all of which offer built-in retractable cables. They have a 45W wall charger that supports up to 60W with AVS, as well as a 100W car charger with two cables.\nI’ll largely be touching on the 45W charger here, as that’s the one ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04217-2048x1024.jpg.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/01/esr-45w-fast-charger-with-retractable-cable-for-iphone-hands-on/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T03:32:37.000Z"
+    },
+    {
+      "id": "cfc8d346b780bcd3",
+      "title": "Three new iPad models are reportedly launching early next year, here’s what’s coming",
+      "description": "After debuting the refreshed iPad mini with OLED this past week, Apple still has more in the pipeline for the rest of the iPad lineup in the first half of next year. That includes a new iPad Air, a new base iPad, and a new iPad Pro, according to Bloomberg’s Mark Gurman.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/ipad-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-02T02:12:39.000Z"
+    },
+    {
+      "id": "4b6b50746fd0c0e5",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "description": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-01T21:55:23.000Z"
+    },
+    {
       "id": "9d06a5b9741898eb",
       "title": "NASA hopes the commercial space industry can help save Hubble",
       "description": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals f",
@@ -22,8 +178,8 @@
     {
       "id": "2f71a90debe3e411",
       "title": "Flock keeps ignoring requests to cancel its contracts",
-      "description": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "description": "BOULDER, CO - MARCH 5:A Flock Safety license plate recognition camera is seen near the intersection of Marine Street and Arapahoe Avenue in Boulder on Thursday, March 5, 2026. (Photo by Matthew Jonas/MediaNews Group/Boulder Daily Camera via Getty Images) | MediaNews Group via Getty Images\t\n\nWhile mo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
       "source": "The Verge",
       "category": "Tech News",
@@ -135,163 +291,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-11-01T14:33:11.000Z"
-    },
-    {
-      "id": "5dae946ccafb24f4",
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "description": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-01T14:00:00.000Z"
-    },
-    {
-      "id": "190da91d5b37a649",
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "description": "Apple’s second-generation HomePod Mini is a nice upgrade, but the biggest improvement hasn’t arrived yet. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nWhen I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,6.1688463882248,80.59453125,89.629916092439",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-01T14:00:00.000Z"
-    },
-    {
-      "id": "255458486bfa639b",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe two bigges",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_TheLegendofZeldaOcarinaofTime_scrn_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-01T13:00:00.000Z"
-    },
-    {
-      "id": "f3f6dcfe28e9b89a",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "description": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn.\nProposition 45 would shorten timelines for state-mandated environmental assessments for eligib",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-01T13:00:00.000Z"
-    },
-    {
-      "id": "ff44161b710eba84",
-      "title": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
-      "description": "The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and $17.50 a pop, and nearly $100 off the new Apple Watch Ultra 4. \nMoving over to the Mac, the latest M6 Mac mini is $1",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-01T12:49:54.000Z"
-    },
-    {
-      "id": "530f18d3213c8c87",
-      "title": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch",
-      "description": "Apple has published a support document describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only on the Always On display when your wrist is down,\" says Apple. \"When you activate the display by tappi",
-      "image": "https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg",
-      "url": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-01T11:34:49.000Z"
-    },
-    {
-      "id": "b310fa87b11193bd",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "description": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-01T02:22:10.000Z"
-    },
-    {
-      "id": "15c5df692fa489d9",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T21:41:00.000Z"
-    },
-    {
-      "id": "04c00603b498ca7a",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T21:36:07.000Z"
-    },
-    {
-      "id": "8d27853c714df1d6",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T21:17:03.000Z"
-    },
-    {
-      "id": "9369224d10bae3da",
-      "title": "Get in the spooky spirit with these horrors from YouTube",
-      "description": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art h",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T21:06:58.000Z"
-    },
-    {
-      "id": "5cc6de7a8f2bf391",
-      "title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
-      "description": "Apple just unveiled the new MacBook Pro with PROLED XDR, its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s w",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T19:49:44.000Z"
-    },
-    {
-      "id": "518ac0d9d4264859",
-      "title": "Keyboards of The Verge",
-      "description": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard.\nWe've written about many keyboards ove",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T19:30:00.000Z"
-    },
-    {
-      "id": "4317f5c4c9e60ce3",
-      "title": "Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nPumpkin Lights is a nifty little menu bar app for Mac that lets you quickly toggle between light mode and ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/halloween.png?w=1600",
-      "url": "https://9to5mac.com/2026/10/31/pumpkin-lights-adds-a-fun-jack-o-lantern-to-your-macs-menu-bar/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T19:30:00.000Z"
-    },
-    {
-      "id": "bf04351507dbf872",
-      "title": "PSA: Today’s the last day to purchase discounted cushion kits for Beats 360",
-      "description": "Apple introduced the new Beats 360 headphones about a month and a half ago. I reviewed them, and really appreciated their customizable design, the fact that they offer automatic device switching, as well as their comfort. At the time, Beats offered launch pricing on additional sets of cushions, brin",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Beats-360-cushions.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/10/31/last-day-to-purchase-discounted-beats-360-cushion-kits/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-10-31T17:53:56.000Z"
-    },
-    {
-      "id": "683d3ce04fad350e",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-10-31T16:12:55.000Z"
     }
   ],
-  "lastUpdated": "2026-11-01T21:25:21.745Z",
+  "lastUpdated": "2026-11-02T13:58:14.666Z",
   "sources": [
     "TechCrunch",
     "The Verge",
