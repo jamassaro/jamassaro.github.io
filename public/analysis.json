@@ -1,13 +1,44 @@
 {
-  "generatedAt": "2026-11-02T14:00:53.914Z",
-  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
-  "takeaways": [],
-  "trends": [],
-  "worthWatching": [],
-  "engineeringPerspective": [],
+  "executiveSummary": "Apple reported its highest revenue quarter ever, despite supply constraints and increasing memory costs. The company expects its iPhone Duo production to ramp up, but still faces challenges in meeting demand. Meanwhile, Anthropic warns that its AI model training technology is getting close to self-sustaining capabilities.",
+  "takeaways": [
+    {
+      "title": "Apple Revenue Record",
+      "description": "Apple's record-breaking revenue quarter despite supply constraints and rising memory costs, as reported in articles 1, 4, 12, 15, and 20."
+    },
+    {
+      "title": "iPhone Duo Supply Constraints",
+      "description": "Apple expects its iPhone Duo production to ramp up, but still faces challenges in meeting demand, as reported in articles 3, 7, and 11."
+    },
+    {
+      "title": "Memory Costs and AI",
+      "description": "Rising memory costs and increasing AI expenses are expected to weigh on Apple's profit margins during the holiday quarter, as reported in articles 5 and 10."
+    }
+  ],
+  "trends": [
+    "Apple Revenue",
+    "iPhone Duo Supply",
+    "Memory Costs",
+    "AI Development",
+    "Supply Chain Issues"
+  ],
+  "worthWatching": [
+    "Anthropic's AI model training technology is getting close to self-sustaining capabilities, as reported in article 10.",
+    "Ford promises to never sell customer driving data to data brokers, as reported in article 29."
+  ],
+  "engineeringPerspective": [
+    "The increasing demand for memory and AI capabilities is expected to drive innovation in semiconductor manufacturing and AI model training, as reported in article 6.",
+    "Apple's supply chain management will play a crucial role in meeting demand for its new products, as reported in article 7."
+  ],
   "statistics": {
-    "totalArticles": 0,
-    "totalSources": 0,
-    "mostMentionedTopics": []
-  }
+    "totalArticles": 30,
+    "totalSources": 4,
+    "mostMentionedTopics": [
+      "Apple",
+      "iPhone",
+      "AI",
+      "Supply Chain",
+      "Memory"
+    ]
+  },
+  "generatedAt": "2026-11-03T00:07:19.380Z"
 }
