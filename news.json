@@ -1,6 +1,199 @@
 {
   "articles": [
     {
+      "id": "9511fe6b8cb97bc1",
+      "title": "Apple CEO John Ternus criticized for ‘scripted’ approach to first earnings call",
+      "description": "Investors didn’t seem overly happy about yesterday’s Apple earnings call despite the record results. That likely reflects the company’s cautious take on margins in the current quarter, but some have also criticized what they describe as a very “scripted” approach by new CEO John Ternus.\nBloomberg wa",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T12:54:08.000Z"
+    },
+    {
+      "id": "0a3f980be2994f7a",
+      "title": "Apple earnings suggest the iPhone 18 launch strategy is really working",
+      "description": "Yesterday’s AAPL earnings report revealed record revenue for a September quarter, and within it was an arguably even more significant record: iPhone revenue.\nThat’s because this year’s quarter only includes just two new iPhone models compared to the four released last year … \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-earnings-show-the-iPhone-18-launch-strategy-is-really-working.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/03/apple-earnings-suggest-the-iphone-18-launch-strategy-is-really-working/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T12:29:25.000Z"
+    },
+    {
+      "id": "069ad0e20216c12d",
+      "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
+      "description": "The circular liquid-cooling system now features its own RGB lights. | Photo: Dominic Preston / The Verge\t\n\nAfter introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too.\nAnd they work! Sor",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/redmagic-12-pro-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-03T12:00:00.000Z"
+    },
+    {
+      "id": "fe07a8fdec76e746",
+      "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
+      "description": "Chris Yu, president of Also, stands behind the TM-B electric bike at the company's headquarters in Palo Alto, California, in October 2025. | Photo: Jason Henry / Bloomberg via Getty Images\t\n\nWhen Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV make",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2242247571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-03T12:00:00.000Z"
+    },
+    {
+      "id": "d47536de692ca1b4",
+      "title": "Apple Explores Cheaper Way to Make New MacBook Pro's OLED Tech",
+      "description": "Apple is evaluating how to better manufacture high-mobility oxide (HMO) backplanes for future OLED panels, according to Korean publication The Elec. The technology is already used in the new touchscreen MacBook Pro, according to display analyst Ross Young, and Apple could be seeking to increase prod",
+      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-XDR-Display.jpg",
+      "url": "https://www.macrumors.com/2026/11/03/apple-exploring-next-gen-oled-tech-macs/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T11:47:44.000Z"
+    },
+    {
+      "id": "a2716bdf94a8c251",
+      "title": "Apple @ Work Podcast: How rising Apple costs are reshaping the trade-in market",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizat",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/03/how-rising-apple-costs-are-reshaping-the-trade-in-market/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T11:00:00.000Z"
+    },
+    {
+      "id": "75ffde93442da8cf",
+      "title": "Apple Released the iPhone X Nine Years Ago Today",
+      "description": "Apple's iPhone X went on sale nine years ago today, November 3, 2017. The 10th-anniversary iPhone was the first with an all-screen OLED display and no Home button, and its gesture navigation and Face ID authentication shaped the flagship iPhone models that followed it.\r\n\r\nSeptember 12, 2017, the iPh",
+      "image": "https://images.macrumors.com/article-new/2025/04/iphone-x-front-back-feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/11/03/apple-released-iphone-x-nine-years-ago-today/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T08:58:51.000Z"
+    },
+    {
+      "id": "d725f0ff5447d17b",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "description": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-03T08:01:00.000Z"
+    },
+    {
+      "id": "f28bf624b78ae6ce",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-03T07:20:00.000Z"
+    },
+    {
+      "id": "97058bbc85875f2d",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-03T03:30:00.000Z"
+    },
+    {
+      "id": "8f775dc195a259a3",
+      "title": "SCOTUS sets hearing date for Apple’s appeal in Epic Games case",
+      "description": "The U.S. Supreme Court has officially scheduled oral arguments in Apple’s appeal in its long-running legal battle with Epic Games. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T03:00:42.000Z"
+    },
+    {
+      "id": "681f5dad9c90c2f7",
+      "title": "Apple recently notified users in 99 countries of potential mercenary spyware attacks",
+      "description": "Apple reportedly sent notifications to users in 99 countries warning of potential mercenary spyware attacks, as German authorities investigate reports that lawmakers and government officials may have been targeted. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/02/apple-recently-notified-users-in-99-countries-of-potential-mercenary-spyware-attacks/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T02:19:39.000Z"
+    },
+    {
+      "id": "1b29bc8fbf94d3d6",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "description": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-03T01:49:52.000Z"
+    },
+    {
+      "id": "af3f8f4f29e4d1df",
+      "title": "Apple to require 18+ age ratings for dating apps and AI romantic companions",
+      "description": "Apple today announced new age rating requirements coming to the App Store, covering apps with location-sharing features, as well as dating and relationship features. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/app-store-connect-ios.webp?w=1600",
+      "url": "https://9to5mac.com/2026/11/02/apple-to-require-18-age-ratings-for-dating-apps-and-ai-romantic-companions/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T01:28:51.000Z"
+    },
+    {
+      "id": "b7a28032e7596f8b",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "description": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-03T01:12:55.000Z"
+    },
+    {
+      "id": "43b8ac3afe5f7f1c",
+      "title": "Apple stock drops nearly 3% after hours following Q4 2026 results",
+      "description": "Apple shares fell as much as 4.43% in after-hours trading on Monday during the company’s fiscal Q4 2026 earnings call, before recovering some of those losses later in the evening. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T01:07:40.000Z"
+    },
+    {
+      "id": "57a8a61a5efb6722",
+      "title": "Apple Requiring Developers to Disclose Location Sharing and Dating Features in Apps",
+      "description": "Starting November 16, Apple will require developers to disclose whether their apps include real-world location sharing or dating features so age ratings can be assigned appropriately.\r\n\r\n\r\nApple says the Dating and Relationships disclosure is required for apps that allow dating or relationship conne",
+      "image": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/02/apple-developer-dating-app-requirement/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T00:43:57.000Z"
+    },
+    {
+      "id": "431aa209c2b8e589",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "description": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-03T00:35:52.000Z"
+    },
+    {
+      "id": "d7a19b9f8bfebd2d",
+      "title": "Apple's Q4 2026 Earnings Call Takeaways",
+      "description": "Apple held its earnings call for the fourth fiscal quarter of 2026 today, and it was Apple CEO John Ternus' first earnings call in his new role. He had Apple CFO Kevan Parekh on hand, and he brought in Chief Operating Officer Sabih Khan.\r\n\r\n\r\nThe trio covered iPhone Duo sales, Siri AI, and increasin",
+      "image": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Blue.jpg",
+      "url": "https://www.macrumors.com/2026/11/02/apple-q4-2026-earnings-takeaways/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-03T00:26:58.000Z"
+    },
+    {
+      "id": "f9b5ab94b1068788",
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "description": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-03T00:14:51.000Z"
+    },
+    {
       "id": "a9da29f35f5f813b",
       "title": "Apple Dodges Question on More Price Hikes as Memory Costs Climb",
       "description": "Apple expects memory costs to continue to increase in the December quarter and beyond, CEO John Ternus said during today's earnings call. Ternus, COO Sabih Khan, and CFO Kevan Parekh all commented on Apple's struggle with memory.\r\n\r\n\r\n\"What we're seeing with memory pricing right now is unprecedented",
@@ -95,205 +288,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-11-02T22:14:50.000Z"
-    },
-    {
-      "id": "a5a5b76c0fd96230",
-      "title": "Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight",
-      "description": "Apple is unable to meet demand for the iPhone Duo and there's no timeline for when the company will catch up, CEO John Ternus told Reuters following today's earnings report.\r\n\r\n\r\nDuo is constrained as of today. The ramp is going well, and we're working hard to get it to as many customers as quickly ",
-      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg",
-      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-shortages-no-end/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-02T22:03:23.000Z"
-    },
-    {
-      "id": "efa520b6d502e464",
-      "title": "Apple set an iPhone sales record even without a new standard iPhone",
-      "description": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year.\nThe increase in re",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T22:02:36.000Z"
-    },
-    {
-      "id": "88cac2cf6e093eac",
-      "title": "John Ternus addresses iPhone Duo supply constraints, display issue",
-      "description": "Today Apple reported record Q4 earnings, which beat Wall Street expectations overall. And in an interview with Reuters, CEO John Ternus addressed current iPhone Duo supply constraints and also referenced units that have been returned for display issues.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-02T21:47:30.000Z"
-    },
-    {
-      "id": "69172070b97b809e",
-      "title": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
-      "description": "Apple today announced financial results for the fourth fiscal quarter of 2026, which corresponds to the third calendar quarter of the year. The quarter included a number of August and September product releases from Apple, as well as the CEO transition from Tim Cook to John Ternus that took place on",
-      "image": "https://images.macrumors.com/article-new/2026/11/aapl-4q26-line.jpg",
-      "url": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-02T21:38:09.000Z"
-    },
-    {
-      "id": "16173cf171197454",
-      "title": "Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12% [Charts]",
-      "description": "Apple just released its earnings report for the fourth fiscal quarter of 2026. The company reported $114.5 billion in revenue, and $30.71 billion in net profit. Here’s the full breakdown.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-02T21:32:54.000Z"
-    },
-    {
-      "id": "735026bfe2cfb04e",
-      "title": "Meta will end Quest 2 OS updates in 2027",
-      "description": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of 2027.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21869421/akrales_200904_4160_0135.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T21:04:20.000Z"
-    },
-    {
-      "id": "74f56565c9a8db20",
-      "title": "Apple releases new tvOS 27.2 build ahead of updated Apple TV 4K launch [U]",
-      "description": "Ahead of the new Apple TV 4K’s November 13 launch, Apple today released an updated build of tvOS 27.2 exclusively for the fourth-generation model. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tvOS-27.2-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/02/apple-releases-new-tvos-27-2-build-ahead-of-updated-apple-tv-4k-launch/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-02T20:45:00.000Z"
-    },
-    {
-      "id": "a741fe272ff59eb4",
-      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-      "description": "A current Videostrong Android TV device.\t\n\nGoogle says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videost",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T20:37:49.000Z"
-    },
-    {
-      "id": "16f62176a14b7973",
-      "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
-      "description": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired. Separately, OpenAI is also preparing to merge ChatGPT and Work into a single interface. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
-      "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-02T20:07:21.000Z"
-    },
-    {
-      "id": "c71d513bcbce45d8",
-      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-      "description": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow.\nThe new system can help steer, speed up, and slow down the vehicle on both highways and city streets using i",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DI26_000461430.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T20:03:52.000Z"
-    },
-    {
-      "id": "6464ddc4596ec76b",
-      "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs",
-      "description": "iOS 27.2 launched last week with a convenient new Messages feature called ‘Suggested Actions.’ Here’s how you can customize the feature to your liking.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-02T19:56:12.000Z"
-    },
-    {
-      "id": "fd0228d14a83f942",
-      "title": "MagSafe Monday: Pelican’s MagSafe Battery Pack is the battery built to go anywhere",
-      "description": "A few weeks ago, I wrote about why the Pelican MagSafe Wallet is my favorite wallet for the fall, and the short version was that it’s built for being out and about. The Pelican MagSafe Battery Pack is the exact same idea applied to a power bank: a 5,000mAh MagSafe battery wrapped in a hardshell that",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Pelican-MagSafe-Battery.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/02/magsafe-monday-pelicans-magsafe-battery-pack-is-the-battery-built-to-go-anywhere/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-02T19:49:00.000Z"
-    },
-    {
-      "id": "2424d3b693bc7515",
-      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-      "description": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T19:45:54.000Z"
-    },
-    {
-      "id": "b401dc99fd229412",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T19:25:59.000Z"
-    },
-    {
-      "id": "1dbb813d90d56040",
-      "title": "John Ternus Hosting His First Earnings Call as Apple CEO Today",
-      "description": "John Ternus will participate in his first Apple earnings call as the company's CEO today. The call begins at 2 p.m. Pacific Time / 5 p.m. Eastern Time.\r\n\r\n\r\nTernus and Apple's CFO Kevan Parekh will discuss the company's earnings results for the third quarter of the 2026 calendar year on the live-str",
-      "image": "https://images.macrumors.com/article-new/2026/09/John-Ternus-and-Rainbow-Countour-Apple-Logo.jpg",
-      "url": "https://www.macrumors.com/2026/11/02/john-ternus-first-apple-earnings-call/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-02T19:24:52.000Z"
-    },
-    {
-      "id": "c601c43d366e4742",
-      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-      "description": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low pr",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applewatchultra4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T19:24:09.000Z"
-    },
-    {
-      "id": "9db258634034bc47",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T19:19:17.000Z"
-    },
-    {
-      "id": "aa895bb08edc3f7e",
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "description": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T19:11:49.000Z"
-    },
-    {
-      "id": "71c2e963fb205428",
-      "title": "Ford promises not to sell your driving habits to data brokers",
-      "description": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. \nAs part of its new promise,",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26_FRD_BRO_70973_Connectivity_Package_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T19:05:46.000Z"
-    },
-    {
-      "id": "52f2b5d3140d71db",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "description": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Cla",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-02T18:56:02.000Z"
     }
   ],
-  "lastUpdated": "2026-11-03T00:06:11.929Z",
+  "lastUpdated": "2026-11-03T13:05:39.504Z",
   "sources": [
     "TechCrunch",
     "The Verge",
