@@ -1,302 +1,298 @@
 {
   "articles": [
     {
-      "id": "80bbd018e5136427",
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "description": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "id": "89fdbe2fb4ef541d",
+      "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
+      "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-04T13:00:00.000Z"
+      "publishedAt": "2026-11-04T22:45:09.000Z"
     },
     {
-      "id": "096c4dcdc64512a5",
-      "title": "Apple's Insider Trading Policy Now Covers Prediction Markets",
-      "description": "Apple has added an explicit ban on using confidential information to bet on prediction markets to its insider trading policy, according to a filing with the U.S. Securities and Exchange Commission.\r\n\r\n\r\nThe policy was filed on Tuesday as an exhibit to Apple's annual report on Form 10-K, which is als",
-      "image": "https://images.macrumors.com/article-new/2026/03/Apple-Park-PR-Handout.jpg",
-      "url": "https://www.macrumors.com/2026/11/04/apple-bans-confidential-info-prediction-markets/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T12:45:42.000Z"
-    },
-    {
-      "id": "4b96cc80292f80bf",
-      "title": "Apple still charging 300% of costs on iPhone storage upgrades, says WSJ",
-      "description": "Opting for more RAM or storage when buying Apple devices has always been an expensive business, with the company famously charging huge markups.\nApple said in its most recent earnings report that even after the price increases, its margins are being squeezed by higher component costs. But an analysi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-still-making-300-profit-on-iPhone-storage-upgrades-says-WSJ.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/04/apple-still-charging-300-of-costs-on-iphone-storage-upgrades-says-wsj/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T12:45:23.000Z"
-    },
-    {
-      "id": "222cb07d46d9a4d8",
-      "title": "'Stick' Season 2 Premieres Today on Apple TV",
-      "description": "Owen Wilson's popular golf comedy \"Stick\" returns to Apple TV today with two episodes of its second season, followed by weekly releases. Wilson returns as former professional golfer Pryce Cahill, who is attempting a comeback. Rhea Seehorn joins the cast as his coach alongside returning stars Peter D",
-      "image": "https://images.macrumors.com/article-new/2026/11/stick-apple-tv.jpg",
-      "url": "https://www.macrumors.com/2026/11/04/stick-season-2-premieres-today/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T12:41:35.000Z"
-    },
-    {
-      "id": "53132d28f083f179",
-      "title": "iPhone 18e Rumored to Focus on Chip Upgrade With Few Major Changes",
-      "description": "Apple's upcoming iPhone 18e will primarily focus on a chip upgrade, with few major new features expected, according to the leaker known as \"Fixed Focus Digital.\"\r\n\r\n\r\nIn a new post on Weibo, the leaker said that a new chip is the only upgrade they can currently confirm for the device. They also clai",
-      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
-      "url": "https://www.macrumors.com/2026/11/04/iphone-18e-rumored-to-focus-on-chip-upgrade/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T12:31:01.000Z"
-    },
-    {
-      "id": "f8aa986165d41d05",
-      "title": "Google Maps Updated to Fully Support iPhone Duo Displays",
-      "description": "Google Maps has been updated with improved support for the iPhone Duo's displays, so that the app now fills the foldable iPhone's inner and outer screens rather than leaving unused space along the edge.\r\n\r\n\r\nThe change comes with version 26.44.4, which is available on the App Store. Google doesn't m",
-      "image": "https://images.macrumors.com/article-new/2026/11/google-maps-iphone-duo.jpeg",
-      "url": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T12:24:12.000Z"
-    },
-    {
-      "id": "5b41761ba870aacb",
-      "title": "How to get access to Sonos AI features, as company aims to avoid another app disaster",
-      "description": "When Sonos tried a major app update two years ago, things did not go well. Much-loved features disappeared, older speakers experienced connection problems, and accessibility features were broken. That debacle saw the company’s CEO fired.\nThe company is taking a much more cautious approach as it move",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Hey-Sonos-coming-in-controlled-beta-as-company-aims-to-avoid-another-app-disaster.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/04/how-to-get-access-to-sonos-ai-features-as-company-aims-to-avoid-another-app-disaster/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T12:04:22.000Z"
-    },
-    {
-      "id": "f64ef766705f7516",
-      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "description": "Google Chief Business Officer Philipp Schindler. | Bloomberg via Getty Images\t\n\nSearch queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quart",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "id": "b73e7ed190bf7db6",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon an",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-04T12:00:00.000Z"
+      "publishedAt": "2026-11-04T22:42:15.000Z"
     },
     {
-      "id": "20473f476542a95c",
-      "title": "Canva lays off over 1,200 people amid slowing growth",
-      "description": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
-      "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "id": "1a4c2a296f30fed6",
+      "title": "Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show",
+      "description": "With one official announcement and one report, two new Apple TV projects have been revealed this week. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo-large.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/04/apple-tv-reportedly-getting-justin-timberlake-docuseries-announces-new-toni-collette-show/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T22:40:45.000Z"
+    },
+    {
+      "id": "19fef6fefe57934f",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-04T11:59:00.000Z"
+      "publishedAt": "2026-11-04T22:13:16.000Z"
     },
     {
-      "id": "53325e3452501511",
-      "title": "The Legend of Zelda: Ocarina of Time never gets old",
-      "description": "Breath of the Wild changed everything. Two decades after The Legend of Zelda made the transformational shift to 3D, Breath of the Wild reinvigorated the franchise with an open-ended adventure that was built around player freedom and expression. Instead of following a set path, players could go where",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_02.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-04T11:00:00.000Z"
-    },
-    {
-      "id": "fdf34c28635914e6",
-      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-      "description": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
-      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-04T04:45:00.000Z"
-    },
-    {
-      "id": "68d45dd08f78a2a2",
-      "title": "macOS 27.3 includes cool-looking ‘Pro’ screensaver from new touchscreen MacBook Pro",
-      "description": "Included in today’s macOS 27.3 beta 1 is a great-looking screensaver featuring an animated version of the new MacBook Pro with PROLED XDR Display wallpaper. Watch it below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-touch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T02:43:07.000Z"
-    },
-    {
-      "id": "f6c6948cbf0e8ebc",
-      "title": "‘Stick’ season 2 premieres on Apple TV",
-      "description": "Apple TV subscribers can now watch the first two episodes of the new season of “Stick,” starring Owen Wilson (Midnight In Paris), Rhea Seehorn (Pluribus), and Timothy Olyphant (Justified), among others. Watch the trailer below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T02:01:01.000Z"
-    },
-    {
-      "id": "dd8dd6d33d41872b",
-      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
-      "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's dat",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-04T01:15:34.000Z"
-    },
-    {
-      "id": "d722ac230a112e4c",
-      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-      "description": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time.\nThe remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual sty",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-04T01:02:53.000Z"
-    },
-    {
-      "id": "23b489d5d247649d",
-      "title": "Everything New in the iOS 27.3 Beta",
-      "description": "Apple today started testing iOS 27.3, the biggest update to iOS 27 since it launched in September. iOS 27.3 includes some features Apple showed off earlier this year, and it adds all-new capabilities.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nSafari\n\r\nSafari has a Vertical T",
-      "image": "https://images.macrumors.com/article-new/2026/11/safari-vertical-tabs.jpg",
-      "url": "https://www.macrumors.com/guide/ios-27-3-beta-features/",
+      "id": "57fceead78403ebe",
+      "title": "How 'Resident Evil' Director Zach Cregger Uses His iPhone to Make Movies",
+      "description": "Apple marketing chief Greg Joswiak today shared an Apple TV video that offers a look at how \"Resident Evil\" director Zach Cregger uses an iPhone during filmmaking.\r\n\r\n\r\nCregger said he uses his iPhone and the Cadrage app to plan out filming sequences ahead of time. He decides what shots to take, wha",
+      "image": "https://images.macrumors.com/article-new/2026/11/resident-evil-apple-tv.jpg",
+      "url": "https://www.macrumors.com/2026/11/04/zach-cregger-iphone-resident-evil/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-04T00:52:02.000Z"
+      "publishedAt": "2026-11-04T22:11:00.000Z"
     },
     {
-      "id": "eeae499e007e0377",
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "description": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform.\n\"One of the mo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-04T00:42:10.000Z"
-    },
-    {
-      "id": "9703a0c9c878f81f",
-      "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
-      "description": "iOS 27.3 adds a new \"Selfie Sing\" feature in Apple Music that lets users record themselves while singing a song.\r\n\r\n\r\nThere's a dedicated Selfie Sing playlist and a selfie camera view that shows lyrics on the screen while also recording a video. Apple has a description of the feature:\r\nThere are som",
-      "image": "https://images.macrumors.com/article-new/2026/11/ios-27-3-selfie-sing.jpg",
-      "url": "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T00:05:45.000Z"
-    },
-    {
-      "id": "83a4a39f1581a99a",
-      "title": "Follow today’s midterm election results with the Apple News Live Activity",
-      "description": "With votes now being counted in the US midterm elections, the Apple News app offers a convenient way to follow the results in real time. Here’s how it works.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/midterms-live-activity.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/03/follow-todays-midterm-election-results-with-the-apple-news-live-activity/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-04T00:01:02.000Z"
-    },
-    {
-      "id": "98887d7be893ea8d",
-      "title": "Eney from MacPaw is an AI assistant with deep Apple integrations",
-      "description": "MacPaw, the makers of CleanMyMac and Setapp, have an AI assistant called Eney that’s designed for Apple users. Eney is available across Mac and iPhone and is built to integrate with core Apple services like Mail, Calendar, and Reminders, plus a lot more.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Banners-AI-Assistant-Dark.png?w=1600",
-      "url": "https://9to5mac.com/2026/11/03/eney-from-macpaw-ai-assistant-deep-apple-integrations/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-03T23:45:00.000Z"
-    },
-    {
-      "id": "a980c0a1a7d703a0",
-      "title": "Please stop asking me when the AI bubble will pop",
-      "description": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images\t\n\nPeople, including on this staff, keep asking me with varying degrees of excitemen",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-03T23:37:45.000Z"
-    },
-    {
-      "id": "c3cecad8501acb2a",
-      "title": "macOS 27.3 adds native Markdown rendering to Quick Look",
-      "description": "Starting with macOS 27.3, users can preview Markdown files with proper formatting directly in Quick Look. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/markdown-quick-look.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/03/macos-27-3-adds-native-markdown-rendering-to-quick-look/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-03T23:11:22.000Z"
-    },
-    {
-      "id": "1c62ad1e059aae04",
-      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-      "description": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying go",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-03T22:59:36.000Z"
-    },
-    {
-      "id": "cd7dc2f7e8f68db3",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "id": "3a97bccc99df7207",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-03T22:41:03.000Z"
+      "publishedAt": "2026-11-04T21:56:01.000Z"
     },
     {
-      "id": "2a1fd480fa5082de",
-      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "description": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback.\nIf you're in the US, you can also ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25651509/_STK084_SONOS_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-03T22:20:50.000Z"
-    },
-    {
-      "id": "3162dd098cba1d3e",
-      "title": "iPhone Jailbreak Gets Past Lockdown Mode and Survives an Update",
-      "description": "Just over a week after jailbreaking an iPhone Duo on launch day, hacker team Calif is back with another jailbreak demonstration. This time, the group has jailbroken an iPhone in Lockdown Mode, and the jailbreak appears to persist across an iOS update.\r\n\r\n\r\nCalif shared a video of a jailbroken iPhone",
-      "image": "https://images.macrumors.com/article-new/2022/07/Lockdown-Mode-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/03/iphone-jailbreak-lockdown-mode/",
+      "id": "25cc9126afedb34c",
+      "title": "HomePod Mini 2's Amount of RAM Confirmed",
+      "description": "MacRumors has confirmed that the HomePod mini 2 is equipped with 2GB of RAM supplied by SK Hynix. This is not very surprising given the S10 chip in the Apple Watch Series 10 also has 2GB of RAM, but Apple does not list this information in its tech specs for the HomePod mini 2, so it is worth documen",
+      "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
+      "url": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-03T22:20:26.000Z"
+      "publishedAt": "2026-11-04T21:50:54.000Z"
     },
     {
-      "id": "e7ded43f4a963253",
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "id": "9d64dd0ee24af2f5",
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "description": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-03T22:19:53.000Z"
+      "publishedAt": "2026-11-04T21:49:29.000Z"
     },
     {
-      "id": "af2edfdde256148b",
-      "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-      "description": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days.\nIndie developers have recently expressed f",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+      "id": "1f72765a2cd27f34",
+      "title": "Apple is Putting Employees on an AI Budget",
+      "description": "Apple is curtailing employee AI use to cut costs, reports Bloomberg. In October, Apple limited some engineers to $200 per day for AI spending, down from $300.\r\n\r\n\r\nMore cuts could be coming, with daily allowances for some engineers dropping to $100. Many groups outside engineering already have a $10",
+      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Logo-Black.jpeg",
+      "url": "https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T21:46:18.000Z"
+    },
+    {
+      "id": "11b038fffc5dfa8b",
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "description": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitt",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-03T22:15:33.000Z"
+      "publishedAt": "2026-11-04T21:45:00.000Z"
     },
     {
-      "id": "b8b2a4b304dae448",
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "description": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious G",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932848/acastro_STK018__02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "id": "9a5bb0b116c66e44",
+      "title": "How I learned to love an obnoxious phone grip",
+      "description": "Have a little treat. | Photo: Allison Johnson / The Verge\t\n\nMuch like a great recipe, it started with a stick of butter.\nThis wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_1326_edit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-03T22:04:02.000Z"
+      "publishedAt": "2026-11-04T21:30:00.000Z"
     },
     {
-      "id": "ef1f84d2aa48d617",
-      "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
-      "description": "Apple has updated its insider trading policy to explicitly prohibit employees from using confidential information to bet on prediction markets. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/",
+      "id": "e9c7cc43c0c34561",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-04T21:25:44.000Z"
+    },
+    {
+      "id": "cd4f4f6b0055fd29",
+      "title": "Apple TV's '12 Days of Snoopy' Special Arrives November 13",
+      "description": "Apple today shared a trailer for a new Snoopy special that's airing on Friday, November 13. \"Snoopy Presents: 12 Days of Snoopy\" features Snoopy working to get off Santa's naughty list ahead of Christmas.\r\n\r\nIn the latest special of the acclaimed \"Snoopy Presents\" banner, the Peanuts kids are on the",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-tv-snoopy.jpg",
+      "url": "https://www.macrumors.com/2026/11/04/apple-12-days-of-snoopy/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T21:20:28.000Z"
+    },
+    {
+      "id": "07a16e9c30c62524",
+      "title": "Bose’s QuietComfort Headphones are more than half off",
+      "description": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-04T21:13:11.000Z"
+    },
+    {
+      "id": "159daeadab502621",
+      "title": "Apple Releases Xcode 27.3 Beta With Three New Features",
+      "description": "Apple on Tuesday released the first Xcode 27.3 beta with three new features: GitHub Copilot support within the built-in coding assistant, the ability for developers to test Siri AI integration in their apps, and additional APIs for developers to optimize their apps for the upcoming MacBook Pro model",
+      "image": "https://images.macrumors.com/article-new/2026/02/macOS-26-Xcode.jpg",
+      "url": "https://www.macrumors.com/2026/11/04/xcode-27-3-beta-new-features/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T21:11:43.000Z"
+    },
+    {
+      "id": "67ff5b7e97faadcf",
+      "title": "Meta acquires AI coding startup Conductor",
+      "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-04T21:10:56.000Z"
+    },
+    {
+      "id": "6c5420b33f4594f9",
+      "title": "Apple Will Check Public iCloud Links for Harmful Content Starting in iOS 27.3",
+      "description": "Apple says it will start checking public iCloud links for harmful content in iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\r\n\r\n\r\nImages in iCloud Photos and files in iCloud Drive shared using the \"Anyone with the link\" option will be \"made accessible to Apple\" for a content check. Apple doesn",
+      "image": "https://images.macrumors.com/article-new/2026/11/iCloud-Link-Harmful-Content-Feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T20:59:44.000Z"
+    },
+    {
+      "id": "4131d0c2227ad7b6",
+      "title": "Apple Photos keeps getting better, here’s what’s new in iOS 27",
+      "description": "iOS 27’s biggest highlight is Siri AI, but the update also packs new features for apps like Messages, Notes, Wallet, and more. Here’s everything new for Apple’s Photos app in iOS 27.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-03T21:58:58.000Z"
+      "publishedAt": "2026-11-04T20:47:18.000Z"
+    },
+    {
+      "id": "3d52a400381c505a",
+      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "description": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-04T20:36:57.000Z"
+    },
+    {
+      "id": "9a8a1a46f1cd7157",
+      "title": "Apple disables Siri AI waitlist in iOS 27, with one exception",
+      "description": "When Siri AI launched in iOS 27 earlier this fall, Apple used a waitlist to gate access. But a newly updated support document says the waitlist is no longer being used, except in “high demand” times.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-light.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T20:28:23.000Z"
+    },
+    {
+      "id": "03b2497afbacf78d",
+      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "description": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and mor",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-04T20:23:24.000Z"
+    },
+    {
+      "id": "17ed614caef75e7e",
+      "title": "Report: Apple reduces employees’ AI token allowances as Ternus moves to cut costs",
+      "description": "Bloomberg reports that Apple has begun reducing employees’ daily AI spending limits, with some engineers seeing their allowances cut from $300 to $200, and further reductions planned across multiple teams. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/john-ternus-imac-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/04/report-apple-reduces-employees-ai-token-allowances-as-ternus-moves-to-cut-costs/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T20:21:29.000Z"
+    },
+    {
+      "id": "88a3e6380ebbb677",
+      "title": "Next year’s iPhone Pro redesign gets new update from leaker",
+      "description": "Apple reportedly has a big redesign coming to next year’s iPhone Pro models, timed for the iPhone’s 20th anniversary. The latest leak about the design reveals that the dream of a cutout-free display may remain a dream for now.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/04/next-years-iphone-pro-redesign-gets-new-update-from-leaker/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T19:52:50.000Z"
+    },
+    {
+      "id": "40f1038d35dca03a",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-04T19:30:04.000Z"
+    },
+    {
+      "id": "40cf2ebd389da185",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-04T19:29:52.000Z"
+    },
+    {
+      "id": "15242d25d5cb0a07",
+      "title": "Google’s Pixel 11 phones are up to 27 percent off",
+      "description": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its original price.\nThe Pi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-review-photos-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-04T19:00:00.000Z"
+    },
+    {
+      "id": "3279890af9cfa88a",
+      "title": "Xbox previews two new ways to control cloud games",
+      "description": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to con",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-04T19:00:00.000Z"
+    },
+    {
+      "id": "a745c8399efd5e6a",
+      "title": "Meet the 20 first-place apps from RevenueCat’s Shipaton 2026",
+      "description": "A cozy habit tracker, a smarter snippet library, and a rooster that wants you out of bed: this year’s Shipaton winners offer plenty of new apps to explore.\nRevenueCat’s annual app-building competition drew 3,985 project submissions in 2026, according to its winner announcement. Across the 20 first-p",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/revenuecat-shipaton-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T18:52:45.000Z"
+    },
+    {
+      "id": "7276e975415a763b",
+      "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
+      "description": "Apple Music is getting two upgrades in iOS 27.3, which just debuted in beta this week. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T18:46:02.000Z"
+    },
+    {
+      "id": "14e5e82e2bb3136d",
+      "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island",
+      "description": "The new MacBook Pro models with touch-enabled OLED displays feature the Dynamic Island instead of a notch, and it includes support for Live Activities. Fortunately, other Apple silicon Macs will not entirely miss out, as the macOS 27.3 update enables Live Activities for apps like Apple Music, Clock,",
+      "image": "https://images.macrumors.com/article-new/2026/11/macOS-27-3-Live-Activities-Timer.jpg",
+      "url": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-04T18:43:01.000Z"
     }
   ],
-  "lastUpdated": "2026-11-04T13:22:10.716Z",
+  "lastUpdated": "2026-11-04T22:57:26.878Z",
   "sources": [
     "TechCrunch",
     "The Verge",
