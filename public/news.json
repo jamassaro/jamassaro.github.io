@@ -1,6 +1,223 @@
 {
   "articles": [
     {
+      "id": "7a0f87471cbee4f7",
+      "title": "'Backglow' Lets You Customize New MacBook Pro's Glowing Apple Logo",
+      "description": "A new \"Backglow\" app created by designer Juan Buis lets you customize the illuminated Apple logo on the lid of the new MacBook Pro models.\r\n\r\n\r\nThe free version of the app allows you to manually adjust the brightness level of the Apple logo, independent of the MacBook Pro's display brightness level.",
+      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg",
+      "url": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T20:44:15.000Z"
+    },
+    {
+      "id": "2333270e6eb22f3b",
+      "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
+      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you find yourself playing an instrument with sheet music, flipping the page often requires you to stop ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CueFlip.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T20:30:00.000Z"
+    },
+    {
+      "id": "9dbcfe28c31edfec",
+      "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
+      "description": "Anker’s new MagGo Pro 2 power bank offers active cooling, 25W MagSafe fast charging, 10,000mAh of capacity, and a smart display – all in one package. Anker touts it as the fastest and coolest wireless power bank on the market.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04231-2048x1024.jpg.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T19:11:00.000Z"
+    },
+    {
+      "id": "90b319f8bc8741de",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T19:00:00.000Z"
+    },
+    {
+      "id": "9b23dbcf397ce2b3",
+      "title": "Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites [Video]",
+      "description": "For the first time in a long time, I can say that iPhone cases are fun again! The introduction of the iPhone Duo has brought us a new era of cases in all shapes, sizes, functions, and form factors. We are still in the infancy of this new ecosystem of iPhone Duo-compatible cases, so manufacturers are",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Cases-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/07/hands-on-i-tested-a-bunch-of-iphone-duo-cases-these-are-my-favorites-video/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T18:02:09.000Z"
+    },
+    {
+      "id": "14ec0ea7ca0470b7",
+      "title": "iPhone Air 2 is coming next year, here’s why it has more to prove than ever",
+      "description": "Next spring, Apple will take the stage to unveil the second-generation iPhone Air to the world, after taking a bit more time to go back to the drawing board and incorporate a second camera into the design. That said, iPhone Air is no longer the flashy cool phone, now iPhone Duo is.\nWith that being t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-air-falling.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/07/iphone-air-2-launching-early-next-year/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T17:45:55.000Z"
+    },
+    {
+      "id": "d36cad636b9f658c",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T17:24:07.000Z"
+    },
+    {
+      "id": "72935aa93aae9e5d",
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T17:18:00.000Z"
+    },
+    {
+      "id": "d77a1b5983a49011",
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "description": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizz",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T17:00:00.000Z"
+    },
+    {
+      "id": "77d5cbaf715a0691",
+      "title": "Remove your personal info from the web (and stop it coming back)",
+      "description": "It seems incredible that anyone can legally create a business which involves scraping your personal data from the web and then selling it, yet here we are. There are literally hundreds of data brokers doing just this.\nThey also buy data from app developers, who use innocuous-sounding terms like “sha",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/2_1_Incogni_partnerships_generic_v3.png?w=1600",
+      "url": "https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T17:00:00.000Z"
+    },
+    {
+      "id": "71a95edd9635da15",
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "description": "The Legend of Zelda: Ocarina of Time remake showcases plenty of modern effects. | Image: Nintendo\t\n\nWhile some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the d",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T16:00:00.000Z"
+    },
+    {
+      "id": "3301a840c77dea07",
+      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "description": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that cov",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T16:00:00.000Z"
+    },
+    {
+      "id": "205b7610b0d3377f",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "description": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nAround 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, b",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T15:50:00.000Z"
+    },
+    {
+      "id": "0a6e873dd54b2c9a",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "description": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a ho",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T15:43:45.000Z"
+    },
+    {
+      "id": "71c0336656e34847",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "description": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.\nThis episode is part one of a special series looking at AI in real life.\nI’ve always enjoyed talking to Alex because he’s so direct, and you’re go",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T15:00:00.000Z"
+    },
+    {
+      "id": "d041dae73c990fa7",
+      "title": "Good riddance, Cybertruck!",
+      "description": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. \nElon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T14:40:06.000Z"
+    },
+    {
+      "id": "2fb0e21c1bd9a61a",
+      "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
+      "description": "Black Friday is now just a few weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more.\r\n\r\nNote: MacRumors is an affiliate partner with some of these",
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-9.jpg",
+      "url": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T14:28:23.000Z"
+    },
+    {
+      "id": "29945edc60b509d8",
+      "title": "Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T14:06:00.000Z"
+    },
+    {
+      "id": "bf397b9724587ffb",
+      "title": "Top Stories: Apple Product Launches, iOS 27.3 Beta, and More",
+      "description": "Apple is still rocking and rolling a week into November, with five new products having launched this week and two more still on tap for next week.\r\n\r\n\r\nThings are also moving forward on the software side with Apple releasing the first betas of iOS 27.3 and related updates, bringing a number of tweak",
+      "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-07.jpg",
+      "url": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T14:00:12.000Z"
+    },
+    {
+      "id": "81861ccc305261ec",
+      "title": "Zelda is back and better than ever",
+      "description": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.)\nThis week, I've been reading about A",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T13:49:01.000Z"
+    },
+    {
+      "id": "9bba3e5c15d10556",
+      "title": "Early Black Friday Apple deals: MacBook Air $250 off, HomeView, Apple Watch Ultra $250 off, AirPods, more",
+      "description": "Update: Amazon just brought back the pre-order deal on the new Apple TV 4K (4th Generation) ahead of release next week. \nJoining the pre-order deals on the new Apple HomeView and what could be a fleeting chance to secure the 2026 Apple Polishing Cloth at $9 Prime shipped, the early Black Friday Appl",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-early-black-friday-deals-HomeView-AirPods-MacBook-Ultra-4.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/07/early-black-friday-apple-deals-now-live/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T13:00:00.000Z"
+    },
+    {
+      "id": "390c5936c824551b",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "description": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.\nThat's acco",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-07T12:30:00.000Z"
+    },
+    {
       "id": "096507e26ee0176e",
       "title": "Sequoia shutting down its Scouts program marks the end of an era",
       "description": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
@@ -75,225 +292,9 @@
       "source": "MacRumors",
       "category": "Apple News",
       "publishedAt": "2026-11-06T23:27:55.000Z"
-    },
-    {
-      "id": "dd2efd7a0f8af238",
-      "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
-      "description": "Award-winning culinary show ‘Knife Edge: Chasing Michelin Stars’ is getting a third season, in an announcement that came hours after its second season came to a close. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/knife-edge.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/apple-tv-renews-knife-edge-chasing-michelin-stars-for-season-three/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T23:15:19.000Z"
-    },
-    {
-      "id": "c3fe5cc7b4c85ef7",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "description": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advance",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T23:00:44.000Z"
-    },
-    {
-      "id": "fff9b4d21eb5a10d",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T22:53:46.000Z"
-    },
-    {
-      "id": "87cfa7d4bef85f7b",
-      "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
-      "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth.\nAs part of its plans to rival AT&T, Verizon, and T-M",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T22:45:43.000Z"
-    },
-    {
-      "id": "b65970e648ce0fdd",
-      "title": "Raycast combines voice dictation and screen awareness in new AI feature",
-      "description": "Following the recent release of Screen Awareness, Raycast got an interesting update this week that lets users talk to AI about whatever is on their screen without having to explain the context. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T22:28:13.000Z"
-    },
-    {
-      "id": "9c8528cdba0dd64f",
-      "title": "iOS 27.3: New features, release date, more",
-      "description": "This week, Apple released the first iOS 27.3 beta. The update includes multiple new features for iPhone users, including the redesigned Health app, iPhone Duo updates, and much more. Here’s everything you need to know about what’s new in iOS 27.3 …\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T21:58:30.000Z"
-    },
-    {
-      "id": "f1143f6581433e40",
-      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-      "description": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.01_04_39_22.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T21:50:32.000Z"
-    },
-    {
-      "id": "81e2038d28877b99",
-      "title": "Apple Store With All-New Design Opening Soon in Southern California",
-      "description": "Apple today announced that its retail store at The Forum in Carlsbad, California will be reopening in its original location on Friday, November 20 at 10 a.m. local time, following more than a year of renovations. Additions will likely include a Genius Bar with accessible seating and a dedicated Appl",
-      "image": "https://images.macrumors.com/article-new/2025/11/Apple-Carlsbad-Temporary.jpeg",
-      "url": "https://www.macrumors.com/2026/11/06/apple-carlsbad-reopening-soon/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T21:48:46.000Z"
-    },
-    {
-      "id": "883f725a1a0cf54d",
-      "title": "Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations",
-      "description": "Reuters and The Washington Post report that Apple is among the tech giants potentially facing congressional investigations as Democrats prepare to take control of both chambers in January. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/cook-gift-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/report-apple-faces-congressional-scrutiny-over-ice-tracking-apps-and-trump-donations/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T21:46:36.000Z"
-    },
-    {
-      "id": "d1e242cfb7b31e23",
-      "title": "The Duo apps are coming, says Apple",
-      "description": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T21:38:05.000Z"
-    },
-    {
-      "id": "a5cfe8db0ee69e54",
-      "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love",
-      "description": "watchOS 27.3 arrived this week in beta alongside iOS 27.3, with a major new feature for the latest Apple Watch models: Siri Recap, which I’m already really loving.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T21:05:28.000Z"
-    },
-    {
-      "id": "59ff0f37ffda38ec",
-      "title": "Apple’s funny new Apple Card ad features an awkward therapy session",
-      "description": "Apple shared a new Apple Card ad on its YouTube page today featuring a therapist who realizes she really needs a vacation. Watch it below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-card-ad.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/apples-funny-new-apple-card-ad-features-an-awkward-therapy-session/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T20:55:39.000Z"
-    },
-    {
-      "id": "7250a6037697c10c",
-      "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
-      "description": "Several tech companies are pushing back against subpoenas issued by Apple and the DOJ in their ongoing antitrust battle. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/apples-doj-antitrust-battle-sparks-disputes-with-epic-samsung-oura-roblox-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T20:06:06.000Z"
-    },
-    {
-      "id": "d39b04cd8956f4b6",
-      "title": "Control the Glowing Apple Logo on Your New MacBook Pro",
-      "description": "Once a common sight in lecture theaters and coffee shops everywhere, the glowing emblem of an Apple logo featured on the lids of many Mac laptops launched in the early 2000s. In a nice touch, the new 14-inch and 16-inch MacBook Pro models with PROLED XDR displays bring back the much-loved logo. It's",
-      "image": "https://images.macrumors.com/article-new/2026/11/macbook-apple-logo.jpg",
-      "url": "https://www.macrumors.com/how-to/turn-glowing-apple-logo-macbook-pro/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T20:03:09.000Z"
-    },
-    {
-      "id": "870ce5b6e25b918f",
-      "title": "All the latest updates on AI data centers",
-      "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.\nData ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T20:02:22.000Z"
-    },
-    {
-      "id": "967b0d5802bf3a44",
-      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-      "description": "Shure’s MV7 Plus is a popular podcasting and streaming mic. | Image: Shure\t\n\nWhile the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T19:47:02.000Z"
-    },
-    {
-      "id": "963f700b2b619d3e",
-      "title": "HomeKit Weekly: Airversa’s Humelle is the Thread humidifier my house needs this winter",
-      "description": "I love natural gas heat for a few reasons, but one is avoiding AUX heat from a heat pump and watching the bill rise. The downside is when the gas heat kicks on, the air in mt house is bone dry. My nose ends up being super dry for months. A humidifier like the Airversa Humelle works with Apple Home o",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Airversa-Humelle-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/airversa-humelle/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T19:33:00.000Z"
-    },
-    {
-      "id": "1c31f99a17380db7",
-      "title": "Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here's What's Still Missing",
-      "description": "Apple today announced that more than 100,000 apps have been optimized for the iPhone Duo, released two weeks ago. We confirmed that this figure refers to apps built with the iOS 27.1 SDK or later, meaning these apps fill the full width of the iPhone Duo's inner and outer displays and have vertical c",
-      "image": "https://images.macrumors.com/article-new/2026/11/iPhone-Duo-Flighty.jpeg",
-      "url": "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T18:56:35.000Z"
-    },
-    {
-      "id": "b0bed9da8b9600e3",
-      "title": "iOS 27.2 adds three new ways to customize your iPhone",
-      "description": "iOS 27.2 launched last week with a lot of new features, and also several ways you can customize your iPhone. Here’s what’s new for iPhone personalization.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-18-pro-glacier-home-screen-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/ios-27-2-adds-three-new-ways-to-customize-your-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T18:55:34.000Z"
-    },
-    {
-      "id": "deb4c9f5cc14c5b9",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T18:44:38.000Z"
-    },
-    {
-      "id": "553cb4c85a790eba",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T18:44:20.000Z"
-    },
-    {
-      "id": "5fc5aa917c4790de",
-      "title": "Lame-duck Congress might actually do something: speed up energy projects",
-      "description": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new d",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268857_cutting_red_tape_to_build_more_powerlines__CVirginia-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-06T18:42:30.000Z"
     }
   ],
-  "lastUpdated": "2026-11-07T11:58:54.614Z",
+  "lastUpdated": "2026-11-07T21:09:09.739Z",
   "sources": [
     "TechCrunch",
     "The Verge",
