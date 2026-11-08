@@ -1,6 +1,208 @@
 {
   "articles": [
     {
+      "id": "ae44b14e5f4c17f5",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "description": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T21:00:11.000Z"
+    },
+    {
+      "id": "43d93485973a5af0",
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "description": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T21:00:00.000Z"
+    },
+    {
+      "id": "4889b01b04e31328",
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "description": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T20:52:05.000Z"
+    },
+    {
+      "id": "92037306194f256f",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "description": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T20:30:00.000Z"
+    },
+    {
+      "id": "105809e2685e35ac",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "description": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads:\nThe NVIDIA Board is ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T20:22:39.000Z"
+    },
+    {
+      "id": "403261fa3c40e7b6",
+      "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
+      "description": "Last month, Apple announced it’d be tightening privacy controls in a future macOS update, in response to AI agents requesting Full Disk Access then going rogue with users data without them being fully aware. Now, we have an idea of how the changes might look.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-08T19:52:41.000Z"
+    },
+    {
+      "id": "cbf47f49fa3bc2b5",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "description": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T19:51:30.000Z"
+    },
+    {
+      "id": "356fbf603b237464",
+      "title": "Apple is racing to make Siri more agentic",
+      "description": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T19:18:19.000Z"
+    },
+    {
+      "id": "626db8d6897743fb",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "description": "SNL seems to have its knives out for tech executives.",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T18:00:04.000Z"
+    },
+    {
+      "id": "5ac114f697a18b5a",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T17:30:00.000Z"
+    },
+    {
+      "id": "70b5760bbb7ed5d9",
+      "title": "Siri AI Rumored to Become 'More Like an Agent' as Early as Next Year",
+      "description": "Siri AI is much more intelligent and personalized compared to classic Siri, but it is still not nearly as advanced as proactive, always-on agents like OpenAI's Dots and Meta's Muse. That may change, though, according to a new rumor.\r\n\r\n\r\nIn his Power On newsletter today, Bloomberg's Mark Gurman said",
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+      "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-08T17:24:45.000Z"
+    },
+    {
+      "id": "bbd377ac455dcb7d",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "description": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T17:23:19.000Z"
+    },
+    {
+      "id": "c61630aaaf2ca441",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T17:02:00.000Z"
+    },
+    {
+      "id": "bc53ac9fb3ce702b",
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "description": "A top-down view of the 15-inch MacBook Air, which features Apple’s M5 processor. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nThe latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases ove",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T16:00:00.000Z"
+    },
+    {
+      "id": "4621d43281b68088",
+      "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
+      "description": "In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors. According to Bloomberg’s Mark Gurman, new Apple CEO John Ternus is reportedly pushing on software chief Craig Federighi to ‘accelerate",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/New-Apple-privacy-features.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-08T15:55:23.000Z"
+    },
+    {
+      "id": "6ff3d3aecf700a5c",
+      "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
+      "description": "Apple has made a change to its development process for iOS 28, macOS 28, and corresponding software updates, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nIn his Power On newsletter today, he said Apple separates development of each year's new operating systems into three major stages. Typically, he sa",
+      "image": "https://images.macrumors.com/article-new/2026/11/iOS-28-AI.jpg",
+      "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-08T15:42:38.000Z"
+    },
+    {
+      "id": "bbc8ea5183a3765a",
+      "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
+      "description": "Apple finally shipped its long awaited personalized Siri with iOS 27. The company lived up to its promises, and delivered on its hefty goals that it set out back in 2024. \nThat said, Siri still lacks in terms of proactively taking actions for you, a feature that many AI companies are actively workin",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-08T15:30:36.000Z"
+    },
+    {
+      "id": "fa74fe758bc63f5f",
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T15:00:30.000Z"
+    },
+    {
+      "id": "0e260982e7ed7d5f",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "description": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T15:00:00.000Z"
+    },
+    {
+      "id": "8d856582e9a4f783",
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nAlmost ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2264895316.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T13:00:00.000Z"
+    },
+    {
+      "id": "c085f0d33128cfc4",
+      "title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
+      "description": "Last week, movie director Rian Johnson announced a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed. \niPhone 18 Pro and iPhone Duo introduced a new film texture option, but in m",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/rian-camera-app.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-07T22:30:00.000Z"
+    },
+    {
       "id": "8fb58d631fb1f008",
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
@@ -86,213 +288,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-11-07T17:45:55.000Z"
-    },
-    {
-      "id": "d36cad636b9f658c",
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T17:24:07.000Z"
-    },
-    {
-      "id": "72935aa93aae9e5d",
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T17:18:00.000Z"
-    },
-    {
-      "id": "d77a1b5983a49011",
-      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-      "description": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizz",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T17:00:00.000Z"
-    },
-    {
-      "id": "77d5cbaf715a0691",
-      "title": "Remove your personal info from the web (and stop it coming back)",
-      "description": "It seems incredible that anyone can legally create a business which involves scraping your personal data from the web and then selling it, yet here we are. There are literally hundreds of data brokers doing just this.\nThey also buy data from app developers, who use innocuous-sounding terms like “sha",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/2_1_Incogni_partnerships_generic_v3.png?w=1600",
-      "url": "https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T17:00:00.000Z"
-    },
-    {
-      "id": "71a95edd9635da15",
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "description": "The Legend of Zelda: Ocarina of Time remake showcases plenty of modern effects. | Image: Nintendo\t\n\nWhile some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the d",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T16:00:00.000Z"
-    },
-    {
-      "id": "3301a840c77dea07",
-      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "description": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that cov",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T16:00:00.000Z"
-    },
-    {
-      "id": "205b7610b0d3377f",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "description": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nAround 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, b",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T15:50:00.000Z"
-    },
-    {
-      "id": "0a6e873dd54b2c9a",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "description": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a ho",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T15:43:45.000Z"
-    },
-    {
-      "id": "71c0336656e34847",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "description": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.\nThis episode is part one of a special series looking at AI in real life.\nI’ve always enjoyed talking to Alex because he’s so direct, and you’re go",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T15:00:00.000Z"
-    },
-    {
-      "id": "d041dae73c990fa7",
-      "title": "Good riddance, Cybertruck!",
-      "description": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. \nElon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T14:40:06.000Z"
-    },
-    {
-      "id": "29945edc60b509d8",
-      "title": "Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T14:06:00.000Z"
-    },
-    {
-      "id": "bf397b9724587ffb",
-      "title": "Top Stories: Apple Product Launches, iOS 27.3 Beta, and More",
-      "description": "Apple is still rocking and rolling a week into November, with five new products having launched this week and two more still on tap for next week.\r\n\r\n\r\nThings are also moving forward on the software side with Apple releasing the first betas of iOS 27.3 and related updates, bringing a number of tweak",
-      "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-07.jpg",
-      "url": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T14:00:12.000Z"
-    },
-    {
-      "id": "81861ccc305261ec",
-      "title": "Zelda is back and better than ever",
-      "description": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.)\nThis week, I've been reading about A",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T13:49:01.000Z"
-    },
-    {
-      "id": "9bba3e5c15d10556",
-      "title": "Early Black Friday Apple deals: MacBook Air $250 off, HomeView, Apple Watch Ultra $250 off, AirPods, more",
-      "description": "Update: Amazon just brought back the pre-order deal on the new Apple TV 4K (4th Generation) ahead of release next week. \nJoining the pre-order deals on the new Apple HomeView and what could be a fleeting chance to secure the 2026 Apple Polishing Cloth at $9 Prime shipped, the early Black Friday Appl",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-early-black-friday-deals-HomeView-AirPods-MacBook-Ultra-4.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/07/early-black-friday-apple-deals-now-live/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T13:00:00.000Z"
-    },
-    {
-      "id": "390c5936c824551b",
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "description": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.\nThat's acco",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T12:30:00.000Z"
-    },
-    {
-      "id": "096507e26ee0176e",
-      "title": "Sequoia shutting down its Scouts program marks the end of an era",
-      "description": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T05:01:54.000Z"
-    },
-    {
-      "id": "b701cd3339c7f2e1",
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T04:16:43.000Z"
-    },
-    {
-      "id": "098f8cde3e0a5f30",
-      "title": "Apple Music Classical gets new black-and-white icon in latest update",
-      "description": "Following the redesign of the Apple Music app icon, which replaced the familiar white music note on a red background with a black-and-white look, Apple today updated Apple Music Classical to match the new design.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-music-classical.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T02:11:48.000Z"
-    },
-    {
-      "id": "2937b8c5184da442",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "description": "The deal highlights the challenges of developing massive AI data centers.",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T01:40:28.000Z"
-    },
-    {
-      "id": "7c753dfb50f75522",
-      "title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/06/daily-november-6-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T23:47:18.000Z"
-    },
-    {
-      "id": "906eebe3845d6dfb",
-      "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
-      "description": "Happy touch your Mac day! Apple's new PROLED MacBook Pro is now in the hands of customers. We picked up one of the new machines to get our greasy fingerprints all over that pristine OLED display.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nIt's been five years since Apple last r",
-      "url": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-06T23:46:57.000Z"
     }
   ],
-  "lastUpdated": "2026-11-08T12:17:58.900Z",
+  "lastUpdated": "2026-11-08T21:25:15.869Z",
   "sources": [
     "TechCrunch",
     "The Verge",
