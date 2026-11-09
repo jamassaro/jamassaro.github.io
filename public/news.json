@@ -1,6 +1,210 @@
 {
   "articles": [
     {
+      "id": "e0662114ce42eb5b",
+      "title": "Apple pushing faster on agentic Siri would carry three big risks",
+      "description": "Yesterday saw two reports about Apple software development. The first said that the company was aiming to give Siri more agentic capabilities “as soon as next year,” while the second said that CEO John Ternus is pushing Craig Federighi to speed up software development.\nIf accurate, it seems near-cer",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-macos-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/apple-pushing-faster-on-agentic-siri-would-carry-three-big-risks/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T14:28:47.000Z"
+    },
+    {
+      "id": "01a3c475fbe9ac1c",
+      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "description": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+      "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T14:00:00.000Z"
+    },
+    {
+      "id": "5c1b32fb3d243d36",
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "description": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T14:00:00.000Z"
+    },
+    {
+      "id": "c14dfee2355c7078",
+      "title": "Pomera&#8217;s sleek distraction-free writing machine is just too small",
+      "description": "Pomera's digital typewriters are a cult hit with those craving a distraction-free writing experience. Dedicated word processor devices never caught on in the US the way they did in Japan. And the ones available in the US, like the AlphaSmart Neo, just weren't as sleek and portable as the tiny foldab",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Pomera-DM250-DSCF1434-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T14:00:00.000Z"
+    },
+    {
+      "id": "726c9d112d99280a",
+      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+      "description": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
+      "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T13:43:28.000Z"
+    },
+    {
+      "id": "2b5b4a38ef4a69dc",
+      "title": "Apple to Give You More Control Over When Your Mac Passwords Lock",
+      "description": "Apple's Passwords app on Mac will soon let you choose when it automatically locks. Spotted by code explorer pdfu, a new menu in macOS 27.3 beta offers one, three, or 10 minutes of inactivity, alongside options to lock when the Mac itself locks or sleeps, or for it to never automatically lock.\r\n\r\n\r\nI",
+      "image": "https://images.macrumors.com/article-new/2026/11/passwords-app-macos-27-3@2x-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/apple-mac-passwords-app-lock-options/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T13:42:09.000Z"
+    },
+    {
+      "id": "1f49fdf4abbf904a",
+      "title": "Siri Is Getting a Better Memory",
+      "description": "Apple is building a personal memory system that could help Siri retain information about users' lives, based on new code findings shared by code explorer pdfu.\r\n\r\n\r\nIn Apple's iOS 27.3 beta release, the system includes a \"memory graph\" that's designed to organize information about relationships, pla",
+      "image": "https://images.macrumors.com/article-new/2026/03/ios-27-siri-animation.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/siri-could-get-better-remembering-your-life/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T13:15:41.000Z"
+    },
+    {
+      "id": "f06fa8ae8be0124b",
+      "title": "Teens and parents can expect Instagram notifications about AI age estimation",
+      "description": "Meta says it’s expanding its AI age estimation globally to automatically extend Instagram account protections to millions more teenagers. It says parents in the US can also expect to receive notifications later this month …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Parents-in-the-US-can-expect-Instagram-notifications-about-their-teens.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/teens-and-parents-can-expect-instagram-notifications-about-ai-age-estimation/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T12:53:40.000Z"
+    },
+    {
+      "id": "2caf653b432b17c9",
+      "title": "iPhone 18e Could Feature Bigger Display and Battery",
+      "description": "Apple's standard iPhone 18 and the lower-cost iPhone 18e will both feature 6.3-inch displays and use the same battery, according to the leaker known as \"Fixed Focus Digital.\"\r\n\r\n\r\nIn a new post on Weibo, the leaker shared an annotated, side-by-side diagram of the phones' purported internals, labeled",
+      "image": "https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/iphone-18e-bigger-display-and-battery/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T12:45:29.000Z"
+    },
+    {
+      "id": "02af43ce3e45068c",
+      "title": "Apple's Siri Boss May Leave - Here's Who Could Take Over",
+      "description": "Mike Rockwell \"continues to seriously consider stepping down\" as Apple's vice president of Siri engineering and could leave the company altogether next year, according to Bloomberg's Mark Gurman. Gurman described the potential move as a major blow to Apple.\r\n\r\n\r\nIf Rockwell departs or moves to anoth",
+      "image": "https://images.macrumors.com/article-new/2024/06/craig-federighi.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/apple-siri-boss-may-leave/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T12:31:24.000Z"
+    },
+    {
+      "id": "fb90de412cc72783",
+      "title": "Apple Launching Two More New Products This Friday",
+      "description": "The Apple launches keep coming! The company is set to release two new products on Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have been available to pre-order since mid-October.\r\n\r\n\nApple HomeView: Apple's new smart home display, powered by Ap",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T12:22:00.000Z"
+    },
+    {
+      "id": "d3cfb8c40fa5439b",
+      "title": "Apple staff accused of signing up customers to subscriptions without consent; company responds",
+      "description": "Repair technician turned consumer rights advocate Louis Rossmann recently accused Apple store staff of signing up customers to the company’s services subscriptions without their consent.\nApple has not yet commented, but has taken two steps indicating that the company takes the accusations seriously ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T12:14:40.000Z"
+    },
+    {
+      "id": "4912fb39a91af8fd",
+      "title": "Instagram’s AI age detection is expanding globally",
+      "description": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-p",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
+      "id": "2d48feeaeec8ab80",
+      "title": "Tesla expands robotaxi service to San Antonio",
+      "description": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
+      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T11:30:24.000Z"
+    },
+    {
+      "id": "052833e229ca9892",
+      "title": "Torrent underground",
+      "description": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268792_private_torrent_trackers_CVirginia_LEDE_1.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T11:00:05.000Z"
+    },
+    {
+      "id": "19d3535fee792e2e",
+      "title": "Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack",
+      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "url": "https://9to5mac.com/2026/11/09/security-bite-podcast-mac-malware-likely-helped-pull-off-the-record-6-3b-binance-hack/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T11:00:00.000Z"
+    },
+    {
+      "id": "e8ac49c91fcd45cb",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "description": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T05:26:29.000Z"
+    },
+    {
+      "id": "bf41fe2d85597648",
+      "title": "Apple Store Subscription Sign-Up Controversy Exposed",
+      "description": "In a series of YouTube videos shared over the past two weeks, electronics technician and consumer rights advocate Louis Rossmann has exposed a controversy in which some Apple Store employees have allegedly signed up customers for auto-renewing subscription trials for Apple One and other services wit",
+      "image": "https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg",
+      "url": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T03:28:09.000Z"
+    },
+    {
+      "id": "14454a22fbca77fd",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "description": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-generation Rubin chips from Nvidia Corp. to build a homegrown foundational AI model",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T22:54:50.000Z"
+    },
+    {
+      "id": "dc166928ee8a94ce",
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "description": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems.\n\"Gold Chain Punk (who",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3168552135_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T22:37:22.000Z"
+    },
+    {
+      "id": "08e3460f647519a8",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-08T22:00:00.000Z"
+    },
+    {
       "id": "ae44b14e5f4c17f5",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "description": "In a memo to the company, Huang admitted that he had an affair.",
@@ -38,8 +242,8 @@
       "publishedAt": "2026-11-08T20:30:00.000Z"
     },
     {
-      "id": "105809e2685e35ac",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "id": "467698f1bc7a9795",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
       "description": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads:\nThe NVIDIA Board is ",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
@@ -84,213 +288,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-11-08T18:00:04.000Z"
-    },
-    {
-      "id": "5ac114f697a18b5a",
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T17:30:00.000Z"
-    },
-    {
-      "id": "70b5760bbb7ed5d9",
-      "title": "Siri AI Rumored to Become 'More Like an Agent' as Early as Next Year",
-      "description": "Siri AI is much more intelligent and personalized compared to classic Siri, but it is still not nearly as advanced as proactive, always-on agents like OpenAI's Dots and Meta's Muse. That may change, though, according to a new rumor.\r\n\r\n\r\nIn his Power On newsletter today, Bloomberg's Mark Gurman said",
-      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
-      "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-08T17:24:45.000Z"
-    },
-    {
-      "id": "bbd377ac455dcb7d",
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "description": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T17:23:19.000Z"
-    },
-    {
-      "id": "c61630aaaf2ca441",
-      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T17:02:00.000Z"
-    },
-    {
-      "id": "bc53ac9fb3ce702b",
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "description": "A top-down view of the 15-inch MacBook Air, which features Apple’s M5 processor. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nThe latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases ove",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T16:00:00.000Z"
-    },
-    {
-      "id": "4621d43281b68088",
-      "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
-      "description": "In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors. According to Bloomberg’s Mark Gurman, new Apple CEO John Ternus is reportedly pushing on software chief Craig Federighi to ‘accelerate",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/New-Apple-privacy-features.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-08T15:55:23.000Z"
-    },
-    {
-      "id": "6ff3d3aecf700a5c",
-      "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
-      "description": "Apple has made a change to its development process for iOS 28, macOS 28, and corresponding software updates, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nIn his Power On newsletter today, he said Apple separates development of each year's new operating systems into three major stages. Typically, he sa",
-      "image": "https://images.macrumors.com/article-new/2026/11/iOS-28-AI.jpg",
-      "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-08T15:42:38.000Z"
-    },
-    {
-      "id": "bbc8ea5183a3765a",
-      "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
-      "description": "Apple finally shipped its long awaited personalized Siri with iOS 27. The company lived up to its promises, and delivered on its hefty goals that it set out back in 2024. \nThat said, Siri still lacks in terms of proactively taking actions for you, a feature that many AI companies are actively workin",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-08T15:30:36.000Z"
-    },
-    {
-      "id": "fa74fe758bc63f5f",
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T15:00:30.000Z"
-    },
-    {
-      "id": "0e260982e7ed7d5f",
-      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-      "description": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
-      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T15:00:00.000Z"
-    },
-    {
-      "id": "8d856582e9a4f783",
-      "title": "There’s no slowing down media’s pivot-to-video 2.0",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nAlmost ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2264895316.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T13:00:00.000Z"
-    },
-    {
-      "id": "c085f0d33128cfc4",
-      "title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
-      "description": "Last week, movie director Rian Johnson announced a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed. \niPhone 18 Pro and iPhone Duo introduced a new film texture option, but in m",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/rian-camera-app.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T22:30:00.000Z"
-    },
-    {
-      "id": "8fb58d631fb1f008",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T22:07:22.000Z"
-    },
-    {
-      "id": "00cb584a6affbca9",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T21:17:08.000Z"
-    },
-    {
-      "id": "2fb0e21c1bd9a61a",
-      "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
-      "description": "Black Friday is now just a few weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more.\r\n\r\nNote: MacRumors is an affiliate partner with some of these",
-      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-9.jpg",
-      "url": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T20:50:00.000Z"
-    },
-    {
-      "id": "7a0f87471cbee4f7",
-      "title": "'Backglow' Lets You Customize New MacBook Pro's Glowing Apple Logo",
-      "description": "A new \"Backglow\" app created by designer Juan Buis lets you customize the illuminated Apple logo on the lid of the new MacBook Pro models.\r\n\r\n\r\nThe free version of the app allows you to manually adjust the brightness level of the Apple logo, independent of the MacBook Pro's display brightness level.",
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg",
-      "url": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T20:44:15.000Z"
-    },
-    {
-      "id": "2333270e6eb22f3b",
-      "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you find yourself playing an instrument with sheet music, flipping the page often requires you to stop ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CueFlip.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T20:30:00.000Z"
-    },
-    {
-      "id": "9dbcfe28c31edfec",
-      "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
-      "description": "Anker’s new MagGo Pro 2 power bank offers active cooling, 25W MagSafe fast charging, 10,000mAh of capacity, and a smart display – all in one package. Anker touts it as the fastest and coolest wireless power bank on the market.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04231-2048x1024.jpg.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T19:11:00.000Z"
-    },
-    {
-      "id": "90b319f8bc8741de",
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-07T19:00:00.000Z"
-    },
-    {
-      "id": "9b23dbcf397ce2b3",
-      "title": "Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites [Video]",
-      "description": "For the first time in a long time, I can say that iPhone cases are fun again! The introduction of the iPhone Duo has brought us a new era of cases in all shapes, sizes, functions, and form factors. We are still in the infancy of this new ecosystem of iPhone Duo-compatible cases, so manufacturers are",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Cases-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/07/hands-on-i-tested-a-bunch-of-iphone-duo-cases-these-are-my-favorites-video/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T18:02:09.000Z"
-    },
-    {
-      "id": "14ec0ea7ca0470b7",
-      "title": "iPhone Air 2 is coming next year, here’s why it has more to prove than ever",
-      "description": "Next spring, Apple will take the stage to unveil the second-generation iPhone Air to the world, after taking a bit more time to go back to the drawing board and incorporate a second camera into the design. That said, iPhone Air is no longer the flashy cool phone, now iPhone Duo is.\nWith that being t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-air-falling.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/07/iphone-air-2-launching-early-next-year/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-07T17:45:55.000Z"
     }
   ],
-  "lastUpdated": "2026-11-08T21:25:15.869Z",
+  "lastUpdated": "2026-11-09T14:29:23.132Z",
   "sources": [
     "TechCrunch",
     "The Verge",
