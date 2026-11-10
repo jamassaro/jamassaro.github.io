@@ -1,296 +1,299 @@
 {
   "articles": [
     {
-      "id": "e0662114ce42eb5b",
-      "title": "Apple pushing faster on agentic Siri would carry three big risks",
-      "description": "Yesterday saw two reports about Apple software development. The first said that the company was aiming to give Siri more agentic capabilities “as soon as next year,” while the second said that CEO John Ternus is pushing Craig Federighi to speed up software development.\nIf accurate, it seems near-cer",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-macos-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/apple-pushing-faster-on-agentic-siri-would-carry-three-big-risks/",
+      "id": "1bce439799df3286",
+      "title": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/daily-november-9-2026/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-09T14:28:47.000Z"
+      "publishedAt": "2026-11-10T00:49:31.000Z"
     },
     {
-      "id": "01a3c475fbe9ac1c",
-      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-      "description": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
-      "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T14:00:00.000Z"
-    },
-    {
-      "id": "5c1b32fb3d243d36",
-      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-      "description": "Automattic aims to compete with likes of Lovable with Spacefast",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T14:00:00.000Z"
-    },
-    {
-      "id": "c14dfee2355c7078",
-      "title": "Pomera&#8217;s sleek distraction-free writing machine is just too small",
-      "description": "Pomera's digital typewriters are a cult hit with those craving a distraction-free writing experience. Dedicated word processor devices never caught on in the US the way they did in Japan. And the ones available in the US, like the AlphaSmart Neo, just weren't as sleek and portable as the tiny foldab",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Pomera-DM250-DSCF1434-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T14:00:00.000Z"
-    },
-    {
-      "id": "726c9d112d99280a",
-      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-      "description": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
-      "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T13:43:28.000Z"
-    },
-    {
-      "id": "2b5b4a38ef4a69dc",
-      "title": "Apple to Give You More Control Over When Your Mac Passwords Lock",
-      "description": "Apple's Passwords app on Mac will soon let you choose when it automatically locks. Spotted by code explorer pdfu, a new menu in macOS 27.3 beta offers one, three, or 10 minutes of inactivity, alongside options to lock when the Mac itself locks or sleeps, or for it to never automatically lock.\r\n\r\n\r\nI",
-      "image": "https://images.macrumors.com/article-new/2026/11/passwords-app-macos-27-3@2x-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/apple-mac-passwords-app-lock-options/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T13:42:09.000Z"
-    },
-    {
-      "id": "1f49fdf4abbf904a",
-      "title": "Siri Is Getting a Better Memory",
-      "description": "Apple is building a personal memory system that could help Siri retain information about users' lives, based on new code findings shared by code explorer pdfu.\r\n\r\n\r\nIn Apple's iOS 27.3 beta release, the system includes a \"memory graph\" that's designed to organize information about relationships, pla",
-      "image": "https://images.macrumors.com/article-new/2026/03/ios-27-siri-animation.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/siri-could-get-better-remembering-your-life/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T13:15:41.000Z"
-    },
-    {
-      "id": "f06fa8ae8be0124b",
-      "title": "Teens and parents can expect Instagram notifications about AI age estimation",
-      "description": "Meta says it’s expanding its AI age estimation globally to automatically extend Instagram account protections to millions more teenagers. It says parents in the US can also expect to receive notifications later this month …\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Parents-in-the-US-can-expect-Instagram-notifications-about-their-teens.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/teens-and-parents-can-expect-instagram-notifications-about-ai-age-estimation/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T12:53:40.000Z"
-    },
-    {
-      "id": "2caf653b432b17c9",
-      "title": "iPhone 18e Could Feature Bigger Display and Battery",
-      "description": "Apple's standard iPhone 18 and the lower-cost iPhone 18e will both feature 6.3-inch displays and use the same battery, according to the leaker known as \"Fixed Focus Digital.\"\r\n\r\n\r\nIn a new post on Weibo, the leaker shared an annotated, side-by-side diagram of the phones' purported internals, labeled",
-      "image": "https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/iphone-18e-bigger-display-and-battery/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T12:45:29.000Z"
-    },
-    {
-      "id": "02af43ce3e45068c",
-      "title": "Apple's Siri Boss May Leave - Here's Who Could Take Over",
-      "description": "Mike Rockwell \"continues to seriously consider stepping down\" as Apple's vice president of Siri engineering and could leave the company altogether next year, according to Bloomberg's Mark Gurman. Gurman described the potential move as a major blow to Apple.\r\n\r\n\r\nIf Rockwell departs or moves to anoth",
-      "image": "https://images.macrumors.com/article-new/2024/06/craig-federighi.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/apple-siri-boss-may-leave/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T12:31:24.000Z"
-    },
-    {
-      "id": "fb90de412cc72783",
-      "title": "Apple Launching Two More New Products This Friday",
-      "description": "The Apple launches keep coming! The company is set to release two new products on Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have been available to pre-order since mid-October.\r\n\r\n\nApple HomeView: Apple's new smart home display, powered by Ap",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T12:22:00.000Z"
-    },
-    {
-      "id": "d3cfb8c40fa5439b",
-      "title": "Apple staff accused of signing up customers to subscriptions without consent; company responds",
-      "description": "Repair technician turned consumer rights advocate Louis Rossmann recently accused Apple store staff of signing up customers to the company’s services subscriptions without their consent.\nApple has not yet commented, but has taken two steps indicating that the company takes the accusations seriously ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "url": "https://9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T12:14:40.000Z"
-    },
-    {
-      "id": "4912fb39a91af8fd",
-      "title": "Instagram’s AI age detection is expanding globally",
-      "description": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-p",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T12:00:00.000Z"
-    },
-    {
-      "id": "2d48feeaeec8ab80",
-      "title": "Tesla expands robotaxi service to San Antonio",
-      "description": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
-      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T11:30:24.000Z"
-    },
-    {
-      "id": "052833e229ca9892",
-      "title": "Torrent underground",
-      "description": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268792_private_torrent_trackers_CVirginia_LEDE_1.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T11:00:05.000Z"
-    },
-    {
-      "id": "19d3535fee792e2e",
-      "title": "Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack",
-      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "url": "https://9to5mac.com/2026/11/09/security-bite-podcast-mac-malware-likely-helped-pull-off-the-record-6-3b-binance-hack/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T11:00:00.000Z"
-    },
-    {
-      "id": "e8ac49c91fcd45cb",
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "description": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T05:26:29.000Z"
-    },
-    {
-      "id": "bf41fe2d85597648",
-      "title": "Apple Store Subscription Sign-Up Controversy Exposed",
-      "description": "In a series of YouTube videos shared over the past two weeks, electronics technician and consumer rights advocate Louis Rossmann has exposed a controversy in which some Apple Store employees have allegedly signed up customers for auto-renewing subscription trials for Apple One and other services wit",
-      "image": "https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg",
-      "url": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T03:28:09.000Z"
-    },
-    {
-      "id": "14454a22fbca77fd",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "description": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-generation Rubin chips from Nvidia Corp. to build a homegrown foundational AI model",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T22:54:50.000Z"
-    },
-    {
-      "id": "dc166928ee8a94ce",
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "description": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems.\n\"Gold Chain Punk (who",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3168552135_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T22:37:22.000Z"
-    },
-    {
-      "id": "08e3460f647519a8",
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T22:00:00.000Z"
-    },
-    {
-      "id": "ae44b14e5f4c17f5",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "description": "In a memo to the company, Huang admitted that he had an affair.",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T21:00:11.000Z"
-    },
-    {
-      "id": "43d93485973a5af0",
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "description": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T21:00:00.000Z"
-    },
-    {
-      "id": "4889b01b04e31328",
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "description": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T20:52:05.000Z"
-    },
-    {
-      "id": "92037306194f256f",
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "description": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
-      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-08T20:30:00.000Z"
-    },
-    {
-      "id": "467698f1bc7a9795",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-      "description": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads:\nThe NVIDIA Board is ",
+      "id": "9b2c77ead6fe5eaa",
+      "title": "What could China get from Jensen Huang?",
+      "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI ",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-08T20:22:39.000Z"
+      "publishedAt": "2026-11-09T23:51:58.000Z"
     },
     {
-      "id": "403261fa3c40e7b6",
-      "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
-      "description": "Last month, Apple announced it’d be tightening privacy controls in a future macOS update, in response to AI agents requesting Full Disk Access then going rogue with users data without them being fully aware. Now, we have an idea of how the changes might look.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
+      "id": "3735cffe35417379",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "description": "Jensen Huang and President Trump. | Getty Images\t\n\nPresident Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T23:47:46.000Z"
+    },
+    {
+      "id": "d5d2dbf9269286ae",
+      "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1",
+      "description": "The iOS 27.2.1, iPadOS 27.2.1, and macOS 27.2.1 updates Apple released today fix a handful of security vulnerabilities. With the security fixes implemented, it's a good idea to update as soon as you can.\r\n\r\n\r\nA bug with iMessage could let a remote attacker join a group chat to receive its messages, ",
+      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T23:43:48.000Z"
+    },
+    {
+      "id": "9b7a33fff6f03c3c",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T23:28:37.000Z"
+    },
+    {
+      "id": "ed2e82431c3bef91",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as n",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T23:07:59.000Z"
+    },
+    {
+      "id": "b33eef1e72d350e8",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "description": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T23:03:46.000Z"
+    },
+    {
+      "id": "b294c94e524211b4",
+      "title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
+      "description": "Apple has completed an important regulatory step ahead of Apple Intelligence’s expected launch in China this December. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-08T19:52:41.000Z"
+      "publishedAt": "2026-11-09T22:54:52.000Z"
     },
     {
-      "id": "cbf47f49fa3bc2b5",
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "description": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "id": "85ae9a735fc627fb",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-08T19:51:30.000Z"
+      "publishedAt": "2026-11-09T22:46:09.000Z"
     },
     {
-      "id": "356fbf603b237464",
-      "title": "Apple is racing to make Siri more agentic",
-      "description": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the com",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "id": "10779da9356db1ff",
+      "title": "Webex Gets iPhone Duo Support",
+      "description": "Popular video meeting app Webex was today updated with support for Apple's iPhone Duo. Webex works open or closed, in portrait or landscape mode, and even in a laptop or tent position.\r\n\r\n\r\nWhen open, the ‌iPhone Duo‌ shows more meeting participants, keeps shared content visible, and gives access to",
+      "image": "https://images.macrumors.com/article-new/2026/11/webex-app-iphone-duo.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/webex-gets-iphone-duo-support/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T22:31:20.000Z"
+    },
+    {
+      "id": "ab865ae1ddbb1e8c",
+      "title": "The race is on to sue Nvidia",
+      "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T22:23:42.000Z"
+    },
+    {
+      "id": "601e2ac61c519966",
+      "title": "Today’s macOS updates fix security gap involving eMudhra certificates",
+      "description": "Apple today released macOS updates that address a security gap involving compromised eMudhra certificates, after initially blocking them in Safari, Mail, and other apps in October. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T22:17:36.000Z"
+    },
+    {
+      "id": "53c4cc636b151404",
+      "title": "Meta's Muse AI Agent Comes to Apple Watch",
+      "description": "Meta today updated the Muse app for iOS to add Apple Watch support, which means Muse users can access the proactive AI agent from the watch.\r\n\r\n\r\nThe app adds the Muse character to the watch with an option to text it, dictate text to it, or call it. There's also a Muse complication for quick access.",
+      "image": "https://images.macrumors.com/article-new/2026/11/muse-apple-watch-app.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T21:55:26.000Z"
+    },
+    {
+      "id": "213a5727d991d978",
+      "title": "Anker Launches Eufy Security Cam With Auto-Tracking Light",
+      "description": "Anker today launched the Eufy TrackLight Cam S1, which it says is the world's first outdoor security camera with an auto-tracking light for actively deterring intruders. The TrackLight Cam S1 is compatible with Apple Home when using the Anker HomeBase, so it can be used alongside other smart home de",
+      "image": "https://images.macrumors.com/article-new/2025/09/eufycam.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/anker-auto-tracking-security-camera/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T21:47:39.000Z"
+    },
+    {
+      "id": "eb5867b63bddff9a",
+      "title": "Skydance confirms HBO Max and Paramount+ ‘value’ bundle plan",
+      "description": "HBO Max and Paramount+ customers will soon be able to pay for one subscription that unlocks both services. That’s according to Skydance, the company that came out of Paramount’s Warner Bros. Discovery acquisition.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/skydance-confirms-hbo-max-and-paramount-value-bundle-plan/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T21:46:15.000Z"
+    },
+    {
+      "id": "56afd0d01a99b4fd",
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "description": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99.\nMAG 272QP",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/msi-mag-272qp-x24-product.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-08T19:18:19.000Z"
+      "publishedAt": "2026-11-09T21:43:41.000Z"
     },
     {
-      "id": "626db8d6897743fb",
-      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "description": "SNL seems to have its knives out for tech executives.",
-      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "id": "7de3a443fd4ea297",
+      "title": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
+      "description": "Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright (Baby Driver, Shaun of the Dead). Watch the new ad below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-pay-mayhem.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T21:30:57.000Z"
+    },
+    {
+      "id": "7a7b989e795c3ded",
+      "title": "macOS 27.2.1 Fixes eMudhra Certificate Flaw in Command-Line Tools",
+      "description": "The macOS Golden Gate 27.2.1 update Apple released today addresses the eMudhra certificate vulnerability, and Apple recommends users update to the latest software.\r\n\r\n\r\nFor Macs that run macOS 26 or macOS 15, Apple has released macOS 26.7.3 and macOS 15.8.3.\r\n\r\nblocked the compromised certificates i",
+      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/macos-27-2-1-emudhra-fix/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T21:28:05.000Z"
+    },
+    {
+      "id": "7c3c2f5d743e4a81",
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "description": "Murat Kurum (left), Turkey’s minister of Environment, Urbanisation and Climate Change; and Chris Bowen, Australia's minister for Climate Change and Energy, raise their hands together at the COP31 UN Climate Change Conference in Antalya, Turkey, on November 9th, 2026. | Photo: AFP via Getty Images\t\n\n",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303840643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T21:13:16.000Z"
+    },
+    {
+      "id": "34b57ade87ba3ce6",
+      "title": "How to customize or disable the touchscreen on the new MacBook Pro",
+      "description": "A headlining feature of Apple’s new MacBook Pro with PROLED XDR Display is the long-awaited addition of a touchscreen. However, not everyone has been so thrilled about this addition. Here’s how you can turn it off.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Disable-MacBook-Touch-Display-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/how-to-customize-or-disable-the-touchscreen-on-the-new-macbook-pro-and-sidecar/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T21:11:30.000Z"
+    },
+    {
+      "id": "fcc33c0f55c2dfce",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "description": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-08T18:00:04.000Z"
+      "publishedAt": "2026-11-09T20:55:34.000Z"
+    },
+    {
+      "id": "6521c4cb2c8ca7a3",
+      "title": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
+      "description": "A new Financial Times report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T20:47:38.000Z"
+    },
+    {
+      "id": "9b3e53517e4d3993",
+      "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
+      "description": "Today Apple released iOS 27.2.1 for iPhone with bug fixes and security updates, alongside a variety of related software updates on other platforms. Here are the security fix details for each update.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T20:20:00.000Z"
+    },
+    {
+      "id": "fa24152eeb8dbd07",
+      "title": "Our favorite gear to elevate your new MacBook Pro setup",
+      "description": "The all-new M6 MacBook and the touch display PROLED XDR have now arrived, and we are taking a look at some of our favorite accessories to upgrade the experience. \nFrom the latest Apple Magic Keyboard and Trackpad, as well as its World Travel kit, we also have MacBook stands to tidy up your workstati",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Best-MacBook-Pro-accessories-chargers-keyboards-monitors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/our-favorite-gear-to-elevate-your-new-macbook-pro-setup/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T20:15:38.000Z"
+    },
+    {
+      "id": "3c096de69de6d96d",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T20:09:06.000Z"
+    },
+    {
+      "id": "fec38be61731b79f",
+      "title": "Apple to open new Developer Center in Istanbul as part of broader Turkey investment",
+      "description": "Apple today announced a long-term investment in Turkey, with seven new facilities focused on app development and manufacturing set to open in the country starting next year. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-developer.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/apple-to-open-new-developer-center-in-istanbul-as-part-of-broader-turkey-investment/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T20:07:24.000Z"
+    },
+    {
+      "id": "583a3cb7a35153b6",
+      "title": "iOS 27.3: Three new iPhone features coming soon",
+      "description": "iOS 27.3 is currently in beta and packed with new features, here are three that will hit your iPhone when the update launches next month.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-lock-screen-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/09/ios-27-3-three-new-iphone-features-coming-soon/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T20:03:31.000Z"
+    },
+    {
+      "id": "03b357fa1c15407a",
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T19:39:41.000Z"
+    },
+    {
+      "id": "e497d8b4077d6460",
+      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+      "description": "Anthropic today introduced its latest models, Claude Fable 5.2 and Claude Mythos 5.2, which have improvements in coding, reasoning, and vision.\r\n\r\n\r\nAnthropic says Fable 5.2 and Mythos 5.2 communicate more clearly than the 5.1 versions, with outputs generated up to 30 percent faster. Fable 5.2 uses ",
+      "image": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
+      "url": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-09T19:38:47.000Z"
+    },
+    {
+      "id": "700b29459c046aee",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-09T19:24:51.000Z"
     }
   ],
-  "lastUpdated": "2026-11-09T14:29:23.132Z",
+  "lastUpdated": "2026-11-10T00:55:23.562Z",
   "sources": [
     "TechCrunch",
     "The Verge",
