@@ -1,6 +1,200 @@
 {
   "articles": [
     {
+      "id": "b8500bc4bb3d215c",
+      "title": "OLED iPad Air Rumored to Launch in Two Sizes in Early 2027",
+      "description": "Apple is expected to replace the LCD screens in both sizes of the iPad Air with OLED displays in the first half of 2027, according to DigiTimes.\r\n\r\n\r\nAn ‌OLED‌ ‌iPad Air‌ has been rumored for over a year. Bloomberg's Mark Gurman reported in October 2025 that Apple was developing one and that it was ",
+      "image": "https://images.macrumors.com/article-new/2025/03/m3-ipad-air-blue.jpeg",
+      "url": "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T13:42:52.000Z"
+    },
+    {
+      "id": "7c29c40df39236cb",
+      "title": "Apple Maps could soon factor in how long it takes you to park",
+      "description": "On some journeys in busy cities, it feels like it can take you longer to park than it does to drive there in the first place. Code spotted in iOS 27.3 suggests that Apple Maps may soon factor in parking time when it provides journey ETAs.\nSeparately, Waze has partnered with Garmin to help improve th",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Maps-could-soon-factor-in-how-long-it-takes-you-to-park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/apple-maps-could-soon-factor-in-how-long-it-takes-you-to-park/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T13:32:12.000Z"
+    },
+    {
+      "id": "0e981f87887c61d2",
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T13:30:00.000Z"
+    },
+    {
+      "id": "3da6873b090da7d0",
+      "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
+      "description": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. It borrows a lot of the design and functionality from the Astro home robot that A",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ringrover1_31dee3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T13:30:00.000Z"
+    },
+    {
+      "id": "8c5091a48f0c41a7",
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "description": "Ring’s new Drone Cam is a flying indoor security camera.\t\n\nRing is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T13:30:00.000Z"
+    },
+    {
+      "id": "dcc15b47e5ec1cc9",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "description": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T13:00:00.000Z"
+    },
+    {
+      "id": "bc1bc570883a1462",
+      "title": "The Original iPod Went on Sale 25 Years Ago Today",
+      "description": "Apple's original iPod went on sale 25 years ago today, on November 10, 2001. The $399 music player initially worked only with a Mac, but it went on to become one of Apple's most significant products and helped the company expand beyond the computer business.\r\n\r\n\r\nSteve Jobs had unveiled the first iP",
+      "image": "https://images.macrumors.com/article-new/2026/10/ipod.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/original-ipod-went-on-sale-25-years-ago/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T12:54:45.000Z"
+    },
+    {
+      "id": "7eeceb4309e8d696",
+      "title": "Google DeepMind analysis proves Signal and WhatsApp encryption is secure",
+      "description": "The Signal protocol has long been considered the gold standard for end-to-end encrypted messaging, with Edward Snowden a notable advocate. Now a Google DeepMind analysis has “formally verified” the security of the protocol.\nIn addition to its use in the Signal app, the same protocol is also used by ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Google-DeepMind-analysis-proves-Signal-and-WhatsApp-encryption-is-secure.webp?w=1600",
+      "url": "https://9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T12:39:23.000Z"
+    },
+    {
+      "id": "8f2d5ecbb0f05c3a",
+      "title": "Apple Maps Could Factor Parking Into Your Arrival Time",
+      "description": "Apple may be working on a way for Maps arrival estimates that account for parking as well as the walk to your destination, according to findings shared by code explorer pdfu. A new \"TimeToPark\" flag in the iOS 27.3 beta apparently allows the system to measure time spent near a destination before par",
+      "image": "https://images.macrumors.com/article-new/2026/04/Apple-Maps-General.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/apple-maps-factor-parking-into-arrival-time/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T12:15:18.000Z"
+    },
+    {
+      "id": "c4db172c125a0120",
+      "title": "Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack",
+      "description": "Waze and Garmin have announced the launch of real-time cycling alerts for drivers to help create a safer environment on the road.\r\n\r\n\r\nGoing forward, when cyclists turn on Garmin LiveTrack on their Garmin Edge bike computer or Garmin smartwatch, they can choose to show up in Waze as a real-time movi",
+      "image": "https://images.macrumors.com/article-new/2026/11/waze-garmin-cycling-alerts-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/waze-alerts-drivers-nearby-cyclists-garmin/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T12:00:10.000Z"
+    },
+    {
+      "id": "86e5ca2f2cbe003f",
+      "title": "Instagram Effect Builder lets you create images with an AI prompt",
+      "description": "Instagram launched an Edits app for iPhone back in 2025, with a Mac version introduced just a few days ago. Meta has now supplemented this with an AI-powered Instagram Effect Builder, letting users create imagery for Stories simply by describing what they want to see … \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Instagram-Effect-Builder-lets-you-create-images-with-an-AI-prompt.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T11:56:53.000Z"
+    },
+    {
+      "id": "a7d896591a0a7c4c",
+      "title": "iPhone 20 Pro: Ten Big Changes That Could Redefine Apple's Flagship",
+      "description": "In 2017, Apple celebrated the iPhone's 10th birthday with the iPhone X, the biggest redesign in the product's history. For the device's 20th anniversary, all the rumors indicate that the company is preparing another landmark redesign.\r\n\r\n\r\nThe commemorative \"iPhone 20\" model isn't expected until Sep",
+      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T11:39:01.000Z"
+    },
+    {
+      "id": "049cb72410c78ac1",
+      "title": "Apple @ Work Podcast: Osaurus wants your company’s AI to run on the Mac, not in the cloud",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizat",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/apple-work-podcast-osaurus-wants-your-companys-ai-to-run-on-the-mac-not-in-the-cloud/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T11:32:28.000Z"
+    },
+    {
+      "id": "23daab5d43976bed",
+      "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+      "description": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T11:01:00.000Z"
+    },
+    {
+      "id": "0bce24d386128e63",
+      "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+      "description": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maevin",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T11:00:00.000Z"
+    },
+    {
+      "id": "de3e96125e7465be",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "description": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T07:00:00.000Z"
+    },
+    {
+      "id": "efb23d09b21cdec6",
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "description": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents ",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T05:18:43.000Z"
+    },
+    {
+      "id": "8bd1f4f3c67f8c8f",
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "description": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T04:34:15.000Z"
+    },
+    {
+      "id": "811e3610c2625b67",
+      "title": "Canadian court certifies class action against Apple over Google search deal",
+      "description": "A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Google-partner-industry-specification-hero.jpg?quality=82&#038;strip=all&#038;w=1306",
+      "url": "https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T02:20:07.000Z"
+    },
+    {
+      "id": "36bd2e1df5fe17e8",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T01:27:12.000Z"
+    },
+    {
       "id": "1bce439799df3286",
       "title": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
       "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
@@ -9,6 +203,16 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-11-10T00:49:31.000Z"
+    },
+    {
+      "id": "6cd122461f975473",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said:\n\"I think when you zoom out and look at production, AI really has th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T00:28:49.000Z"
     },
     {
       "id": "9b2c77ead6fe5eaa",
@@ -86,214 +290,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-11-09T22:46:09.000Z"
-    },
-    {
-      "id": "10779da9356db1ff",
-      "title": "Webex Gets iPhone Duo Support",
-      "description": "Popular video meeting app Webex was today updated with support for Apple's iPhone Duo. Webex works open or closed, in portrait or landscape mode, and even in a laptop or tent position.\r\n\r\n\r\nWhen open, the ‌iPhone Duo‌ shows more meeting participants, keeps shared content visible, and gives access to",
-      "image": "https://images.macrumors.com/article-new/2026/11/webex-app-iphone-duo.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/webex-gets-iphone-duo-support/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T22:31:20.000Z"
-    },
-    {
-      "id": "ab865ae1ddbb1e8c",
-      "title": "The race is on to sue Nvidia",
-      "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T22:23:42.000Z"
-    },
-    {
-      "id": "601e2ac61c519966",
-      "title": "Today’s macOS updates fix security gap involving eMudhra certificates",
-      "description": "Apple today released macOS updates that address a security gap involving compromised eMudhra certificates, after initially blocking them in Safari, Mail, and other apps in October. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T22:17:36.000Z"
-    },
-    {
-      "id": "53c4cc636b151404",
-      "title": "Meta's Muse AI Agent Comes to Apple Watch",
-      "description": "Meta today updated the Muse app for iOS to add Apple Watch support, which means Muse users can access the proactive AI agent from the watch.\r\n\r\n\r\nThe app adds the Muse character to the watch with an option to text it, dictate text to it, or call it. There's also a Muse complication for quick access.",
-      "image": "https://images.macrumors.com/article-new/2026/11/muse-apple-watch-app.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T21:55:26.000Z"
-    },
-    {
-      "id": "213a5727d991d978",
-      "title": "Anker Launches Eufy Security Cam With Auto-Tracking Light",
-      "description": "Anker today launched the Eufy TrackLight Cam S1, which it says is the world's first outdoor security camera with an auto-tracking light for actively deterring intruders. The TrackLight Cam S1 is compatible with Apple Home when using the Anker HomeBase, so it can be used alongside other smart home de",
-      "image": "https://images.macrumors.com/article-new/2025/09/eufycam.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/anker-auto-tracking-security-camera/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T21:47:39.000Z"
-    },
-    {
-      "id": "eb5867b63bddff9a",
-      "title": "Skydance confirms HBO Max and Paramount+ ‘value’ bundle plan",
-      "description": "HBO Max and Paramount+ customers will soon be able to pay for one subscription that unlocks both services. That’s according to Skydance, the company that came out of Paramount’s Warner Bros. Discovery acquisition.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/skydance-confirms-hbo-max-and-paramount-value-bundle-plan/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T21:46:15.000Z"
-    },
-    {
-      "id": "56afd0d01a99b4fd",
-      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-      "description": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99.\nMAG 272QP",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/msi-mag-272qp-x24-product.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T21:43:41.000Z"
-    },
-    {
-      "id": "7de3a443fd4ea297",
-      "title": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
-      "description": "Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright (Baby Driver, Shaun of the Dead). Watch the new ad below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-pay-mayhem.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T21:30:57.000Z"
-    },
-    {
-      "id": "7a7b989e795c3ded",
-      "title": "macOS 27.2.1 Fixes eMudhra Certificate Flaw in Command-Line Tools",
-      "description": "The macOS Golden Gate 27.2.1 update Apple released today addresses the eMudhra certificate vulnerability, and Apple recommends users update to the latest software.\r\n\r\n\r\nFor Macs that run macOS 26 or macOS 15, Apple has released macOS 26.7.3 and macOS 15.8.3.\r\n\r\nblocked the compromised certificates i",
-      "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/macos-27-2-1-emudhra-fix/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T21:28:05.000Z"
-    },
-    {
-      "id": "7c3c2f5d743e4a81",
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "description": "Murat Kurum (left), Turkey’s minister of Environment, Urbanisation and Climate Change; and Chris Bowen, Australia's minister for Climate Change and Energy, raise their hands together at the COP31 UN Climate Change Conference in Antalya, Turkey, on November 9th, 2026. | Photo: AFP via Getty Images\t\n\n",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303840643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T21:13:16.000Z"
-    },
-    {
-      "id": "34b57ade87ba3ce6",
-      "title": "How to customize or disable the touchscreen on the new MacBook Pro",
-      "description": "A headlining feature of Apple’s new MacBook Pro with PROLED XDR Display is the long-awaited addition of a touchscreen. However, not everyone has been so thrilled about this addition. Here’s how you can turn it off.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Disable-MacBook-Touch-Display-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/how-to-customize-or-disable-the-touchscreen-on-the-new-macbook-pro-and-sidecar/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T21:11:30.000Z"
-    },
-    {
-      "id": "fcc33c0f55c2dfce",
-      "title": "Fervo now has $12B in orders for its geothermal power tech",
-      "description": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
-      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T20:55:34.000Z"
-    },
-    {
-      "id": "6521c4cb2c8ca7a3",
-      "title": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
-      "description": "A new Financial Times report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T20:47:38.000Z"
-    },
-    {
-      "id": "9b3e53517e4d3993",
-      "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
-      "description": "Today Apple released iOS 27.2.1 for iPhone with bug fixes and security updates, alongside a variety of related software updates on other platforms. Here are the security fix details for each update.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T20:20:00.000Z"
-    },
-    {
-      "id": "fa24152eeb8dbd07",
-      "title": "Our favorite gear to elevate your new MacBook Pro setup",
-      "description": "The all-new M6 MacBook and the touch display PROLED XDR have now arrived, and we are taking a look at some of our favorite accessories to upgrade the experience. \nFrom the latest Apple Magic Keyboard and Trackpad, as well as its World Travel kit, we also have MacBook stands to tidy up your workstati",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Best-MacBook-Pro-accessories-chargers-keyboards-monitors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/our-favorite-gear-to-elevate-your-new-macbook-pro-setup/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T20:15:38.000Z"
-    },
-    {
-      "id": "3c096de69de6d96d",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T20:09:06.000Z"
-    },
-    {
-      "id": "fec38be61731b79f",
-      "title": "Apple to open new Developer Center in Istanbul as part of broader Turkey investment",
-      "description": "Apple today announced a long-term investment in Turkey, with seven new facilities focused on app development and manufacturing set to open in the country starting next year. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-developer.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/apple-to-open-new-developer-center-in-istanbul-as-part-of-broader-turkey-investment/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T20:07:24.000Z"
-    },
-    {
-      "id": "583a3cb7a35153b6",
-      "title": "iOS 27.3: Three new iPhone features coming soon",
-      "description": "iOS 27.3 is currently in beta and packed with new features, here are three that will hit your iPhone when the update launches next month.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-lock-screen-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/ios-27-3-three-new-iphone-features-coming-soon/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T20:03:31.000Z"
-    },
-    {
-      "id": "03b357fa1c15407a",
-      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-      "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
-      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T19:39:41.000Z"
-    },
-    {
-      "id": "e497d8b4077d6460",
-      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
-      "description": "Anthropic today introduced its latest models, Claude Fable 5.2 and Claude Mythos 5.2, which have improvements in coding, reasoning, and vision.\r\n\r\n\r\nAnthropic says Fable 5.2 and Mythos 5.2 communicate more clearly than the 5.1 versions, with outputs generated up to 30 percent faster. Fable 5.2 uses ",
-      "image": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T19:38:47.000Z"
-    },
-    {
-      "id": "700b29459c046aee",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T19:24:51.000Z"
     }
   ],
-  "lastUpdated": "2026-11-10T00:55:23.562Z",
+  "lastUpdated": "2026-11-10T13:51:08.599Z",
   "sources": [
     "TechCrunch",
     "The Verge",
