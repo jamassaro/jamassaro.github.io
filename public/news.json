@@ -1,298 +1,296 @@
 {
   "articles": [
     {
-      "id": "b8500bc4bb3d215c",
-      "title": "OLED iPad Air Rumored to Launch in Two Sizes in Early 2027",
-      "description": "Apple is expected to replace the LCD screens in both sizes of the iPad Air with OLED displays in the first half of 2027, according to DigiTimes.\r\n\r\n\r\nAn ‌OLED‌ ‌iPad Air‌ has been rumored for over a year. Bloomberg's Mark Gurman reported in October 2025 that Apple was developing one and that it was ",
-      "image": "https://images.macrumors.com/article-new/2025/03/m3-ipad-air-blue.jpeg",
-      "url": "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/",
+      "id": "75ca7099376d7d86",
+      "title": "iFixit's PROLED MacBook Pro Teardown Reveals Logo LEDs",
+      "description": "iFixit today took apart Apple's touchscreen PROLED MacBook Pro to see how Apple shed weight, what powers the logo, and how it compares to the 14-inch M6 ‌MacBook Pro‌.\r\n\r\n\n\r\nApple added a glowing logo on the back of the PROLED ‌MacBook Pro‌, but since there's no backlight to illuminate it, Apple use",
+      "url": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-10T13:42:52.000Z"
+      "publishedAt": "2026-11-10T22:02:34.000Z"
     },
     {
-      "id": "7c29c40df39236cb",
-      "title": "Apple Maps could soon factor in how long it takes you to park",
-      "description": "On some journeys in busy cities, it feels like it can take you longer to park than it does to drive there in the first place. Code spotted in iOS 27.3 suggests that Apple Maps may soon factor in parking time when it provides journey ETAs.\nSeparately, Waze has partnered with Garmin to help improve th",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Maps-could-soon-factor-in-how-long-it-takes-you-to-park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/apple-maps-could-soon-factor-in-how-long-it-takes-you-to-park/",
+      "id": "ad508d3f11546a0e",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "description": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today.\nThe 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated Q",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T22:00:00.000Z"
+    },
+    {
+      "id": "1b34cb390ca2959b",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "description": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T21:40:31.000Z"
+    },
+    {
+      "id": "5af38a93e86026cc",
+      "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
+      "description": "Reuters reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-10T13:32:12.000Z"
+      "publishedAt": "2026-11-10T21:34:43.000Z"
     },
     {
-      "id": "0e981f87887c61d2",
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "id": "2b27b2dc69d7d941",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-10T13:30:00.000Z"
+      "publishedAt": "2026-11-10T21:08:52.000Z"
     },
     {
-      "id": "3da6873b090da7d0",
-      "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
-      "description": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. It borrows a lot of the design and functionality from the Astro home robot that A",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ringrover1_31dee3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
+      "id": "c00c68e9a72a1da1",
+      "title": "Sony cancels live-service shooter Fairgames",
+      "description": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-10T13:30:00.000Z"
+      "publishedAt": "2026-11-10T21:06:12.000Z"
     },
     {
-      "id": "8c5091a48f0c41a7",
-      "title": "Hands-on with Ring’s new AI drone camera for your home",
-      "description": "Ring’s new Drone Cam is a flying indoor security camera.\t\n\nRing is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T13:30:00.000Z"
-    },
-    {
-      "id": "dcc15b47e5ec1cc9",
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-      "description": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "id": "1fa689ba5c3e67f0",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-10T13:00:00.000Z"
+      "publishedAt": "2026-11-10T20:52:13.000Z"
     },
     {
-      "id": "bc1bc570883a1462",
-      "title": "The Original iPod Went on Sale 25 Years Ago Today",
-      "description": "Apple's original iPod went on sale 25 years ago today, on November 10, 2001. The $399 music player initially worked only with a Mac, but it went on to become one of Apple's most significant products and helped the company expand beyond the computer business.\r\n\r\n\r\nSteve Jobs had unveiled the first iP",
-      "image": "https://images.macrumors.com/article-new/2026/10/ipod.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/original-ipod-went-on-sale-25-years-ago/",
+      "id": "b8e391844745cb47",
+      "title": "Spotify’s AI DJ adds nine voices and a setting to reduce interruptions",
+      "description": "Spotify today expanded customization options for its AI DJ, allowing users to choose between different voices and personalities, as well as control how much the DJ talks between songs. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/spotify-dj.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/spotifys-ai-dj-adds-nine-voices-and-a-setting-to-reduce-interruptions/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T20:48:41.000Z"
+    },
+    {
+      "id": "0566589aecb394da",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "description": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T20:47:05.000Z"
+    },
+    {
+      "id": "4938becea8379820",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "description": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T20:43:55.000Z"
+    },
+    {
+      "id": "002509c98e432542",
+      "title": "10 Free iPhone Duo Apps Worth Downloading",
+      "description": "We've done two rounds of iPhone Duo app picks so far, and now we're back with an overview of some of the best Duo apps you can get for free. MacRumors videographer Dan Barbera demos his suggestions for apps worth checking out.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nDan's li",
+      "url": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-10T12:54:45.000Z"
+      "publishedAt": "2026-11-10T20:27:07.000Z"
     },
     {
-      "id": "7eeceb4309e8d696",
-      "title": "Google DeepMind analysis proves Signal and WhatsApp encryption is secure",
-      "description": "The Signal protocol has long been considered the gold standard for end-to-end encrypted messaging, with Edward Snowden a notable advocate. Now a Google DeepMind analysis has “formally verified” the security of the protocol.\nIn addition to its use in the Signal app, the same protocol is also used by ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Google-DeepMind-analysis-proves-Signal-and-WhatsApp-encryption-is-secure.webp?w=1600",
-      "url": "https://9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T12:39:23.000Z"
-    },
-    {
-      "id": "8f2d5ecbb0f05c3a",
-      "title": "Apple Maps Could Factor Parking Into Your Arrival Time",
-      "description": "Apple may be working on a way for Maps arrival estimates that account for parking as well as the walk to your destination, according to findings shared by code explorer pdfu. A new \"TimeToPark\" flag in the iOS 27.3 beta apparently allows the system to measure time spent near a destination before par",
-      "image": "https://images.macrumors.com/article-new/2026/04/Apple-Maps-General.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/apple-maps-factor-parking-into-arrival-time/",
+      "id": "a6eabe319e29bd93",
+      "title": "Apple Releases New AirPods Firmware",
+      "description": "Apple today released new firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5, and AirPods Max 2. The firmware has a build number of 9B47, up from 9A348/9A350.\r\n\r\n\r\nApple has been beta testing the new firmware for the last several weeks, but hasn't yet offered details on what's includ",
+      "image": "https://images.macrumors.com/article-new/2026/09/airpods-5-new-blue.jpeg",
+      "url": "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-10T12:15:18.000Z"
+      "publishedAt": "2026-11-10T20:11:26.000Z"
     },
     {
-      "id": "c4db172c125a0120",
-      "title": "Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack",
-      "description": "Waze and Garmin have announced the launch of real-time cycling alerts for drivers to help create a safer environment on the road.\r\n\r\n\r\nGoing forward, when cyclists turn on Garmin LiveTrack on their Garmin Edge bike computer or Garmin smartwatch, they can choose to show up in Waze as a real-time movi",
-      "image": "https://images.macrumors.com/article-new/2026/11/waze-garmin-cycling-alerts-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/waze-alerts-drivers-nearby-cyclists-garmin/",
+      "id": "317f8e6ea2d4ba85",
+      "title": "Apple just released new AirPods Pro 3 firmware and more",
+      "description": "Apple is rolling out brand new firmware for select AirPods models today, including AirPods Pro 3. Here are the details on how to update.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T20:06:19.000Z"
+    },
+    {
+      "id": "59e67b3b948a660b",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T19:57:52.000Z"
+    },
+    {
+      "id": "8e4be3c93c4b7a8b",
+      "title": "Apple TV shares trailers for upcoming Snoopy and Fraggle Rock holiday specials",
+      "description": "With the holidays fast approaching, Apple TV has shared trailers for two upcoming specials featuring Snoopy and the Fraggles. Watch them below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-holiday.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/apple-tv-shares-trailers-for-upcoming-snoopy-and-fraggle-rock-holiday-specials/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T19:57:28.000Z"
+    },
+    {
+      "id": "c039237c40a66eb0",
+      "title": "iOS 27.2 adds new features in six iPhone apps, details here",
+      "description": "iOS 27.2 recently launched with new features for iPhone users, including improvements across six Apple apps. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-app-icons-grid.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/ios-27-2-adds-new-features-in-six-iphone-apps-details-here/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T19:50:14.000Z"
+    },
+    {
+      "id": "a76087490c2acaf7",
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "description": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk:\nWith a very small number of e",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T19:40:52.000Z"
+    },
+    {
+      "id": "f9be8a116934a36a",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T19:23:34.000Z"
+    },
+    {
+      "id": "043ee4f468421928",
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "description": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop.  According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $9",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/starlinkmini2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T19:19:12.000Z"
+    },
+    {
+      "id": "de69809996c13101",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "description": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T19:15:32.000Z"
+    },
+    {
+      "id": "b8496ab2a05a4914",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool le",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T19:04:05.000Z"
+    },
+    {
+      "id": "4a5a53e34570973d",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T19:03:52.000Z"
+    },
+    {
+      "id": "d020688302d59c20",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "description": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel T",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T19:00:00.000Z"
+    },
+    {
+      "id": "157204e595719eee",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "description": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use Hi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T19:00:00.000Z"
+    },
+    {
+      "id": "6dab55f96135c11e",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T18:49:52.000Z"
+    },
+    {
+      "id": "ed3c608e5572086b",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T18:49:19.000Z"
+    },
+    {
+      "id": "f0acfed5d97cfd46",
+      "title": "One of our favorite multi-filament 3D printers is $100 off",
+      "description": "The Bambu P2S Combo. | Image: Bambu\t\n\nIf you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T18:42:03.000Z"
+    },
+    {
+      "id": "87f15e97f738ea5a",
+      "title": "Apple announces Swift Student Challenge 2027 with new twist",
+      "description": "Apple has announced details for 2027’s Swift Student Challenge, and there’s a new twist this year: students can submit an app for any Apple platform.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/swift-student-challenge-2027.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T18:11:28.000Z"
+    },
+    {
+      "id": "4a9f352f8498ebfc",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "description": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in Cha",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-10T18:00:00.000Z"
+    },
+    {
+      "id": "7cf1f66eca696e61",
+      "title": "Next iPad Air Likely to Have These 10 New Features",
+      "description": "Earlier today, it was once again reported that the next-generation iPad Air will be equipped with an OLED display, albeit with a 60Hz refresh rate. That is not all, of course, with the new iPad mini announced last month likely providing us with a preview of some other upgrades coming to the iPad Air",
+      "image": "https://images.macrumors.com/article-new/2026/11/iPad-air-the-latest-rumors.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-10T12:00:10.000Z"
-    },
-    {
-      "id": "86e5ca2f2cbe003f",
-      "title": "Instagram Effect Builder lets you create images with an AI prompt",
-      "description": "Instagram launched an Edits app for iPhone back in 2025, with a Mac version introduced just a few days ago. Meta has now supplemented this with an AI-powered Instagram Effect Builder, letting users create imagery for Stories simply by describing what they want to see … \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Instagram-Effect-Builder-lets-you-create-images-with-an-AI-prompt.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T11:56:53.000Z"
-    },
-    {
-      "id": "a7d896591a0a7c4c",
-      "title": "iPhone 20 Pro: Ten Big Changes That Could Redefine Apple's Flagship",
-      "description": "In 2017, Apple celebrated the iPhone's 10th birthday with the iPhone X, the biggest redesign in the product's history. For the device's 20th anniversary, all the rumors indicate that the company is preparing another landmark redesign.\r\n\r\n\r\nThe commemorative \"iPhone 20\" model isn't expected until Sep",
-      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T11:39:01.000Z"
-    },
-    {
-      "id": "049cb72410c78ac1",
-      "title": "Apple @ Work Podcast: Osaurus wants your company’s AI to run on the Mac, not in the cloud",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizat",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/apple-work-podcast-osaurus-wants-your-companys-ai-to-run-on-the-mac-not-in-the-cloud/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T11:32:28.000Z"
-    },
-    {
-      "id": "23daab5d43976bed",
-      "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
-      "description": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T11:01:00.000Z"
-    },
-    {
-      "id": "0bce24d386128e63",
-      "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
-      "description": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maevin",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T11:00:00.000Z"
-    },
-    {
-      "id": "de3e96125e7465be",
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "description": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T07:00:00.000Z"
-    },
-    {
-      "id": "efb23d09b21cdec6",
-      "title": "California’s proposed ‘billionaire tax’ fails to pass",
-      "description": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents ",
-      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T05:18:43.000Z"
-    },
-    {
-      "id": "8bd1f4f3c67f8c8f",
-      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-      "description": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T04:34:15.000Z"
-    },
-    {
-      "id": "811e3610c2625b67",
-      "title": "Canadian court certifies class action against Apple over Google search deal",
-      "description": "A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Google-partner-industry-specification-hero.jpg?quality=82&#038;strip=all&#038;w=1306",
-      "url": "https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T02:20:07.000Z"
-    },
-    {
-      "id": "36bd2e1df5fe17e8",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T01:27:12.000Z"
-    },
-    {
-      "id": "1bce439799df3286",
-      "title": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/daily-november-9-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T00:49:31.000Z"
-    },
-    {
-      "id": "6cd122461f975473",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said:\n\"I think when you zoom out and look at production, AI really has th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T00:28:49.000Z"
-    },
-    {
-      "id": "9b2c77ead6fe5eaa",
-      "title": "What could China get from Jensen Huang?",
-      "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T23:51:58.000Z"
-    },
-    {
-      "id": "3735cffe35417379",
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "description": "Jensen Huang and President Trump. | Getty Images\t\n\nPresident Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T23:47:46.000Z"
-    },
-    {
-      "id": "d5d2dbf9269286ae",
-      "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1",
-      "description": "The iOS 27.2.1, iPadOS 27.2.1, and macOS 27.2.1 updates Apple released today fix a handful of security vulnerabilities. With the security fixes implemented, it's a good idea to update as soon as you can.\r\n\r\n\r\nA bug with iMessage could let a remote attacker join a group chat to receive its messages, ",
-      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
-      "url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T23:43:48.000Z"
-    },
-    {
-      "id": "9b7a33fff6f03c3c",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T23:28:37.000Z"
-    },
-    {
-      "id": "ed2e82431c3bef91",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as n",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T23:07:59.000Z"
-    },
-    {
-      "id": "b33eef1e72d350e8",
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "description": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
-      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T23:03:46.000Z"
-    },
-    {
-      "id": "b294c94e524211b4",
-      "title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
-      "description": "Apple has completed an important regulatory step ahead of Apple Intelligence’s expected launch in China this December. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-09T22:54:52.000Z"
-    },
-    {
-      "id": "85ae9a735fc627fb",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-09T22:46:09.000Z"
+      "publishedAt": "2026-11-10T17:53:26.000Z"
     }
   ],
-  "lastUpdated": "2026-11-10T13:51:08.599Z",
+  "lastUpdated": "2026-11-10T22:37:06.115Z",
   "sources": [
     "TechCrunch",
     "The Verge",
