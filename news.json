@@ -1,302 +1,297 @@
 {
   "articles": [
     {
-      "id": "3a8622c1b94ac2f1",
-      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "description": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices m",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T13:00:00.000Z"
-    },
-    {
-      "id": "6a866fbb33b82df2",
-      "title": "Not everyone is loving their new iPhone Duo",
-      "description": "An open-and-shut case.\t\n\nFor most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T13:00:00.000Z"
-    },
-    {
-      "id": "98b01dad160c4638",
-      "title": "This video lets you actually see the ‘incredible’ new MacBook Pro cooling system",
-      "description": "When Apple launched the new MacBook Pro with PROLED XDR display, the company said that it had completely redesigned the cooling system for “incredible sustained performance.”\nThat could sound like marketing hype, but a YouTuber has found a great way to let us actually see the new system living up to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/This-video-lets-you-actually-see-the-incredible-new-MacBook-Pro-cooling-system.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/this-video-lets-you-actually-see-the-incredible-new-macbook-pro-cooling-system/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T12:47:32.000Z"
-    },
-    {
-      "id": "8317f681bab5bf2b",
-      "title": "Early Black Friday deals now live on official Apple Magic accessories, AirTag 2, Pencil, more",
-      "description": "Amazon’s early Black Friday sale is now live, and it includes a number of official Apple accessory deals starting this morning. Alongside some big-ticket deals on AirPods Pro 3 at $50 off, the $250 price drop on M5 MacBook Air, and Apple Watch Ultra 4 at nearly $100 off, there are some serious Apple",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Apple-accessorry-deals.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/black-friday-deals-live-apple-magic-airtag-pencil/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T12:31:23.000Z"
-    },
-    {
-      "id": "710d1ce0c6f64301",
-      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
-      "description": "A delivery robot rolls down a pedestrian walkway in Miami. | Photo: Universal Images Group via Getty Images\t\n\nServe Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Por",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T12:30:00.000Z"
-    },
-    {
-      "id": "8a414ebf1cc9721a",
-      "title": "Apple is killing its Support Community forum next week",
-      "description": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Communi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T12:19:10.000Z"
-    },
-    {
-      "id": "52315e462d6cb776",
-      "title": "Reddit Reviews goes against the whole philosophy of the platform, say users",
-      "description": "Many Redditors have expressed dismay at the launch of Reddit Reviews, a new AI-powered feature which aims to summarise posts about particular products.\nReddit is positioning the feature as a way to save time and effort when researching a potential purchase, but many Redditors say that replacing huma",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Reddit-Reviews-goes-against-the-whole-philosophy-of-the-platform-say-users.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/reddit-reviews-goes-against-the-whole-philosophy-of-the-platform-say-users/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T12:18:14.000Z"
-    },
-    {
-      "id": "2d094f614b19b55e",
-      "title": "Apple Chip Supplier TSMC Approves $1 Billion AI Investment",
-      "description": "Apple chip supplier TSMC has announced board approval to invest up to $1 billion in AI companies OpenAI and Anthropic. The decision allows TSMC to buy up to $500 million of shares in each company. The board also authorized up to $500 million to create a company that will invest in semiconductor busi",
-      "image": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-      "url": "https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T11:44:03.000Z"
-    },
-    {
-      "id": "7ee145c825d9c34e",
-      "title": "Make Apple Watch Listen for Sounds Like the Doorbell",
-      "description": "One of Apple's accessibility features on iPhone can listen for important sounds around you, such as a doorbell, siren or alarm, and it sends you a notification when it hears one. The feature has been extended to Apple's new Apple Watch Series 12 and Apple Watch Ultra 4 models, so the alert reaches y",
-      "image": "https://images.macrumors.com/article-new/2026/11/watch-sound-recognition.jpg",
-      "url": "https://www.macrumors.com/how-to/enable-sound-recognition-apple-watch-listen/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T10:03:54.000Z"
-    },
-    {
-      "id": "5ef6b7ae2dc26002",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "id": "af742f269eb3cba4",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "description": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-11T07:30:51.000Z"
+      "publishedAt": "2026-11-11T23:28:45.000Z"
     },
     {
-      "id": "03297930e80b1530",
-      "title": "'Apple Support Community' Permanently Closing on November 20",
-      "description": "Apple today announced that the long-running Apple Support Community discussion forums will be permanently closing on Friday, November 20. \r\n\r\n\r\nEffectively immediately, the Apple Support Community forums are in a read-only state, with new posts no longer being accepted. The final message posted to t",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T03:50:59.000Z"
-    },
-    {
-      "id": "e2bd4aa1437ceb66",
-      "title": "End of an era: Apple Support Community forums will permanently close on November 20",
-      "description": "Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-support-forums.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T02:49:08.000Z"
-    },
-    {
-      "id": "6b8c06dda314539e",
-      "title": "Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro",
-      "description": "Following last week’s livestream, when Labrinth composed and recorded a song overnight at Apple Tower Theatre in Los Angeles on the new touchscreen MacBook Pro, the single is now available on Apple Music. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/labrinth-apple-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T01:31:51.000Z"
-    },
-    {
-      "id": "b830b68c06103e06",
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "description": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
-      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "id": "00085b3ede283ccc",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "description": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-11T01:02:13.000Z"
+      "publishedAt": "2026-11-11T23:17:05.000Z"
     },
     {
-      "id": "56a4e178e3eca817",
-      "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
-      "description": "Apple this week updated its homepage in the U.S. and other countries to start promoting holiday gift suggestions as the shopping season approaches.\r\n\r\n\r\nThe website has colorful, festive imagery featuring Apple devices, along with suggestions on what you can buy for your loved ones and friends.\r\n\r\nA",
-      "image": "https://images.macrumors.com/article-new/2026/11/hero_holiday_2026_yellow_feature-1.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T00:57:36.000Z"
-    },
-    {
-      "id": "95f46a4e04d4c564",
-      "title": "Three Workers Die at Tata iPhone Parts Plant in India",
-      "description": "Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters. The facility in Hosur, Tamil Nadu, manufactures components for the iPhone.\r\n\r\n\r\nThe workers were performing maintenance at a wastewater treatment plant at the Tata facility when they ",
-      "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T00:46:21.000Z"
-    },
-    {
-      "id": "a353688d996c7fc7",
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "description": "The Xbox Ally X. | Photo by Amelia Holowaty Krales / The Verge\t\n\nMicrosoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "id": "268ea84535c4d7c3",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-11T00:34:24.000Z"
+      "publishedAt": "2026-11-11T22:44:36.000Z"
     },
     {
-      "id": "b6a6437b2fed1760",
-      "title": "9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/daily-november-10-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T00:00:34.000Z"
+      "id": "500dae46aee4fdbf",
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "description": "The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge\t\n\nNabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T22:00:00.000Z"
     },
     {
-      "id": "c14021db1afbc7d0",
-      "title": "iCloud Mail, Calendar, Contacts and More Experiencing Outage [Updated]",
-      "description": "Some iCloud services are experiencing an outage, according to Apple's System Status page. ‌iCloud‌ Calendar, ‌iCloud‌ Contacts, ‌iCloud‌ Mail, iWork for ‌iCloud‌, and Game Center are affected.\r\n\r\n\r\nApple says some users are experiencing issues with the services. The outage began at 5:49 p.m. Eastern",
-      "image": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/",
+      "id": "5302ef5c8e5ac82c",
+      "title": "United won’t let your AI agent book your flight",
+      "description": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.\nThe company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T21:54:21.000Z"
+    },
+    {
+      "id": "98b06104fc6571f6",
+      "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
+      "description": "Apple employee Eric Chen Su was arrested and charged with suspicion of gross vehicular manslaughter last week following a fatal collision near the intersection of North Tantau Avenue and Pruneridge Avenue, right next to the Apple Park Visitor Center, according to the Santa Clara County Sheriff's Off",
+      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
+      "url": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-10T23:53:31.000Z"
+      "publishedAt": "2026-11-11T21:37:39.000Z"
     },
     {
-      "id": "a5f4915b02c00d38",
-      "title": "Apple confirms ongoing outage affecting iCloud and more [U]",
-      "description": "Update, 5:18 p.m. PT: Apple says all outages have now been resolved.\nIf you’re having problems accessing iCloud and other Apple services this evening, you’re not alone. Apple has confirmed an ongoing outage affecting iCloud, Find My, and more. \nmore…",
+      "id": "3374c39017bbed9f",
+      "title": "iPhone Duo one week later: The future, or not for me?",
+      "description": "My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the iPhone’s future and I just need to adapt, or is the Duo simply not for everyone?\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T21:33:21.000Z"
+    },
+    {
+      "id": "ace6b6798d6153ab",
+      "title": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched",
+      "description": "Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T21:17:30.000Z"
+    },
+    {
+      "id": "85276fba2217fc26",
+      "title": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
+      "description": "Apple Invites, an iCloud+ feature, just added two new features in this month’s update.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-invites-app.webp?w=1600",
+      "url": "https://9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T21:08:46.000Z"
+    },
+    {
+      "id": "377c915b7de15634",
+      "title": "Apple Invites App Updated With Two New Features",
+      "description": "The free Apple Invites app for the iPhone was updated today with two new features: hosts can now add polls to invitations so guests can vote on details such as a party's theme and food, and hosts can now add an \"emoji effect\" that floats across invitations.\r\n\r\nTag: Apple Invites\nThis article, \"Apple",
+      "image": "https://images.macrumors.com/article-new/2026/09/General-Invites-App-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T21:01:05.000Z"
+    },
+    {
+      "id": "a846175b4ac6a02f",
+      "title": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
+      "description": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T20:18:07.000Z"
+    },
+    {
+      "id": "e234fa756a74b07b",
+      "title": "Why the data center you dread might never even be built",
+      "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T20:15:15.000Z"
+    },
+    {
+      "id": "cefc1a82c1381840",
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "description": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T20:12:01.000Z"
+    },
+    {
+      "id": "008f05b93081a3df",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "description": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T20:04:28.000Z"
+    },
+    {
+      "id": "86879ce9e081f9d5",
+      "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app",
+      "description": "Earlier this year, OpenAI introduced ChatGPT Finances. The feature started on the mobile app and website, but it’s been missing from ChatGPT’s desktop app. Starting today. ChatGPT Finances is now available on the Mac as well.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
+      "url": "https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T19:58:26.000Z"
+    },
+    {
+      "id": "a4b39727bd78ddde",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T19:54:00.000Z"
+    },
+    {
+      "id": "2dec1abadafe9b2b",
+      "title": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today",
+      "description": "Google has announced that a dedicated Gemini app on Apple CarPlay is rolling out around the world in several languages starting today, allowing you to have conversations with the AI assistant right from your vehicle's dashboard.\r\n\r\n\r\nGemini conversations on your iPhone automatically sync to CarPlay,",
+      "image": "https://images.macrumors.com/article-new/2026/11/Google-Gemini-Apple-CarPlay.jpg",
+      "url": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T19:50:14.000Z"
+    },
+    {
+      "id": "6f8b76d3b0cae8b5",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T19:34:55.000Z"
+    },
+    {
+      "id": "fef49f09324cf582",
+      "title": "iCloud+ has new perk in iOS 27 if you pay for more storage",
+      "description": "The tentpole feature of iCloud+ is cloud storage, but Apple keeps improving and expanding the service to include other perks too. And in iOS 27, iCloud+ has a new benefit for high-storage tiers: AI features for HomeKit cameras.\nmore…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/",
+      "url": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-10T23:48:49.000Z"
+      "publishedAt": "2026-11-11T19:32:54.000Z"
     },
     {
-      "id": "256e0e18aeb35e70",
-      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
-      "description": "Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.\r\n\r\n\r\nHarbor works with a single Apple silicon Mac, but it also supports connecting multiple Mac computers over Thunderbolt 5 to pool unified memory for larger models. Apple added RDMA ",
-      "image": "https://images.macrumors.com/article-new/2026/11/claris-harbor.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T23:34:51.000Z"
-    },
-    {
-      "id": "621e0b193611b6d0",
-      "title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
-      "description": "iFixit published its teardown of the new MacBook Pro with PROLED XDR Display today, revealing interesting details about how Apple brought back its illuminated logo on the lid. Watch it below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ifixit-mbp-touch-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T23:14:49.000Z"
-    },
-    {
-      "id": "61402536efde1f82",
-      "title": "CleanupBuddy 2.0 expands beyond the keyboard with new display cleaning features",
-      "description": "Developer Gui Rambo updated CleanupBuddy today, expanding its ability to prevent accidental inputs while cleaning your Mac from the keyboard to the touchscreen. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/cleanup-buddy.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/cleanupbuddy-2-0-expands-beyond-the-keyboard-with-new-display-cleaning-features/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T22:56:55.000Z"
-    },
-    {
-      "id": "75ca7099376d7d86",
-      "title": "iFixit's PROLED MacBook Pro Teardown Reveals Logo LEDs",
-      "description": "iFixit today took apart Apple's touchscreen PROLED MacBook Pro to see how Apple shed weight, what powers the logo, and how it compares to the 14-inch M6 ‌MacBook Pro‌.\r\n\r\n\n\r\nApple added a glowing logo on the back of the PROLED ‌MacBook Pro‌, but since there's no backlight to illuminate it, Apple use",
-      "url": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T22:02:34.000Z"
-    },
-    {
-      "id": "ad508d3f11546a0e",
-      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-      "description": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today.\nThe 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated Q",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T22:00:00.000Z"
-    },
-    {
-      "id": "1b34cb390ca2959b",
-      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-      "description": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T21:40:31.000Z"
-    },
-    {
-      "id": "5af38a93e86026cc",
-      "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
-      "description": "Reuters reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T21:34:43.000Z"
-    },
-    {
-      "id": "2b27b2dc69d7d941",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "id": "bc1335d9be01405f",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-10T21:08:52.000Z"
+      "publishedAt": "2026-11-11T19:22:22.000Z"
     },
     {
-      "id": "c00c68e9a72a1da1",
-      "title": "Sony cancels live-service shooter Fairgames",
-      "description": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "id": "baaa60db283175d4",
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "description": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers i",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-10T21:06:12.000Z"
+      "publishedAt": "2026-11-11T18:13:52.000Z"
     },
     {
-      "id": "1fa689ba5c3e67f0",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "id": "d16e3d2fa2152d80",
+      "title": "Apple offers a military discount, here’s how to get it",
+      "description": "If you’re a member of the U.S. military, Apple offers an easy way to save 10% on eligible products and accessories. It’s available to current and veteran members of the U.S. military and their immediate family members living in the same household. While you’ll need to verify your eligibility to acce",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-military-discount.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/apple-offers-a-military-discount-heres-how-to-get-it/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T18:01:00.000Z"
+    },
+    {
+      "id": "131828161d1786e2",
+      "title": "Google Gemini coming to CarPlay",
+      "description": "Google’s Gemini AI chatbot app is coming to Apple CarPlay. The company confirmed that it is. bringing the full Gemini Live conversation experience to CarPlay starting today.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T17:29:13.000Z"
+    },
+    {
+      "id": "c66059490db7c9a0",
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "description": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana.\nKei vehicles, which a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Scion_Kei_Truck_2027-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T17:09:58.000Z"
+    },
+    {
+      "id": "c613b3f01116fdb5",
+      "title": "Is It Worth Buying a Ceramic Apple Watch?",
+      "description": "The Apple Watch Series 12's ceramic casing option is its most luxurious, offering a distinctive finish and highly scratch-resistant material at a price above both aluminum and titanium. Is it worth choosing?\r\n\r\n\r\nThe ceramic Apple Watch starts at $899, compared to $399 for aluminum and $699 for tita",
+      "image": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
+      "url": "https://www.macrumors.com/guide/is-it-worth-buying-a-ceramic-apple-watch/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T17:05:11.000Z"
+    },
+    {
+      "id": "caf58c08300e3b6b",
+      "title": "watchOS 27.3: Three new features coming soon to Apple Watch",
+      "description": "watchOS 27.3 will launch to all users next month and introduce these three new Apple Watch features.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-watch-series-12-watchos-27-2-music.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T16:33:39.000Z"
+    },
+    {
+      "id": "a5cf4f24e3f7a214",
+      "title": "Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more",
+      "description": "The Amazon early Black Friday sale is now live and, alongside the ongoing AirPods Pro 3 at $50 off and Apple Watch Ultra 4 at nearly $100 off, we are getting some official Apple early Black Friday deals today too. Firstly, the 2026 AirTag 2 has now returned to its lowest price ever at $17.50 each al",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-early-black-friday-singles-day.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/deals-airtag-2-magic-mouse-trackpad-macbook-air/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T16:27:43.000Z"
+    },
+    {
+      "id": "e3bd230e925c815f",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "description": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-10T20:52:13.000Z"
+      "publishedAt": "2026-11-11T16:16:07.000Z"
+    },
+    {
+      "id": "68c6ffbed829b414",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "description": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T16:14:44.000Z"
+    },
+    {
+      "id": "475f03727d86b4c9",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "description": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google\t\n\nGoogle has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop pl",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T16:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-11-11T13:02:57.280Z",
+  "lastUpdated": "2026-11-11T23:46:01.736Z",
   "sources": [
     "TechCrunch",
     "The Verge",
