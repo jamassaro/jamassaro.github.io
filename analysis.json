@@ -1,34 +1,13 @@
 {
-  "executiveSummary": "The latest technology news highlights the growing importance of AI, the expansion of cloud computing, and the increasing focus on sustainability. Major trends include the adoption of AI in various industries, the rise of cloud-based services, and the shift towards more energy-efficient hardware.",
-  "takeaways": [
-    {
-      "title": "Sustainability focus",
-      "description": "The expansion of energy-efficient hardware is seen in the release of new AirPods Pro 3 firmware and the introduction of Starlink Mini 2 with a swappable battery."
-    }
-  ],
-  "trends": [
-    "AI adoption",
-    "Cloud computing",
-    "Sustainability",
-    "Hardware releases",
-    "Supply chain management"
-  ],
-  "worthWatching": [
-    "The integration of AI in various industries is expected to continue, with potential implications for companies and consumers alike.",
-    "The rise of cloud-based services highlights the growing importance of remote computing and data storage."
-  ],
-  "engineeringPerspective": [
-    "The use of AI in industries like healthcare and entertainment is becoming increasingly prevalent, with Oura's acquisition of Counsel Health and Disney's 3D movie adoption being notable examples.",
-    "The development of energy-efficient hardware is crucial for the sustainability of technology, with the new AirPods Pro 3 firmware and Starlink Mini 2 offering promising solutions."
-  ],
+  "generatedAt": "2026-11-11T13:04:52.882Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "AI",
-      "Cloud computing",
-      "Hardware"
-    ]
-  },
-  "generatedAt": "2026-11-10T22:40:02.850Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
