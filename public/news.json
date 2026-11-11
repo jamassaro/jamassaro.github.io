@@ -1,6 +1,234 @@
 {
   "articles": [
     {
+      "id": "3a8622c1b94ac2f1",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "description": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices m",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T13:00:00.000Z"
+    },
+    {
+      "id": "6a866fbb33b82df2",
+      "title": "Not everyone is loving their new iPhone Duo",
+      "description": "An open-and-shut case.\t\n\nFor most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T13:00:00.000Z"
+    },
+    {
+      "id": "98b01dad160c4638",
+      "title": "This video lets you actually see the ‘incredible’ new MacBook Pro cooling system",
+      "description": "When Apple launched the new MacBook Pro with PROLED XDR display, the company said that it had completely redesigned the cooling system for “incredible sustained performance.”\nThat could sound like marketing hype, but a YouTuber has found a great way to let us actually see the new system living up to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/This-video-lets-you-actually-see-the-incredible-new-MacBook-Pro-cooling-system.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/this-video-lets-you-actually-see-the-incredible-new-macbook-pro-cooling-system/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T12:47:32.000Z"
+    },
+    {
+      "id": "8317f681bab5bf2b",
+      "title": "Early Black Friday deals now live on official Apple Magic accessories, AirTag 2, Pencil, more",
+      "description": "Amazon’s early Black Friday sale is now live, and it includes a number of official Apple accessory deals starting this morning. Alongside some big-ticket deals on AirPods Pro 3 at $50 off, the $250 price drop on M5 MacBook Air, and Apple Watch Ultra 4 at nearly $100 off, there are some serious Apple",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Apple-accessorry-deals.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/black-friday-deals-live-apple-magic-airtag-pencil/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T12:31:23.000Z"
+    },
+    {
+      "id": "710d1ce0c6f64301",
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "description": "A delivery robot rolls down a pedestrian walkway in Miami. | Photo: Universal Images Group via Getty Images\t\n\nServe Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Por",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T12:30:00.000Z"
+    },
+    {
+      "id": "8a414ebf1cc9721a",
+      "title": "Apple is killing its Support Community forum next week",
+      "description": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Communi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T12:19:10.000Z"
+    },
+    {
+      "id": "52315e462d6cb776",
+      "title": "Reddit Reviews goes against the whole philosophy of the platform, say users",
+      "description": "Many Redditors have expressed dismay at the launch of Reddit Reviews, a new AI-powered feature which aims to summarise posts about particular products.\nReddit is positioning the feature as a way to save time and effort when researching a potential purchase, but many Redditors say that replacing huma",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Reddit-Reviews-goes-against-the-whole-philosophy-of-the-platform-say-users.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/reddit-reviews-goes-against-the-whole-philosophy-of-the-platform-say-users/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T12:18:14.000Z"
+    },
+    {
+      "id": "2d094f614b19b55e",
+      "title": "Apple Chip Supplier TSMC Approves $1 Billion AI Investment",
+      "description": "Apple chip supplier TSMC has announced board approval to invest up to $1 billion in AI companies OpenAI and Anthropic. The decision allows TSMC to buy up to $500 million of shares in each company. The board also authorized up to $500 million to create a company that will invest in semiconductor busi",
+      "image": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+      "url": "https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T11:44:03.000Z"
+    },
+    {
+      "id": "7ee145c825d9c34e",
+      "title": "Make Apple Watch Listen for Sounds Like the Doorbell",
+      "description": "One of Apple's accessibility features on iPhone can listen for important sounds around you, such as a doorbell, siren or alarm, and it sends you a notification when it hears one. The feature has been extended to Apple's new Apple Watch Series 12 and Apple Watch Ultra 4 models, so the alert reaches y",
+      "image": "https://images.macrumors.com/article-new/2026/11/watch-sound-recognition.jpg",
+      "url": "https://www.macrumors.com/how-to/enable-sound-recognition-apple-watch-listen/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T10:03:54.000Z"
+    },
+    {
+      "id": "5ef6b7ae2dc26002",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T07:30:51.000Z"
+    },
+    {
+      "id": "03297930e80b1530",
+      "title": "'Apple Support Community' Permanently Closing on November 20",
+      "description": "Apple today announced that the long-running Apple Support Community discussion forums will be permanently closing on Friday, November 20. \r\n\r\n\r\nEffectively immediately, the Apple Support Community forums are in a read-only state, with new posts no longer being accepted. The final message posted to t",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T03:50:59.000Z"
+    },
+    {
+      "id": "e2bd4aa1437ceb66",
+      "title": "End of an era: Apple Support Community forums will permanently close on November 20",
+      "description": "Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-support-forums.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T02:49:08.000Z"
+    },
+    {
+      "id": "6b8c06dda314539e",
+      "title": "Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro",
+      "description": "Following last week’s livestream, when Labrinth composed and recorded a song overnight at Apple Tower Theatre in Los Angeles on the new touchscreen MacBook Pro, the single is now available on Apple Music. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/labrinth-apple-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T01:31:51.000Z"
+    },
+    {
+      "id": "b830b68c06103e06",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "description": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T01:02:13.000Z"
+    },
+    {
+      "id": "56a4e178e3eca817",
+      "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
+      "description": "Apple this week updated its homepage in the U.S. and other countries to start promoting holiday gift suggestions as the shopping season approaches.\r\n\r\n\r\nThe website has colorful, festive imagery featuring Apple devices, along with suggestions on what you can buy for your loved ones and friends.\r\n\r\nA",
+      "image": "https://images.macrumors.com/article-new/2026/11/hero_holiday_2026_yellow_feature-1.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T00:57:36.000Z"
+    },
+    {
+      "id": "95f46a4e04d4c564",
+      "title": "Three Workers Die at Tata iPhone Parts Plant in India",
+      "description": "Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters. The facility in Hosur, Tamil Nadu, manufactures components for the iPhone.\r\n\r\n\r\nThe workers were performing maintenance at a wastewater treatment plant at the Tata facility when they ",
+      "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T00:46:21.000Z"
+    },
+    {
+      "id": "a353688d996c7fc7",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "description": "The Xbox Ally X. | Photo by Amelia Holowaty Krales / The Verge\t\n\nMicrosoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T00:34:24.000Z"
+    },
+    {
+      "id": "b6a6437b2fed1760",
+      "title": "9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/daily-november-10-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-11T00:00:34.000Z"
+    },
+    {
+      "id": "c14021db1afbc7d0",
+      "title": "iCloud Mail, Calendar, Contacts and More Experiencing Outage [Updated]",
+      "description": "Some iCloud services are experiencing an outage, according to Apple's System Status page. ‌iCloud‌ Calendar, ‌iCloud‌ Contacts, ‌iCloud‌ Mail, iWork for ‌iCloud‌, and Game Center are affected.\r\n\r\n\r\nApple says some users are experiencing issues with the services. The outage began at 5:49 p.m. Eastern",
+      "image": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T23:53:31.000Z"
+    },
+    {
+      "id": "a5f4915b02c00d38",
+      "title": "Apple confirms ongoing outage affecting iCloud and more [U]",
+      "description": "Update, 5:18 p.m. PT: Apple says all outages have now been resolved.\nIf you’re having problems accessing iCloud and other Apple services this evening, you’re not alone. Apple has confirmed an ongoing outage affecting iCloud, Find My, and more. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T23:48:49.000Z"
+    },
+    {
+      "id": "256e0e18aeb35e70",
+      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "description": "Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.\r\n\r\n\r\nHarbor works with a single Apple silicon Mac, but it also supports connecting multiple Mac computers over Thunderbolt 5 to pool unified memory for larger models. Apple added RDMA ",
+      "image": "https://images.macrumors.com/article-new/2026/11/claris-harbor.jpg",
+      "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T23:34:51.000Z"
+    },
+    {
+      "id": "621e0b193611b6d0",
+      "title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
+      "description": "iFixit published its teardown of the new MacBook Pro with PROLED XDR Display today, revealing interesting details about how Apple brought back its illuminated logo on the lid. Watch it below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ifixit-mbp-touch-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T23:14:49.000Z"
+    },
+    {
+      "id": "61402536efde1f82",
+      "title": "CleanupBuddy 2.0 expands beyond the keyboard with new display cleaning features",
+      "description": "Developer Gui Rambo updated CleanupBuddy today, expanding its ability to prevent accidental inputs while cleaning your Mac from the keyboard to the touchscreen. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/cleanup-buddy.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/10/cleanupbuddy-2-0-expands-beyond-the-keyboard-with-new-display-cleaning-features/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-10T22:56:55.000Z"
+    },
+    {
       "id": "75ca7099376d7d86",
       "title": "iFixit's PROLED MacBook Pro Teardown Reveals Logo LEDs",
       "description": "iFixit today took apart Apple's touchscreen PROLED MacBook Pro to see how Apple shed weight, what powers the logo, and how it compares to the 14-inch M6 ‌MacBook Pro‌.\r\n\r\n\n\r\nApple added a glowing logo on the back of the PROLED ‌MacBook Pro‌, but since there's no backlight to illuminate it, Apple use",
@@ -66,231 +294,9 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-11-10T20:52:13.000Z"
-    },
-    {
-      "id": "b8e391844745cb47",
-      "title": "Spotify’s AI DJ adds nine voices and a setting to reduce interruptions",
-      "description": "Spotify today expanded customization options for its AI DJ, allowing users to choose between different voices and personalities, as well as control how much the DJ talks between songs. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/spotify-dj.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/spotifys-ai-dj-adds-nine-voices-and-a-setting-to-reduce-interruptions/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T20:48:41.000Z"
-    },
-    {
-      "id": "0566589aecb394da",
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "description": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T20:47:05.000Z"
-    },
-    {
-      "id": "4938becea8379820",
-      "title": "X-energy gets green light to build its first small modular nuclear reactors",
-      "description": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
-      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T20:43:55.000Z"
-    },
-    {
-      "id": "002509c98e432542",
-      "title": "10 Free iPhone Duo Apps Worth Downloading",
-      "description": "We've done two rounds of iPhone Duo app picks so far, and now we're back with an overview of some of the best Duo apps you can get for free. MacRumors videographer Dan Barbera demos his suggestions for apps worth checking out.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nDan's li",
-      "url": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T20:27:07.000Z"
-    },
-    {
-      "id": "a6eabe319e29bd93",
-      "title": "Apple Releases New AirPods Firmware",
-      "description": "Apple today released new firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5, and AirPods Max 2. The firmware has a build number of 9B47, up from 9A348/9A350.\r\n\r\n\r\nApple has been beta testing the new firmware for the last several weeks, but hasn't yet offered details on what's includ",
-      "image": "https://images.macrumors.com/article-new/2026/09/airpods-5-new-blue.jpeg",
-      "url": "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T20:11:26.000Z"
-    },
-    {
-      "id": "317f8e6ea2d4ba85",
-      "title": "Apple just released new AirPods Pro 3 firmware and more",
-      "description": "Apple is rolling out brand new firmware for select AirPods models today, including AirPods Pro 3. Here are the details on how to update.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T20:06:19.000Z"
-    },
-    {
-      "id": "59e67b3b948a660b",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T19:57:52.000Z"
-    },
-    {
-      "id": "8e4be3c93c4b7a8b",
-      "title": "Apple TV shares trailers for upcoming Snoopy and Fraggle Rock holiday specials",
-      "description": "With the holidays fast approaching, Apple TV has shared trailers for two upcoming specials featuring Snoopy and the Fraggles. Watch them below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-holiday.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/apple-tv-shares-trailers-for-upcoming-snoopy-and-fraggle-rock-holiday-specials/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T19:57:28.000Z"
-    },
-    {
-      "id": "c039237c40a66eb0",
-      "title": "iOS 27.2 adds new features in six iPhone apps, details here",
-      "description": "iOS 27.2 recently launched with new features for iPhone users, including improvements across six Apple apps. Here’s what’s new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-app-icons-grid.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/ios-27-2-adds-new-features-in-six-iphone-apps-details-here/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T19:50:14.000Z"
-    },
-    {
-      "id": "a76087490c2acaf7",
-      "title": "The PlayStation Plus PC app is shutting down next month",
-      "description": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk:\nWith a very small number of e",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T19:40:52.000Z"
-    },
-    {
-      "id": "f9be8a116934a36a",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T19:23:34.000Z"
-    },
-    {
-      "id": "043ee4f468421928",
-      "title": "Starlink Mini 2 adds a swappable battery",
-      "description": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop.  According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $9",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/starlinkmini2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T19:19:12.000Z"
-    },
-    {
-      "id": "de69809996c13101",
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "description": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T19:15:32.000Z"
-    },
-    {
-      "id": "b8496ab2a05a4914",
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool le",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T19:04:05.000Z"
-    },
-    {
-      "id": "4a5a53e34570973d",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T19:03:52.000Z"
-    },
-    {
-      "id": "d020688302d59c20",
-      "title": "Google’s Pixel Tag tracker is now available",
-      "description": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel T",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T19:00:00.000Z"
-    },
-    {
-      "id": "157204e595719eee",
-      "title": "Google is making Pixel HiLight slightly more useful",
-      "description": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use Hi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T19:00:00.000Z"
-    },
-    {
-      "id": "6dab55f96135c11e",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T18:49:52.000Z"
-    },
-    {
-      "id": "ed3c608e5572086b",
-      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-      "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T18:49:19.000Z"
-    },
-    {
-      "id": "f0acfed5d97cfd46",
-      "title": "One of our favorite multi-filament 3D printers is $100 off",
-      "description": "The Bambu P2S Combo. | Image: Bambu\t\n\nIf you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T18:42:03.000Z"
-    },
-    {
-      "id": "87f15e97f738ea5a",
-      "title": "Apple announces Swift Student Challenge 2027 with new twist",
-      "description": "Apple has announced details for 2027’s Swift Student Challenge, and there’s a new twist this year: students can submit an app for any Apple platform.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/swift-student-challenge-2027.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T18:11:28.000Z"
-    },
-    {
-      "id": "4a9f352f8498ebfc",
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "description": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in Cha",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-10T18:00:00.000Z"
-    },
-    {
-      "id": "7cf1f66eca696e61",
-      "title": "Next iPad Air Likely to Have These 10 New Features",
-      "description": "Earlier today, it was once again reported that the next-generation iPad Air will be equipped with an OLED display, albeit with a 60Hz refresh rate. That is not all, of course, with the new iPad mini announced last month likely providing us with a preview of some other upgrades coming to the iPad Air",
-      "image": "https://images.macrumors.com/article-new/2026/11/iPad-air-the-latest-rumors.jpg",
-      "url": "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-10T17:53:26.000Z"
     }
   ],
-  "lastUpdated": "2026-11-10T22:37:06.115Z",
+  "lastUpdated": "2026-11-11T13:02:57.280Z",
   "sources": [
     "TechCrunch",
     "The Verge",
