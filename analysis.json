@@ -1,44 +1,13 @@
 {
-  "executiveSummary": "The tech industry is experiencing significant changes with the resignation of Nvidia CEO Jensen Huang, the launch of new Apple products like HomeView and Apple TV 4K, and shifts in AI development and supply chain management.",
-  "takeaways": [
-    {
-      "title": "Nvidia CEO Resignation",
-      "description": "The resignation of Jensen Huang may lead to a change in Nvidia's leadership and strategy, potentially impacting the company's future growth and partnerships with tech giants like Apple."
-    },
-    {
-      "title": "Apple HomeView and Apple TV 4K",
-      "description": "The launch of HomeView and Apple TV 4K indicates a growing focus on smart home technology and streaming services, which may drive innovation in the industry and create new opportunities for developers and users."
-    },
-    {
-      "title": "AI Development and Supply Chain Shifts",
-      "description": "The emergence of new AI-powered products and the focus on supply chain management highlight the need for companies to adapt to changing technology landscapes and ensure reliable access to components."
-    }
-  ],
-  "trends": [
-    "Nvidia CEO Resignation",
-    "Apple HomeView and Apple TV 4K",
-    "AI Development",
-    "Supply Chain Management",
-    "Smart Home Technology"
-  ],
-  "worthWatching": [
-    "The potential impact of Jensen Huang's resignation on Nvidia's future growth and partnerships.",
-    "The growing importance of smart home technology and streaming services in the tech industry."
-  ],
-  "engineeringPerspective": [
-    "The technical challenges and opportunities presented by the development of HomeView and Apple TV 4K.",
-    "The potential for AI-powered products to transform industries and create new opportunities for developers and users."
-  ],
+  "generatedAt": "2026-11-12T22:58:09.813Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "Apple",
-      "Nvidia",
-      "AI",
-      "Smart Home",
-      "Streaming"
-    ]
-  },
-  "generatedAt": "2026-11-12T14:07:19.187Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
