@@ -1,6 +1,253 @@
 {
   "articles": [
     {
+      "id": "6fccb37eee02c3ce",
+      "title": "Jensen Huang resigns as CEO of Nvidia",
+      "description": "Jensen Huang has resigned as the CEO of Nvidia following recent reports of extramarital affairs, including one involving a woman suspected of spying for China. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/jensen-huang-nvidia.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/12/jensen-huang-resigns-as-ceo-of-nvidia/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T14:01:24.000Z"
+    },
+    {
+      "id": "739a9fcf1d9a9488",
+      "title": "Apple HomeView review: An adorable smart display that earns its place",
+      "description": "Apple’s HomeView smart display is here. It combines a 7-inch display with Siri AI and an all-new software experience that actually feels really familiar.\nI’ve spent the last ten days living with HomeView in my kitchen. Here’s everything you need to know.\nPre-order HomeView now (save $10)\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-09.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/12/apple-homeview-review-an-adorable-smart-display-that-earns-its-place/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T14:00:33.000Z"
+    },
+    {
+      "id": "d7cdc578207d8167",
+      "title": "Review: Is Apple's All-New HomeView Smart Home Hub Worth $299?",
+      "description": "On our YouTube channel today, Dan Barbera has shared a review of Apple's all-new HomeView smart home hub ahead of the device launching on Friday.\r\n\r\n\r\nAs a refresher, the HomeView features an aluminum design, with the display connected to a domed speaker base by a stainless steel tilting hinge. Appl",
+      "image": "https://images.macrumors.com/article-new/2026/11/HomeView-Hands-On-Thumb-3.jpg",
+      "url": "https://www.macrumors.com/2026/11/12/apple-homeview-review/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T14:00:21.000Z"
+    },
+    {
+      "id": "61b1d41e5add069c",
+      "title": "Apple TV 4K review: The best streamer comes at a cost",
+      "description": "It’s been four years since Apple last updated the Apple TV 4K, but a new version is here. There’s Siri AI support, a faster chip, an improved remote, and more. \nHere’s everything that’s changed, what’s better, and whether the new Apple TV 4K justifies its new $299 price.\nPre-order the new Apple TV 4",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-4th-gen-color-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/12/apple-tv-4k-review-the-best-streamer-comes-at-a-cost/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T14:00:13.000Z"
+    },
+    {
+      "id": "ab3aa27c02632cb9",
+      "title": "Apple Home Collection: Select Accessories Available to Order This Friday",
+      "description": "Apple today announced that select Apple Home Collection accessories will be available to order starting Friday, November 13, with availability beginning in December.\r\n\r\n\r\nIntroduced alongside Apple's new HomeView smart home hub last month, the Apple Home Collection is a new lineup of smart home acce",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-home-collection-feature2.jpg",
+      "url": "https://www.macrumors.com/2026/11/12/apple-home-collection-orders/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T14:00:08.000Z"
+    },
+    {
+      "id": "0efde5e71ae7cce1",
+      "title": "The pricey new Apple TV 4K is still the best streamer around",
+      "description": "I'm sitting in front of my TV, puppy nuzzled up next to me, with four HomePods spread around my living room - two flanking my TV and one at either end of my couch - connected to the brand new Apple TV 4K. Young Anakin Skywalker hits the throttle and flies through the room. There hasn't been an Apple",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE30.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-12T14:00:00.000Z"
+    },
+    {
+      "id": "0561046efbeebee9",
+      "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+      "description": "It's a weird time to launch a new pair of smart glasses.\nThese last few years, Meta has been the dominant player in pushing a fragile smart glasses resurgence. Unfortunately, its privacy reputation led to the \"pervert glasses\" moniker. Smart glasses have never been more unpopular.\nBut in the past we",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/androidxr8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-12T14:00:00.000Z"
+    },
+    {
+      "id": "a1379160b414775b",
+      "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
+      "description": "Apple’s first smart display is finally here. And it’s good.﻿ | Photo: Hunter McRae for The Verge\t\n\nThe HomeView nails everything I want from a smart display. It's superb at controlling my smart home; it's an excellent hands-free kitchen companion, a good speaker, and a gorgeous digital photo frame. ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE74.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-12T14:00:00.000Z"
+    },
+    {
+      "id": "5da7789856c83b6a",
+      "title": "Mount Thor raises $45 million to build Mac data centers for AI agents",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizat",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/AI-Apple-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T14:00:00.000Z"
+    },
+    {
+      "id": "e5cb5671786ed881",
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "description": "Jensen Huang at GTC Berlin last month. | Photo: Soeren Stache / picture alliance via Getty Images\t\n\nNvidia's board has separated from Jensen Huang, its longtime co-founder, president, and CEO, after reports of two extramarital affairs - one with an alleged Chinese spy and one with an Nvidia executiv",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-12T13:53:16.000Z"
+    },
+    {
+      "id": "d0a217903de8f00c",
+      "title": "Apple adjusts iPhone and Apple Watch trade-in values, adds Samsung foldables",
+      "description": "Apple has once again adjusted the trade-in values for some of its devices, while adding several Samsung foldables to the list. Here are the new values.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/iphone-7-plus-trade-in-value.png?w=1600",
+      "url": "https://9to5mac.com/2026/11/12/apple-adjusts-iphone-and-apple-watch-trade-in-values-adds-samsung-foldables/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T13:51:55.000Z"
+    },
+    {
+      "id": "0d7a3fd71c3f5b2d",
+      "title": "Peacock thinks vertical video will make you watch one more hour per month",
+      "description": "NBCUniversal has announced what it describes as the largest mobile update ever to the Peacock iPhone app, with a bigger emphasis on vertical video. The company reportedly expects this to increase average usage of the app by one hour per user per month …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Peacock-thinks-vertical-video-will-make-you-watch-one-more-hour-per-month.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/12/peacock-thinks-vertical-video-will-make-you-watch-one-more-hour-per-month/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T13:42:00.000Z"
+    },
+    {
+      "id": "61f546f384ea6753",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-12T13:26:25.000Z"
+    },
+    {
+      "id": "03ec1f1e1ff5baec",
+      "title": "Foxconn revenue climbs 46%; Bloomberg forecasts 16M iPhone Duo sales",
+      "description": "Key Apple manufacturing partner Foxconn has announced a year-on-year revenue increase of 46%, thanks to a mix of consumer electronics and server demand.\nSeparately, Bloomberg Intelligence has forecast sales of 16 million iPhone Duo units in the first 12 months …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Foxconn-revenue-climbs-46-Bloomberg-forecasts-16M-iPhone-Duo-sales.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/12/foxconn-revenue-climbs-46-bloomberg-forecasts-16m-iphone-duo-sales/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T13:16:02.000Z"
+    },
+    {
+      "id": "397d57351e711223",
+      "title": "'Ratchet & Clank: Ranger Rumble' to Leave App Store This Month",
+      "description": "Sony is pulling the plug on a mobile spin-off of one of the PlayStation's best-known franchises before its worldwide launch. \"Ratchet & Clank: Ranger Rumble\" adapted the long-running series into a free-to-play multiplayer shooter for iOS and Android.\r\n\r\nnow stopped, with App Store downloads ending o",
+      "image": "https://images.macrumors.com/article-new/2026/11/rachet-clank-ranger-rumble.jpeg",
+      "url": "https://www.macrumors.com/2026/11/12/ratchet-clank-ranger-rumble-to-leave-app-store/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T12:52:07.000Z"
+    },
+    {
+      "id": "9ebb68f08c3b5a74",
+      "title": "30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry",
+      "description": "A poll of 9to5Mac readers who were lucky enough to take delivery of their iPhone Duo in the first few days shows that 30% of them have returned it for a refund.\nWhile that could be considered bad news for the future of the device, I don’t personally consider it either surprising or worrying … \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/30-of-iPhone-Duo-buyers-may-have-returned-it-but-I-dont-think-Apple-should-worry.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T12:45:48.000Z"
+    },
+    {
+      "id": "875fadd833b0cc1b",
+      "title": "Apple's Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang",
+      "description": "Apple's chief hardware officer Johny Srouji is being considered as a potential successor to Nvidia CEO Jensen Huang as the chipmaker's board prepares to remove its co-founder, according to Semafor.\r\n\r\n\r\nCiting a person familiar with the matter, the publication identified Srouji as one of the people ",
+      "image": "https://images.macrumors.com/article-new/2026/11/johny-srouji.jpg",
+      "url": "https://www.macrumors.com/2026/11/12/johny-srouji-eyed-as-potential-nvidia-ceo/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T12:29:41.000Z"
+    },
+    {
+      "id": "efc444144f78989f",
+      "title": "Nvidia CEO Jensen Huang set to be fired, with Johny Srouji among possible replacements [U]",
+      "description": "Following reports of a potential second affair – this time with a subordinate – Nvidia CEO Jensen Huang looks certain to be fired by the company’s board, probably later today (though he may be allowed to ‘resign’). Apple’s chief hardware officer Johny Srouji has been listed among the potential repla",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Nvidia-CEO-Jensen-Huang-set-to-be-fired-with-Johny-Srouji-listed-among-possible-replacements.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "url": "https://9to5mac.com/2026/11/12/nvidia-ceo-jensen-huang-set-to-be-fired-with-johny-srouji-listed-among-possible-replacements/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T11:59:29.000Z"
+    },
+    {
+      "id": "947622770cf96186",
+      "title": "Here’s Apple’s new ad for the holiday season, featuring MacBook Neo",
+      "description": "The last few years of Apple holiday ads have revolved around iPhone, Apple Watch and AirPods. For 2026, the new holiday film “The Dreamer” diverts from tradition and instead puts the spotlight on the Mac, specifically the MacBook Neo … although even the iPhone 3GS gets a cameo appearance.\nWatch the ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-neo-apple-holiday-film.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/12/heres-apples-new-ad-for-the-holiday-season-featuring-macbook-neo/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T11:47:20.000Z"
+    },
+    {
+      "id": "d67c670a955e6b6e",
+      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "description": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-12T11:12:32.000Z"
+    },
+    {
+      "id": "8e10f980107a555b",
+      "title": "Gentler Streak 6.0 adds a new wellbeing timeline and customizable dashboard",
+      "description": "In an update rolling out today, Gentler Streak is introducing new ways for users to track their wellbeing and personalize the app’s guidance based on how they feel. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/gentler-wellbeing.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/12/gentler-streak-6-0-adds-a-new-wellbeing-timeline-and-customizable-dashboard/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T08:00:00.000Z"
+    },
+    {
+      "id": "dd5168bcee043b75",
+      "title": "Apple Support Community Deserved a Proper Goodbye",
+      "description": "Apple on Tuesday abruptly placed the Apple Support Community into a read-only state and announced that the forums will be permanently closing on Friday, November 20. Those who contributed to the site — some for more than two decades — were blindsided by this decision and had no chance to post farewe",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
+      "url": "https://www.macrumors.com/2026/11/11/apple-support-community-deserved-a-proper-goodbye/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T04:51:19.000Z"
+    },
+    {
+      "id": "89a5ada90f88b2af",
+      "title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-12T04:01:11.000Z"
+    },
+    {
+      "id": "9eacf710c1bc846c",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "description": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-12T03:13:10.000Z"
+    },
+    {
+      "id": "36768ac7591f9f14",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-11T23:50:00.000Z"
+    },
+    {
       "id": "af742f269eb3cba4",
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
       "description": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
@@ -21,7 +268,7 @@
     {
       "id": "268ea84535c4d7c3",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit",
+      "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "source": "The Verge",
@@ -47,251 +294,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-11-11T21:54:21.000Z"
-    },
-    {
-      "id": "98b06104fc6571f6",
-      "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
-      "description": "Apple employee Eric Chen Su was arrested and charged with suspicion of gross vehicular manslaughter last week following a fatal collision near the intersection of North Tantau Avenue and Pruneridge Avenue, right next to the Apple Park Visitor Center, according to the Santa Clara County Sheriff's Off",
-      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
-      "url": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T21:37:39.000Z"
-    },
-    {
-      "id": "3374c39017bbed9f",
-      "title": "iPhone Duo one week later: The future, or not for me?",
-      "description": "My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the iPhone’s future and I just need to adapt, or is the Duo simply not for everyone?\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T21:33:21.000Z"
-    },
-    {
-      "id": "ace6b6798d6153ab",
-      "title": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched",
-      "description": "Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T21:17:30.000Z"
-    },
-    {
-      "id": "85276fba2217fc26",
-      "title": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
-      "description": "Apple Invites, an iCloud+ feature, just added two new features in this month’s update.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-invites-app.webp?w=1600",
-      "url": "https://9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T21:08:46.000Z"
-    },
-    {
-      "id": "377c915b7de15634",
-      "title": "Apple Invites App Updated With Two New Features",
-      "description": "The free Apple Invites app for the iPhone was updated today with two new features: hosts can now add polls to invitations so guests can vote on details such as a party's theme and food, and hosts can now add an \"emoji effect\" that floats across invitations.\r\n\r\nTag: Apple Invites\nThis article, \"Apple",
-      "image": "https://images.macrumors.com/article-new/2026/09/General-Invites-App-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T21:01:05.000Z"
-    },
-    {
-      "id": "a846175b4ac6a02f",
-      "title": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
-      "description": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T20:18:07.000Z"
-    },
-    {
-      "id": "e234fa756a74b07b",
-      "title": "Why the data center you dread might never even be built",
-      "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T20:15:15.000Z"
-    },
-    {
-      "id": "cefc1a82c1381840",
-      "title": "Meta is losing its longtime head of  infrastructure",
-      "description": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T20:12:01.000Z"
-    },
-    {
-      "id": "008f05b93081a3df",
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "description": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T20:04:28.000Z"
-    },
-    {
-      "id": "86879ce9e081f9d5",
-      "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app",
-      "description": "Earlier this year, OpenAI introduced ChatGPT Finances. The feature started on the mobile app and website, but it’s been missing from ChatGPT’s desktop app. Starting today. ChatGPT Finances is now available on the Mac as well.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
-      "url": "https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T19:58:26.000Z"
-    },
-    {
-      "id": "a4b39727bd78ddde",
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T19:54:00.000Z"
-    },
-    {
-      "id": "2dec1abadafe9b2b",
-      "title": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today",
-      "description": "Google has announced that a dedicated Gemini app on Apple CarPlay is rolling out around the world in several languages starting today, allowing you to have conversations with the AI assistant right from your vehicle's dashboard.\r\n\r\n\r\nGemini conversations on your iPhone automatically sync to CarPlay,",
-      "image": "https://images.macrumors.com/article-new/2026/11/Google-Gemini-Apple-CarPlay.jpg",
-      "url": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T19:50:14.000Z"
-    },
-    {
-      "id": "6f8b76d3b0cae8b5",
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T19:34:55.000Z"
-    },
-    {
-      "id": "fef49f09324cf582",
-      "title": "iCloud+ has new perk in iOS 27 if you pay for more storage",
-      "description": "The tentpole feature of iCloud+ is cloud storage, but Apple keeps improving and expanding the service to include other perks too. And in iOS 27, iCloud+ has a new benefit for high-storage tiers: AI features for HomeKit cameras.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T19:32:54.000Z"
-    },
-    {
-      "id": "bc1335d9be01405f",
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T19:22:22.000Z"
-    },
-    {
-      "id": "baaa60db283175d4",
-      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "description": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers i",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T18:13:52.000Z"
-    },
-    {
-      "id": "d16e3d2fa2152d80",
-      "title": "Apple offers a military discount, here’s how to get it",
-      "description": "If you’re a member of the U.S. military, Apple offers an easy way to save 10% on eligible products and accessories. It’s available to current and veteran members of the U.S. military and their immediate family members living in the same household. While you’ll need to verify your eligibility to acce",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-military-discount.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/apple-offers-a-military-discount-heres-how-to-get-it/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T18:01:00.000Z"
-    },
-    {
-      "id": "131828161d1786e2",
-      "title": "Google Gemini coming to CarPlay",
-      "description": "Google’s Gemini AI chatbot app is coming to Apple CarPlay. The company confirmed that it is. bringing the full Gemini Live conversation experience to CarPlay starting today.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T17:29:13.000Z"
-    },
-    {
-      "id": "c66059490db7c9a0",
-      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-      "description": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana.\nKei vehicles, which a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Scion_Kei_Truck_2027-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T17:09:58.000Z"
-    },
-    {
-      "id": "c613b3f01116fdb5",
-      "title": "Is It Worth Buying a Ceramic Apple Watch?",
-      "description": "The Apple Watch Series 12's ceramic casing option is its most luxurious, offering a distinctive finish and highly scratch-resistant material at a price above both aluminum and titanium. Is it worth choosing?\r\n\r\n\r\nThe ceramic Apple Watch starts at $899, compared to $399 for aluminum and $699 for tita",
-      "image": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
-      "url": "https://www.macrumors.com/guide/is-it-worth-buying-a-ceramic-apple-watch/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T17:05:11.000Z"
-    },
-    {
-      "id": "caf58c08300e3b6b",
-      "title": "watchOS 27.3: Three new features coming soon to Apple Watch",
-      "description": "watchOS 27.3 will launch to all users next month and introduce these three new Apple Watch features.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-watch-series-12-watchos-27-2-music.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T16:33:39.000Z"
-    },
-    {
-      "id": "a5cf4f24e3f7a214",
-      "title": "Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more",
-      "description": "The Amazon early Black Friday sale is now live and, alongside the ongoing AirPods Pro 3 at $50 off and Apple Watch Ultra 4 at nearly $100 off, we are getting some official Apple early Black Friday deals today too. Firstly, the 2026 AirTag 2 has now returned to its lowest price ever at $17.50 each al",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-early-black-friday-singles-day.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/11/deals-airtag-2-magic-mouse-trackpad-macbook-air/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-11T16:27:43.000Z"
-    },
-    {
-      "id": "e3bd230e925c815f",
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "description": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T16:16:07.000Z"
-    },
-    {
-      "id": "68c6ffbed829b414",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "description": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T16:14:44.000Z"
-    },
-    {
-      "id": "475f03727d86b4c9",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "description": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google\t\n\nGoogle has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop pl",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-11T16:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-11-11T23:46:01.736Z",
+  "lastUpdated": "2026-11-12T14:05:04.971Z",
   "sources": [
     "TechCrunch",
     "The Verge",
