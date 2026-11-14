@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "56840a3cdae9644e",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "description": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-14T12:00:00.000Z"
+    },
+    {
+      "id": "657c7bc9dbb7ba70",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "description": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images\t\n\nTakeoffs from airports throughout the US largely stopped on Friday after the FAA issued a n",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-14T01:53:04.000Z"
+    },
+    {
+      "id": "f61ef36fd73df6bd",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers lea",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-13T23:49:11.000Z"
+    },
+    {
+      "id": "379c3ef657f48adf",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "description": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-13T23:00:00.000Z"
+    },
+    {
       "id": "d75c94cdd60b98e5",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
@@ -37,16 +76,6 @@
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-11-13T21:44:38.000Z"
-    },
-    {
-      "id": "e7754b545f5478f8",
-      "title": "FAA ground stop shuts down flights nationwide",
-      "description": "Delta Air Lines planes at the gate at LaGuardia Airport on June 3, 2026. | Photo: Getty Images\t\n\nTakeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allow",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-13T21:38:25.000Z"
     },
     {
       "id": "c146889d186835c1",
@@ -262,39 +291,9 @@
       "source": "MacRumors",
       "category": "Apple News",
       "publishedAt": "2026-11-13T17:00:23.000Z"
-    },
-    {
-      "id": "75a108fef603eba7",
-      "title": "This tiny iOS 27 camera feature really makes a huge difference",
-      "description": "When shooting both photos and videos on my iPhone, I make regular use of a few different third-party apps, mostly because I like to take manual control.\nBut a combination of the new Pro controls on the iPhone 18 Pro and a new feature introduced with iOS 27 means there are more times when I can stick",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-18-Pro-and-iOS-27-customizable-controls.jpeg?quality=82&#038;strip=all&#038;w=1200",
-      "url": "https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-13T17:00:00.000Z"
-    },
-    {
-      "id": "e35ca71e0188888d",
-      "title": "Apple Maps in iOS 27 has hidden new feature I’ve been loving",
-      "description": "iOS 27 gave Apple Maps a handful of new features, and my favorite is one that keeps offering fresh updates every week: Local Lists.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/13/apple-maps-in-ios-27-has-hidden-new-feature-ive-been-loving/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-13T16:59:38.000Z"
-    },
-    {
-      "id": "bdb25376bf5b381c",
-      "title": "The new Apple TV has a YouTube problem",
-      "description": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In some ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-13T16:55:57.000Z"
     }
   ],
-  "lastUpdated": "2026-11-13T22:58:09.301Z",
+  "lastUpdated": "2026-11-14T12:36:23.913Z",
   "sources": [
     "TechCrunch",
     "The Verge",
