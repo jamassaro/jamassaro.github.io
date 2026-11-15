@@ -1,6 +1,251 @@
 {
   "articles": [
     {
+      "id": "ade8b79ff73ae361",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "description": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T21:56:35.000Z"
+    },
+    {
+      "id": "ddd77b9a4113ddb7",
+      "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+      "description": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders ranks among their best. It doesn't have the seamless throughline production-wise that ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a0664469113_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T21:49:22.000Z"
+    },
+    {
+      "id": "1da7a6b0b9ad4bc9",
+      "title": "Here’s one small change that could improve iPhone Duo’s unoptimized apps",
+      "description": "iPhone Duo has been out for about 3 weeks now, and I’ve happily been using mine since launch day. Many people have made a big deal about the app situation, but I’d largely say most apps I rely on are updated for iOS 27.0 at least.\nThat said, a fair number of apps are still from iOS 26 and earlier, a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC04170.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T21:44:51.000Z"
+    },
+    {
+      "id": "462a0b5b9bf2885a",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "description": "ULA Vulcan rocket lifts off on November 15, 2026, carrying 40 Amazon Leo broadband satellites. | Photo: Manuel Mazzanti / NurPhoto via Getty Images\t\n\nUnited Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T21:05:02.000Z"
+    },
+    {
+      "id": "446ac773ca223631",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "description": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T20:43:49.000Z"
+    },
+    {
+      "id": "3fc307d34fe43b18",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "description": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T20:20:57.000Z"
+    },
+    {
+      "id": "72c0eea3ef265d94",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "description": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T19:15:43.000Z"
+    },
+    {
+      "id": "6a1ea312e4a836de",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "description": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T18:29:14.000Z"
+    },
+    {
+      "id": "9204b230a55a9eec",
+      "title": "Early Apple Watch Black Friday Deals Arrive With Series 12 Hitting New Record Lows",
+      "description": "Early Black Friday deals are rolling in this weekend, and Amazon now has new all-time low prices on a giant collection of Apple Watch Series 12 models. You'll find $70 off every category of the smartwatch, including Aluminum, Titanium, and Ceramic models in both 42mm and 46mm sizes.\r\n\r\nNote: MacRumo",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-series-12-orange.jpeg",
+      "url": "https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T17:59:53.000Z"
+    },
+    {
+      "id": "a4df184b2b9c70f5",
+      "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps",
+      "description": "Apple plans to unveil its first smart glasses at WWDC in June 2027 and begin shipping them before the end of the year, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nIn the latest edition of his \"Power On\" newsletter, Gurman shared new details about the glasses' design, charging system, and Siri feature",
+      "image": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T17:55:32.000Z"
+    },
+    {
+      "id": "9975968848dd3109",
+      "title": "AirPods Pro 3 Discounted to $179.99 in Early Black Friday Sale",
+      "description": "One of the best early Black Friday deals has arrived today, with Amazon discounting the AirPods Pro 3 down to $179.99, from $249.00.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running",
+      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-orange-new.jpeg",
+      "url": "https://www.macrumors.com/2026/11/15/airpods-pro-3-discounted/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T17:27:30.000Z"
+    },
+    {
+      "id": "5a045b0f61505436",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T17:05:00.000Z"
+    },
+    {
+      "id": "e3dce9df49dcdc03",
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "description": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Fanttik-S1-Pro-Cordless-Electric-Screwdriver-Lifestyle-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T17:00:00.000Z"
+    },
+    {
+      "id": "21ac287c8bf9cec7",
+      "title": "Apple’s first smart glasses are coming together",
+      "description": "Apple’s smart glasses are reportedly ‘slightly thinner’ than Meta’s 2nd gen Ray-Ban glasses above. | Photo: Amelia Holowaty Krales / The Verge\t\n\nApple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T16:59:16.000Z"
+    },
+    {
+      "id": "1e6fd89f77ce8706",
+      "title": "Apple Aiming to Upgrade the iPhone Duo in Four Ways",
+      "description": "Bloomberg's Mark Gurman today said Apple has four goals for future iPhone Duo models: Face ID, an Action button, a telephoto camera, and a thinner-and-lighter design. Gurman said Apple has already developed iPhone Duo 2 prototypes with Face ID on the outer display, but it is \"running out of time\" to",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T16:42:29.000Z"
+    },
+    {
+      "id": "b0bcff5d3d52f905",
+      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
+      "description": "Next fall, Apple will introduce its second-generation iPhone Duo. It’s unclear what it’ll offer in terms of meaningful upgrades outside of the usual chip upgrades and camera improvements, but Apple engineers are reportedly attempting to bake Face ID into the device. That said, the feature might not ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T16:36:12.000Z"
+    },
+    {
+      "id": "dbf750204302a2c3",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "description": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T16:00:00.000Z"
+    },
+    {
+      "id": "2684ce4c4f6ba173",
+      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+      "description": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the impeachment of a hypocritical HOA president, or a COVID outbreak",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/hampton-headshot-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T16:00:00.000Z"
+    },
+    {
+      "id": "5d075cc837e4e61c",
+      "title": "The new Apple TV has twice as much RAM as the previous model, but apps and games can’t use it",
+      "description": "The new Apple TV 4K features an A19 chip inside with 128 GB storage and 8 GB RAM, twice the amount of memory as the previous version. Presumably, the supply crunch surrounding the memory chips is part of the reason this generation of Apple TV box jumped to a $299 price point as well.\nHowever, althou",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-ram-memory-limit.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/15/new-apple-tv-ram-limit/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T15:57:57.000Z"
+    },
+    {
+      "id": "cd0f6d224f47459b",
+      "title": "Apple’s Siri AI smart glasses are reportedly launching next year, here’s what to expect",
+      "description": "Apple’s long awaited smart glasses, akin to Meta Ray-Bans but tailored to Siri AI and the Apple ecosystem, are almost here. According to Bloomberg’s Mark Gurman, the product should be introduced at the next WWDC, and they should be on the market by the end of the year. Here’s what to expect.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T15:48:52.000Z"
+    },
+    {
+      "id": "325f140905cbd280",
+      "title": "Hands-on: This 25W MagSafe charger is thinner than an iPhone: KUXIU K4 Air [Video]",
+      "description": "When it comes to 3-in-1 travel chargers, I look at two main things: How fast it can charge my iPhone and how portable it is. I have tested plenty of travel chargers that aim to be as portable as possible by using lightweight materials or folding into a smaller footprint, but there usually seems to b",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/IMG_6662-e1794695776576.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/15/hands-on-this-25w-magsafe-charger-is-thinner-than-an-iphone-kuxiu-k4-air-video/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T15:23:31.000Z"
+    },
+    {
+      "id": "b2bdb919fe1f02f1",
+      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "description": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time low of $699.99 ($700",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lg-oled-b6e-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T14:00:00.000Z"
+    },
+    {
+      "id": "cacb2e7bc13d80de",
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "description": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"pet\" was exactly what",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T13:57:30.000Z"
+    },
+    {
+      "id": "48babd118fb15700",
+      "title": "AirPods Pro 3 hit Black Friday pricing early at $179 (Reg. $249)",
+      "description": "Hot on the heels of Apple Watch Series 12 hitting its best price ever and all-time lows on AirTag 2 at $17.50, Black Friday pricing is already live on AirPods Pro 3 starting today. You can now land the best earbuds on the planet at one of the lowest prices ever. \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/AirPods-Pro-3-deal-April-2026-01.webp?w=1600",
+      "url": "https://9to5mac.com/2026/11/15/airpods-pro-3-hit-black-friday-pricing-early-at-179-reg-249/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T13:39:39.000Z"
+    },
+    {
+      "id": "19d4b00d0201142d",
+      "title": "MacBook Neo 2: Here’s everything we know so far",
+      "description": "Apple released the all-new MacBook Neo earlier this year, and it’s been a resounding success by all indications. Here’s everything we know so far about what’s next for Apple’s most affordable laptop …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/15/macbook-neo-2-features-release-date/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T13:01:56.000Z"
+    },
+    {
       "id": "e9250aab5b255907",
       "title": "An overview of Jensen Huang’s messy days",
       "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb",
@@ -48,251 +293,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-11-14T22:02:41.000Z"
-    },
-    {
-      "id": "fc57adbbd10b7d27",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "description": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been e",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T21:44:44.000Z"
-    },
-    {
-      "id": "f347d8a5afa2c578",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T21:41:22.000Z"
-    },
-    {
-      "id": "a22600127058febc",
-      "title": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
-      "description": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nApple finally released its new HomeView this week, a smart display that serves at the center of your home.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/37256650cdc1b8807ed7cf263170dc6288a29c048d7fe757a47beb047fd38757.png?w=1600",
-      "url": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-14T20:30:00.000Z"
-    },
-    {
-      "id": "59f7e5c7cecca47f",
-      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-      "description": "Even Elon Musk said the monthly fee is \"too high.\"",
-      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T20:04:44.000Z"
-    },
-    {
-      "id": "5283deb95c0c88c7",
-      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "description": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. \nAn animated Magic: The Gathering series was first teased back in 2019 ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T19:47:40.000Z"
-    },
-    {
-      "id": "4ce5ddc4f8fe26fd",
-      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-      "description": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
-      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T18:00:00.000Z"
-    },
-    {
-      "id": "b594f4deb772f228",
-      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-      "description": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T17:45:04.000Z"
-    },
-    {
-      "id": "99c86ef5ffbb1196",
-      "title": "Work to replace old copper wire led to the FAA’s ground stop",
-      "description": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. | Anadolu via Getty Images\t\n\nAt a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to w",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T17:44:28.000Z"
-    },
-    {
-      "id": "8c7e64947ac30d51",
-      "title": "Here’s a HomeView feature that should come to every Apple device",
-      "description": "This week, Apple started shipping the HomeView, its first display made for the smart home. On the HomeView, there’s one particularly nice feature that I’d love to see make its way to all Apple platforms: Ambient Dark Mode.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-faces-grid.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-14T17:43:49.000Z"
-    },
-    {
-      "id": "e0cff860c9fa7185",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T17:30:00.000Z"
-    },
-    {
-      "id": "d117d295b5a9feb1",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T16:34:15.000Z"
-    },
-    {
-      "id": "dfe2c69feda4face",
-      "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
-      "description": "Black Friday is now less than two weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more.\r\n\r\nNote: MacRumors is an affiliate partner with some of th",
-      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-3.jpg",
-      "url": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-14T15:25:16.000Z"
-    },
-    {
-      "id": "6b36e472a55f97cc",
-      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "description": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T15:00:00.000Z"
-    },
-    {
-      "id": "56989d489272ae36",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "description": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.\nHelen is a well-known figure in the AI safety and policy community, though she is perhaps best known for",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T15:00:00.000Z"
-    },
-    {
-      "id": "6bb1576c49c9214d",
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "description": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to b",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T14:18:36.000Z"
-    },
-    {
-      "id": "bf9192bda742c100",
-      "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
-      "description": "Apple's wild past few months are finally starting to slow down with the last of the big hardware launches coming this week.\r\n\r\n\r\nMeanwhile, developers are continuing to optimize their apps for the all-new form factor of the iPhone Duo and Apple looks to shake up its internal iOS and macOS developmen",
-      "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-14.jpg",
-      "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-14T14:00:08.000Z"
-    },
-    {
-      "id": "5cfa24b6b7ad79f0",
-      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-      "description": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use ana",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T14:00:00.000Z"
-    },
-    {
-      "id": "42427ad9f8ba62c6",
-      "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-14T14:00:00.000Z"
-    },
-    {
-      "id": "69b57fdc6301f9bb",
-      "title": "Early Black Friday Apple deals: AirPods, AirTag 2, MacBook Air, Apple Pencil, Mac mini, more",
-      "description": "Alongside the release of the new Apple TV 4K, we also have loads of the early Black Friday offers flying with the lowest prices to date on AirTag 2 at $17.50, rare discounts on Magic Mouse, the lowest price yet on the 2026 Magic Keyboard and more, alongside the $50 price drop on AirPods Pro 3. \nThis",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Early-Black-Friday-Apple-deals-Apple-TV-4K-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/14/early-black-friday-apple-deals-apple-tv-4k-airpods/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-14T13:05:05.000Z"
-    },
-    {
-      "id": "a3e632374282a049",
-      "title": "A gadget to make your dumb house smarter",
-      "description": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.)\nThis week, I've been reading about school ap",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T13:00:00.000Z"
-    },
-    {
-      "id": "56840a3cdae9644e",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "description": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T12:00:00.000Z"
-    },
-    {
-      "id": "379c3ef657f48adf",
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "description": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-13T23:00:00.000Z"
-    },
-    {
-      "id": "4a2aecb71965e98f",
-      "title": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
-      "description": "Software used to be a one-time purchase, but over time, with the addition of cloud storage and services, everything has become a subscription. One company even tried to make your car seat heaters a subscription. Count the subscriptions you’re paying for right now: iCloud, a password manager, a coupl",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pCloud-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-13T23:00:00.000Z"
-    },
-    {
-      "id": "d75c94cdd60b98e5",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-13T22:43:00.000Z"
-    },
-    {
-      "id": "62007d244b0525f2",
-      "title": "HomeView Tidbits: Mirror, Sleep Timer, and Other Details",
-      "description": "Apple's HomeView is out today, and we're finally learning all the little details about the new hub. We've rounded up a list of tidbits for those setting up a HomeView or thinking about getting one.\r\n\r\n\r\nSunglasses\n\r\nApple says the HomeView probably won't recognize you if you have your face covered, ",
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview-lifestyle.jpg",
-      "url": "https://www.macrumors.com/2026/11/13/homeview-tidbits-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-13T22:04:47.000Z"
     }
   ],
-  "lastUpdated": "2026-11-15T13:01:10.469Z",
+  "lastUpdated": "2026-11-15T22:10:41.573Z",
   "sources": [
     "TechCrunch",
     "The Verge",
