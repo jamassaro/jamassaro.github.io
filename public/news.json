@@ -1,6 +1,65 @@
 {
   "articles": [
     {
+      "id": "e9250aab5b255907",
+      "title": "An overview of Jensen Huang’s messy days",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T13:00:00.000Z"
+    },
+    {
+      "id": "f0a6dc6e83ad2cbb",
+      "title": "All Apple Watch Series 12 models just dropped to the lowest price ever",
+      "description": "Amazon’s early Black Friday sale is in full swing and, while we aren’t expecting it to kick into overdrive until next week, it unexpectedly just delivered the lowest price ever on the latest Apple Watch Series 12, starting at $329 shipped. That’s the best deal we have tracked to date at $70 off the ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-band-lineup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/15/apple-watch-series-12-black-friday-deals-lowest-price/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T12:52:50.000Z"
+    },
+    {
+      "id": "02d3bb9cc8df30e9",
+      "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
+      "description": "iPhone Duo, because it offers a much larger inside display, means theres all tons of new use cases that you wouldn’t normally come across with your iPhone. Of course, one of them is the fact that you might want to prop up your iPhone Duo to watch a video on the larger display.\nA couple weeks ago, I ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04326-2616x1308.jpg.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T00:42:21.000Z"
+    },
+    {
+      "id": "19648395684c3092",
+      "title": "Where was Nvidia’s security team?",
+      "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T00:08:07.000Z"
+    },
+    {
+      "id": "9e8c995e2eb997d6",
+      "title": "Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy",
+      "description": "In September, Apple introduced the new Beats 360 headphones, the first overears from Beats since the Beats Studio Pro in 2023. That said, the older Beats Studio Pro still remain on sale at a lower price point – so it begs the question, which Beats headphones are more worthwhile?\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04319-2278x1139.jpg.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-14T22:02:41.000Z"
+    },
+    {
+      "id": "fc57adbbd10b7d27",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "description": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been e",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-14T21:44:44.000Z"
+    },
+    {
       "id": "f347d8a5afa2c578",
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
@@ -195,26 +254,6 @@
       "publishedAt": "2026-11-14T12:00:00.000Z"
     },
     {
-      "id": "657c7bc9dbb7ba70",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "description": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images\t\n\nTakeoffs from airports throughout the US largely stopped on Friday after the FAA issued a n",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-14T01:53:04.000Z"
-    },
-    {
-      "id": "f61ef36fd73df6bd",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers lea",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-13T23:49:11.000Z"
-    },
-    {
       "id": "379c3ef657f48adf",
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
       "description": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
@@ -251,48 +290,9 @@
       "source": "MacRumors",
       "category": "Apple News",
       "publishedAt": "2026-11-13T22:04:47.000Z"
-    },
-    {
-      "id": "37480bea1c02f44c",
-      "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
-      "description": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-hand-touch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-13T21:59:21.000Z"
-    },
-    {
-      "id": "25fc81880ba8bbff",
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "description": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-13T21:44:38.000Z"
-    },
-    {
-      "id": "c146889d186835c1",
-      "title": "9to5Mac Overtime 090: iPhone Duo honeymoon",
-      "description": "The Overtime crew revisits the iPhone Duo after prolonged usage. Is it still worth it without a telephoto lens or Face ID? We dig into its multitasking chops, standout FaceTime features, and how it stacks up against the Galaxy Z Fold 8. Plus, we break down Apple’s unprecedented product blitz and rum",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5Mac-Overtime-90.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/13/9to5mac-overtime-090-iphone-duo-honeymoon/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-13T21:00:00.000Z"
-    },
-    {
-      "id": "2dd07b431108ee2f",
-      "title": "Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update",
-      "description": "Apple today released HomePod software version 27.2.1, but it does not enable Siri AI on the HomePod mini 2. Apple's website continues to say the feature is \"coming in a future software update,\" but it has not provided a timeframe.\r\n\r\n\r\nDue to the HomePod mini 2 having only 2GB of RAM, well below the",
-      "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
-      "url": "https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-13T20:35:53.000Z"
     }
   ],
-  "lastUpdated": "2026-11-14T21:43:34.108Z",
+  "lastUpdated": "2026-11-15T13:01:10.469Z",
   "sources": [
     "TechCrunch",
     "The Verge",
