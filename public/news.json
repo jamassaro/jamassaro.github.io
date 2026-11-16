@@ -1,6 +1,258 @@
 {
   "articles": [
     {
+      "id": "992a4570b4c5879c",
+      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+      "description": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+      "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "id": "7d993d2e5f9e308c",
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "description": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible\t\n\nAudible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery featu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "id": "521d7c7ec62479df",
+      "title": "Google Maps can now create trip itineraries for you",
+      "description": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spannin",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "id": "ef284247f18aa14a",
+      "title": "Apple Watch SE 3 Black Friday Deals Arrive With $50 Off Every Model",
+      "description": "Following in the footsteps of this weekend's big discounts on the Apple Watch Series 12, Amazon today has all-time low prices across a number of Apple Watch SE 3 devices. Prices start at just $199.00 for the 40mm GPS Apple Watch SE 3, matching the previous record low price on this model and marking ",
+      "image": "https://images.macrumors.com/article-new/2026/08/apple-watch-se-3-new-purple.jpeg",
+      "url": "https://www.macrumors.com/2026/11/16/apple-watch-se-3-black-friday-deals/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T13:55:30.000Z"
+    },
+    {
+      "id": "d69bc58e168c752b",
+      "title": "Apple Confirms iOS 27.3 Beta 2 Coming Today",
+      "description": "Apple has indirectly confirmed that iOS 27.3 beta 2 will be released today. The company informed The New York Times that it will be adding a video podcasts section to the Apple TV app for developers to test starting Monday, so the next developer betas of iOS 27.3, macOS 27.3, and so forth should be ",
+      "image": "https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-coming-today/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T13:50:23.000Z"
+    },
+    {
+      "id": "b915d7a9520febc3",
+      "title": "Microsoft outage saw 80% of servers fail – here’s what happened",
+      "description": "Last week saw a truly epic outage to Microsoft 365, with a huge number of users unable to send and receive emails. The company has now admitted that at the worst point, more than 80% of its servers were unresponsive.\nMicrosoft has now explained what went wrong, stating that the mistake that led to t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Microsoft-outage-saw-80-of-servers-fail-–-heres-what-happened.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/16/microsoft-outage-saw-80-of-servers-fail-heres-what-happened/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T13:43:06.000Z"
+    },
+    {
+      "id": "22413bc1c8233faf",
+      "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air",
+      "description": "Next year's \"iPhone 20 Pro\" models will use the same glass design as the iPhone Air, but with more pronounced curvature along all four sides, according to the leaker known as \"Fixed Focus Digital.\"\r\n\r\n\r\nIn a new post on Weibo, the leaker said the device would use the same glass material as the ‌iPho",
+      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
+      "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-to-be-based-on-iphone-air/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T13:40:33.000Z"
+    },
+    {
+      "id": "b3080f323d124a62",
+      "title": "New camera sensor coming to the iPhone 20 Pro’s main camera, says leaker",
+      "description": "The biggest improvement to iPhone photo quality that Apple could make would be to give the device a larger sensor. There have been two reports suggesting this is on the way, although with a potentially rather large catch.\nA leaker today says that the iPhone 20 Pro is getting a new and more sophistic",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/09/Sensor-size.jpg?quality=82&#038;strip=all&#038;w=1000",
+      "url": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T13:02:52.000Z"
+    },
+    {
+      "id": "7a4787f66be56adb",
+      "title": "After dodging death, battery startup Our Next Energy is now going public",
+      "description": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "id": "e5bfd387ce56c28d",
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "description": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "id": "3ba5cc67a4ed54cb",
+      "title": "The Nvidia scandal isn’t slowing down",
+      "description": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpac",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "id": "484ca23c0429f589",
+      "title": "Video podcasts coming soon to Apple TV and other devices",
+      "description": "Apple will soon be adding a video podcasts section to Apple TV, which will also be available in the Apple TV app on other devices like smart TVs. That means it will come to more than a billion devices in total.\nAccess to the video podcasts will be free, with no requirement for an Apple TV subscripti",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Video-podcasts-coming-soon-to-Apple-TV-and-other-devices.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/16/video-podcasts-coming-soon-to-apple-tv-and-other-devices/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T12:30:32.000Z"
+    },
+    {
+      "id": "0f07b9cc2d483fb7",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "description": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T12:30:00.000Z"
+    },
+    {
+      "id": "bb22ed94aa6d5780",
+      "title": "iPhone 20 Pro Rumored to Feature New 17nm Camera Sensor",
+      "description": "Next year's iPhone 20 Pro could feature a main camera sensor with logic circuitry manufactured using a new 17-nanometer process, according to Weibo-based leaker Ice Universe.\r\n\r\n\r\nModern stacked camera sensors separate their light-sensitive pixels from the logic circuitry responsible for reading out",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg",
+      "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-new-17nm-camera-sensor/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T12:22:39.000Z"
+    },
+    {
+      "id": "9533e12f82300b6a",
+      "title": "Apple provides a safe way to ask an AI questions about your health",
+      "description": "A growing number of people are asking AI chatbots about their health issues, raising two major concerns: safety and privacy. Apple is now offering a safer way to do this through an Apple Health AI Usage Study.\nThis is actually one of Apple’s research studies, but those volunteering to take part in i",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-provides-a-safe-way-to-ask-an-AI-questions-about-your-health.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/16/apple-provides-a-safe-way-to-ask-an-ai-questions-about-your-health/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T12:09:32.000Z"
+    },
+    {
+      "id": "f5174ad76da3293b",
+      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "description": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "id": "775323e51bdd97dc",
+      "title": "Amazon’s Zoox robotaxis are now available via Uber",
+      "description": "Uber may be breaking up with Waymo, but it's also gaining a new robotaxi BFF: Amazon. Starting today, Uber riders in Las Vegas can be matched with Amazon-owned Zoox's purpose-built, bidirectional robotaxis.\nIt's a first for both companies: the first time Uber is adding a purpose-built, steering-whee",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MGM-x-Uber-x-Zoox.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "id": "2ec8f3d71bbcb0ae",
+      "title": "New Apple TV 4K's A19 Chip Has One Core Switched Off",
+      "description": "Apple's new Apple TV 4K uses an A19 chip with one efficiency core disabled, according to system diagnostic data shared by code explorer pdfu. That suggests a five-core CPU with two performance cores and three efficiency cores, compared with the six-core CPU in the iPhone 17.\r\n\r\n2022 Apple TV 4K, who",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View4.jpg",
+      "url": "https://www.macrumors.com/2026/11/16/apple-tv-4k-a19-chip-one-core-disabled/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T11:43:43.000Z"
+    },
+    {
+      "id": "db82137a192cb134",
+      "title": "Apple Seeks 200,000 People for AI Health Study",
+      "description": "Apple on Sunday announced the launch of an Apple Health AI Usage Study that gives participants access to a dedicated iPhone app that answers everyday health questions using medical research and, optionally, their own Health app data.\r\n\r\n\r\nConducted in collaboration with clinical AI company OpenEvide",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-health-study-ai-app@2x-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T11:13:12.000Z"
+    },
+    {
+      "id": "52448be0cd867030",
+      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+      "description": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to Lutnick on Sunday, ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CVIRGINIA_I__0003_1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T11:00:00.000Z"
+    },
+    {
+      "id": "150d6b83fcce8701",
+      "title": "Apple TV App to Get Video Podcasts Section Today",
+      "description": "Apple on Monday will add a video podcasts section to the Apple TV app, bringing it to more than 1 billion devices that have the app, reports The New York Times. The new video podcasts section will likely arrive in iOS 27.3 beta 2 for developer testing. \r\n\r\nNYT. \"It's really about discovery and helpi",
+      "image": "https://images.macrumors.com/article-new/2025/10/apple-tv-rebrand-icon.jpg",
+      "url": "https://www.macrumors.com/2026/11/16/apple-tv-app-to-get-video-podcasts-section/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-16T10:35:16.000Z"
+    },
+    {
+      "id": "1cf36b8d7ad67706",
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "description": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T07:00:00.000Z"
+    },
+    {
+      "id": "b4da23854eb850e6",
+      "title": "Apple launches new app to study how people use AI for health",
+      "description": "Apple's new app for a study will answer everyday medical questions",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T01:30:00.000Z"
+    },
+    {
+      "id": "604eaad22fdabf07",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "description": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by he",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-16T01:26:56.000Z"
+    },
+    {
+      "id": "e611929d639059e9",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-15T23:30:00.000Z"
+    },
+    {
+      "id": "ad54333a61f9506e",
+      "title": "Apple’s Messages app keeps getting better; here are my favorite updates",
+      "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com.\nApple’s Messages app is the most-used app",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-15T23:06:10.000Z"
+    },
+    {
       "id": "ade8b79ff73ae361",
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "description": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
@@ -38,264 +290,9 @@
       "source": "The Verge",
       "category": "Tech News",
       "publishedAt": "2026-11-15T21:05:02.000Z"
-    },
-    {
-      "id": "446ac773ca223631",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "description": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T20:43:49.000Z"
-    },
-    {
-      "id": "3fc307d34fe43b18",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "description": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T20:20:57.000Z"
-    },
-    {
-      "id": "72c0eea3ef265d94",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "description": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T19:15:43.000Z"
-    },
-    {
-      "id": "6a1ea312e4a836de",
-      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-      "description": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
-      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T18:29:14.000Z"
-    },
-    {
-      "id": "9204b230a55a9eec",
-      "title": "Early Apple Watch Black Friday Deals Arrive With Series 12 Hitting New Record Lows",
-      "description": "Early Black Friday deals are rolling in this weekend, and Amazon now has new all-time low prices on a giant collection of Apple Watch Series 12 models. You'll find $70 off every category of the smartwatch, including Aluminum, Titanium, and Ceramic models in both 42mm and 46mm sizes.\r\n\r\nNote: MacRumo",
-      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-series-12-orange.jpeg",
-      "url": "https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T17:59:53.000Z"
-    },
-    {
-      "id": "a4df184b2b9c70f5",
-      "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps",
-      "description": "Apple plans to unveil its first smart glasses at WWDC in June 2027 and begin shipping them before the end of the year, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nIn the latest edition of his \"Power On\" newsletter, Gurman shared new details about the glasses' design, charging system, and Siri feature",
-      "image": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T17:55:32.000Z"
-    },
-    {
-      "id": "9975968848dd3109",
-      "title": "AirPods Pro 3 Discounted to $179.99 in Early Black Friday Sale",
-      "description": "One of the best early Black Friday deals has arrived today, with Amazon discounting the AirPods Pro 3 down to $179.99, from $249.00.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running",
-      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-orange-new.jpeg",
-      "url": "https://www.macrumors.com/2026/11/15/airpods-pro-3-discounted/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T17:27:30.000Z"
-    },
-    {
-      "id": "5a045b0f61505436",
-      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T17:05:00.000Z"
-    },
-    {
-      "id": "e3dce9df49dcdc03",
-      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-      "description": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Fanttik-S1-Pro-Cordless-Electric-Screwdriver-Lifestyle-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T17:00:00.000Z"
-    },
-    {
-      "id": "21ac287c8bf9cec7",
-      "title": "Apple’s first smart glasses are coming together",
-      "description": "Apple’s smart glasses are reportedly ‘slightly thinner’ than Meta’s 2nd gen Ray-Ban glasses above. | Photo: Amelia Holowaty Krales / The Verge\t\n\nApple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T16:59:16.000Z"
-    },
-    {
-      "id": "1e6fd89f77ce8706",
-      "title": "Apple Aiming to Upgrade the iPhone Duo in Four Ways",
-      "description": "Bloomberg's Mark Gurman today said Apple has four goals for future iPhone Duo models: Face ID, an Action button, a telephoto camera, and a thinner-and-lighter design. Gurman said Apple has already developed iPhone Duo 2 prototypes with Face ID on the outer display, but it is \"running out of time\" to",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T16:42:29.000Z"
-    },
-    {
-      "id": "b0bcff5d3d52f905",
-      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
-      "description": "Next fall, Apple will introduce its second-generation iPhone Duo. It’s unclear what it’ll offer in terms of meaningful upgrades outside of the usual chip upgrades and camera improvements, but Apple engineers are reportedly attempting to bake Face ID into the device. That said, the feature might not ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T16:36:12.000Z"
-    },
-    {
-      "id": "dbf750204302a2c3",
-      "title": "The tech products we enthusiastically recommend this holiday season",
-      "description": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
-      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T16:00:00.000Z"
-    },
-    {
-      "id": "2684ce4c4f6ba173",
-      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
-      "description": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the impeachment of a hypocritical HOA president, or a COVID outbreak",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/hampton-headshot-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T16:00:00.000Z"
-    },
-    {
-      "id": "5d075cc837e4e61c",
-      "title": "The new Apple TV has twice as much RAM as the previous model, but apps and games can’t use it",
-      "description": "The new Apple TV 4K features an A19 chip inside with 128 GB storage and 8 GB RAM, twice the amount of memory as the previous version. Presumably, the supply crunch surrounding the memory chips is part of the reason this generation of Apple TV box jumped to a $299 price point as well.\nHowever, althou",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-ram-memory-limit.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/15/new-apple-tv-ram-limit/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T15:57:57.000Z"
-    },
-    {
-      "id": "cd0f6d224f47459b",
-      "title": "Apple’s Siri AI smart glasses are reportedly launching next year, here’s what to expect",
-      "description": "Apple’s long awaited smart glasses, akin to Meta Ray-Bans but tailored to Siri AI and the Apple ecosystem, are almost here. According to Bloomberg’s Mark Gurman, the product should be introduced at the next WWDC, and they should be on the market by the end of the year. Here’s what to expect.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T15:48:52.000Z"
-    },
-    {
-      "id": "325f140905cbd280",
-      "title": "Hands-on: This 25W MagSafe charger is thinner than an iPhone: KUXIU K4 Air [Video]",
-      "description": "When it comes to 3-in-1 travel chargers, I look at two main things: How fast it can charge my iPhone and how portable it is. I have tested plenty of travel chargers that aim to be as portable as possible by using lightweight materials or folding into a smaller footprint, but there usually seems to b",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/IMG_6662-e1794695776576.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/15/hands-on-this-25w-magsafe-charger-is-thinner-than-an-iphone-kuxiu-k4-air-video/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T15:23:31.000Z"
-    },
-    {
-      "id": "b2bdb919fe1f02f1",
-      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
-      "description": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time low of $699.99 ($700",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lg-oled-b6e-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T14:00:00.000Z"
-    },
-    {
-      "id": "cacb2e7bc13d80de",
-      "title": "The Sony Aibo was a robot revolution dressed like a dog",
-      "description": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"pet\" was exactly what",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T13:57:30.000Z"
-    },
-    {
-      "id": "48babd118fb15700",
-      "title": "AirPods Pro 3 hit Black Friday pricing early at $179 (Reg. $249)",
-      "description": "Hot on the heels of Apple Watch Series 12 hitting its best price ever and all-time lows on AirTag 2 at $17.50, Black Friday pricing is already live on AirPods Pro 3 starting today. You can now land the best earbuds on the planet at one of the lowest prices ever. \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/AirPods-Pro-3-deal-April-2026-01.webp?w=1600",
-      "url": "https://9to5mac.com/2026/11/15/airpods-pro-3-hit-black-friday-pricing-early-at-179-reg-249/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T13:39:39.000Z"
-    },
-    {
-      "id": "19d4b00d0201142d",
-      "title": "MacBook Neo 2: Here’s everything we know so far",
-      "description": "Apple released the all-new MacBook Neo earlier this year, and it’s been a resounding success by all indications. Here’s everything we know so far about what’s next for Apple’s most affordable laptop …\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/15/macbook-neo-2-features-release-date/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T13:01:56.000Z"
-    },
-    {
-      "id": "e9250aab5b255907",
-      "title": "An overview of Jensen Huang’s messy days",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T13:00:00.000Z"
-    },
-    {
-      "id": "f0a6dc6e83ad2cbb",
-      "title": "All Apple Watch Series 12 models just dropped to the lowest price ever",
-      "description": "Amazon’s early Black Friday sale is in full swing and, while we aren’t expecting it to kick into overdrive until next week, it unexpectedly just delivered the lowest price ever on the latest Apple Watch Series 12, starting at $329 shipped. That’s the best deal we have tracked to date at $70 off the ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-band-lineup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/15/apple-watch-series-12-black-friday-deals-lowest-price/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T12:52:50.000Z"
-    },
-    {
-      "id": "02d3bb9cc8df30e9",
-      "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
-      "description": "iPhone Duo, because it offers a much larger inside display, means theres all tons of new use cases that you wouldn’t normally come across with your iPhone. Of course, one of them is the fact that you might want to prop up your iPhone Duo to watch a video on the larger display.\nA couple weeks ago, I ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04326-2616x1308.jpg.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-15T00:42:21.000Z"
-    },
-    {
-      "id": "19648395684c3092",
-      "title": "Where was Nvidia’s security team?",
-      "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-15T00:08:07.000Z"
-    },
-    {
-      "id": "9e8c995e2eb997d6",
-      "title": "Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy",
-      "description": "In September, Apple introduced the new Beats 360 headphones, the first overears from Beats since the Beats Studio Pro in 2023. That said, the older Beats Studio Pro still remain on sale at a lower price point – so it begs the question, which Beats headphones are more worthwhile?\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04319-2278x1139.jpg.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-14T22:02:41.000Z"
     }
   ],
-  "lastUpdated": "2026-11-15T22:10:41.573Z",
+  "lastUpdated": "2026-11-16T14:07:04.543Z",
   "sources": [
     "TechCrunch",
     "The Verge",
