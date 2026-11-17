@@ -1,301 +1,300 @@
 {
   "articles": [
     {
-      "id": "d51ecf4c3d29c6ae",
-      "title": "Former Apple chairman Arthur Levinson files to sell $31.8 million in company stock",
-      "description": "Arthur Levinson, who currently serves as Apple’s lead independent director, informed the SEC today of his plans to sell 90,000 shares of Apple stock worth approximately $31.8 million. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/16/former-apple-chairman-arthur-levinson-files-to-sell-31-8-million-in-company-stock/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T00:32:01.000Z"
-    },
-    {
-      "id": "797ba1b2c8b3a321",
-      "title": "Everything New in iOS 27.3 Beta 2",
-      "description": "Apple released the second beta of iOS 27.3 today, and like the first beta, it has several major new features. There are improvements to the iPhone Duo, tweaks to apps, new Siri features, and more.\r\n\r\n\r\niPhone Duo Face Unlock\n\r\nApple added a new option to quickly unlock the iPhone Duo using the front",
-      "image": "https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-everything-new/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T00:15:18.000Z"
-    },
-    {
-      "id": "05e742f69610bafb",
-      "title": "9to5Mac Daily: November 16, 2026 – Apple glasses rumors, more",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/16/daily-november-16-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T00:09:13.000Z"
-    },
-    {
-      "id": "657d6691ee8b322d",
-      "title": "Sihoo’s ergonomic office chair gives all-year comfort at lowest price for holidays",
-      "description": "The holiday season brings the best deals of the year, and for anyone looking to upgrade to an ergonomic office chair, Sihoo’s Doro C300 Pro V2 is now available at its lowest price of the year.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/sihoo-black-friday-chairs.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/16/sihoos-ergonomic-office-chair-gives-all-year-comfort-at-lowest-price-for-holidays/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T00:00:00.000Z"
-    },
-    {
-      "id": "02ee9c9ae90ac9bb",
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "description": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS).\nKurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-16T23:35:58.000Z"
-    },
-    {
-      "id": "ddbfb78da86c929e",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "id": "4ba852e3823a8b12",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-16T23:32:32.000Z"
+      "publishedAt": "2026-11-17T14:50:58.000Z"
     },
     {
-      "id": "484d423085de42ba",
-      "title": "iPhone Duo Orders Will Now Arrive Before the Holidays",
-      "description": "Supplies of the iPhone Duo are improving, and many people will be able to get Apple's foldable before the holidays. New ‌iPhone Duo‌ orders placed today in the U.S. will arrive between December 16 and December 23, up from the prior January 25 delivery estimate.\r\n\r\n\r\nThe December timing is available ",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-iPhone-Duo-Early-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/16/iphone-duo-orders-early-arrival/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-16T23:29:54.000Z"
-    },
-    {
-      "id": "2b402cc8e3a9b15b",
-      "title": "Hands-On With the iPhone Duo's New Face Unlock",
-      "description": "With iOS 27.3 beta 2, Apple is partially solving a common iPhone Duo complaint. There's a new feature for unlocking the device with the front camera, which we've tested out.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nUnlock with Front Camera is a new option in iOS 27.3. If you ",
-      "url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock-hands-on/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-16T23:27:28.000Z"
-    },
-    {
-      "id": "46dcf7bfde1b4720",
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "description": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "id": "54d89b3db0d4900b",
+      "title": "This E Ink photo frame can double as your family’s digital dashboard",
+      "description": "Trmnl, a company best known for its highly customizable E Ink dashboards that can function as anything from a desktop calendar to a stock tracker, has introduced a new display that's also well suited for showing artwork and photos. It's not the company's first color E Ink device, but instead of bein",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/frame1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-16T23:17:34.000Z"
+      "publishedAt": "2026-11-17T14:49:21.000Z"
     },
     {
-      "id": "43ec2414be392634",
-      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-      "description": "United Airlines passenger planes are seen at gates at Newark Liberty International Airport (EWR) in Newark, New Jersey, on November 15, 2026. | AFP via Getty Images\t\n\nLess than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-16T22:54:59.000Z"
-    },
-    {
-      "id": "e71fd9a1a6cc2198",
-      "title": "Apple Plans to Release These 18 New Products Next Year",
-      "description": "Following a jam-packed couple of months in which it unveiled the iPhone Duo, HomeView, MacBook Pro with PROLED XDR display, and so much more, Apple has likely cleared through its slate of remaining major product announcements this year.\r\n\r\n\r\nAs always, the holiday season should be a relatively quiet",
-      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
-      "url": "https://www.macrumors.com/2026/11/16/apple-18-new-products-next-year/",
+      "id": "837b8221c0951777",
+      "title": "Apple Now Sells DIY Repair Parts for iPhone Duo",
+      "description": "As reported by 9to5Mac, Apple is now selling parts for the iPhone Duo on its self-service repair store in the U.S., Canada, and Europe. After ordering parts and tools, customers with the know-how can follow the steps in Apple's iPhone Duo repair manual to complete their own repairs and save a visit ",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/11/17/apple-now-sells-iphone-duo-repair-parts/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-16T22:40:53.000Z"
+      "publishedAt": "2026-11-17T14:47:19.000Z"
     },
     {
-      "id": "4c585891453776ef",
-      "title": "‘Schmigadoon!’ and ‘Widow’s Bay’ land Apple TV two Grammy nominations",
-      "description": "Apple TV today celebrated two Grammy nominations, one of which further establishes a canceled show as an unlikely awards success story. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo-large.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/16/schmigadoon-and-widows-bay-land-apple-tv-two-grammy-nominations/",
+      "id": "0f8fb9f927824c59",
+      "title": "Apple now selling iPhone Duo replacement parts and tools",
+      "description": "Following last month’s launch of the iPhone Duo, which also saw the release of Apple’s official repair manuals for the device, Apple today began selling replacement parts and tools through its Self Service Repair Store. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-16T22:20:37.000Z"
+      "publishedAt": "2026-11-17T14:38:30.000Z"
     },
     {
-      "id": "c28cc6c7fac05440",
-      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-      "description": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "id": "1788058648c7fcb8",
+      "title": "Disney+ and Hulu’s ‘fully unified’ app is coming next month",
+      "description": "Disney has announced a major milestone coming next month in its plans to merge the Disney+ and Hulu apps, which will be “fully unified” into Disney+ soon.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/disney-plus-hulu-app-icons.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/disney-and-hulus-fully-unified-app-is-coming-next-month/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T14:31:31.000Z"
+    },
+    {
+      "id": "bf00a4c249ad1adf",
+      "title": "Get ready for a nationwide emergency alert test at 2:20PM ET today",
+      "description": "Radio and TV broadcasts will be interrupted for about one minute at 2:20PM ET on Tuesday while FEMA and the FCC test the country's Emergency Alert System. Unlike recent communications outages, this is a planned interruption that FEMA is required to run every three years. FEMA says today's test inclu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303603602.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T14:28:24.000Z"
+    },
+    {
+      "id": "3dc1c763af222fed",
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "description": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-16T22:12:31.000Z"
+      "publishedAt": "2026-11-17T14:26:46.000Z"
     },
     {
-      "id": "812a87b426154216",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "description": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "source": "TechCrunch",
+      "id": "6cb1eb75d7872f88",
+      "title": "The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer",
+      "description": "Amazon no longer considers the midrange Fire TV Stick 4K Plus as part of its official lineup following the launch of it latest Fire TV Stick 4K, but that doesn’t mean the streaming device isn’t still good value. In fact, it’s an even more attractive option now that it’s dropped to $29.99 ($40 off) a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale",
+      "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-16T22:03:02.000Z"
+      "publishedAt": "2026-11-17T14:25:07.000Z"
     },
     {
-      "id": "e0f7f0e5d4b1f284",
-      "title": "New Apple TV 4K Discount Returns at Amazon",
-      "description": "Amazon today is back with a discount on the brand new A19 Apple TV 4K, available for $289.99, down from $299.00. This is a match of the pre-order discount we saw last week.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receiv",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
-      "url": "https://www.macrumors.com/2026/11/16/new-apple-tv-4k-discount-returns-at-amazon/",
+      "id": "5e9c258b4b068c70",
+      "title": "iPhone 20 Pro Screen Protectors Show Rumored Curved Design",
+      "description": "Screen protector samples circulating online offer an early look at how Apple's rumored iPhone 20 Pro redesign could look, with rounded edges that could help create the appearance of a nearly borderless display.\r\n\r\n\r\nSharing a video of the purported screen protector on X yesterday, the leaker known a",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-20-pro-screen-protectors.jpg",
+      "url": "https://www.macrumors.com/2026/11/17/iphone-20-pro-screen-protectors-rumored-design/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-16T21:53:17.000Z"
+      "publishedAt": "2026-11-17T14:08:09.000Z"
     },
     {
-      "id": "e05342f56a6e03fa",
-      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "description": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed in",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/184084_bk_press_still_1.579.1.jpg?quality=90&#038;strip=all&#038;crop=10.051873779297,10.653583930772,89.948126220703,89.346416069228",
-      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-16T21:41:57.000Z"
-    },
-    {
-      "id": "95c14744ef6bc32d",
-      "title": "Apple expands Apple Intelligence beta testing in China to iPads and Macs",
-      "description": "Following the arrival of Apple Intelligence on iPhones in China with iOS 27.3 beta 1, Apple is now expanding support to iPads and Macs ahead of the public release of its 27.3 updates. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/16/apple-expands-apple-intelligence-beta-testing-in-china-to-ipads-and-macs/",
+      "id": "5f597aeea4e94378",
+      "title": "Major websites compromised to steal crypto from iPhone users",
+      "description": "A security researcher has discovered that some of the world’s most popular websites were compromised in an attempt to steal cryptocurrency from iPhone users.\nA total of 178 websites were affected, including BBC, CNN, HSBC, IKEA, and Zoom. Reasonably recent versions of iOS are safe, and so far it app",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-websites-compromised-to-steal-crypto-from-iPhone-users.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/major-websites-compromised-to-steal-crypto-from-iphone-users/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-16T21:38:55.000Z"
+      "publishedAt": "2026-11-17T14:06:04.000Z"
     },
     {
-      "id": "28cf61794385c3b5",
-      "title": "New iPhone Duo orders now deliver a month earlier than before",
-      "description": "Interested in getting an iPhone Duo before Christmas? You might be in luck, as Apple’s online store delivery estimates just got pulled forward by a full month, with December delivery now expected.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/16/new-iphone-duo-orders-now-deliver-a-month-earlier-than-before/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-16T21:28:12.000Z"
-    },
-    {
-      "id": "b41bdd92f6726404",
-      "title": "Apple’s leadership overhaul continues with new Apple Pay and Wallet chief",
-      "description": "Bloomberg reports that Apple lifer Corey Fugman will replace Jennifer Bailey as the head of the Apple Pay and Wallet division. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-16T21:10:12.000Z"
-    },
-    {
-      "id": "caf97356d186abc6",
-      "title": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control",
-      "description": "With the latest macOS 27.3 beta, Apple is giving Mac users more control over the data they share and the access they give to apps, including apps that use AI agents. Apple today informed developers about upcoming changes to the Full Disk Access API and the Device Control and Data Access API.\r\n\r\n\r\nHe",
-      "image": "https://images.macrumors.com/article-new/2026/11/claude-warning.jpg",
-      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-16T21:08:20.000Z"
-    },
-    {
-      "id": "befdd5c2607742da",
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "description": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "id": "99572913bf93f99f",
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "description": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-16T21:01:02.000Z"
+      "publishedAt": "2026-11-17T14:05:30.000Z"
     },
     {
-      "id": "30cb18031957e9cd",
-      "title": "iPad and Mac Get Apple Intelligence in China in 27.3 Betas",
-      "description": "Today's iPadOS 27.3 and macOS 27.3 betas expand Apple Intelligence support in China to the iPad and the Mac.\r\n\r\n\r\n‌Apple Intelligence‌ features debuted in China on the iPhone in the first iOS 27.3 beta, but they weren't initially available in iPadOS 27.3 or macOS 27.3. The Shanghai Cyberspace Admini",
-      "image": "https://images.macrumors.com/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
-      "url": "https://www.macrumors.com/2026/11/16/ipad-mac-apple-intelligence-china/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-16T20:56:59.000Z"
-    },
-    {
-      "id": "5c1f695e1797d859",
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "description": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-16T20:46:01.000Z"
-    },
-    {
-      "id": "6a97193c984a4b63",
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "description": "Sam… thank you. | Image: Getty Images\t\n\nOpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-16T20:41:28.000Z"
-    },
-    {
-      "id": "5cf627eb62f41dab",
-      "title": "In My Cart: The best early Black Friday deals we’re buying today",
-      "description": "The early Amazon Black Friday sale was just updated with a host of new discounts including the lowest prices ever across the Apple Watch Series 12 lineup, now even lower prices on AirPods Pro 3, and the return of the Apple TV 4K discount. You’ll find some deep on smart home upgrades for the holidays",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/In-My-Cart-gear-we-buyimg-early-black-friday.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/16/gear-we-buying-amazon-early-black-friday-sale/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-16T20:38:12.000Z"
-    },
-    {
-      "id": "d4d6dc9a3a367678",
-      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
-      "description": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/EA-Sports-FC-27.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-16T20:36:14.000Z"
-    },
-    {
-      "id": "673307a870575e25",
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "description": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purchase agreement with Constellation for the output from the plant. | Image: Getty Images\t\n\nConstellation Energy - America's largest operator of nuclear ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-16T20:29:37.000Z"
-    },
-    {
-      "id": "dccd3c5dab49276e",
-      "title": "US data centers now burn more electricity than a midsized country",
-      "description": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.\n",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-16T20:27:58.000Z"
-    },
-    {
-      "id": "414085bf608d6297",
-      "title": "iPhone Duo now has twice as many optimized apps as it did 10 days ago",
-      "description": "Apple marketing SVP Greg Joswiak said today that the number of iPhone Duo-ready apps on the App Store is twice what it was when Apple last reported the figure. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-15.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/16/iphone-duo-now-has-twice-as-many-optimized-apps-as-it-did-10-days-ago/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-16T20:18:40.000Z"
-    },
-    {
-      "id": "a81fa0ef58d9f8bf",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "description": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "id": "fae6acf87a775073",
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-16T20:07:13.000Z"
+      "publishedAt": "2026-11-17T14:00:00.000Z"
+    },
+    {
+      "id": "1dfb8093c450e167",
+      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+      "description": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
+      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T14:00:00.000Z"
+    },
+    {
+      "id": "562461899c144502",
+      "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
+      "description": "The first ever lab-grown hamburger cost $300,000 to make in 2013. Upside Foods says its cultivated chicken can now match the price range of “really high quality organic chicken.\"",
+      "url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T14:00:00.000Z"
+    },
+    {
+      "id": "be27aaca45552618",
+      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+      "description": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
+      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T14:00:00.000Z"
+    },
+    {
+      "id": "734e2ddab586b8bd",
+      "title": "Windows 11 actually runs better on 8GB of RAM now",
+      "description": "The 13-inch Surface Laptop with 8GB of RAM is much improved after recent Windows updates.\t\n\nAs recently as the beginning of the year, 16GB of RAM was common on sub-$800 Windows laptops, which helped compensate for an increasingly bloated-feeling Windows 11. But with the cost of RAM skyrocketing this",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268655_Microsoft_Surface_Laptop_13-inch_8GB_2026_review_ADiBenedetto_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T14:00:00.000Z"
+    },
+    {
+      "id": "407c24d3ba1d72ee",
+      "title": "Apple Work Podcast: Kaseya on MSPs, cybersecurity, and managing Apple in one platform",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizat",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/kaseya-on-msps-cybersecurity-and-managing-apple-in-one-platform/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T14:00:00.000Z"
+    },
+    {
+      "id": "3188169833ded7a9",
+      "title": "Disney Plus and Hulu’s fully unified app arrives next month",
+      "description": "Disney Plus and Hulu will officially become one app next month. As part of its earnings report released on Tuesday, Disney announced that bundle subscribers \"will have a fully unified experience\" on Disney Plus with access to Hulu's live TV service and premium streaming add-ons in December.\nA unifie",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954700/acastro_STK080_disneyPlus_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T13:46:02.000Z"
+    },
+    {
+      "id": "767d11b83275d552",
+      "title": "Apple memory suppliers expect price increases through at least 2030 [U]",
+      "description": "Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not protect against price increases related t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-memory-supplier-expects-price-increases-through-at-least-2030.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T13:39:13.000Z"
+    },
+    {
+      "id": "4f0b007d4a8be2c2",
+      "title": "MacBook Neo Black Friday Deals Arrive With $49 Discounts on Nearly Every Model at Amazon",
+      "description": "Amazon today introduced a rare discount on the MacBook Neo, discounting all four of the entry-level 256GB models down to $649.99, from $699.00. This sale is available in Silver, Indigo, Citrus, and Blush, with an estimated delivery date of November 22 for most models.\r\n\r\nNote: MacRumors is an affili",
+      "image": "https://images.macrumors.com/article-new/2026/11/macbook-neo-black-friday.jpeg",
+      "url": "https://www.macrumors.com/2026/11/17/macbook-neo-rare-50-discount/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T13:36:15.000Z"
+    },
+    {
+      "id": "b6ff8c69552f5e0e",
+      "title": "Face unlock is a good compromise for the iPhone Duo – now let’s have it for the Mac",
+      "description": "When Apple first announced Face ID, the company talked a great deal about how secure the system is, contrasting it to the far less secure image-based facial unlock systems used by the likes of Google and Samsung.\nFast-forward to 2026, and Apple is itself now offering that less secure approach as an ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-duo-face-id.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/face-unlock-is-a-good-compromise-for-the-iphone-duo-now-lets-have-it-for-the-mac/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T13:23:14.000Z"
+    },
+    {
+      "id": "854d2ea6960a886a",
+      "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
+      "description": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned.\nThe rollout comes after Uber and Zipline first announced their tie-up",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25214561/ces_drone_zipline_delivery_bag_press_kit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T13:00:00.000Z"
+    },
+    {
+      "id": "1504abe3bc507877",
+      "title": "The Verge Best of 2026",
+      "description": "Hundreds of gadgets pass across our desks each year. Some leave their mark and get a full review or make it to the top of a buying guide. It's harder than it sounds to narrow down our favorites. Instead of simply picking products that scored highly, or only those that made it into our buying guides,",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BestofLede_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T13:00:00.000Z"
+    },
+    {
+      "id": "0520b64cb1b489c4",
+      "title": "iPhone Users Targeted in Major Website Security Breach",
+      "description": "Hackers used some of the world's most popular websites to distribute malware designed to steal cryptocurrency and exploit vulnerabilities in iPhones and iPads this week, according to a new security investigation.\r\n\r\n\r\nReuters reports that websites associated with 178 organizations were affected by t",
+      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+      "url": "https://www.macrumors.com/2026/11/17/iphone-users-targeted-website-security-breach/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T12:42:03.000Z"
+    },
+    {
+      "id": "30c661541b655b8b",
+      "title": "Apple Names 'Baby, This Is Keke Palmer' Podcast of the Year",
+      "description": "Apple today named \"Baby, this is Keke Palmer\" its 2026 Show of the Year, recognizing the interview podcast for its quality and cultural impact.\r\n\r\nThe Rest Is History,\" hosted by historians Tom Holland and Dominic Sandbrook.\nTag: Apple Podcasts\nThis article, \"Apple Names 'Baby, This Is Keke Palmer' ",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Podcasts-Show-of-the-Year-2026-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/11/17/this-is-keke-palmer-podcast-of-the-year/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T12:30:54.000Z"
+    },
+    {
+      "id": "bb62af73437379d3",
+      "title": "Apple Podcasts 2026 Show of the Year is ‘Baby, this is Keke Palmer’",
+      "description": "Each year, Apple Podcasts names its Show of the Year, and the 2026 winner is Baby, this is Keke Palmer. Apple said the podcast consistently ranked as one of the most popular shows, and praised it for its “exceptional quality and cultural impact” … \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Podcasts-2026-Show-of-the-Year-is-Baby-this-is-Keke-Palmer.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/apple-podcasts-2026-show-of-the-year-is-baby-this-is-keke-palmer/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T12:15:20.000Z"
+    },
+    {
+      "id": "2af3a3b9e6c89f3f",
+      "title": "Apple hears Liquid Glass feedback, tests small but welcome change",
+      "description": "Liquid Glass was one of the most controversial and polarizing UI changes Apple has made for a long time. The company listened to the feedback and made a number of changes, the most significant of which was to introduce a sliding transparency scale.\nApple is currently testing a change some will consi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-device-lineup-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/apple-hears-liquid-glass-feedback-tests-small-but-welcome-change/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T12:01:10.000Z"
+    },
+    {
+      "id": "46e0c0ef82b3adc0",
+      "title": "Apple Tests Bringing Back a Softer Side of Liquid Glass",
+      "description": "Apple is testing a softer appearance for iPhone navigation bars that would bring back part of the look used in iOS 26, according to a new finding shared by pdfu on X (Twitter).\r\n\r\nThe gradual fade nav bar effect is disabled by default in iOS 27.3 beta 2\n\r\nThe change affects how content fades out as ",
+      "image": "https://images.macrumors.com/article-new/2026/11/gradual-fade-nav-bar-flag-pdfu-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/11/17/apple-tests-softer-side-of-liquid-glass/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T11:16:24.000Z"
+    },
+    {
+      "id": "515a2f7a7cd6fe92",
+      "title": "MacBook Neo gets rare $50 price drop in early Black Friday deal",
+      "description": "The most affordable current-generation MacBook you can get under the tree this year just dropped to its best prices in several months with today’s extremely rare early Black Friday deals. Apple’s MacBook Neo lineup is nearly $50 off to deliver one of, if not the most surprising discounts of the 2026",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/macbook-neo-gets-rare-50-price-drop-in-early-black-friday-deal/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T11:16:21.000Z"
+    },
+    {
+      "id": "43cf9c18b29160c2",
+      "title": "Apple Close to Rare Long-Term Memory Deal With Samsung",
+      "description": "Apple is close to signing a long-term supply agreement with Samsung for DRAM chips, according to Korea's Maeil Business Newspaper. The deal would reportedly run for four to five years from the first half of 2027, setting a minimum supply volume, with prices finalized later based on market conditions",
+      "image": "https://images.macrumors.com/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
+      "url": "https://www.macrumors.com/2026/11/17/apple-rare-long-term-memory-deal-samsung/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T10:28:18.000Z"
     }
   ],
-  "lastUpdated": "2026-11-17T01:10:02.537Z",
+  "lastUpdated": "2026-11-17T14:59:19.384Z",
   "sources": [
     "TechCrunch",
     "The Verge",
