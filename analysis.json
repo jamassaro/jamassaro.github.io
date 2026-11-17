@@ -1,40 +1,13 @@
 {
-  "executiveSummary": "Major trends in AI and hardware releases, with Apple expanding its ecosystem with new products and features, while supply chain issues and pricing changes affect consumer purchasing decisions.",
-  "takeaways": [
-    {
-      "title": "Increased AI focus",
-      "description": "Apple is expanding its AI capabilities with new features like Apple Intelligence, which is now available on iPads and Macs, and improving user control over AI-powered apps with new permission controls and transparency features."
-    },
-    {
-      "title": "New hardware releases",
-      "description": "Apple has released several new products, including the iPhone Duo, HomeView, and MacBook Pro with PROLED XDR display, and is expected to announce more products in the coming months."
-    },
-    {
-      "title": "Supply chain issues",
-      "description": "The iPhone Duo is now expected to arrive before the holidays, and Apple is expanding its delivery estimates to accommodate increased demand."
-    }
-  ],
-  "trends": [
-    "AI",
-    "Hardware",
-    "Supply Chain",
-    "Pricing",
-    "New Products"
-  ],
-  "worthWatching": [
-    "The expansion of Apple Intelligence to iPads and Macs in China, which may impact the tech industry's focus on AI-powered products."
-  ],
-  "engineeringPerspective": [
-    "The importance of proper AI-powered app permissions and transparency features for user data security."
-  ],
+  "generatedAt": "2026-11-17T15:01:29.795Z",
+  "executiveSummary": "AI analysis is temporarily unavailable. Please check back later.",
+  "takeaways": [],
+  "trends": [],
+  "worthWatching": [],
+  "engineeringPerspective": [],
   "statistics": {
-    "totalArticles": 30,
-    "totalSources": 4,
-    "mostMentionedTopics": [
-      "Apple",
-      "AI",
-      "Hardware"
-    ]
-  },
-  "generatedAt": "2026-11-17T01:12:30.165Z"
+    "totalArticles": 0,
+    "totalSources": 0,
+    "mostMentionedTopics": []
+  }
 }
