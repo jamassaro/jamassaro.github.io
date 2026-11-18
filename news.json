@@ -1,300 +1,295 @@
 {
   "articles": [
     {
-      "id": "4ba852e3823a8b12",
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "id": "7f7124a8f5ba9af9",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "description": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T14:50:58.000Z"
+      "publishedAt": "2026-11-18T00:01:00.000Z"
     },
     {
-      "id": "54d89b3db0d4900b",
-      "title": "This E Ink photo frame can double as your family’s digital dashboard",
-      "description": "Trmnl, a company best known for its highly customizable E Ink dashboards that can function as anything from a desktop calendar to a stock tracker, has introduced a new display that's also well suited for showing artwork and photos. It's not the company's first color E Ink device, but instead of bein",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/frame1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T14:49:21.000Z"
-    },
-    {
-      "id": "837b8221c0951777",
-      "title": "Apple Now Sells DIY Repair Parts for iPhone Duo",
-      "description": "As reported by 9to5Mac, Apple is now selling parts for the iPhone Duo on its self-service repair store in the U.S., Canada, and Europe. After ordering parts and tools, customers with the know-how can follow the steps in Apple's iPhone Duo repair manual to complete their own repairs and save a visit ",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/11/17/apple-now-sells-iphone-duo-repair-parts/",
+      "id": "6e685b4836208e87",
+      "title": "Disney+ and Hulu Will Fully Merge Into One App in December",
+      "description": "Disney says its plans to merge Disney+ and Hulu will be completed in December, with subscribers able to have a \"fully unified experience\" on Disney+ with Hulu live TV and premium add-ons.\r\n\r\n\r\nThe detail was included in Disney's fourth quarter earnings report. Disney believes the unified app will ma",
+      "image": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
+      "url": "https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T14:47:19.000Z"
+      "publishedAt": "2026-11-17T23:56:28.000Z"
     },
     {
-      "id": "0f8fb9f927824c59",
-      "title": "Apple now selling iPhone Duo replacement parts and tools",
-      "description": "Following last month’s launch of the iPhone Duo, which also saw the release of Apple’s official repair manuals for the device, Apple today began selling replacement parts and tools through its Self Service Repair Store. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T14:38:30.000Z"
-    },
-    {
-      "id": "1788058648c7fcb8",
-      "title": "Disney+ and Hulu’s ‘fully unified’ app is coming next month",
-      "description": "Disney has announced a major milestone coming next month in its plans to merge the Disney+ and Hulu apps, which will be “fully unified” into Disney+ soon.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/disney-plus-hulu-app-icons.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/disney-and-hulus-fully-unified-app-is-coming-next-month/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T14:31:31.000Z"
-    },
-    {
-      "id": "bf00a4c249ad1adf",
-      "title": "Get ready for a nationwide emergency alert test at 2:20PM ET today",
-      "description": "Radio and TV broadcasts will be interrupted for about one minute at 2:20PM ET on Tuesday while FEMA and the FCC test the country's Emergency Alert System. Unlike recent communications outages, this is a planned interruption that FEMA is required to run every three years. FEMA says today's test inclu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303603602.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026",
+      "id": "2f225a7353693295",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "description": "Microsoft CEO Satya Nadella on stage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T14:28:24.000Z"
+      "publishedAt": "2026-11-17T23:41:18.000Z"
     },
     {
-      "id": "3dc1c763af222fed",
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "description": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "id": "f19894362e062b2a",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T14:26:46.000Z"
+      "publishedAt": "2026-11-17T23:37:48.000Z"
     },
     {
-      "id": "6cb1eb75d7872f88",
-      "title": "The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer",
-      "description": "Amazon no longer considers the midrange Fire TV Stick 4K Plus as part of its official lineup following the launch of it latest Fire TV Stick 4K, but that doesn’t mean the streaming device isn’t still good value. In fact, it’s an even more attractive option now that it’s dropped to $29.99 ($40 off) a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T14:25:07.000Z"
-    },
-    {
-      "id": "5e9c258b4b068c70",
-      "title": "iPhone 20 Pro Screen Protectors Show Rumored Curved Design",
-      "description": "Screen protector samples circulating online offer an early look at how Apple's rumored iPhone 20 Pro redesign could look, with rounded edges that could help create the appearance of a nearly borderless display.\r\n\r\n\r\nSharing a video of the purported screen protector on X yesterday, the leaker known a",
-      "image": "https://images.macrumors.com/article-new/2026/11/iphone-20-pro-screen-protectors.jpg",
-      "url": "https://www.macrumors.com/2026/11/17/iphone-20-pro-screen-protectors-rumored-design/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T14:08:09.000Z"
-    },
-    {
-      "id": "5f597aeea4e94378",
-      "title": "Major websites compromised to steal crypto from iPhone users",
-      "description": "A security researcher has discovered that some of the world’s most popular websites were compromised in an attempt to steal cryptocurrency from iPhone users.\nA total of 178 websites were affected, including BBC, CNN, HSBC, IKEA, and Zoom. Reasonably recent versions of iOS are safe, and so far it app",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-websites-compromised-to-steal-crypto-from-iPhone-users.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/major-websites-compromised-to-steal-crypto-from-iphone-users/",
+      "id": "35f6aab8a6895d34",
+      "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
+      "description": "iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair. Watch it below.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T14:06:04.000Z"
+      "publishedAt": "2026-11-17T23:36:09.000Z"
     },
     {
-      "id": "99572913bf93f99f",
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "description": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "id": "54e6ef657d02975f",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T14:05:30.000Z"
+      "publishedAt": "2026-11-17T23:04:35.000Z"
     },
     {
-      "id": "fae6acf87a775073",
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "id": "18df4916c271a9b6",
+      "title": "WhatsApp’s first-party chat history backup service moves ahead",
+      "description": "Select WhatsApp beta testers on iOS are now seeing an option to use the app’s own backup service as an alternative to iCloud. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/whatsapps-first-party-chat-history-backup-service-moves-ahead/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T22:57:08.000Z"
+    },
+    {
+      "id": "b0446ed024251bd7",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "description": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T14:00:00.000Z"
+      "publishedAt": "2026-11-17T22:42:27.000Z"
     },
     {
-      "id": "1dfb8093c450e167",
-      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
-      "description": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
-      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "id": "5ae4d3725b97ce32",
+      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "description": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too.\nDuring Semafor's Silico",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T22:38:41.000Z"
+    },
+    {
+      "id": "0318b6a7e812f800",
+      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "description": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with form",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T22:32:50.000Z"
+    },
+    {
+      "id": "52a112f288274277",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "description": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T14:00:00.000Z"
+      "publishedAt": "2026-11-17T22:29:05.000Z"
     },
     {
-      "id": "562461899c144502",
-      "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
-      "description": "The first ever lab-grown hamburger cost $300,000 to make in 2013. Upside Foods says its cultivated chicken can now match the price range of “really high quality organic chicken.\"",
-      "url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
+      "id": "3ced8d2f86174923",
+      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "description": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T22:25:41.000Z"
+    },
+    {
+      "id": "5346df6dd969b0ab",
+      "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
+      "description": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T22:07:22.000Z"
+    },
+    {
+      "id": "8e26c827ad8b7ac2",
+      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "description": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" \nJones added, \"We will not be addressing or taking questions on ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T22:05:05.000Z"
+    },
+    {
+      "id": "41d4a1ee3a754d99",
+      "title": "iFixit Says Apple's HomeView is Unnecessarily Hard to Repair",
+      "description": "iFixit today tore down the Apple HomeView to see what's inside, and found that the device takes a step backward in repairability compared to the HomePod. Getting into it resulted in damage to internal components.\r\n\r\n\n\r\nStrong adhesive holds the HomeView's display in place, and iFixit said it was dif",
+      "url": "https://www.macrumors.com/2026/11/17/ifixit-homeview-teardown/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T22:04:33.000Z"
+    },
+    {
+      "id": "91f49c980062981f",
+      "title": "Apple Blames Internal Update for Outage, Says It Wasn't a Cyberattack",
+      "description": "Apple has largely resolved outages affecting iCloud accounts, retail stores, and more, the company said in a statement to Bloomberg. Apple said the outages were due to an unspecified \"internal update\" and were not caused by a cyberattack. The company is working to get remaining systems online \"as so",
+      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Logo-Black.jpeg",
+      "url": "https://www.macrumors.com/2026/11/17/apple-outage-internal-update/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T21:54:04.000Z"
+    },
+    {
+      "id": "c90dfe033304263c",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T14:00:00.000Z"
+      "publishedAt": "2026-11-17T21:48:07.000Z"
     },
     {
-      "id": "be27aaca45552618",
-      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-      "description": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
-      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+      "id": "465cad3034070f6e",
+      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+      "description": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge\t\n\nIf you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discount",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T21:46:20.000Z"
+    },
+    {
+      "id": "adbc10438b2f5587",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "description": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T21:40:59.000Z"
+    },
+    {
+      "id": "94504a247eea2ca4",
+      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
+      "description": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tuned Air t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nike1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T21:38:08.000Z"
+    },
+    {
+      "id": "74b3b81ab0695f0a",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "description": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T14:00:00.000Z"
+      "publishedAt": "2026-11-17T21:34:50.000Z"
     },
     {
-      "id": "734e2ddab586b8bd",
-      "title": "Windows 11 actually runs better on 8GB of RAM now",
-      "description": "The 13-inch Surface Laptop with 8GB of RAM is much improved after recent Windows updates.\t\n\nAs recently as the beginning of the year, 16GB of RAM was common on sub-$800 Windows laptops, which helped compensate for an increasingly bloated-feeling Windows 11. But with the cost of RAM skyrocketing this",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268655_Microsoft_Surface_Laptop_13-inch_8GB_2026_review_ADiBenedetto_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
+      "id": "5b1fb359b478d892",
+      "title": "Epic accuses Apple of withholding 122,000 documents, seeks daily fines",
+      "description": "In a new filing, Epic Games accuses Apple of withholding more than 122,000 documents related to its proposed App Store commissions and asks the court to impose daily fines until the company complies. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/epic-accuses-apple-of-withholding-122000-documents-seeks-daily-fines/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-17T21:22:55.000Z"
+    },
+    {
+      "id": "56edc5b16010ab34",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "description": "Open AI CEO Sam Altman does a television interview | Getty Images\t\n\nInstagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.\nEarlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the c",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T14:00:00.000Z"
+      "publishedAt": "2026-11-17T21:00:55.000Z"
     },
     {
-      "id": "407c24d3ba1d72ee",
-      "title": "Apple Work Podcast: Kaseya on MSPs, cybersecurity, and managing Apple in one platform",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizat",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/kaseya-on-msps-cybersecurity-and-managing-apple-in-one-platform/",
-      "source": "9to5Mac",
+      "id": "45e792b74a40b84a",
+      "title": "Final Cut Pro Now Includes MotionVFX for Creator Studio Users",
+      "description": "Apple today updated Final Cut Pro (FCP), adding MotionVFX integration. Apple purchased the company earlier this year, so now the MotionVFX library is part of FCP. It includes the templates, titles, themes, effects, layouts, and transitions that are popular with creators.\r\n\r\nSubscribe to the MacRumor",
+      "url": "https://www.macrumors.com/2026/11/17/final-cut-pro-motionvfx/",
+      "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T14:00:00.000Z"
+      "publishedAt": "2026-11-17T20:58:00.000Z"
     },
     {
-      "id": "3188169833ded7a9",
-      "title": "Disney Plus and Hulu’s fully unified app arrives next month",
-      "description": "Disney Plus and Hulu will officially become one app next month. As part of its earnings report released on Tuesday, Disney announced that bundle subscribers \"will have a fully unified experience\" on Disney Plus with access to Hulu's live TV service and premium streaming add-ons in December.\nA unifie",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954700/acastro_STK080_disneyPlus_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026",
+      "id": "5ff0d52ffaed08eb",
+      "title": "Instagram is helping creators crack down on copycat videos",
+      "description": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform.\n\"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T13:46:02.000Z"
+      "publishedAt": "2026-11-17T20:46:31.000Z"
     },
     {
-      "id": "767d11b83275d552",
-      "title": "Apple memory suppliers expect price increases through at least 2030 [U]",
-      "description": "Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not protect against price increases related t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-memory-supplier-expects-price-increases-through-at-least-2030.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
+      "id": "57230835bab7fd73",
+      "title": "iOS 27.3’s redesigned Apple Health app requires newer iPhone model",
+      "description": "iOS 27.3 will introduce an all-new Apple Health experience when it ships next month, but you’ll need an AI-compatible iPhone to get it. Here’s why.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/health-app-ios-27-2-watchos-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/ios-27-3s-redesigned-apple-health-app-requires-newer-iphone-model/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T13:39:13.000Z"
+      "publishedAt": "2026-11-17T20:19:51.000Z"
     },
     {
-      "id": "4f0b007d4a8be2c2",
-      "title": "MacBook Neo Black Friday Deals Arrive With $49 Discounts on Nearly Every Model at Amazon",
-      "description": "Amazon today introduced a rare discount on the MacBook Neo, discounting all four of the entry-level 256GB models down to $649.99, from $699.00. This sale is available in Silver, Indigo, Citrus, and Blush, with an estimated delivery date of November 22 for most models.\r\n\r\nNote: MacRumors is an affili",
-      "image": "https://images.macrumors.com/article-new/2026/11/macbook-neo-black-friday.jpeg",
-      "url": "https://www.macrumors.com/2026/11/17/macbook-neo-rare-50-discount/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T13:36:15.000Z"
-    },
-    {
-      "id": "b6ff8c69552f5e0e",
-      "title": "Face unlock is a good compromise for the iPhone Duo – now let’s have it for the Mac",
-      "description": "When Apple first announced Face ID, the company talked a great deal about how secure the system is, contrasting it to the far less secure image-based facial unlock systems used by the likes of Google and Samsung.\nFast-forward to 2026, and Apple is itself now offering that less secure approach as an ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-duo-face-id.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/face-unlock-is-a-good-compromise-for-the-iphone-duo-now-lets-have-it-for-the-mac/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T13:23:14.000Z"
-    },
-    {
-      "id": "854d2ea6960a886a",
-      "title": "Uber and Zipline’s drone delivery service takes flight in Houston",
-      "description": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned.\nThe rollout comes after Uber and Zipline first announced their tie-up",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25214561/ces_drone_zipline_delivery_bag_press_kit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas",
-      "source": "The Verge",
+      "id": "be7f5f812bd266a5",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "description": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T13:00:00.000Z"
+      "publishedAt": "2026-11-17T19:49:41.000Z"
     },
     {
-      "id": "1504abe3bc507877",
-      "title": "The Verge Best of 2026",
-      "description": "Hundreds of gadgets pass across our desks each year. Some leave their mark and get a full review or make it to the top of a buying guide. It's harder than it sounds to narrow down our favorites. Instead of simply picking products that scored highly, or only those that made it into our buying guides,",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BestofLede_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026",
-      "source": "The Verge",
+      "id": "20fac8573e8beb5d",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "description": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T13:00:00.000Z"
+      "publishedAt": "2026-11-17T19:32:11.000Z"
     },
     {
-      "id": "0520b64cb1b489c4",
-      "title": "iPhone Users Targeted in Major Website Security Breach",
-      "description": "Hackers used some of the world's most popular websites to distribute malware designed to steal cryptocurrency and exploit vulnerabilities in iPhones and iPads this week, according to a new security investigation.\r\n\r\n\r\nReuters reports that websites associated with 178 organizations were affected by t",
-      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
-      "url": "https://www.macrumors.com/2026/11/17/iphone-users-targeted-website-security-breach/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T12:42:03.000Z"
-    },
-    {
-      "id": "30c661541b655b8b",
-      "title": "Apple Names 'Baby, This Is Keke Palmer' Podcast of the Year",
-      "description": "Apple today named \"Baby, this is Keke Palmer\" its 2026 Show of the Year, recognizing the interview podcast for its quality and cultural impact.\r\n\r\nThe Rest Is History,\" hosted by historians Tom Holland and Dominic Sandbrook.\nTag: Apple Podcasts\nThis article, \"Apple Names 'Baby, This Is Keke Palmer' ",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Podcasts-Show-of-the-Year-2026-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/11/17/this-is-keke-palmer-podcast-of-the-year/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T12:30:54.000Z"
-    },
-    {
-      "id": "bb62af73437379d3",
-      "title": "Apple Podcasts 2026 Show of the Year is ‘Baby, this is Keke Palmer’",
-      "description": "Each year, Apple Podcasts names its Show of the Year, and the 2026 winner is Baby, this is Keke Palmer. Apple said the podcast consistently ranked as one of the most popular shows, and praised it for its “exceptional quality and cultural impact” … \nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Podcasts-2026-Show-of-the-Year-is-Baby-this-is-Keke-Palmer.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/apple-podcasts-2026-show-of-the-year-is-baby-this-is-keke-palmer/",
+      "id": "7a25d4ce3bb0625a",
+      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "description": "AirPods got a variety of new features this fall in iOS 27, several of which are exclusive to AirPods Pro 3 (now only $179). Here’s everything new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T12:15:20.000Z"
+      "publishedAt": "2026-11-17T19:28:12.000Z"
     },
     {
-      "id": "2af3a3b9e6c89f3f",
-      "title": "Apple hears Liquid Glass feedback, tests small but welcome change",
-      "description": "Liquid Glass was one of the most controversial and polarizing UI changes Apple has made for a long time. The company listened to the feedback and made a number of changes, the most significant of which was to introduce a sliding transparency scale.\nApple is currently testing a change some will consi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-device-lineup-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/apple-hears-liquid-glass-feedback-tests-small-but-welcome-change/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T12:01:10.000Z"
-    },
-    {
-      "id": "46e0c0ef82b3adc0",
-      "title": "Apple Tests Bringing Back a Softer Side of Liquid Glass",
-      "description": "Apple is testing a softer appearance for iPhone navigation bars that would bring back part of the look used in iOS 26, according to a new finding shared by pdfu on X (Twitter).\r\n\r\nThe gradual fade nav bar effect is disabled by default in iOS 27.3 beta 2\n\r\nThe change affects how content fades out as ",
-      "image": "https://images.macrumors.com/article-new/2026/11/gradual-fade-nav-bar-flag-pdfu-scaled.jpg",
-      "url": "https://www.macrumors.com/2026/11/17/apple-tests-softer-side-of-liquid-glass/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T11:16:24.000Z"
-    },
-    {
-      "id": "515a2f7a7cd6fe92",
-      "title": "MacBook Neo gets rare $50 price drop in early Black Friday deal",
-      "description": "The most affordable current-generation MacBook you can get under the tree this year just dropped to its best prices in several months with today’s extremely rare early Black Friday deals. Apple’s MacBook Neo lineup is nearly $50 off to deliver one of, if not the most surprising discounts of the 2026",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/macbook-neo-gets-rare-50-price-drop-in-early-black-friday-deal/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T11:16:21.000Z"
-    },
-    {
-      "id": "43cf9c18b29160c2",
-      "title": "Apple Close to Rare Long-Term Memory Deal With Samsung",
-      "description": "Apple is close to signing a long-term supply agreement with Samsung for DRAM chips, according to Korea's Maeil Business Newspaper. The deal would reportedly run for four to five years from the first half of 2027, setting a minimum supply volume, with prices finalized later based on market conditions",
-      "image": "https://images.macrumors.com/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
-      "url": "https://www.macrumors.com/2026/11/17/apple-rare-long-term-memory-deal-samsung/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T10:28:18.000Z"
+      "id": "78460ae7b1f17ce3",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "description": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-17T19:02:20.000Z"
     }
   ],
-  "lastUpdated": "2026-11-17T14:59:19.384Z",
+  "lastUpdated": "2026-11-18T00:06:05.168Z",
   "sources": [
     "TechCrunch",
     "The Verge",
