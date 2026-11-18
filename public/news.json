@@ -1,295 +1,303 @@
 {
   "articles": [
     {
-      "id": "7f7124a8f5ba9af9",
-      "title": "Stripe backer Atomico calls for Europe to own its success stories",
-      "description": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
-      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-18T00:01:00.000Z"
+      "id": "e7dfe41429cfbca4",
+      "title": "New Siri Remote for Apple TV 4K just got a firmware update",
+      "description": "Apple has released a firmware update for the new Siri Remote for Apple TV 4K, according to AppleDB. Here’s what you should know.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/18/new-siri-remote-for-apple-tv-4k-just-got-a-firmware-update/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T14:33:20.000Z"
     },
     {
-      "id": "6e685b4836208e87",
-      "title": "Disney+ and Hulu Will Fully Merge Into One App in December",
-      "description": "Disney says its plans to merge Disney+ and Hulu will be completed in December, with subscribers able to have a \"fully unified experience\" on Disney+ with Hulu live TV and premium add-ons.\r\n\r\n\r\nThe detail was included in Disney's fourth quarter earnings report. Disney believes the unified app will ma",
-      "image": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
-      "url": "https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/",
+      "id": "bc77e099800ed42c",
+      "title": "iPhone Duo 2 Likely to Retain Touch ID as Face ID Remains Uncertain",
+      "description": "Apple's second-generation iPhone Duo will retain its existing display sizes and side-mounted fingerprint sensor, according to the leaker known as \"Digital Chat Station.\"\r\n\r\n\r\nIn a new post on Weibo, the leaker said information about the ‌iPhone Duo‌ 2 remains limited, but engineering units continue ",
+      "image": "https://images.macrumors.com/article-new/2024/09/face-id.jpg",
+      "url": "https://www.macrumors.com/2026/11/18/iphone-duo-2-likely-to-retain-touch-id/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T23:56:28.000Z"
+      "publishedAt": "2026-11-18T14:16:44.000Z"
     },
     {
-      "id": "2f225a7353693295",
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "description": "Microsoft CEO Satya Nadella on stage at Microsoft Ignite. | Image: Microsoft / YouTube\t\n\nMicrosoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T23:41:18.000Z"
-    },
-    {
-      "id": "f19894362e062b2a",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T23:37:48.000Z"
-    },
-    {
-      "id": "35f6aab8a6895d34",
-      "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
-      "description": "iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair. Watch it below.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T23:36:09.000Z"
-    },
-    {
-      "id": "54e6ef657d02975f",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T23:04:35.000Z"
-    },
-    {
-      "id": "18df4916c271a9b6",
-      "title": "WhatsApp’s first-party chat history backup service moves ahead",
-      "description": "Select WhatsApp beta testers on iOS are now seeing an option to use the app’s own backup service as an alternative to iCloud. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/whatsapps-first-party-chat-history-backup-service-moves-ahead/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T22:57:08.000Z"
-    },
-    {
-      "id": "b0446ed024251bd7",
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "description": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T22:42:27.000Z"
-    },
-    {
-      "id": "5ae4d3725b97ce32",
-      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-      "description": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too.\nDuring Semafor's Silico",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T22:38:41.000Z"
-    },
-    {
-      "id": "0318b6a7e812f800",
-      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-      "description": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with form",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T22:32:50.000Z"
-    },
-    {
-      "id": "52a112f288274277",
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "description": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T22:29:05.000Z"
-    },
-    {
-      "id": "3ced8d2f86174923",
-      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-      "description": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T22:25:41.000Z"
-    },
-    {
-      "id": "5346df6dd969b0ab",
-      "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
-      "description": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-17T22:07:22.000Z"
-    },
-    {
-      "id": "8e26c827ad8b7ac2",
-      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-      "description": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" \nJones added, \"We will not be addressing or taking questions on ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T22:05:05.000Z"
-    },
-    {
-      "id": "41d4a1ee3a754d99",
-      "title": "iFixit Says Apple's HomeView is Unnecessarily Hard to Repair",
-      "description": "iFixit today tore down the Apple HomeView to see what's inside, and found that the device takes a step backward in repairability compared to the HomePod. Getting into it resulted in damage to internal components.\r\n\r\n\n\r\nStrong adhesive holds the HomeView's display in place, and iFixit said it was dif",
-      "url": "https://www.macrumors.com/2026/11/17/ifixit-homeview-teardown/",
+      "id": "a7938301e54db3a0",
+      "title": "Apple Releases Firmware Update for New Siri Remote",
+      "description": "Apple on Tuesday released a firmware update for the fourth-generation Siri Remote. The new version is 0001.0061.0000.0000, up from 0001.0057.0000.0000, according to AppleDB.\r\n\r\nRelated Roundup: Apple TV\nTags: Siri, Siri Remote\nBuyer's Guide: Apple TV (Buy Now)\nRelated Forum: Apple TV and Home Theate",
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-Remote-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T22:04:33.000Z"
+      "publishedAt": "2026-11-18T14:12:53.000Z"
     },
     {
-      "id": "91f49c980062981f",
-      "title": "Apple Blames Internal Update for Outage, Says It Wasn't a Cyberattack",
-      "description": "Apple has largely resolved outages affecting iCloud accounts, retail stores, and more, the company said in a statement to Bloomberg. Apple said the outages were due to an unspecified \"internal update\" and were not caused by a cyberattack. The company is working to get remaining systems online \"as so",
-      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Logo-Black.jpeg",
-      "url": "https://www.macrumors.com/2026/11/17/apple-outage-internal-update/",
+      "id": "8f5730067131898b",
+      "title": "Apple announces 2026 App Store Award finalists",
+      "description": "Apple will announce the winners of its 2026 App Store Awards in the weeks ahead. But ahead of those announcements, today the company has recognized 45 apps and games as finalists.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/app-store-awards-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/18/apple-announces-2026-app-store-award-finalists/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T14:09:45.000Z"
+    },
+    {
+      "id": "506e1ce41d8a425c",
+      "title": "How The Verge is picking which Black Friday deals to share",
+      "description": "For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and small that hope that we’ll publicize these offers. Of course, the companies would ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PRICE2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T14:00:00.000Z"
+    },
+    {
+      "id": "8679bbe178cb2f6b",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "description": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they creat",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T14:00:00.000Z"
+    },
+    {
+      "id": "dce8bbc4e1105872",
+      "title": "Amazon Takes $850 Off 2026 16-Inch MacBook Pro With M5 Max Chip",
+      "description": "Amazon today introduced the biggest discount yet on one model of the 16-inch MacBook Pro from early 2026. You can get the M5 Max model with 48GB RAM and a 2TB SSD for $4,149.00, down from $4,999.00.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make",
+      "image": "https://images.macrumors.com/article-new/2026/03/m5-pro-macbook-pro-launch-day.jpeg",
+      "url": "https://www.macrumors.com/2026/11/18/amazon-850-off-macbook-pro/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T21:54:04.000Z"
+      "publishedAt": "2026-11-18T13:54:43.000Z"
     },
     {
-      "id": "c90dfe033304263c",
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T21:48:07.000Z"
-    },
-    {
-      "id": "465cad3034070f6e",
-      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
-      "description": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge\t\n\nIf you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discount",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T21:46:20.000Z"
-    },
-    {
-      "id": "adbc10438b2f5587",
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "description": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T21:40:59.000Z"
-    },
-    {
-      "id": "94504a247eea2ca4",
-      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
-      "description": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tuned Air t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nike1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T21:38:08.000Z"
-    },
-    {
-      "id": "74b3b81ab0695f0a",
-      "title": "Google joins the tech outage trend by announcing it’s not having one",
-      "description": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T21:34:50.000Z"
-    },
-    {
-      "id": "5b1fb359b478d892",
-      "title": "Epic accuses Apple of withholding 122,000 documents, seeks daily fines",
-      "description": "In a new filing, Epic Games accuses Apple of withholding more than 122,000 documents related to its proposed App Store commissions and asks the court to impose daily fines until the company complies. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/epic-accuses-apple-of-withholding-122000-documents-seeks-daily-fines/",
+      "id": "3f9145e4f7262dad",
+      "title": "Leaker claims Apple developing four models of 20th anniversary iPhone",
+      "description": "Leaker Ice Universe says Apple is currently developing four models of the 20th anniversary iPhone which we’ve been referring to as the iPhone 20. We’re expecting next year’s flagship models to be a radical new design with an all-glass appearance.\nWhy four models rather than two is unclear, but it se",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-color-wave.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T21:22:55.000Z"
+      "publishedAt": "2026-11-18T13:30:06.000Z"
     },
     {
-      "id": "56edc5b16010ab34",
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "description": "Open AI CEO Sam Altman does a television interview | Getty Images\t\n\nInstagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.\nEarlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the c",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T21:00:55.000Z"
-    },
-    {
-      "id": "45e792b74a40b84a",
-      "title": "Final Cut Pro Now Includes MotionVFX for Creator Studio Users",
-      "description": "Apple today updated Final Cut Pro (FCP), adding MotionVFX integration. Apple purchased the company earlier this year, so now the MotionVFX library is part of FCP. It includes the templates, titles, themes, effects, layouts, and transitions that are popular with creators.\r\n\r\nSubscribe to the MacRumor",
-      "url": "https://www.macrumors.com/2026/11/17/final-cut-pro-motionvfx/",
+      "id": "0824422583458e1a",
+      "title": "WhatsApp's iCloud Backup Alternative Rolls Out to Beta Users on iPhone",
+      "description": "WhatsApp is rolling out its first-party cloud backup service to some users on the beta version of the app for iOS, reports WABetaInfo.\r\n\r\nWhatsApp cloud backup options in iOS beta (image: WABetaInfo)\n\r\nThe option is said to be appearing to some users on WhatsApp beta version 26.45.10.71, currently i",
+      "image": "https://images.macrumors.com/article-new/2026/11/whatsapp-chat-cloud-backup-wabetainfo.jpg",
+      "url": "https://www.macrumors.com/2026/11/18/whatsapp-backup-alternative-rolls-out-beta-ios/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T20:58:00.000Z"
+      "publishedAt": "2026-11-18T13:14:09.000Z"
     },
     {
-      "id": "5ff0d52ffaed08eb",
-      "title": "Instagram is helping creators crack down on copycat videos",
-      "description": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform.\n\"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+      "id": "ddf07d1c2ffb1c41",
+      "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
+      "description": "VWFNDR + MBL, an Android camera app that doesn’t overprocess and delivers high-quality DNG (RAW) files, is getting a 2.0 release with improved color grading and an expansion to the iPhone.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/vwfndr-android-camera-app.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5google.com/2026/11/18/vwfndr-mbl-camera-app-color-grading-android-iphone-release/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T13:10:02.000Z"
+    },
+    {
+      "id": "6a6fd53713fc4224",
+      "title": "Six new Aqara smart lights with Apple Home support and ‘spatial intelligence’",
+      "description": "Aqara has announced the global launch of six new smart lighting products with full Apple Home support and what the company describes as “spatial intelligence.”\nThe new lineup includes a vertical floor lamp with 18 individually addressable lighting zones, and a new LED strip offering seamless color g",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Six-new-Aqara-smart-lights-with-Apple-Home-support-and-spatial-intelligence.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/18/six-new-aqara-smart-lights-with-apple-home-support-and-spatial-intelligence/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T13:06:32.000Z"
+    },
+    {
+      "id": "bc153ecc48fcc727",
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "description": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T20:46:31.000Z"
+      "publishedAt": "2026-11-18T13:01:05.000Z"
     },
     {
-      "id": "57230835bab7fd73",
-      "title": "iOS 27.3’s redesigned Apple Health app requires newer iPhone model",
-      "description": "iOS 27.3 will introduce an all-new Apple Health experience when it ships next month, but you’ll need an AI-compatible iPhone to get it. Here’s why.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/health-app-ios-27-2-watchos-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/ios-27-3s-redesigned-apple-health-app-requires-newer-iphone-model/",
+      "id": "53e1c0555be5214f",
+      "title": "MacPaw's Moonlock Cybersecurity App Launches for iPhone",
+      "description": "MacPaw today launched its Moonlock cybersecurity app for the iPhone, bringing the company's consumer-focused security features to mobile for the first time.\r\n\r\n\r\nMoonlock is designed to help iPhone users recognize and avoid phishing scams and other online threats, according to the company. For examp",
+      "image": "https://images.macrumors.com/article-new/2026/11/Moonlock-macpaw.jpg",
+      "url": "https://www.macrumors.com/2026/11/18/macpaw-moonlock-cybersecurity-app-iphone/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T13:00:05.000Z"
+    },
+    {
+      "id": "ba3aa647d5ef05bb",
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "description": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T13:00:00.000Z"
+    },
+    {
+      "id": "d8e90f1492183966",
+      "title": "MacPaw’s Moonlock comes to iPhone, helping users detect potential scams",
+      "description": "After launching Moonlock for Mac last year, MacPaw is bringing its scam-detection app to iPhone today. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macpaw-moonlock.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/18/macpaws-moonlock-comes-to-iphone-helping-users-detect-potential-scams/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T20:19:51.000Z"
+      "publishedAt": "2026-11-18T13:00:00.000Z"
     },
     {
-      "id": "be7f5f812bd266a5",
-      "title": "Waymo suspends freeway rides nationwide after California DMV order",
-      "description": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
-      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T19:49:41.000Z"
+      "id": "182ba7181188e762",
+      "title": "Apple Reportedly Developing Two Designs for 20th Anniversary iPhone",
+      "description": "Apple is currently developing four models with two different designs for the iPhone's 20th anniversary, according to the leaker known as \"Ice Universe.\"\r\n\r\n\r\nIn a new post on Weibo, the leaker outlined the two designs. Two are said to feature flat glass covers and two have glass that curves along al",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
+      "url": "https://www.macrumors.com/2026/11/18/two-designs-for-20th-anniversary-iphone/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T12:57:25.000Z"
     },
     {
-      "id": "20fac8573e8beb5d",
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "description": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-17T19:32:11.000Z"
-    },
-    {
-      "id": "7a25d4ce3bb0625a",
-      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
-      "description": "AirPods got a variety of new features this fall in iOS 27, several of which are exclusive to AirPods Pro 3 (now only $179). Here’s everything new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "id": "f4e4de1c8b92781e",
+      "title": "Banks, FAA, Microsoft, Apple – no systemic attack on the US, says White House",
+      "description": "A set of major tech outages in close succession is leading some to speculate that they are connected, and that the US is under systemic attack by a hostile state.\nAll the evidence suggests otherwise, with individual explanations for each of them – and the White House is now saying as much in a bid t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Banks-FAA-Microsoft-Apple-–-no-systemic-attack-on-the-US-says-White-House.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/18/banks-faa-microsoft-apple-no-systemic-attack-on-the-us-says-white-house/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-17T19:28:12.000Z"
+      "publishedAt": "2026-11-18T12:30:24.000Z"
     },
     {
-      "id": "78460ae7b1f17ce3",
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "description": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "id": "f7ea661981be44e6",
+      "title": "Apple Rolls Out All-New Maps Experience Across India",
+      "description": "Apple today announced the rollout of an all-new Apple Maps experience in India, bringing the company's redesigned map to the country for the first time. The update offers faster and more accurate navigation, more detailed views of roads, buildings, parks, and shopping centers, and over 300 three-dim",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Maps-India-3up-scaled.jpg",
+      "url": "https://www.macrumors.com/2026/11/18/apple-rolls-out-all-new-maps-across-india/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T12:23:29.000Z"
+    },
+    {
+      "id": "e5f85f8bd926f43d",
+      "title": "NASA’s Voyager 1 probe is now 1 light-day away",
+      "description": "Voyager 1 has traveled farther than any other human-made object. | Photo: NASA / Hulton Archive / Getty Images\t\n\nAfter traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: The spacecraft is now officially 1 light-day away from Earth, which is, as NASA put it, \"v",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-164430702.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T12:03:36.000Z"
+    },
+    {
+      "id": "b38aa42e392fc835",
+      "title": "The UK and some other countries don’t get more Siri AI usage with iCloud+",
+      "description": "Apple this week revealed the additional Siri AI usage you’ll get if you have an iCloud+ subscription. This ranges from doubled limits for a 200GB plan to 20 times for a 12TB plan.\nHowever, the company’s support document reveals that some countries will not get access to these increased usage allowan",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T12:00:06.000Z"
+    },
+    {
+      "id": "b7685ac0ea60aa3f",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "description": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-17T19:02:20.000Z"
+      "publishedAt": "2026-11-18T12:00:00.000Z"
+    },
+    {
+      "id": "8a5f05596c5e8f0b",
+      "title": "iPhone Air 2 Reportedly Sticks With Same Display",
+      "description": "Apple's upcoming iPhone Air 2 will keep the same display specifications as its predecessor so the company can use existing OLED panel inventory, according to Korean publication ETNews. Citing industry sources, the report says new panel orders are expected to be minimal, with Samsung Display the sole",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-silver.jpg",
+      "url": "https://www.macrumors.com/2026/11/18/iphone-air-2-reportedly-sticks-with-same-display/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T11:50:26.000Z"
+    },
+    {
+      "id": "fc4eda29366f1972",
+      "title": "iPhone 18 and iPhone Air 2 Display Production to Begin Soon Ahead of Expected March Launch",
+      "description": "Apple's display suppliers are preparing to begin mass production of OLED panels for the upcoming iPhone Air 2 and iPhone 18, according to a report from Korea's ETNews.\r\n\r\n\r\nThe devices will mark Apple's first spring releases next year as part of the company's new split-launch strategy for its flagsh",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-ceramic-shield.jpg",
+      "url": "https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T11:46:22.000Z"
+    },
+    {
+      "id": "e36e5fbfac0b5c22",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "description": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T11:30:00.000Z"
+    },
+    {
+      "id": "abdc4a83d9410e0c",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "description": "Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno\t\n\nSuno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated v",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T11:16:53.000Z"
+    },
+    {
+      "id": "a785d1415bec7852",
+      "title": "Grand Theft Auto VI has arrived",
+      "description": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time.\nPart of this has to do with the success of it",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T11:06:16.000Z"
+    },
+    {
+      "id": "1cc19582c698e757",
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "description": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T11:00:00.000Z"
+    },
+    {
+      "id": "47b49af63003202b",
+      "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+      "description": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minec",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-17-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T11:00:00.000Z"
+    },
+    {
+      "id": "366e8dbfcabaedf4",
+      "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+      "description": "Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of thieves who also happen to fall in love after meeting while stealing a car. It's stil",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-16-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-18T11:00:00.000Z"
+    },
+    {
+      "id": "231f19b3dc3baf16",
+      "title": "Apple announces App Store price changes in multiple countries, new California tax rules",
+      "description": "Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600",
+      "url": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-18T02:17:48.000Z"
     }
   ],
-  "lastUpdated": "2026-11-18T00:06:05.168Z",
+  "lastUpdated": "2026-11-18T14:40:33.968Z",
   "sources": [
     "TechCrunch",
     "The Verge",
