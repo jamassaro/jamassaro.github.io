@@ -1,6 +1,199 @@
 {
   "articles": [
     {
+      "id": "36c6326f4fb19a17",
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "description": "Black Friday is nearly here, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When",
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-4.jpg",
+      "url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T14:20:18.000Z"
+    },
+    {
+      "id": "f4e3611c31086769",
+      "title": "The water upgrade you’ve been waiting for: Waterdrop Filter’s Black Friday deals",
+      "description": "The kitchen tap gets a workout over the holidays. There’s coffee to brew before everyone’s up, a pot of soup on the stove, and a pitcher that always seems to need refilling right as dinner hits the table.\nWhether you’re paying closer attention to family health or simply want better-tasting water for",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/WD_M6CG冬季管道用水教育PR物料_20261029_V1-16_6deaa7.jpg?quality=82&#038;strip=all&#038;w=1201",
+      "url": "https://9to5mac.com/2026/11/20/waterdrop-filter-black-friday-deals-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T14:15:00.000Z"
+    },
+    {
+      "id": "0aa0f3f838cd0a22",
+      "title": "The week everything fell apart",
+      "description": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of somet",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T14:06:59.000Z"
+    },
+    {
+      "id": "14ced5e9f07d29a1",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "description": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T14:00:00.000Z"
+    },
+    {
+      "id": "6cd5d29a1846d5f5",
+      "title": "iOS 27.3: New features, release date, more",
+      "description": "iOS 27.3 is currently in beta testing with developers and public beta users. The update includes multiple new features for iPhone users, including the redesigned Health app, iPhone Duo updates, and much more. Here’s everything you need to know about what’s new in iOS 27.3 …\n9to5Mac is supported by S",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/20/ios-27-3-new-features-release-date-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T13:44:23.000Z"
+    },
+    {
+      "id": "6921af65bdcf5e83",
+      "title": "First Look at iPhone Air 2 and iPhone 18 Revealed By Dummy Models",
+      "description": "New images of dummy models offer an early look at the purported designs of the iPhone Air 2 and iPhone 18, showing a new dual rear camera arrangement for the Air and a largely unchanged appearance for the standard model.\r\n\r\n\r\nIn a new post on X, leaker Sonny Dickson highlights the ‌iPhone Air‌'s mov",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-air-2-and-iphone-18-dummy-models.jpg",
+      "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T13:31:19.000Z"
+    },
+    {
+      "id": "588df1754fc576c2",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "description": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T13:25:00.000Z"
+    },
+    {
+      "id": "e4d2ed64d29d94cc",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "description": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T13:21:11.000Z"
+    },
+    {
+      "id": "ae4c807413eb6b87",
+      "title": "iPhone Air 2 dummy unit shows off new dual-camera design",
+      "description": "Apple is expected to release the iPhone 18 and iPhone Air 2 sometime next spring. Ahead of that launch, new dummy units posted to social media today give us a closer look at the devices, including a big update to the iPhone Air 2.\n9to5Mac is supported by Sony: Score Sony’s ULT Field 1 Bluetooth spea",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/20/iphone-air-2-dual-camera-system/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T12:56:31.000Z"
+    },
+    {
+      "id": "8cc91f447513f574",
+      "title": "WhatsApp Raises Group Chat Limit to 1,500 Members",
+      "description": "WhatsApp is allowing group chats to have up to 1,500 members on iPhone and Android, up from the previous limit of 1,024 participants, according to WABetaInfo.\r\n\r\n\r\nThe increase means group chat admins have room for another 476 people in a single conversation. The jump should make it easier for schoo",
+      "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/20/whatsapp-raises-group-chat-limit-to-1500-members/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T12:44:01.000Z"
+    },
+    {
+      "id": "b952719c121b8ac8",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "description": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal\t\n\nSignal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T12:30:47.000Z"
+    },
+    {
+      "id": "998c53e6308aac13",
+      "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated]",
+      "description": "The official Amazon Black Friday sale is officially underway and we have now collected all of the best Apple deals – there’s a ton of them. Alongside AirPods Pro 3 at $70 off and AirPods Max 2 now at $120 off $130 off, the new Beats 360 modular ANC headphones are now $100 off (all-time low) and the ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5toys_black_friday_02-02.png?w=1600",
+      "url": "https://9to5mac.com/2026/11/20/best-apple-black-friday-deals-now-live/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T12:28:00.000Z"
+    },
+    {
+      "id": "66e1edc480464cb5",
+      "title": "Why the robots are ditching Uber",
+      "description": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "e18e7c9bbab8091a",
+      "title": "Security Bite Podcast: Not amused, two months of Meta Muse privacy problems",
+      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "url": "https://9to5mac.com/2026/11/20/security-bite-podcast-not-amused-two-months-of-meta-muse-privacy-problems/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T11:00:00.000Z"
+    },
+    {
+      "id": "ed9f6baeff147aa4",
+      "title": "The U.S. national cyber director is stepping down",
+      "description": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T09:14:19.000Z"
+    },
+    {
+      "id": "5db677e5e164ce0b",
+      "title": "WhatsApp is raising group chat limit to 1,500 participants",
+      "description": "WhatsApp is gradually rolling out an increase to its group chat limit, allowing up to 1,500 participants to join in, instead of the previous 1,024 cap. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T01:54:39.000Z"
+    },
+    {
+      "id": "bafd3a76a1cecd04",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T00:56:01.000Z"
+    },
+    {
+      "id": "24e86530a3ccb4cd",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T00:43:50.000Z"
+    },
+    {
+      "id": "875a3c8587d5a79c",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-20T00:26:03.000Z"
+    },
+    {
+      "id": "35258824e7d9f18c",
+      "title": "LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs",
+      "description": "You can spend plenty of time getting your Mac, display, and desk just right. But what about the chair you use every day? Between typing, taking video calls, and leaning back to watch something, your position changes throughout the day. Your chair should be able to keep up.\nThat’s the idea behind Lib",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Sale-Chair-Lineup-US-UK-1920x1080-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/19/libernovos-black-friday-sale-takes-up-to-42-off-ergonomic-chairs/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
       "id": "52dbcdd35c76dc91",
       "title": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
       "description": "Following its launch for ChatGPT Pro, Business Premium, and Enterprise users, OpenAI is now beginning to test ChatGPT dot with a small number of ChatGPT Plus subscribers. Here are the details.\nmore…",
@@ -97,205 +290,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-11-19T22:21:28.000Z"
-    },
-    {
-      "id": "07062ee1e8784a92",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "description": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images\t\n\n\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.\nBy Thu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-19T21:59:35.000Z"
-    },
-    {
-      "id": "03d616322d98be81",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-19T21:58:06.000Z"
-    },
-    {
-      "id": "6480b5663b17c502",
-      "title": "Apple TV is now $6.99/month (50% off) for Black Friday, details here",
-      "description": "Apple TV has just launched a Black Friday deal that lets new and returning subscribers get the service for just $6.99/month for up to six months. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/19/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T21:55:07.000Z"
-    },
-    {
-      "id": "964b3ad177693ae3",
-      "title": "AirPods Black Friday Deals Hit Pro 3 at $179 and Max 2 at $429",
-      "description": "Early Black Friday deals are in full swing, and today we're tracking big discounts on both the AirPods Pro 3 and AirPods Max 2 at Amazon.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site ru",
-      "image": "https://images.macrumors.com/article-new/2026/11/airpods-black-friday.jpeg",
-      "url": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T21:50:00.000Z"
-    },
-    {
-      "id": "a2cf64ab264be60b",
-      "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out [U: Public]",
-      "description": "Update, November 19, 4:46 p.m. ET: The release candidates are now available to public beta testers, with the same build numbers as the developer RCs.\nIn addition to macOS 27.3 beta 2, Apple is also rolling out the first Release Candidates for macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4. Here are the",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/19/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T21:48:30.000Z"
-    },
-    {
-      "id": "b9083454ebcceb50",
-      "title": "Second iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
-      "description": "Apple today seeded the second betas of iOS 27.3, iPadOS 27.3, macOS Golden Gate 27.3, tvOS 27.3, and watchOS 27.3. Apple also has revised betas of of iOS 27.3 and iPadOS 27.3 available for developers. \r\n\r\n\r\niOS 27.3 is a major update that adds a Vertical Tabs layout option and Adaptive Dark Mode for",
-      "image": "https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T21:43:39.000Z"
-    },
-    {
-      "id": "1e7d2e1340a45569",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-19T21:42:31.000Z"
-    },
-    {
-      "id": "06327f83f1801853",
-      "title": "iPadOS 27.3, watchOS 27.3, more get public beta 2, here’s what’s new",
-      "description": "Apple has released public beta 2 for iPadOS 27.3 alongside a variety of other 27.3 updates. Here’s what’s new.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPadOS-27.3-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/19/ipados-27-3-watchos-27-3-more-get-public-beta-2-heres-whats-new/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T21:42:03.000Z"
-    },
-    {
-      "id": "4e6bf88235035ec8",
-      "title": "Apple releases iOS 27.3 public beta 2, new developer beta 2 build",
-      "description": "Apple has released iOS 27.3 public beta 2 for iPhone. Today’s release also includes a new build for iOS 27.3 beta 2 for developers. The update brings new Calendar controls, more Siri AI capabilities, and new features for iPhone Duo. It also includes the redesigned Health app and other changes introd",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.3-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/19/apple-releases-ios-27-3-public-beta-2-heres-whats-new/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T21:37:58.000Z"
-    },
-    {
-      "id": "49456f08954047d4",
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "description": "Uber is testing the new program in three U.S. cities.",
-      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-19T21:33:24.000Z"
-    },
-    {
-      "id": "fbae2a3f7c3c4159",
-      "title": "Meta now sells 3D movies on Quest VR headsets",
-      "description": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie Eil",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-19T21:12:06.000Z"
-    },
-    {
-      "id": "cc613b51b4a17a4c",
-      "title": "9to5Mac Daily: November 19, 2026 – New iPhone rumors, leadership changes",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/19/daily-november-19-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T21:11:02.000Z"
-    },
-    {
-      "id": "abe61259cb3ed414",
-      "title": "Roborock’s Black Friday deals make smarter cleaning more affordable than ever",
-      "description": "Cleaning our homes is never going to make anyone’s list of favorite activities, but with the right technology, the task can be made almost effortless.\nWhether you’re looking for an affordable robot vacuum for a small apartment or the ultimate flagship model capable of coping with the challenges of a",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/1280_720.jpg?quality=82&#038;strip=all&#038;w=1280",
-      "url": "https://9to5mac.com/2026/11/19/roborocks-black-friday-deals-make-smarter-cleaning-more-affordable-than-ever/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T21:00:00.000Z"
-    },
-    {
-      "id": "759c6f2c0e32b1a4",
-      "title": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting",
-      "description": "Rumors about next year’s 20th anniversary iPhone Pro models have been ramping up, and they suggest Apple is designing an ‘iPhone 20 Pro’ that combines traits from two current models.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T20:49:24.000Z"
-    },
-    {
-      "id": "01deda748b40d5de",
-      "title": "Apple fires back at Epic over claims it withheld 122,000 documents",
-      "description": "Apple has responded to Epic Games’ filing from last Friday, pushing back against accusations that it improperly withheld more than 122,000 documents related to its proposed App Store commissions. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/19/apple-fires-back-at-epic-over-claims-it-withheld-122000-documents/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T20:43:53.000Z"
-    },
-    {
-      "id": "6afdb6b9b2a084ce",
-      "title": "Meta’s Muse Charm might cost $300",
-      "description": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\"",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-19T20:22:17.000Z"
-    },
-    {
-      "id": "224e36aef2f4c1a6",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-19T20:18:49.000Z"
-    },
-    {
-      "id": "8565e479798f73a6",
-      "title": "Google's Gemini Can Now Control Apps on Your Mac",
-      "description": "Google today expanded Gemini's capabilities, allowing it to take full advantage of your Mac. Gemini for Mac can use apps, files, and websites to complete multi-step tasks in the background while you work in the foreground.\r\n\r\n\r\nAccording to Google, Gemini can do repetitive work, handling clicking, t",
-      "image": "https://images.macrumors.com/article-new/2026/04/gemini-for-mac-app-google.jpg",
-      "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-19T20:14:23.000Z"
-    },
-    {
-      "id": "b858edea5f569dcc",
-      "title": "Google is putting AI chats right on the homepage",
-      "description": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.\nBased on the GIF shared by Stein, it looks like you can open the sidebar by clicking the gray ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-19T20:05:06.000Z"
-    },
-    {
-      "id": "b77e0136417d0321",
-      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-      "description": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison.\nJammers are generally banned under Section 3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-19T19:40:28.000Z"
     }
   ],
-  "lastUpdated": "2026-11-19T23:57:46.818Z",
+  "lastUpdated": "2026-11-20T14:27:41.685Z",
   "sources": [
     "TechCrunch",
     "The Verge",
