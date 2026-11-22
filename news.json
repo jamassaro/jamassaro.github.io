@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": "5a29a48c569509d1",
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "description": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying, hungry, constantly dirty creature. Until they",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRH_Tamagotchi_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-22T13:15:27.000Z"
+    },
+    {
+      "id": "077c48daac9044e4",
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "description": "Apple’s HomeView is a great music controller and a decent speaker for its size. | Photo: Hunter McRae for The Verge\t\n\nAfter I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time test",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE94.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "id": "7395d437c81cfa91",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nLike so many things wit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "id": "2bae4e0df82c6eb9",
+      "title": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)",
+      "description": "Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s Black Friday sale officially started a few days ago, but the deals are heating up again this weekend with the first discount on Apple’s brand ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-22T10:15:48.000Z"
+    },
+    {
       "id": "d382fb62ba160023",
       "title": "iOS 27: My favorite new iPhone features (other than AI)",
       "description": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy. \nHere are a few of my favorite iOS 27 features (other than Siri and AI).\n9to5Mac is supported by Sony: Score Sony’s ULT Field 1 Bl",
@@ -205,16 +245,6 @@
       "publishedAt": "2026-11-21T14:00:10.000Z"
     },
     {
-      "id": "903e4ace5788c3b4",
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "description": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-21T14:00:00.000Z"
-    },
-    {
       "id": "39a9b9230c77ef79",
       "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
       "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
@@ -235,29 +265,9 @@
       "publishedAt": "2026-11-21T13:59:00.000Z"
     },
     {
-      "id": "bd7eb60c7e675f63",
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "description": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps.\t\n\nXiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a scre",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-21T13:00:00.000Z"
-    },
-    {
-      "id": "9bf5ccd0e804e963",
-      "title": "The game of the year is finally here",
-      "description": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.)\nThis week, I've been reading about nuclea",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-21T13:00:00.000Z"
-    },
-    {
-      "id": "1ddf0610830f23f9",
-      "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
-      "description": "Black Friday is already in full force with Amazon’s massive official sale event and there is absolutely no shortage of Apple deals. Alongside the lowest prices ever on every Apple Watch Series 12 config, the Mac deals are wild this week with as much as $250 off the brand new M6 MacBook Pro and PROLE",
+      "id": "8746ccf324458bcf",
+      "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods, new iPad mini, more [Updated]",
+      "description": "Update 11/22: Amazon has now dropped the price on AirPods Pro 3 even lower to $169.99 shipped, or just shy of $80 off the list price. You’ll also now find an even deeper deal on the current-generation Apple Watch SE 3 from $179. \nBlack Friday is already in full force with Amazon’s massive official s",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Black-Friday-deals.jpg?quality=82&#038;strip=all&#038;w=1600",
       "url": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
       "source": "9to5Mac",
@@ -282,19 +292,9 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-11-21T00:00:00.000Z"
-    },
-    {
-      "id": "7e2d2e4c280a5e46",
-      "title": "9to5Mac Daily: November 20, 2026 – Siri AI limits, HomeView update",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/20/daily-november-20-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-20T23:43:15.000Z"
     }
   ],
-  "lastUpdated": "2026-11-21T22:30:40.226Z",
+  "lastUpdated": "2026-11-22T13:41:07.246Z",
   "sources": [
     "TechCrunch",
     "The Verge",
