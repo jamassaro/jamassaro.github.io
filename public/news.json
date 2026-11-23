@@ -1,299 +1,301 @@
 {
   "articles": [
     {
-      "id": "9e5e236ef69eeb87",
-      "title": "We haven’t seen the last of the major tech outages",
-      "description": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN:\n\"The Americ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T22:48:02.000Z"
-    },
-    {
-      "id": "0258d4cc12ab2048",
-      "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
-      "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com.\niOS 27 includes a really clever new featu",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-rose.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
+      "id": "7a7f289a71fe9df8",
+      "title": "Apple Wallet ID support coming soon to Connecticut",
+      "description": "Support for storing your driver’s license in Apple Wallet has gradually been expanding across the United States. Today, we have a status update on when the feature will go live in Connecticut, which Apple has touted as a planned partner since September 2021.\n9to5Mac is sponsored by Sony: Score Sony’",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/apple-wallet-id-first-states-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/23/apple-wallet-id-support-coming-soon-to-connecticut/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-22T22:02:43.000Z"
+      "publishedAt": "2026-11-23T16:32:10.000Z"
     },
     {
-      "id": "1f92d9267580902f",
-      "title": "‘You Can See Everything’ has made more than $100M worldwide",
-      "description": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
-      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T21:42:48.000Z"
-    },
-    {
-      "id": "43e98642bc36b621",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T21:14:07.000Z"
-    },
-    {
-      "id": "745297ac93927ab0",
-      "title": "The best apps to make new friends right now",
-      "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T21:00:00.000Z"
-    },
-    {
-      "id": "cdd8887892029ac3",
-      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
-      "description": "An experimental iPhone Duo interface tested by Apple would allow widgets to occupy two separate areas of the Lock Screen, according to findings shared by the leaker known as \"pdfu.\"\r\n\r\n\r\nThe unreleased layout adds a vertical pair of circular widgets on the right side of the screen. Crucially, pdfu s",
-      "image": "https://images.macrumors.com/article-new/2026/11/iphone-duo-cyber-monday.jpeg",
-      "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-22T20:38:16.000Z"
-    },
-    {
-      "id": "23af995407192004",
-      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
-      "description": "Apple's recent Siri layoffs affected employees working on the assistant's older infrastructure rather than its newer AI systems, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nIn his latest \"Power On\" newsletter, Gurman said employees have yet to notice a major difference in how Apple operates despite e",
-      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
-      "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-22T20:29:51.000Z"
-    },
-    {
-      "id": "d6401e14d26bbc19",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "description": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T18:08:43.000Z"
-    },
-    {
-      "id": "f73230c69d72b103",
-      "title": "Delta flights in and out of Atlanta delayed due to system outage",
-      "description": "A Delta Air Lines Airbus A220. | Photo: Saul Loeb / AFP via Getty Images\t\n\nAll Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's larges",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "id": "254367a663fb765b",
+      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+      "description": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven C",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-22T17:46:44.000Z"
+      "publishedAt": "2026-11-23T16:30:11.000Z"
     },
     {
-      "id": "59b374c7c0dc84a6",
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "description": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "id": "1baef311cd693211",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "description": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T16:20:11.000Z"
+    },
+    {
+      "id": "586c9a3b5fb553c4",
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "description": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable co",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-22T17:25:20.000Z"
+      "publishedAt": "2026-11-23T16:14:04.000Z"
     },
     {
-      "id": "ca89a5b3480e9845",
-      "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
-      "description": "Apple made a bunch of changes to iOS to optimize it for the iPhone Duo’s form factor, including revamping the Lock Screen. According to a new leak today, the company has tested another change, referred to as a “complication column.” Here’s what it looks like. \n9to5Mac is supported by Sony: Score Son",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/",
+      "id": "97ac218146074e7b",
+      "title": "Black Friday deals: AirPods Pro 3 $100 off, Series 12 $100 off, MacBook Air $310 off, Apple Pencil (USB-C) $49, more",
+      "description": "We are pushing into the final week of Black Friday 2026 and the deals just went wild – Apple’s AirPods Pro 3 are down again to an insane $149 today (that’s $100 off!), the latest Apple Watch Series 12 as dropped again to all-time lows at $100 off, and M5 MacBook Air has dropped to its lowest price i",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-apple-deals-airpods-pro-3-MacBook-Air.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/23/black-friday-deals-airpods-pro-3-series-12-macbook-air/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-22T17:13:56.000Z"
+      "publishedAt": "2026-11-23T16:08:45.000Z"
     },
     {
-      "id": "e4d10b8b28fb5781",
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
-      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T17:06:00.000Z"
-    },
-    {
-      "id": "c40d4d6af6b5081c",
-      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "description": "This ain’t gonna buff out.\t\n\nBlack Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is al",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T17:00:00.000Z"
-    },
-    {
-      "id": "6d2b7acfcce96024",
-      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-      "description": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu.\nThe instrumentation on Khudgarzi draws on traditional So",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T16:33:29.000Z"
-    },
-    {
-      "id": "31d6d80270fed5ce",
-      "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
-      "description": "Apple's AirPods Pro 3 have dropped to an even lower price today for Black Friday, available for $169.99 on Amazon, down from $249.00. This beats the previous low price by about $10, and is matching the all-time low price we've only seen once before very briefly during Amazon's summertime Prime Day.\r",
-      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-blue-snow.jpeg",
-      "url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-22T15:40:00.000Z"
-    },
-    {
-      "id": "6d77f74df685105b",
-      "title": "M6 MacBook Pro Drops to $1,799 in New Black Friday Sale ($200 Off)",
-      "description": "Amazon today has a new best-ever price on the M6 MacBook Pro, joining in on great Black Friday deals on the AirPods Pro 3 and Apple Watch SE 3.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which help",
-      "image": "https://images.macrumors.com/article-new/2026/11/m6-macbook-pro-blue-snow.jpeg",
-      "url": "https://www.macrumors.com/2026/11/22/m6-macbook-pro-200-discount/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-22T15:39:40.000Z"
-    },
-    {
-      "id": "d62ac958b4a592ed",
-      "title": "MacBook Neo 2 likely to launch around March, could feature new colors: report",
-      "description": "One of Apple’s most beloved products this year was undoubtedly the MacBook Neo. Unlike some of its other budget products, Apple seems interested in updating the MacBook Neo on an annual cycle, and we may get the next MacBook Neo around March.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/22/macbook-neo-2-likely-to-launch-around-march-could-feature-new-colors-report/",
+      "id": "2913a07a7f30ee34",
+      "title": "iOS 27.3 adds new features in six iPhone apps, details here",
+      "description": "iOS 27.3 is coming soon, and it’s a big update for new iPhone features, including additions that span six built-in Apple apps. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/app-icons-ios-27-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/23/ios-27-3-adds-new-features-in-six-iphone-apps-details-here/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-22T15:38:23.000Z"
+      "publishedAt": "2026-11-23T16:06:02.000Z"
     },
     {
-      "id": "9859401643083663",
-      "title": "Apple Reportedly Plans to Release These Products in February or March",
-      "description": "Apple plans to unveil an iPhone 18e, iPhone 18, updated entry-level iPad, and new MacBook Neo and MacBook Air models around February or March next year, according to the latest word from Bloomberg's Mark Gurman.\r\n\r\n\r\nIn his Power On newsletter today, Gurman said Apple has some additional products pl",
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Neo-2-on-Yellow-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/",
+      "id": "6a9f23bc4438fb44",
+      "title": "Black Friday Video Game Deals Include Rare Sale on Nintendo Switch 2 Mario Kart World Bundle",
+      "description": "Walmart kicked off a big video game sale sale today, as part of its ongoing Black Friday event. This includes a rare discount on the Nintendo Switch 2 + Mario Kart World Bundle, available for $499.00, down from $549.99.\r\n\r\nNote: MacRumors is an affiliate partner with Walmart. When you click a link a",
+      "image": "https://images.macrumors.com/article-new/2026/11/switch-2-pink.jpeg",
+      "url": "https://www.macrumors.com/2026/11/23/black-friday-video-game-deals/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-22T15:32:53.000Z"
+      "publishedAt": "2026-11-23T16:05:58.000Z"
     },
     {
-      "id": "3929d2655b8eb87f",
-      "title": "Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just $179",
-      "description": "New Black Friday deals are rolling in today, including fresh all-time low prices across the entire Apple Watch SE 3 lineup. Prices start at just $179.00 for the 40mm GPS Apple Watch SE 3, and this sale includes both GPS and cellular devices on sale at new record low prices.\r\n\r\nNote: MacRumors is an ",
-      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-se-3-blue-snow.jpeg",
-      "url": "https://www.macrumors.com/2026/11/22/apple-watch-se-3-179/",
+      "id": "56aa3bc24110a193",
+      "title": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
+      "description": "Alienware’s AW2726DM QD-OLED gaming monitor was a great deal even at its original $349.99 price. The low price and impressive specs were enough to convince me to get one at launch, and I’m glad that I did. I’m a little jealous that you have the opportunity to save $70 on the monitor I’ve been using ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/aw1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T16:00:00.000Z"
+    },
+    {
+      "id": "6991d504639f7e90",
+      "title": "M5 MacBook Air Now Starts at $989.10 for Black Friday, Get Up to $310 Off",
+      "description": "All-time low prices are rolling in for numerous Apple products this week, now including up to $310 off M5 MacBook Air. These are massive discounts on the latest MacBook Air models, with prices that are now the best post-hike discounts we've tracked on the computer.\r\n\r\nNote: MacRumors is an affiliate",
+      "image": "https://images.macrumors.com/article-new/2026/11/m5-macbook-air-pink.jpeg",
+      "url": "https://www.macrumors.com/2026/11/23/m5-macbook-air-now-starts/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-22T15:24:42.000Z"
+      "publishedAt": "2026-11-23T15:51:13.000Z"
     },
     {
-      "id": "35673097e5bed33d",
-      "title": "Protesters storm Meta offices in India",
-      "description": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congre",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T15:15:07.000Z"
+      "id": "61f1b8f0724235b0",
+      "title": "Apple Wallet Driver's License Feature Coming to Connecticut",
+      "description": "Starting next year, residents of Connecticut will be able to add their driver's license or state ID to the Apple Wallet app on the iPhone and Apple Watch. The digital ID can be used to display proof of identity or age at TSA checkpoints in select airports, at select businesses, and in select iPhone ",
+      "image": "https://images.macrumors.com/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
+      "url": "https://www.macrumors.com/2026/11/23/apple-wallet-ids-coming-to-connecticut/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-23T15:37:49.000Z"
     },
     {
-      "id": "60550e5d61a61e91",
-      "title": "Can a TV be too large? An investigation",
-      "description": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
-      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "id": "144e7cd13ca8e696",
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "description": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-22T15:00:00.000Z"
+      "publishedAt": "2026-11-23T15:29:49.000Z"
     },
     {
-      "id": "de93fdee9ddd7516",
-      "title": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
-      "description": "Recently, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. For Black Friday, it’s on sale for 40% off, making it more affordable than ever.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
+      "id": "83e11db05b7282b6",
+      "title": "Coalition of 55,000 EU Businesses Challenges Apple",
+      "description": "Mozilla, Shopify, and a coalition representing up to 55,000 European Union businesses and organizations are urging the European Commission to take enforcement action against Apple over restrictions on competing iPhone browsers.\r\n\r\n\r\nIn an open letter to Commission President Ursula von der Leyen, the",
+      "image": "https://images.macrumors.com/article-new/2025/03/european-commission.jpg",
+      "url": "https://www.macrumors.com/2026/11/23/coalition-of-eu-businesses-challenges-apple/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-23T15:29:45.000Z"
+    },
+    {
+      "id": "dd5fe952e3a25a3f",
+      "title": "AirPods Pro 3 were worth the upgrade for one standout feature",
+      "description": "AirPods Pro 3 (now only $149, down from $249) offer many advantages over AirPods Pro 2, but after a year of use, the improvements to Active Noise Cancellation alone have proven worth the upgrade.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-3–three-months-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/23/airpods-pro-3-were-worth-the-upgrade-for-one-standout-feature/",
       "source": "9to5Mac",
       "category": "Apple News",
-      "publishedAt": "2026-11-22T14:43:24.000Z"
+      "publishedAt": "2026-11-23T15:18:39.000Z"
     },
     {
-      "id": "fd79562fa1c33908",
-      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-      "description": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporari",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T14:00:00.000Z"
-    },
-    {
-      "id": "57652f11052e5e57",
-      "title": "‘The show is starting soon. Please turn on your headphones.’",
-      "description": "Love Me uses Auracast broadcasts both for accessibility and the sound design. | Photo: Curtis Brown\t\n\nUp a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand e",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T14:00:00.000Z"
-    },
-    {
-      "id": "5a29a48c569509d1",
-      "title": "How Tamagotchis got us hooked on digital pets",
-      "description": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying, hungry, constantly dirty creature. Until they",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRH_Tamagotchi_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T13:15:27.000Z"
-    },
-    {
-      "id": "077c48daac9044e4",
-      "title": "Your questions about Apple HomeView’s audio, answered",
-      "description": "Apple’s HomeView is a great music controller and a decent speaker for its size. | Photo: Hunter McRae for The Verge\t\n\nAfter I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time test",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE94.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-22T13:00:00.000Z"
-    },
-    {
-      "id": "2bae4e0df82c6eb9",
-      "title": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)",
-      "description": "Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s Black Friday sale officially started a few days ago, but the deals are heating up again this weekend with the first discount on Apple’s brand ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
-      "source": "9to5Mac",
+      "id": "f8fbd99045deefc6",
+      "title": "Apple Watch Series 12 Drops to $299 on Amazon",
+      "description": "Apple Watch deals have gotten even steeper for Black Friday, with $100 off Series 12 and Ultra 4 models on Amazon this week.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site ",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-black-friday-pink.jpeg",
+      "url": "https://www.macrumors.com/2026/11/23/apple-watch-series-12-drops-to-299-on-amazon/",
+      "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-22T10:15:48.000Z"
+      "publishedAt": "2026-11-23T15:08:57.000Z"
     },
     {
-      "id": "d382fb62ba160023",
-      "title": "iOS 27: My favorite new iPhone features (other than AI)",
-      "description": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy. \nHere are a few of my favorite iOS 27 features (other than Siri and AI).\n9to5Mac is supported by Sony: Score Sony’s ULT Field 1 Bl",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-21T22:22:26.000Z"
-    },
-    {
-      "id": "6684bcfd2c83621e",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "id": "f851687e9485e8bc",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "description": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-21T21:37:10.000Z"
+      "publishedAt": "2026-11-23T15:04:01.000Z"
     },
     {
-      "id": "203c2a3344bf84ea",
-      "title": "A tale of two Nvidias",
-      "description": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "id": "242dba8f2404792a",
+      "title": "Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday",
+      "description": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge\t\n\nThe AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon and Walmart. Originally, they sold for $249, but have been commonly available for $199 outside the range of deal",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T15:00:44.000Z"
+    },
+    {
+      "id": "f10ffc05ec0ce2cc",
+      "title": "The Verge’s favorite holiday gifts that cost $50 or less",
+      "description": "You've got $50 to spend on a friend or loved one this shopping season, and you're not sure what to spend it on. First off, that's actually really generous of you. While this price tier can sometimes be challenging to shop for - caught between affordable accessories and big-ticket items - there's ple",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-50.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T15:00:00.000Z"
+    },
+    {
+      "id": "6caf7b5414f13be5",
+      "title": "How one router caused the worst ground stop since 9/11",
+      "description": "Today I’m talking with Darryl Campbell, a freelance journalist, aviation expert, and author of the book Fatal Abstraction: Why the Managerial Class Loses Control of Software.\nDarryl covers aviation and the FAA, and earlier this month, when the US suffered a sudden nationwide ground stop on air trave",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FAA_dcd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T15:00:00.000Z"
+    },
+    {
+      "id": "6b974825bf069390",
+      "title": "Will Siri AI threaten Apple’s environmental target, given Google and Meta admissions?",
+      "description": "I think Apple can reasonably claim to be the leading tech giant when it comes to its environmental credentials. It has led the way with its use of renewable energy, made significant strides with carbon-neutral production, and removed plastic from all its packaging.\nAll of this could potentially be p",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-2030.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/23/will-siri-ai-threaten-apples-environmental-target-given-google-and-meta-admissions/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-23T14:44:21.000Z"
+    },
+    {
+      "id": "d622943fc668d015",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
       "source": "TechCrunch",
       "category": "Tech News",
-      "publishedAt": "2026-11-21T21:07:42.000Z"
+      "publishedAt": "2026-11-23T14:43:03.000Z"
+    },
+    {
+      "id": "f43ac7c6906a6154",
+      "title": "Apple May Be Stuck With Samsung for iPhone Duo Screens",
+      "description": "Samsung Display could remain Apple's sole supplier of foldable iPhone screens for at least another five years, potentially repeating the supplier dependence Apple faced when it introduced the iPhone X.\r\n\r\n\r\nThe leaker known as \"Instant Digital\" said in a new post on Weibo that Samsung's advantages i",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/23/apple-may-be-stuck-with-samsung-for-iphone-duo/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-23T14:38:22.000Z"
+    },
+    {
+      "id": "efd961e8dc232be4",
+      "title": "RayNeo Black Friday deals: AR smart glasses that turn your Mac and iPhone into a 307-inch screen",
+      "description": "Still waiting for tech like the Vision Pro, but in normal everyday glasses and sunglasses? The industry leader in AR glasses shipments has something to say.\nThe best Apple accessories share a distinct DNA: immaculate industrial design, lightweight ergonomics, tactile physical precision, and friction",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/rayneo-gt-io-smart-glasses.webp?w=1600",
+      "url": "https://9to5mac.com/2026/11/23/rayneo-black-friday-cyber-monday-deals-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-23T14:30:00.000Z"
+    },
+    {
+      "id": "90183b11f29ff590",
+      "title": "Apple TV announces TIMBERLAKE series coming soon",
+      "description": "Apple TV (now $6.99/month for limited time) has just announced a four-part documentary event series on Justin Timberlake that’s premiering next month. Here are the details on TIMBERLAKE.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/timberlake-key-art.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/23/apple-tv-announces-timberlake-series-coming-soon/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-23T14:22:22.000Z"
+    },
+    {
+      "id": "0072c9e50fa554af",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "description": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T14:21:59.000Z"
+    },
+    {
+      "id": "30fb801e5d8e9ce8",
+      "title": "Jensen Huang Reinstated as Nvidia CEO",
+      "description": "Nvidia today announced that its board of directors has voted unanimously to reinstate Jensen Huang as President and CEO of the company effective immediately.\r\n\r\n\r\nHuang had resigned on November 12, after it was reported that he had extramarital affairs.\r\n\r\nNvidia's board voted unanimously to reinsta",
+      "image": "https://images.macrumors.com/article-new/2026/11/Nvidia-16x9-1.jpg",
+      "url": "https://www.macrumors.com/2026/11/23/jensen-huang-reinstated-as-nvidia-ceo/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-23T14:20:12.000Z"
+    },
+    {
+      "id": "58b8b2cfd190551d",
+      "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+      "description": "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system. The centerpiece is Reality View, a real-time generative display that swaps out old wireframe graphics for a live, overhead camera angle that lets drivers see and ta",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-8.51.20-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T14:12:28.000Z"
+    },
+    {
+      "id": "af711f1b159b21f6",
+      "title": "Jensen Huang reinstated as CEO of Nvidia, stock up 30%",
+      "description": "Nvidia has announced that disgraced CEO Jensen Huang has been reinstated to the role, effective immediately. The company’s share price jumped more than 30% in response, with the rest of the market also making significant gains.\nIt said that the board voted unanimously in favor of reinstatement despi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/jensen-huang-nvidia.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/23/jensen-huang-reinstated-as-ceo-of-nvidia-despite-companys-previous-statement/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-23T14:08:12.000Z"
+    },
+    {
+      "id": "3fa9ddce01bc7bbf",
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "description": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor and ability to lead NV",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T14:04:24.000Z"
+    },
+    {
+      "id": "6cac7b1875c7edaf",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "description": "Uber is piloting a new feature in the U.S. that offers rides in which drivers have enabled the company’s recording feature, Record My Ride. The option, which uses the front camera of the Uber driver’s phone to record the entire drive, will show up as “Recorded Rides” in the app. The ride-hailing com",
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T14:00:00.000Z"
+    },
+    {
+      "id": "c91535df41587eab",
+      "title": "Blade Runner 2099 is an inventive twist on a cyberpunk classic",
+      "description": "In an age of streaming shows designed to appeal to distracted viewers, Blade Runner 2099 can feel like a welcome anachronism. The Amazon series is slow and methodical, just like the movies it follows, as it delves deep into moral ambiguity. It is very Blade Runner, in that it both feels true to the ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BLDR_S1_UT_241030_ENOCLA_00065_R21_3000.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1039095/blade-runner-2099-review",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-23T14:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-11-22T22:54:22.930Z",
+  "lastUpdated": "2026-11-23T16:38:46.470Z",
   "sources": [
     "TechCrunch",
     "The Verge",
