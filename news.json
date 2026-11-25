@@ -1,6 +1,271 @@
 {
   "articles": [
     {
+      "id": "412afed1ff88d69c",
+      "title": "Apple Has an iPhone Notifications Problem",
+      "description": "Apple has rules in place that are supposed to protect iPhone users from unwanted advertising in push notifications and Live Activities, but some apps appear to be flouting these rules, and Apple does not appear to be consistently enforcing them.\r\n\r\n\r\nApple's App Store guidelines do allow iPhone apps",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Has-an-iPhone-Notification-Problem-Feature.jpg",
+      "url": "https://www.macrumors.com/2026/11/25/apple-has-an-iphone-notifications-problem/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T16:15:05.000Z"
+    },
+    {
+      "id": "5e8d972a6db9412e",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "description": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.\nLike the Ear 3, the Ear Note's microphone-equipped case comes ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T16:00:59.000Z"
+    },
+    {
+      "id": "c55246866ff02316",
+      "title": "Here’s everything Apple still has left to launch in 2026",
+      "description": "The last few months have been a wildly busy time for Apple. The company has launched new products like the iPhone Duo, MacBook Pro with PROLED, HomeView, HomePod mini 2, and much more.\nAs the year comes to a close, however, Apple still has a few more things to launch. Here’s what to expect. \n9to5Mac",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC02639.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/25/heres-everything-apple-still-has-left-to-launch-in-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T15:45:39.000Z"
+    },
+    {
+      "id": "9bce20db7cf18593",
+      "title": "iOS 27.3 introduces design changes for these Apple apps",
+      "description": "iOS 27.3 includes many new features for Apple’s built-in apps, but it also introduces design changes on the iPhone across Calendar, Safari, Music, and more. Here’s what’s new.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ios-27-3-home-screen-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/25/ios-27-3-introduces-design-changes-for-these-apple-apps/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T15:32:08.000Z"
+    },
+    {
+      "id": "50b8f1bc5ccd1b45",
+      "title": "Amazon Sweetens Black Friday Deals on PROLED MacBook Pro",
+      "description": "Amazon today has sweetened the deals on Apple's 16-inch MacBook Pro with PROLED XDR Display, with up to $327 off these computers for Black Friday. You'll find discounts on every 16-inch model below, but we aren't tracking any sales on the 14-inch models yet.\r\n\r\nNote: MacRumors is an affiliate partne",
+      "image": "https://images.macrumors.com/article-new/2026/11/macbook-proled-gold.jpeg",
+      "url": "https://www.macrumors.com/2026/11/25/amazon-black-friday-proled-macbook-pro/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T15:26:23.000Z"
+    },
+    {
+      "id": "86082534dbb71ff8",
+      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "description": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+      "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T15:08:37.000Z"
+    },
+    {
+      "id": "134ba3d80c03129a",
+      "title": "The Verge’s guide to affordable holiday gifts under $25",
+      "description": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with.\nFor this list, we've rounded up a barrage of fun gadgets a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-25.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T15:00:00.000Z"
+    },
+    {
+      "id": "d596e2527891b699",
+      "title": "Apple TV just added new movie to expanding lineup, more coming soon",
+      "description": "Apple TV (now $6.99/month for Black Friday) just added a new original movie: Way of the Warrior Kid starring Chris Pratt. The streamer also has a new batch of beloved classic films coming next week.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-intro-vibrant.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/25/apple-tv-just-added-new-movie-to-expanding-lineup-more-coming-soon/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T14:48:43.000Z"
+    },
+    {
+      "id": "08fe3d9a6a16c6cd",
+      "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+      "description": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+      "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T14:20:28.000Z"
+    },
+    {
+      "id": "d05a18ef591ba3db",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "description": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T14:12:33.000Z"
+    },
+    {
+      "id": "1c5858e6ca2771e4",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T14:10:18.000Z"
+    },
+    {
+      "id": "327299b0a812d6ec",
+      "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
+      "description": "Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much cheaper — or considerably smaller — the Xteink X4 Classic is in a league of its ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T14:00:00.000Z"
+    },
+    {
+      "id": "e50cb8d683687a5a",
+      "title": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
+      "description": "As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV. The new show is set 50 years after the 2017 film Blade Runner 2049 and imagines a bleak future where artificial humans known as replicants have t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T14:00:00.000Z"
+    },
+    {
+      "id": "14e4daa3ff393b7d",
+      "title": "Apple has iPads running macOS already, but don’t get too excited",
+      "description": "With iPads running the same chips as Macs, many have wished Apple would give us the option of running macOS on them instead of the somewhat clunky iPadOS windowing system. Apple’s previous arguments against converging devices have been somewhat weakened by the launch of the touchscreen MacBook Pro.\n",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/ipados-26-foldable-ipad-fold.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/25/apple-has-ipads-running-macos-already-but-dont-get-too-excited/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T13:40:50.000Z"
+    },
+    {
+      "id": "aabd11e82db18e5a",
+      "title": "Apple accessory Black Friday deals: AirTag 2, Apple Pencil, CarPlay gear, more from $7",
+      "description": "Day 7 of the giant Amazon Black Friday sale is now underway, and it’s time to take a look at some of the deals you score on accessories for your Apple gear. Amazon’s wild deal on AirPods Pro 3 is still flying at $100 off, but we are also tracking some brilliant prices on even more affordable add-on ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/airtag-2-jb-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/25/best-apple-accessory-black-friday-deals/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T13:33:51.000Z"
+    },
+    {
+      "id": "56fb9a6b68326d1c",
+      "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
+      "description": "TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T13:30:00.000Z"
+    },
+    {
+      "id": "60a3fe391acca131",
+      "title": "WhatsApp testing stickers with audio, including make-your-own option",
+      "description": "WhatsApp is currently testing a new sticker format that plays a sound when the recipient taps on it. You can choose from a range of standard stickers as well as create your own by converting a video … \nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/WhatsApp-testing-stickers-that-play-a-sound-when-you-tap-them.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/25/whatsapp-testing-stickers-with-audio-including-make-your-own-option/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T13:16:25.000Z"
+    },
+    {
+      "id": "b45f144abab9523d",
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "description": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+      "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T13:08:19.000Z"
+    },
+    {
+      "id": "676f479c25ae9760",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "description": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T13:00:00.000Z"
+    },
+    {
+      "id": "3724e949f98ad574",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "description": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last se",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T13:00:00.000Z"
+    },
+    {
+      "id": "e987e3e519a073d5",
+      "title": "Apple Has iPads Running macOS Internally, Says Gurman",
+      "description": "Apple has iPads running macOS internally and has had them \"for some time,\" according to Bloomberg's Mark Gurman, although he says no work is currently being done to bring the Mac operating system to iPads.\r\n\r\nPower On podcast, Gurman said there is \"no work being done to consumerize macOS on the iPad",
+      "image": "https://images.macrumors.com/article-new/2026/06/ipad-pro-prime.jpeg",
+      "url": "https://www.macrumors.com/2026/11/25/apple-has-ipads-running-macos-internally/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T12:55:37.000Z"
+    },
+    {
+      "id": "e6699f4d9ab131cc",
+      "title": "Apple Is Far From Done With 2026: Here's What's Still Coming",
+      "description": "Apple's busiest season isn't over yet – far from it. With Black Friday kicking off this week, plus new products, software updates, and new smart home accessories running into December, there's more on the way from Apple before the end of 2026, so be sure to stick around.\r\n\r\n\r\nBelow, we've rounded up",
+      "image": "https://images.macrumors.com/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
+      "url": "https://www.macrumors.com/2026/11/25/apple-2026-heres-whats-still-coming/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T12:40:02.000Z"
+    },
+    {
+      "id": "791451a2fb082cd2",
+      "title": "Microsoft declares a Code Red in response to worst ever outage",
+      "description": "The recent Microsoft 365 outage was the worst the service had ever experienced, with more than 80% of the company’s servers unresponsive at the worst point. The company has now declared a Code Red to address the way it prevents and responds to major failures in future.\nMicrosoft has explained more a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Microsoft-declares-a-Code-Red-in-response-to-worst-ever-outage.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T12:23:19.000Z"
+    },
+    {
+      "id": "5b19d5363a0a015b",
+      "title": "An annoying ‘mistake’ in macOS was actually prep for the latest MacBook Pro",
+      "description": "You may remember that Apple made a seeming mistake in the user interface for macOS 26, meaning that attempts to resize windows would often fail. The reason for this has now become clear, and Apple has done something both fun and clever in macOS 27 to resolve it …\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/25/an-annoying-mistake-in-macos-was-actually-prep-for-the-latest-macbook-pro/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T12:00:57.000Z"
+    },
+    {
+      "id": "2097374898aba01c",
+      "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+      "description": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking ga",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-25T11:12:42.000Z"
+    },
+    {
+      "id": "c5734cd0d719a9b0",
+      "title": "Threads App for iPad Now Available",
+      "description": "Threads has released a native iPad app. Threads design head Christopher Clare said on Monday it was coming \"very soon,\" and it has since appeared on the App Store. This first version is a single-column feed, even in landscape. Clare has said the team prioritized \"getting out a v1,\" so expect changes",
+      "image": "https://images.macrumors.com/article-new/2026/11/Threads-iPad-App.jpg",
+      "url": "https://www.macrumors.com/2026/11/25/threads-app-for-ipad-now-available/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T11:10:54.000Z"
+    },
+    {
+      "id": "2c3451aa63cd89bb",
+      "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
+      "description": "Anthropic has released a new feature for Claude that allows users to install artifacts as desktop apps on macOS and Windows.\r\n\r\n\r\nArtifacts are documents, designs, dashboards, and interactive tools that Claude creates in a panel alongside your chat, where you can view and edit them.\r\n\r\nWhen you ask ",
+      "image": "https://images.macrumors.com/article-new/2024/05/claude-ai.jpeg",
+      "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-25T10:27:42.000Z"
+    },
+    {
       "id": "f0dbc29f8cd94cc8",
       "title": "PrismML’s Bonsai 2.5 brings better coding and tool use to on-device AI",
       "description": "Back in July, PrismML claimed its roughly 4 GB, 1-bit Bonsai 27B was the first AI model of its size to run on an iPhone. Now PrismML has released Ternary Bonsai 2.5 27B, an update to the model it introduced in September.\nmore…",
@@ -21,279 +286,16 @@
       "publishedAt": "2026-11-25T01:00:00.000Z"
     },
     {
-      "id": "60339ad244a8c003",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "id": "9e73b1c02ec25e5f",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
       "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "source": "TechCrunch",
       "category": "Tech News",
       "publishedAt": "2026-11-25T00:12:02.000Z"
-    },
-    {
-      "id": "977dba80f04fe421",
-      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-      "description": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
-      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-25T00:10:27.000Z"
-    },
-    {
-      "id": "e579292c13461e80",
-      "title": "The Verge’s 2026 gift guide for dads",
-      "description": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you.\nWe've curated thi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T23:59:29.000Z"
-    },
-    {
-      "id": "bd3c42b7b478023d",
-      "title": "9to5Mac Daily: November 24, 2026 – Apple Product(RED) gear is coming soon",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by LiberNovo: If you spend hours at your desk, LiberNovo’s d",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/24/daily-november-24-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T23:58:47.000Z"
-    },
-    {
-      "id": "213f25b1038adce7",
-      "title": "Apple Mail added four convenient new features in iOS 27",
-      "description": "iOS 27 brought new features to Apple Wallet, Maps, Notes, Messages, and more—and it includes key upgrades for the Mail app too. Here’s everything new for Apple Mail in iOS 27.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T23:56:12.000Z"
-    },
-    {
-      "id": "7dc2a69d26424d8d",
-      "title": "Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back",
-      "description": "Apple's AirPods Pro 3 have returned to their all-time low price of $149.00 on Amazon, down from $249.00. This price appeared yesterday morning, then disappeared overnight, but it's back now and still one of the best deals this Black Friday season.\r\n\r\nNote: MacRumors is an affiliate partner with Amaz",
-      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-green-.jpeg",
-      "url": "https://www.macrumors.com/2026/11/24/amazon-airpods-pro-3-deal-back/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T23:45:00.000Z"
-    },
-    {
-      "id": "f25f551da04d41cd",
-      "title": "Tidal Bans AI Music, While Apple Music Sticks to Labels",
-      "description": "Streaming music service Tidal today said it plans to start blocking AI music on December 9. Any track generated entirely with AI will be removed from the platform, with Tidal rejecting AI songs in the future.\r\n\r\n\r\nTidal lead Robert Andersen said 43 percent of tracks uploaded in the last 90 days have",
-      "image": "https://images.macrumors.com/article-new/2026/11/tidal-logo.jpg",
-      "url": "https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T23:44:43.000Z"
-    },
-    {
-      "id": "dd2f842fda2fe72d",
-      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
-      "description": "A sign identifying the facility sits inside a fence surrounding the Iowa Army Ammunition Plant in Middletown, Iowa, on November 19th. | Photo: Getty Images\t\n\nThe US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approxi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305973751.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T23:25:46.000Z"
-    },
-    {
-      "id": "d4f191e357c9c9a1",
-      "title": "Add Holiday Lights and Snow to Your Mac With Festivitas",
-      "description": "Festivitas is a fun little holiday-themed Mac app that developer Simon Støvring introduced two years ago and has been updating since. Its main purpose is to add lights to the Mac's Dock and menu bar, but there's also a version for the iPhone and iPad.\r\n\r\n\r\nThe holiday 2026 Festivitas update adds new",
-      "image": "https://images.macrumors.com/article-new/2026/11/festivitas.jpg",
-      "url": "https://www.macrumors.com/2026/11/24/festivitas-for-mac-2026-update/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T23:04:43.000Z"
-    },
-    {
-      "id": "53a413110994b258",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T22:27:52.000Z"
-    },
-    {
-      "id": "df53a59249371a9c",
-      "title": "Huawei found guilty of stealing trade secrets",
-      "description": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from seve",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T22:23:27.000Z"
-    },
-    {
-      "id": "4c23e324b97bae14",
-      "title": "Meta's Muse AI Agent Comes to Instagram DMs",
-      "description": "Meta today expanded what Muse can do in Instagram, making the personal AI agent more useful.\r\n\r\n\r\nMuse can organize the Instagram content you save into collections or travel itineraries, plus it can make grocery lists for recipes you find. Meta says you can also chat with Muse in DMs to learn more a",
-      "image": "https://images.macrumors.com/article-new/2026/11/muse-instagram.jpg",
-      "url": "https://www.macrumors.com/2026/11/24/meta-muse-instagram-dms/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T22:12:24.000Z"
-    },
-    {
-      "id": "6c1598a056ef5835",
-      "title": "Google Says Apple's iOS Browser Rules Offer 'Choice on Paper, Not in Practice'",
-      "description": "Google's Chrome for Developers team today supported Mozilla's complaint about Apple's rules on non-WebKit browser engines in the European Union, calling out restrictions that make launching an alternative engine too difficult.\r\n\r\n\r\nMozilla recently joined a coalition of up to 55,000 businesses and o",
-      "image": "https://images.macrumors.com/article-new/2022/06/Chrome-Feature-22.jpg",
-      "url": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T22:07:06.000Z"
-    },
-    {
-      "id": "8e5b90e6cb1c5401",
-      "title": "2026 tech gift guide for Apple users",
-      "description": "Black Friday week is here, so it’s officially time to start checking gifts off your list. For my 2026 tech gift guide, I’m recommending technology products that I’ve personally used all year. Each of these products has been especially useful this year, and they’ll make great gifts for the Apple user",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/2026-9to5mac-gift-guide.webp?w=1600",
-      "url": "https://9to5mac.com/2026/11/24/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T22:07:04.000Z"
-    },
-    {
-      "id": "369dd254bb9f9bc7",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T21:48:27.000Z"
-    },
-    {
-      "id": "f0658a81dfb30f78",
-      "title": "GTA VI PC recompilation project shut down by Take-Two",
-      "description": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two.\nLeonida was designed to translate a leak",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T21:39:14.000Z"
-    },
-    {
-      "id": "b861bb83b96ef3e5",
-      "title": "Walmart App Rolls Back Apple Pay Support After Just Weeks",
-      "description": "Walmart recently added Apple Pay support to its iPhone app and website, but it removed the option just weeks later, according to Appleosophy's David Becker. The reason for this reversal is unknown. Walmart still accepts Apple Pay in its U.S. stores, after finally deciding to roll out tap-to-pay supp",
-      "image": "https://images.macrumors.com/article-new/2025/01/Apple-Pay-Walmart-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/24/walmart-app-drops-apple-pay/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T21:37:10.000Z"
-    },
-    {
-      "id": "6c4e7fbcdb617d99",
-      "title": "Even the best AI agents struggle with everyday life",
-      "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T21:33:29.000Z"
-    },
-    {
-      "id": "c6b8c52f70add16c",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T21:32:38.000Z"
-    },
-    {
-      "id": "e0a5d382151db91e",
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T21:19:52.000Z"
-    },
-    {
-      "id": "fef97aca19afe8aa",
-      "title": "New Gemini setting lets you keep chat history, but turn off AI training [U]",
-      "description": "Google is rolling out new privacy settings for the Gemini app that will let you “keep your history while independently controlling generative AI model training.”\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/gemini-app-5.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5google.com/2026/11/24/gemini-history-ai-training/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T21:11:31.000Z"
-    },
-    {
-      "id": "34c3699758769851",
-      "title": "The Verge’s 2026 holiday gift guide for moms",
-      "description": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've don",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T21:09:59.000Z"
-    },
-    {
-      "id": "0496fc61406029da",
-      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-      "description": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
-      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-      "source": "TechCrunch",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T21:09:04.000Z"
-    },
-    {
-      "id": "502d7b19044c7b04",
-      "title": "Walmart drops Apple Pay support from its app and website",
-      "description": "Walmart appears to have dropped support for Apple Pay on its website and in its iPhone app. This comes just a few weeks after the retailer finally added support for Apple’s payment platform to its app and website. \n9to5Mac is sponsored by Sony: Score Sony’s INZONE noise-canceling earbuds for 38% off",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-pay-walmart.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T21:01:08.000Z"
-    },
-    {
-      "id": "d139faf48d745e9d",
-      "title": "TikTok is currently down for some users",
-      "description": "TikTok loading slowly or not at all? The service is apparently experiencing an outage for some users.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/tiktok.webp?w=1600",
-      "url": "https://9to5mac.com/2026/11/24/tiktok-is-currently-down-for-some-users/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-24T20:44:37.000Z"
-    },
-    {
-      "id": "593dcce9dcf5ad19",
-      "title": "TikTok was down",
-      "description": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasion",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T20:27:27.000Z"
-    },
-    {
-      "id": "149c99d5c0193d4f",
-      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-      "description": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T20:02:03.000Z"
-    },
-    {
-      "id": "f635a247ddaf6379",
-      "title": "The clock is running out for America’s most contentious spying law",
-      "description": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligenc",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-24T20:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-11-25T01:41:30.069Z",
+  "lastUpdated": "2026-11-25T16:17:19.682Z",
   "sources": [
     "TechCrunch",
     "The Verge",
