@@ -1,6 +1,251 @@
 {
   "articles": [
     {
+      "id": "325afc99ede0db50",
+      "title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
+      "description": "South Korea’s Fair Trade Commission (KFTC) announced today that it has opened formal proceedings against Apple over its advertising of Apple Intelligence features for the iPhone 16 lineup. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-intelligence-iphone-16.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T22:56:12.000Z"
+    },
+    {
+      "id": "a8c73e6308846a3b",
+      "title": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More",
+      "description": "Black Friday is finally here, and now is the best time of the year to shop online for great deals. This year we're tracking big discounts on popular Apple products like AirPods, iPad, Apple Watch, and much more.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a ",
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-1.jpg",
+      "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T21:19:53.000Z"
+    },
+    {
+      "id": "70ccb0d87cb4f57a",
+      "title": "Report: Apple accounted for 57% of US smartphone shipments in Q3",
+      "description": "Apple’s share of US smartphone shipments jumped from 50% to 57% year over year last quarter, with the company being the only major smartphone maker to buck the broader trend of declining shipments. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/26/report-apple-accounted-for-57-of-us-smartphone-shipments-in-q3/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T21:09:36.000Z"
+    },
+    {
+      "id": "b055970ba5213f68",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "description": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T21:00:00.000Z"
+    },
+    {
+      "id": "2bf95b58929dac35",
+      "title": "Readdle’s Documents app adds voice recording with transcripts, summaries, more",
+      "description": "Readdle updated its Documents app for iPhone and iPad this week with Voice Notes, a new AI-powered feature that lets users record conversations and automatically generate transcripts, summaries, and follow-up notes. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/readdle-documents-voice-notes.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/26/readdles-documents-app-adds-voice-recording-with-transcripts-summaries-more/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T20:30:32.000Z"
+    },
+    {
+      "id": "3f781dd182a50335",
+      "title": "PSA: AirPods Pro 3 are in stock, still $149 ($100 off)",
+      "description": "Update November 26, 2026: AirPods Pro 3 are still in stock after selling out. They’ve dropped down to their new all-time low price of $149.\nHappy Thanksgiving! Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with an incredible $100 discount to $149 shipped – their best price ever",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/26/airpods-pro-3-best-black-friday-price/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T20:24:23.000Z"
+    },
+    {
+      "id": "53adfa334aedc3cc",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T20:03:54.000Z"
+    },
+    {
+      "id": "80dcbb7b0d8759b7",
+      "title": "Is Alice Huang a spy or not?",
+      "description": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T20:00:00.000Z"
+    },
+    {
+      "id": "f8902a2abccaf1ba",
+      "title": "Judge orders Apple to produce 3,200 documents in Epic Games dispute",
+      "description": "A federal judge has ordered Apple to produce a random sample of 3,200 documents for Epic Games to review, following Epic’s allegations that Apple improperly withheld more than 122,000 documents related to its proposed App Store commissions. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/26/judge-orders-apple-to-produce-3200-documents-in-epic-games-dispute/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T19:52:24.000Z"
+    },
+    {
+      "id": "e311b3d63aef0d55",
+      "title": "X finally gets parental controls after 20 years",
+      "description": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T19:31:50.000Z"
+    },
+    {
+      "id": "19a1fd8aa6452b2a",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "description": "The Forerunner 265S is great for runners with small wrists. | Photo by Amelia Holowaty Krales / The Verge\t\n\nThe Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T19:00:00.000Z"
+    },
+    {
+      "id": "affb7f1aceaf4e79",
+      "title": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by LiberNovo: If you spend hours at your desk, LiberNovo’s d",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/26/daily-november-26-2026/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T18:06:20.000Z"
+    },
+    {
+      "id": "3c80b2349ff890ef",
+      "title": "iOS 28 to ‘revamp’ iPhone notifications, per report",
+      "description": "iOS 28 is coming next year, and a new rumor says the update will “revamp the iPhone’s notification system.” This comes as Android has introduced features like “Notification Organizer” to help users sort notifications into different categories.\n9to5Mac is sponsored by Sony: Score Sony’s INZONE noise-",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/ios183-summarize-notifications.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T18:04:57.000Z"
+    },
+    {
+      "id": "ae13e5d40b4028e1",
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "description": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge\t\n\nIf you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discoun",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T17:07:00.000Z"
+    },
+    {
+      "id": "c14fe71fc982ce9c",
+      "title": "Android app developers will soon have to share their address publicly",
+      "description": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says c",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T17:06:24.000Z"
+    },
+    {
+      "id": "ab2b51c1485b7331",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "description": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T17:00:00.000Z"
+    },
+    {
+      "id": "ca9eeff905909271",
+      "title": "The best Black Friday deals we’ve already found",
+      "description": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T16:55:00.000Z"
+    },
+    {
+      "id": "70d7f96f163d3c46",
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "description": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights an",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T16:38:00.000Z"
+    },
+    {
+      "id": "a840319a5cf333d2",
+      "title": "Apple's Official 2026 Black Friday Offer Starts Rolling Out",
+      "description": "Apple's annual four-day Black Friday through Cyber Monday shopping event is now live in Australia, New Zealand, and Thailand, and it will continue to roll out across Europe, the U.S., and Canada as the calendar turns to Friday, November 27 around the world.\r\n\r\n\r\nIn the U.S., Apple's terms and condit",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-2026-Black-Friday-Event-Hero.jpg",
+      "url": "https://www.macrumors.com/2026/11/26/apple-2026-black-friday-offer-now-rolling-out/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T16:37:38.000Z"
+    },
+    {
+      "id": "b9ddc7ccfc1418f8",
+      "title": "Thanksgiving deals: M5 MacBook Air $400 off, MacBook Neo $100 off, Apple Watch Ultra 4 $150 off, more",
+      "description": "Black Friday might have started last week, but the Amazon Thanksgiving sale is now live and it is not playing around. Alongside the banger $100 price drop on AirPods Pro 3, the M ac deals are absolutely crazy today: $400 off M5 MacBook Air, all MacBook Neo models at $100 off starting at $599, and th",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Thanksgiving-Black-Friday-deals-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/26/deals-macbook-air-neo-apple-watch-ultra-4/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T16:29:40.000Z"
+    },
+    {
+      "id": "0b99b97fe15f18df",
+      "title": "Halide Adds Fill Light Feature for iPhone Duo",
+      "description": "Halide 3.4 can use the iPhone Duo's outer display to light subjects when the device is unfolded. The feature offers softer lighting than the dedicated flash, with maximum screen brightness recommended. Users can also show subjects a camera preview on the outer display. The update adds a larger inner",
+      "image": "https://images.macrumors.com/article-new/2026/11/halide-iphone-duo.jpg",
+      "url": "https://www.macrumors.com/2026/11/26/halide-adds-fill-light-feature-for-iphone-duo/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T16:17:32.000Z"
+    },
+    {
+      "id": "1b173da4317096cd",
+      "title": "MacBook Neo vs MacBook Air: Which should you buy right now?",
+      "description": "Apple’s Mac lineup is stronger than ever this year, largely thanks to the new MacBook Neo. If you’re deciding between the MacBook Neo and the MacBook Air this holiday season, here’s everything you need to know.\nMacBook Neo 256GB: $599 (Reg. $699) \nMacBook Neo 512GB with Touch ID: $699 (Reg. $799)\n13",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-vs-air_df70c6.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/26/macbook-air-vs-macbook-neo-buying-guide/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-26T16:05:25.000Z"
+    },
+    {
+      "id": "c34466eee742cf8c",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "id": "32e052c801dd2e7a",
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "description": "HBO’s A Knight of the Seven Kingdoms takes a surprisingly charming approach to Westerosi medievalism. | Image: HBO\t\n\nBlack Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/peter-claffey-dexter-sol-ansell.jpg?quality=90&#038;strip=all&#038;crop=0,0,92.21171875,100",
+      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "id": "a6cb0e1dca09d2cc",
+      "title": "GTA VI developers vote against unionization",
+      "description": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-26T15:55:24.000Z"
+    },
+    {
       "id": "a85db1a2d9b71750",
       "title": "MacBook Air Black Friday Deals Now Live With Massive $399 Savings",
       "description": "Black Friday deals are rolling in today, with as much as $399 off Apple's M5 MacBook Air now available on Amazon. Many of these deals are matching, or beating, the best post-hike prices we've ever seen on the computer.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you c",
@@ -49,259 +294,9 @@
       "source": "MacRumors",
       "category": "Apple News",
       "publishedAt": "2026-11-26T14:00:32.000Z"
-    },
-    {
-      "id": "cfe84c369e3a38fe",
-      "title": "Sketchy suggestion of ceramic iPhone 20 Pro",
-      "description": "A sketchy rumor is doing the rounds suggesting that Apple is working on a ceramic edition of the iPhone 20 Pro. \nThere are no details, and while one concept image shows a ceramic back, this seems a rather unlikely possibility …\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T14:00:25.000Z"
-    },
-    {
-      "id": "11e5b69437072f1e",
-      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-      "description": "The Nintendo Switch 2 remake delivers a complete graphical overhaul and numerous quality-of-life updates to the ‘98 classic. | Image: Nintendo\t\n\nA lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-26T14:00:00.000Z"
-    },
-    {
-      "id": "684cf018061fb5d9",
-      "title": "Samsung’s R95H TV shows what RGB LED is capable of",
-      "description": "Samsung’s premium RGB LED TV has the widest color gamut I’ve measured this year.\t\n\nRGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-26T14:00:00.000Z"
-    },
-    {
-      "id": "adb02d67183fd256",
-      "title": "Here's Why the Apple Store is Going Down",
-      "description": "Apple's online store is going down for a few hours on a rolling country-by-country basis right now, but do not get your hopes up for new products.\r\n\r\n\r\nApple takes its online store down for a few hours ahead of Black Friday every year to tease its annual gift card offer with the purchase of select p",
-      "image": "https://images.macrumors.com/article-new/2021/04/apple-store-down-feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/26/heres-why-the-apple-store-is-going-down/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T13:50:09.000Z"
-    },
-    {
-      "id": "64fdc16a18c3d5dd",
-      "title": "Apple Still Working on Giant Foldable iPad That Could Cost $5,000",
-      "description": "Apple is still developing a large foldable iPad despite ongoing technical challenges and uncertainty about whether it will ever launch, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nSpeaking on the latest episode of the \"Power On\" podcast, Gurman revived discussion about the device, known internally as",
-      "image": "https://images.macrumors.com/article-new/2024/05/m4-iPad-Pro-Horizontal-Feature-Orange-and-Blue.jpg",
-      "url": "https://www.macrumors.com/2026/11/26/apple-still-working-on-giant-foldable-ipad/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T13:08:39.000Z"
-    },
-    {
-      "id": "85cf2c9698d04977",
-      "title": "The Character․AI mess underlines the importance of Apple’s approach to AI privacy",
-      "description": "With most AI chatbots using your interactions as training data, we’ve previously cautioned against sharing sensitive personal details with them, highlighting the much stronger privacy protections offered by Apple. If you ever needed evidence of the importance of this, the Character․ai mess provides ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/The-Character․AI-mess-underlines-the-importance-of-Apples-approach-to-AI-privacy.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/26/the-character%e2%80%a4ai-mess-underlines-the-importance-of-apples-approach-to-ai-privacy/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T12:58:21.000Z"
-    },
-    {
-      "id": "85e5c5a30294ae78",
-      "title": "iPhones Dominate China's Weak Singles' Day Smartphone Sales",
-      "description": "Apple held the top spot in China's smartphone market during the country's Singles' Day shopping festival, despite an 8% year-over-year sales decline, according to Counterpoint Research. The overall market fell 17% across the promotional period, defined as weeks 42–46.\r\n\r\nstrong iPhone 18 Pro sales i",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg",
-      "url": "https://www.macrumors.com/2026/11/26/iphones-dominate-china-singles-day-sales/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T12:55:48.000Z"
-    },
-    {
-      "id": "fdcd29fcc2a9446b",
-      "title": "iPhone 20 Pro Could Feature Ceramic in Limited-Edition Model",
-      "description": "Apple could offer a limited-edition iPhone 20 Pro model that incorporates ceramic, according to the Chinese leaker known as Fixed Focus Digital.\r\n\r\n\r\nIn a post on Weibo, the leaker claimed to have gotten their hands on ceramic components for the 20th-anniversary iPhone, which is expected to launch n",
-      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-      "url": "https://www.macrumors.com/2026/11/26/iphone-20-pro-ceramic-limited-edition-model/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T12:24:29.000Z"
-    },
-    {
-      "id": "cfc2f44fedfe6013",
-      "title": "Best Mac Black Friday deals: $400 off MacBook Air, Neo $100 off, $220 off M6, PROLED, more",
-      "description": "We are moving into Day 6 of the massive Amazon Black Friday sale with many of the best Apple deals of the year. Alongside the wild $100 price drop on AirPods Pro 3 and the new OLED iPad mini at $100 off, we are also catching some even lower MacBook deals headlined by the new M6 Pro at $220 off (All-",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-09.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/26/best-mac-black-friday-deals/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T12:22:23.000Z"
-    },
-    {
-      "id": "12d1fa344a37b363",
-      "title": "X finally gets six parental controls for teen accounts, but kids must consent",
-      "description": "Most social media platforms have long had parental controls to give oversight into the ways teens are using the service and to ensure they get appropriate content in their feeds. X has finally joined the party.\nA parent or guardian now has control over six different aspects of the teen account, thou",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/X-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent.jpg?quality=82&#038;strip=all&#038;w=1400",
-      "url": "https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T12:19:54.000Z"
-    },
-    {
-      "id": "5b0ebe35a42e1049",
-      "title": "Check out this beautiful wallpaper to celebrate the opening of the latest Apple Store",
-      "description": "Apple has quietly announced the upcoming opening of its latest retail store in Hyderabad, India. Located at the Lakeshore Mall in Kukatpally, it opens at 5pm on Thursday, December 10.\nAs is now usual, the company has created some exclusive wallpaper to mark the event, and you can download it for iPh",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Wallpaper-for-Apple-Kukatpally.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/26/check-out-this-beautiful-wallpaper-to-celebrate-the-opening-of-the-latest-apple-store/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T12:03:10.000Z"
-    },
-    {
-      "id": "8ec4df026d94de02",
-      "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-      "description": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test.\nVideo shows the robotaxi attempting to overtake two California Highway Patrol cruisers during a traffic break, a moving v",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/LA_WAYMO-FREEWAY.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-26T12:00:00.000Z"
-    },
-    {
-      "id": "f19b3dc0167adc24",
-      "title": "Proton Pass is up to 60% off for Black Friday, and it does way more than just store your passwords",
-      "description": "There’s a familiar interruption that comes with shopping online: you’ve found what you want, you’re ready to check out, and the store asks you to sign in. Was this the account with your usual password? Did you change it last time? Is it easier to reset it again?\nProton Pass is designed to take that ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/lifestyle-laptop-pass-2048x1365-1.webp?w=1500",
-      "url": "https://9to5mac.com/2026/11/26/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T12:00:00.000Z"
-    },
-    {
-      "id": "cd0c789123d850fb",
-      "title": "Apple Faces Korean Regulator Review Over iPhone 16 AI Advertising",
-      "description": "Apple is facing a formal probe in South Korea over allegations that its iPhone 16 advertising misled consumers about the availability of Apple Intelligence features.\r\n\r\n\r\nInvestigators at the country's Fair Trade Commission (FTC) have referred Apple and Apple Korea for review, alleging that several ",
-      "image": "https://images.macrumors.com/article-new/2024/09/iphone-16-apple-intelligence.jpg",
-      "url": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T11:19:46.000Z"
-    },
-    {
-      "id": "4b9ed987d8e34e05",
-      "title": "Apple Watch Ultra 4 Hits New Best-Ever Price of $649.99 for Black Friday",
-      "description": "The Apple Watch Ultra 4 has dropped to a new all-time low price for Black Friday, available for $649.99 in a few colors, down from $799.00.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us",
-      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-ultra-4-red.jpeg",
-      "url": "https://www.macrumors.com/2026/11/26/apple-watch-ultra-4-new-price/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T11:07:27.000Z"
-    },
-    {
-      "id": "ae0736607af5dba7",
-      "title": "X is finally getting its first parental controls",
-      "description": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spent on X, set daily limits, require approval for ne",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-26T10:45:50.000Z"
-    },
-    {
-      "id": "1c346f7d462cf684",
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "description": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-26T09:54:40.000Z"
-    },
-    {
-      "id": "aaf74a01b0f8a856",
-      "title": "New Apple Store Opening in India, Download the Special Wallpaper Now",
-      "description": "Apple has announced it will be opening an all-new store at the Lake Shore shopping mall in Hyderabad, India on Thursday, December 10 at 5 p.m. local time.\r\n\r\n\r\nApple Kukatpally will be the company's first store in Hyderabad and its seventh in India.\r\n\r\nspecial wallpaper for the Mac, iPad, and iPhone",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Kukatpally-Wallpaper.jpg",
-      "url": "https://www.macrumors.com/2026/11/25/apple-store-kukatpally-hyderabad-india/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T04:17:15.000Z"
-    },
-    {
-      "id": "553437bf920c0f14",
-      "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
-      "description": "Following reports that its characters sent inappropriate messages to minors, Apple has removed the popular Chinese AI companion app Talkie from the App Store. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
-      "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T02:12:24.000Z"
-    },
-    {
-      "id": "20506df111be3cb2",
-      "title": "Wispr Flow improves dictation accuracy with new Canto-2 speech-to-text model",
-      "description": "Popular AI dictation app Wispr Flow is rolling out a new speech-to-text model for Mac, iPhone, and other platforms, promising fewer transcription errors and better recognition of names and technical terms. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/wispr-canto-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-26T00:35:52.000Z"
-    },
-    {
-      "id": "da5f8f00c37d383f",
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "description": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. Howeve",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-26T00:04:34.000Z"
-    },
-    {
-      "id": "5d9c8d695e18f4a3",
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "description": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logist",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-25T23:56:44.000Z"
-    },
-    {
-      "id": "04b2aec26170a8cf",
-      "title": "9to5Mac Daily: November 25, 2026 – CarPlay Ultra update, iPad rumors",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by LiberNovo: If you spend hours at your desk, LiberNovo’s d",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/25/daily-november-25-2026/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-25T23:46:20.000Z"
-    },
-    {
-      "id": "f703872e3cf14b04",
-      "title": "Redesigned OLED MacBook Air Could Launch in 2027 or 2028",
-      "description": "A MacBook Air with a new look could launch in late 2027 or 2028, Bloomberg's Mark Gurman said in the latest episode of his Power On podcast. Apple plans to refresh the ‌MacBook Air‌ with M6 chips in early 2027 alongside the MacBook Neo 2, but that update won't include a new design.\r\n\r\n\r\nA more exten",
-      "image": "https://images.macrumors.com/article-new/2026/11/m5-macbook-air-pink.jpeg",
-      "url": "https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-25T23:30:14.000Z"
-    },
-    {
-      "id": "a6c756173e76b344",
-      "title": "1Password confirms security incident, here’s what you need to know",
-      "description": "Password management platform 1Password today disclosed a security incident in which an attacker gained access to internal systems and stole select customer account information. Here are the details.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/1password-app-icon-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-25T23:30:05.000Z"
     }
   ],
-  "lastUpdated": "2026-11-26T15:53:35.059Z",
+  "lastUpdated": "2026-11-27T01:12:55.856Z",
   "sources": [
     "TechCrunch",
     "The Verge",
