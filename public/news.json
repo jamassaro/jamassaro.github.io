@@ -1,14 +1,113 @@
 {
   "articles": [
     {
-      "id": "d34f2118e9616e64",
-      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
-      "description": "The fan-favorite folding design returns with the comfortable, slightly improved XM4C headphones. | Photo: John Higgins / The Verge\t\n\nInstead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 20",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "id": "7cc1eca532ba775c",
+      "title": "Apple @ Work: Apple quietly fixes the Rosetta problem it created in Golden Gate",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/28/apple-quietly-fixes-the-rosetta-problem-it-created-in-golden-gate/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-28T14:33:00.000Z"
+    },
+    {
+      "id": "5797d8a6af56fcad",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "description": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "source": "TechCrunch",
+      "category": "Tech News",
+      "publishedAt": "2026-11-28T14:00:00.000Z"
+    },
+    {
+      "id": "2f32a2acbe598b07",
+      "title": "The Alexa Photo Frame is the Echo Show without the bits you hate",
+      "description": "The Alexa Photo Frame is a smart speaker disguised as a digital photo frame.﻿ | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nI have to face facts: I'm a digital hoarder. My son graduated high school this year, and to mark the occasion, I made him a scrapbook of his 12 years of school. He loved it,",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/LR6B6927_e6db04.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-28T00:30:00.000Z"
+      "publishedAt": "2026-11-28T14:00:00.000Z"
+    },
+    {
+      "id": "4a18831ff684fa7a",
+      "title": "Almost every great Black Friday deal is still happening this weekend",
+      "description": "Black Friday has passed, but that doesn’t mean you missed out. Far from it. Almost all of the same deals from yesterday are still available, but some retailers plan to end theirs once the clock turns to early Sunday morning. True, expired deals you had your eye on are likely to return for Cyber Mond",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_SATURDAY_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-28T13:57:03.000Z"
+    },
+    {
+      "id": "c1bdad2b584c83f4",
+      "title": "Apple Cyber Monday Weekend deals: AirPods Pro 3 $100 off, MacBook from $599, iPad, AirTags 2, more",
+      "description": "The official Amazon Black Friday sale has now transitioned to the official Cyber Monday Weekend event, and the Apple deals are still soaring. Alongside AirPods Pro 3 at the fantastic $100 off and AirPods Max at $130 off, we also still have the Apple Watch Series 12 lineup at $100 off, the just-relea",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Cyber-Monday-Weekend-Apple-deals-now-live.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/28/best-apple-black-friday-deals-airpods-pro-3-macbook/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-28T13:26:54.000Z"
+    },
+    {
+      "id": "f19b316652507ef5",
+      "title": "Here’s how to make that new Black Friday TV look its best",
+      "description": "TVs can be a lot of money. Make them look their best.\t\n\nIt's the season of great deals on TVs. But once you get a new one home and set it up in your living room, it might not meet expectations when you turn it on. Maybe it's overly bright, or things just look… off. Luckily, there are some easy tweak",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268335_TCL_X11L_TV_JHiggins_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/1042700/change-these-tv-settings",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-28T13:00:00.000Z"
+    },
+    {
+      "id": "18f7f6ae572dc907",
+      "title": "HomePod Mini 2 in (RED) Seemingly Spotted Ahead of Announcement",
+      "description": "The rumored (PRODUCT)RED version of the HomePod mini 2 has seemingly been spotted on display at a few stores before it is announced. The speaker is expected to be released by Tuesday, December 1, which is World AIDS Day.\r\n\r\n\r\nThe photo on the left was initially shared by X user @s_s_s_t_x and later ",
+      "image": "https://images.macrumors.com/article-new/2026/11/HomePod-Mini-2-RED-Photos.jpg",
+      "url": "https://www.macrumors.com/2026/11/27/red-homepod-mini-2-seemingly-spotted/",
+      "source": "MacRumors",
+      "category": "Apple News",
+      "publishedAt": "2026-11-28T03:50:47.000Z"
+    },
+    {
+      "id": "9db13bab2d58e2cf",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "description": "The M5-powered MacBook Air is $300 off in both size configurations for Black Friday. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nIf you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Be",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-28T03:30:00.000Z"
+    },
+    {
+      "id": "f6735268dcee7a0a",
+      "title": "The absolute best Black Friday deals you can still get",
+      "description": "Editor’s note: It’s no longer Black Friday, but given how many great deals are still happening, the shopping holiday didn’t really go away overnight. Still, we’ve focused our attention to a new post, and this one will no longer be updated.\nBlack Friday is nearly over, but many of this year’s best de",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-28T03:28:32.000Z"
+    },
+    {
+      "id": "d96a7fc713e99fc7",
+      "title": "Product(RED) HomePod mini 2 seemingly surfaces ahead of rumored announcement [U]",
+      "description": "Earlier this week, Bloomberg reported that Apple was gearing up to launch Product(RED) versions of select products, including the HomePod mini 2. However, a retail store may have inadvertently put the new model on display ahead of its official announcement. Here are the details.\nmore…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/product-red-render-homepod-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "url": "https://9to5mac.com/2026/11/27/productred-homepod-mini-2-seemingly-surfaces-ahead-of-rumored-announcement/",
+      "source": "9to5Mac",
+      "category": "Apple News",
+      "publishedAt": "2026-11-28T03:07:04.000Z"
+    },
+    {
+      "id": "bc12df41c17c2b95",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "description": "The translucent Beats Studio Buds Plus are down to $89.95, matching their lowest price to date. | Photo: Chris Welch / The Verge\t\n\nBetween holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "source": "The Verge",
+      "category": "Tech News",
+      "publishedAt": "2026-11-28T01:30:00.000Z"
     },
     {
       "id": "8a47d59c1a6a08af",
@@ -41,8 +140,8 @@
       "publishedAt": "2026-11-27T23:53:19.000Z"
     },
     {
-      "id": "0b5675c13a5a0d01",
-      "title": "Roborock, Dreame, and Eufy are cutting robovac prices in half for Black Friday",
+      "id": "f69ccb36ededdb32",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
       "description": "The Eufy Omni C28 has dropped to a new low of $379.99 for Black Friday. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nBlack Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve teste",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
@@ -51,34 +150,14 @@
       "publishedAt": "2026-11-27T23:32:17.000Z"
     },
     {
-      "id": "76035d1e04c991b7",
-      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
-      "description": "Yooka-Laylee and the Impossible Lair: Definitive Edition | Image: Playtronic Games\t\n\nPlaytronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/V1-scaled-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "id": "d34f2118e9616e64",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "description": "The fan-favorite folding design returns with the comfortable, slightly improved XM4C headphones. | Photo: John Higgins / The Verge\t\n\nInstead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 20",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
       "source": "The Verge",
       "category": "Tech News",
-      "publishedAt": "2026-11-27T23:30:32.000Z"
-    },
-    {
-      "id": "6da3c2c9e15766ac",
-      "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
-      "description": "Blade Runner 2049 looks fantastic, even if you pick up the 1080p Blu-ray version. | Image: Alcon Entertainment\t\n\nNo shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9349173/BR-TRL-059_2040.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-27T23:30:00.000Z"
-    },
-    {
-      "id": "21f1da5c1d555e5c",
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "description": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-27T22:43:57.000Z"
+      "publishedAt": "2026-11-27T23:32:00.000Z"
     },
     {
       "id": "64241649fcbe50be",
@@ -89,36 +168,6 @@
       "source": "9to5Mac",
       "category": "Apple News",
       "publishedAt": "2026-11-27T22:30:06.000Z"
-    },
-    {
-      "id": "966b42d2f081bab6",
-      "title": "The new iPad Mini is getting its first major discount for Black Friday",
-      "description": "I’m not saying you should read on an iPad next to fountain. I’m just saying you can. | Photo: David Pierce / The Verge\t\n\nWe were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-27T22:30:00.000Z"
-    },
-    {
-      "id": "03e64e93798ca67b",
-      "title": "Allstate has been suffering an outage since Monday",
-      "description": "But are you in good hands? | Image: Allstate\t\n\nOn Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage in the last few weeks.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/https___www.allstatenewsroom.com_wp-content_uploads_2023_04_Allstate_LobbyAllstateSign_DARKBLUE_CROP.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-27T21:52:42.000Z"
-    },
-    {
-      "id": "b62153d370d87349",
-      "title": "The 25 best gaming deals we’ve found so far for Black Friday",
-      "description": "A discounted one-year subscription to World of Warcraft is among the Black Friday deals. | Image: Blizzard\t\n\nWhile deals on consoles and key PC components are in short supply during Black Friday (or simply not good enough to warrant covering), there are numerous fantastic discounts on video games, a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/World-of-Warcraft-Shaman-keyart.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "url": "https://www.theverge.com/gadgets/1042951/best-black-friday-gaming-deals-ps5-nintendo-2026-sale",
-      "source": "The Verge",
-      "category": "Tech News",
-      "publishedAt": "2026-11-27T21:50:00.000Z"
     },
     {
       "id": "bb841ceefbb785d8",
@@ -151,8 +200,8 @@
       "publishedAt": "2026-11-27T20:40:35.000Z"
     },
     {
-      "id": "3b230787143a7e64",
-      "title": "Apple faces potential $80 million fine and App Store overhaul in Chile",
+      "id": "dbf5f66bd26f0a54",
+      "title": "Apple faces potential $80 million fine and App Store overhaul in Chile [U: Apple responds]",
       "description": "Chile’s national competition authority, Fiscalía Nacional Económica (FNE), has filed an antitrust lawsuit against Apple, accusing the company of abusing its dominant position in iOS app distribution and in-app purchases. Here are the details.\nmore…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
       "url": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/",
@@ -247,60 +296,10 @@
       "url": "https://www.macrumors.com/2026/11/27/the-macrumors-show-iphone-air-2-and-18/",
       "source": "MacRumors",
       "category": "Apple News",
-      "publishedAt": "2026-11-27T17:21:07.000Z"
-    },
-    {
-      "id": "bd9610241c5f47d7",
-      "title": "iPhone Duo Diary: Pros & cons in early real-life use",
-      "description": "I said back at the launch that I was experiencing extreme levels of technolust for the iPhone Duo despite feeling that it wasn’t the best match for me. A hands-on session of around half an hour in an Apple Store didn’t change either impression.\nBut there’s of course no substitute for real-life usage",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-Duo-Diary-–-Pros-cons-in-early-real-life-use.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/27/iphone-duo-diary-pros-cons-in-early-real-life-use/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-27T17:00:00.000Z"
-    },
-    {
-      "id": "47cce71d5e174630",
-      "title": "Apple Store in Brisbane Reopening Next Month With New Design",
-      "description": "Apple has announced that its retail store at the Westfield Chermside shopping mall in Chermside, a suburb of Brisbane, Australia, will be reopening on Friday, December 11 at 9 a.m. local time. The store has been temporarily closed for renovations since late April and will reopen with an updated desi",
-      "image": "https://images.macrumors.com/article-new/2026/11/Wooden-Apple-Logo-Feature.jpg",
-      "url": "https://www.macrumors.com/2026/11/27/apple-chermside-reopening-date/",
-      "source": "MacRumors",
-      "category": "Apple News",
-      "publishedAt": "2026-11-27T16:53:31.000Z"
-    },
-    {
-      "id": "6c91ae1eb8036378",
-      "title": "macOS 27.3 adds three new Mac features, here’s what’s coming",
-      "description": "macOS 27.3 is launching next month alongside iOS 27.3 and more, and it includes a variety of new features for Mac users. Here are three macOS 27.3 features coming soon.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/27/macos-27-3-adds-three-new-features-to-your-mac-heres-whats-coming/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-27T16:53:06.000Z"
-    },
-    {
-      "id": "26a0d97d5b0ee51d",
-      "title": "Black Friday deals: AirPods Pro 3 $100 off, M6 MacBook Pro now $250 off, M5 Air $400 off, Series 12, more",
-      "description": "The official main event Black Friday sales are now live everywhere and the Apple deals are wild at Amazon. Alongside the brilliant deal on AirPods Pro 3 at a wild $100 off, the M5 MacBook Air offers at $400 off, and MacBook Neo models at $100 off, Amazon has also now dropped the price again on the b",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-official-Black-Friday-deals-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/27/apple-black-friday-deals-airpods-macbook-watch/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-27T16:27:22.000Z"
-    },
-    {
-      "id": "8dea6f6992ab6edc",
-      "title": "Apple’s new ‘HomeView’ is exactly the home product I’ve been waiting for",
-      "description": "Apple has launched several exciting new products in the last month, including iPhone Duo and the redesigned MacBook Pro. But my personal favorite new product is Apple’s HomeView. Here’s how I’ve been using it.\nmore…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-facetime.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "url": "https://9to5mac.com/2026/11/27/apples-new-homeview-is-exactly-the-home-product-ive-been-waiting-for/",
-      "source": "9to5Mac",
-      "category": "Apple News",
-      "publishedAt": "2026-11-27T16:14:17.000Z"
+      "publishedAt": "2026-11-27T17:20:55.000Z"
     }
   ],
-  "lastUpdated": "2026-11-28T00:46:27.137Z",
+  "lastUpdated": "2026-11-28T14:38:16.432Z",
   "sources": [
     "TechCrunch",
     "The Verge",
